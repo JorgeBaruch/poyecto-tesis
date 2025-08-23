@@ -2,10 +2,21 @@
 import os
 import subprocess
 import threading
+import uuid # NEW: Import uuid for unique task IDs
+import logging # NEW: Import logging module
+
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query
 from fastapi.responses import PlainTextResponse
 
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
 app = FastAPI()
+
+# NEW: Dictionary to store the status of background tasks
+# Key: task_id (str), Value: { "status": str, "output": list, "error": list, "return_code": int }
+task_statuses = {}
 
 # --- Security ---
 # Get the absolute path of the project root directory.
@@ -23,12 +34,14 @@ def secure_path(path: str) -> str:
     return full_path
 
 # --- Background Task ---
-def run_powershell_script(script_path: str):
-    """Runs a PowerShell script and logs its output."""
+def run_powershell_script(task_id: str, script_path: str): # MODIFIED: Added task_id
+    """Runs a PowerShell script and logs its output, updating task status."""
+    task_statuses[task_id]["status"] = "RUNNING"
     full_script_path = secure_path(script_path)
     command = ["powershell.exe", "-ExecutionPolicy", "Bypass", "-File", full_script_path]
+    
     try:
-        print(f"Starting script: {' '.join(command)}")
+        logger.info(f"Starting script for task {task_id}: {' '.join(command)}")
         process = subprocess.Popen(
             command,
             stdout=subprocess.PIPE,
@@ -38,18 +51,35 @@ def run_powershell_script(script_path: str):
             cwd=PROJECT_ROOT # Run the script from the project root
         )
 
+        stdout_lines = []
+        stderr_lines = []
+
         for line in iter(process.stdout.readline, ''):
-            print(f"SCRIPT STDOUT: {line.strip()}")
+            stdout_lines.append(line.strip())
+            logger.info(f"TASK {task_id} STDOUT: {line.strip()}")
         for line in iter(process.stderr.readline, ''):
-            print(f"SCRIPT STDERR: {line.strip()}")
+            stderr_lines.append(line.strip())
+            logger.warning(f"TASK {task_id} STDERR: {line.strip()}")
 
         process.stdout.close()
         process.stderr.close()
         process.wait()
-        print(f"Script finished with exit code {process.returncode}")
+
+        task_statuses[task_id]["output"] = stdout_lines
+        task_statuses[task_id]["error"] = stderr_lines
+        task_statuses[task_id]["return_code"] = process.returncode
+
+        if process.returncode == 0:
+            task_statuses[task_id]["status"] = "COMPLETED"
+            logger.info(f"Script for task {task_id} finished successfully with exit code {process.returncode}")
+        else:
+            task_statuses[task_id]["status"] = "FAILED"
+            logger.error(f"Script for task {task_id} failed with exit code {process.returncode}")
 
     except Exception as e:
-        print(f"Failed to run script: {e}")
+        task_statuses[task_id]["status"] = "FAILED"
+        task_statuses[task_id]["error"].append(f"Failed to run script: {e}")
+        logger.exception(f"Failed to run script for task {task_id}: {e}")
 
 # --- API Endpoints ---
 @app.get("/")
@@ -61,10 +91,13 @@ async def process_all_files(background_tasks: BackgroundTasks):
     """
     Triggers the full processing pipeline in the background.
     """
-    script_path = "tools/Start-FullProcess.ps1"
-    background_tasks.add_task(run_powershell_script, script_path)
+    task_id = str(uuid.uuid4()) # NEW: Generate a unique task ID
+    task_statuses[task_id] = {"status": "PENDING", "output": [], "error": [], "return_code": None} # NEW: Initialize task status
     
-    return {"message": "Proceso completo iniciado en segundo plano. Revise la consola del servidor para ver el progreso."}
+    script_path = "tools/Start-FullProcess.ps1"
+    background_tasks.add_task(run_powershell_script, task_id, script_path) # MODIFIED: Pass task_id
+    
+    return {"message": "Proceso completo iniciado en segundo plano.", "task_id": task_id} # MODIFIED: Return task_id
 
 @app.get("/files")
 def list_files(directory: str = Query(..., description="Directorio a listar, relativo a la raíz del proyecto.")):
