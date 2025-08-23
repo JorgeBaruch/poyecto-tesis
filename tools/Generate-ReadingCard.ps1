@@ -1,19 +1,19 @@
 <#
 .SYNOPSIS
-    (v1.0) Genera una ficha de lectura en formato Markdown a partir de un archivo PDF.
+    (v1.1) Genera una ficha de lectura en formato Markdown a partir de un archivo fuente.
 .DESCRIPTION
     Este script crea una nueva ficha de lectura en la carpeta '01_FICHAS_DE_LECTURA'.
-    Toma la ruta de un archivo PDF como entrada, extrae su nombre para usarlo como título
-    y genera un archivo .md con metadatos pre-rellenados en formato YAML, listo para ser completado.
-.PARAMETER PdfPath
-    La ruta completa al archivo PDF de origen que se encuentra en la carpeta '00_FUENTES'.
+    Toma la ruta de un archivo fuente (PDF, DOCX, etc.) como entrada, extrae su nombre
+    y genera un archivo .md con metadatos pre-rellenados, listo para ser completado.
+.PARAMETER SourcePath
+    La ruta completa al archivo de origen que se encuentra en la carpeta '00_FUENTES'.
 .EXAMPLE
-    .\Generate-ReadingCard.ps1 -PdfPath "ruta\a\su\documento.pdf"
+    .\Generate-ReadingCard.ps1 -SourcePath "ruta\a\su\documento.pdf"
 #>
 
 param(
   [Parameter(Mandatory = $true)]
-  [string]$PdfPath
+  [string]$SourcePath
 )
 
 
@@ -41,15 +41,15 @@ function Write-Log {
 
 # --- 1. Validación de Rutas y Nombres ---
 
-# Validar que el archivo PDF de entrada exista
-if (-not (Test-Path -Path $PdfPath -PathType Leaf)) {
-  Write-Error "El archivo PDF especificado no existe en la ruta: $PdfPath"
-  Write-Log "El archivo PDF especificado no existe: $PdfPath" "ERROR"
+# Validar que el archivo de entrada exista
+if (-not (Test-Path -Path $SourcePath -PathType Leaf)) {
+  Write-Error "El archivo fuente especificado no existe en la ruta: $SourcePath"
+  Write-Log "El archivo fuente especificado no existe: $SourcePath" "ERROR"
   exit 1
 }
 
-# Extraer el nombre base del archivo PDF (sin extensión)
-$baseName = [System.IO.Path]::GetFileNameWithoutExtension($PdfPath)
+# Extraer el nombre base del archivo (sin extensión)
+$baseName = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath)
 
 # Construir el nombre del archivo de la ficha de lectura
 $fichaFileName = "${baseName}_ficha.md"
@@ -64,9 +64,8 @@ $outputPath = Join-Path -Path $outputDir -ChildPath $fichaFileName
 
 # Validar que no exista ya una ficha con el mismo nombre
 if (Test-Path -Path $outputPath) {
-  Write-Error "Ya existe una ficha de lectura para este archivo: $outputPath"
-  Write-Log "Intento de sobrescribir ficha existente: $outputPath" "WARNING"
-  exit 1
+  # Silently exit if the card already exists. This is expected behavior for the orchestrator.
+  exit 0
 }
 
 # --- 2. Generación de Metadatos ---
@@ -80,8 +79,8 @@ $titulo = $baseName -replace '_', ' ' -replace '-', ' '
 # Obtener la fecha actual en formato ISO 8601
 $fechaLectura = Get-Date -Format "yyyy-MM-dd"
 
-# Normalizar la ruta del PDF para que sea relativa al proyecto
-$fuentePdf = $PdfPath.Replace($projectRoot + '\', '') -replace '\\', '/'
+# Normalizar la ruta del fuente para que sea relativa al proyecto
+$fuentePath = $SourcePath.Replace($projectRoot + '\', '') -replace '\\', '/'
 
 # --- 3. Creación del Contenido de la Ficha ---
 
@@ -91,7 +90,7 @@ id: "$id"
 # --- Metadatos Básicos ---
 titulo_original: "$titulo"
 autor: "(Por definir)"
-fuente_pdf: "$fuentePdf"
+fuente_original: "$fuentePath"
 fecha_lectura: "$fechaLectura"
 estado: "Pendiente"
 

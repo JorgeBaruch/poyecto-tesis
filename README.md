@@ -1,11 +1,11 @@
 # Proyecto de Tesis: Extracción y Análisis de Citas
 
-Este repositorio contiene las herramientas y el flujo de trabajo para la extracción, procesamiento y análisis de citas de diversas fuentes documentales para un proyecto de tesis. Su objetivo es transformar documentos PDF en información estructurada y analizable.
+Este repositorio contiene las herramientas y el flujo de trabajo para la extracción, procesamiento y análisis de citas de diversas fuentes documentales para un proyecto de tesis. Su objetivo es transformar documentos PDF, DOCX y TXT en información estructurada y analizable.
 
 ## Estructura del Proyecto
 
-- `00_FUENTES/`: Documentos PDF originales.
-- `00_FUENTES_PROCESADAS/`: Versiones en texto plano de los documentos PDF.
+- `00_FUENTES/`: Documentos fuente originales (PDF, DOCX, TXT).
+- `00_FUENTES_PROCESADAS/`: Versiones en texto plano de los documentos.
 - `01_FICHAS_DE_LECTURA/`: Fichas de lectura y resúmenes en formato Markdown.
 - `02_MAPAS_Y_ESQUEMAS/`: Mapas conceptuales y esquemas de síntesis.
 - `03_BORRADORES/`: Borradores y secciones en desarrollo de la tesis.
@@ -22,41 +22,41 @@ Para procesar todos los documentos del proyecto, simplemente ejecute el script o
 ```
 
 Este comando se encargará de todo el proceso de forma automática:
-1.  **Convertirá** los PDFs nuevos a texto.
+1.  **Importará y convertirá** todas las fuentes soportadas (PDF, DOCX, TXT) a texto plano.
 2.  **Extraerá** las citas de los textos procesados.
 3.  **Generará** las fichas de lectura para los documentos que no la tengan.
 
 ## Dependencias y Configuración
 
-### 1. Poppler (pdftotext)
+El sistema depende de herramientas externas para la conversión de documentos. Se configuran principalmente a través del archivo `config/analysis.json`.
 
-La herramienta `pdftotext` es esencial para convertir los documentos PDF a texto. El sistema es flexible y puede encontrar el ejecutable de varias maneras, en el siguiente orden de prioridad:
+### 1. Poppler (para PDFs)
 
-#### Opción 1: Configuración Central (Recomendado)
+La herramienta `pdftotext` es esencial para convertir los documentos PDF a texto.
 
-Es el método más robusto y portable.
-1.  Abra el archivo `config/analysis.json`.
-2.  Modifique la clave `pdftotextPath` para que apunte a la ubicación de su ejecutable `pdftotext.exe`. Use barras inclinadas hacia adelante (`/`).
+**Instalación:** `winget install Poppler.Poppler` o descarga manual.
 
-    ```json
-    {
-      "pdftotextPath": "C:/ruta/a/poppler/bin/pdftotext.exe",
-      "stopWords": [...],
-      "conceptMapping": {...}
-    }
-    ```
+**Configuración:** Después de instalar, configure la ruta al ejecutable en `config/analysis.json`:
 
-#### Opción 2: Parámetro de Script
+```json
+{
+  "pdftotextPath": "C:/ruta/a/poppler/bin/pdftotext.exe",
+  "pandocPath": "C:/ruta/a/pandoc/pandoc.exe",
+  "stopWords": [...],
+  "conceptMapping": {...}
+}
+```
+El script `Import-Source.ps1` también buscará la herramienta en el PATH del sistema si la ruta en el archivo de configuración no es válida.
 
-Puede pasar la ruta al ejecutable directamente al script `Convert-PdfToText.ps1` usando el parámetro `-PdftotextExecutablePath`. Esto sobrescribirá la ruta del archivo de configuración.
+### 2. Pandoc (para DOCX)
 
-#### Opción 3: Variable de Entorno (PATH)
+La herramienta `pandoc` se utiliza para convertir documentos de Word (`.docx`) a texto plano.
 
-Si las opciones anteriores no se utilizan, el script buscará `pdftotext.exe` en el `PATH` de su sistema. Para que esto funcione, debe añadir la carpeta `bin` de su instalación de Poppler a las variables de entorno de Windows.
+**Instalación:** `winget install Pandoc.Pandoc` o descargue el instalador desde el sitio web oficial de Pandoc.
 
-**Instalación de Poppler:** Si no tiene Poppler, puede instalarlo usando `winget install Poppler.Poppler` o descargándolo manualmente.
+**Configuración:** Al igual que con Poppler, la ruta al ejecutable de `pandoc` debe especificarse en `config/analysis.json`, como se muestra en el ejemplo anterior.
 
-### 2. Python
+### 3. Python
 
 Algunos scripts de análisis requieren Python. Se recomienda usar un entorno virtual.
 
@@ -66,6 +66,4 @@ Algunos scripts de análisis requieren Python. Se recomienda usar un entorno vir
 
 ## Git Hooks
 
-El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio (`.git/hooks/pre-commit`) y debería funcionar sin necesidad de configuración manual.
-
-Cada vez que realice un `git commit` de un archivo en `03_BORRADORES/`, el hook se ejecutará para asegurar que el archivo sigue la convención de nombrado de versiones (ej. `nombre_v1.md`).
+El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio y funciona sin necesidad de configuración manual.
