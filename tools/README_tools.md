@@ -7,6 +7,7 @@ This folder contains scripts and utilities to automate various tasks related to 
 ```
 tools/
 ├── Analyze-Frequency.ps1
+├── analyze_topics.py
 ├── Convert-PdfToText.ps1
 
 ├── Generate-ConceptIndex.ps1
@@ -36,6 +37,7 @@ tools/
 These scripts provide additional functionalities for project management and analysis:
 
 *   **`Analyze-Frequency.ps1`**: Analyzes word frequency or other textual patterns.
+*   **`analyze_topics.py`**: Performs topic modeling using TF-IDF and NMF to identify underlying themes and key terms in text documents.
 *   **`Generate-ReadingCard.ps1`**: Generates structured reading cards from processed texts.
 *   **`Generate-ConceptIndex.ps1`**: Creates an index of key concepts.
 *   **`Generate-StrategicSynthesis.ps1`**: Generates strategic synthesis documents.
