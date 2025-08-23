@@ -33,16 +33,34 @@ param(
 
 # --- [SETUP] ---
 $OutputEncoding = [Console]::OutputEncoding = [System.Text.UTF8Encoding]::new($false)
-$LogFile = "import_source.log"
 $scriptRoot = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
 $configPath = Join-Path -Path $scriptRoot -ChildPath "..\config\analysis.json"
+$config = Get-Content -Path $configPath -Raw | ConvertFrom-Json -ErrorAction SilentlyContinue
+$logBaseDir = Join-Path -Path (Split-Path -Parent -Path $scriptRoot) -ChildPath ($config.logPath -replace "[/\]", [System.IO.Path]::DirectorySeparatorChar)
+if (-not (Test-Path -Path $logBaseDir -PathType Container)) {
+    New-Item -Path $logBaseDir -ItemType Directory -Force | Out-Null
+}
+$LogFile = Join-Path -Path $logBaseDir -ChildPath "import_source.log"
 
 # --- [HELPER FUNCTIONS] ---
 function Write-Log {
     param([string]$Message, [string]$Level = "INFO")
     $timestamp = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'
     $logEntry = "$timestamp [$Level] $Message"
-    Add-Content -Path $LogFile -Value $logEntry -Encoding UTF8 -ErrorAction SilentlyContinue
+    $maxRetries = 5
+    $retryDelayMs = 200
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            Add-Content -Path $LogFile -Value $logEntry -Encoding UTF8
+            break
+        } catch {
+            if ($attempt -eq $maxRetries) {
+                Write-Warning "No se pudo escribir en el log tras $maxRetries intentos: $logEntry"
+            } else {
+                Start-Sleep -Milliseconds $retryDelayMs
+            }
+        }
+    }
 }
 
 function Get-ExecutablePath {
