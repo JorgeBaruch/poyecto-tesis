@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Tesis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gestor de Tesis</h1>
+        <button id="processAllBtn">Iniciar Proceso Completo</button>
+    </header>
+    <main>
+        <section id="file-navigation">
+            <h2>Archivos del Proyecto</h2>
+            <div class="folder-list">
+                <button data-path="00_FUENTES">Fuentes Originales</button>
+                <button data-path="00_FUENTES_PROCESADAS">Fuentes Procesadas</button>
+                <button data-path="01_FICHAS_DE_LECTURA">Fichas de Lectura</button>
+                <button data-path="97_CITAS">Citas Extraídas</button>
+            </div>
+            <ul id="file-list"></ul>
+        </section>
+        <section id="file-viewer">
+            <h2>Contenido del Archivo</h2>
+            <pre id="file-content"></pre>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

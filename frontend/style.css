@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+main {
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+section {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#file-navigation {
+    flex: 1;
+    min-width: 300px;
+}
+
+#file-viewer {
+    flex: 2;
+    min-width: 400px;
+}
+
+.folder-list button {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    background-color: #6c757d;
+}
+
+.folder-list button:hover {
+    background-color: #5a6268;
+}
+
+#file-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+    max-height: 600px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#file-list li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+#file-list li:last-child {
+    border-bottom: none;
+}
+
+#file-list li:hover {
+    background-color: #e9ecef;
+}
+
+#file-content {
+    background-color: #e9ecef;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 700px;
+    overflow-y: auto;
+}

@@ -12,6 +12,8 @@ Este repositorio contiene las herramientas y el flujo de trabajo para la extracc
 - `97_CITAS/`: Citas extraídas y organizadas por autor, año y categoría.
 - `99_META/`: Metadocumentación del proyecto (arquitectura, decisiones, vocabulario).
 - `tools/`: Scripts y utilidades para automatizar el flujo de trabajo.
+- `api/`: Contiene la API de backend en Python.
+- `frontend/`: Contiene los archivos de la interfaz de usuario web (HTML, CSS, JS).
 
 ## Flujo de Trabajo Automatizado
 
@@ -68,11 +70,11 @@ Algunos scripts de análisis requieren Python. Se recomienda usar un entorno vir
 
 El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio y funciona sin necesidad de configuración manual.
 
-## Interfaz de Usuario y API (En Desarrollo)
+## Interfaz de Usuario y API
 
-Para facilitar la interacción con el proyecto, se está desarrollando una interfaz de usuario web. Esta interfaz se comunica con una API de backend local.
+Para facilitar la interacción con el proyecto, se ha desarrollado una interfaz de usuario web que se comunica con una API de backend local.
 
-### Cómo ejecutar la API
+### Cómo ejecutar la API y la Interfaz
 
 1.  **Asegúrese de tener las dependencias de Python instaladas.** Si es la primera vez o si el archivo `requirements.txt` ha cambiado, ejecute:
     ```bash
@@ -81,7 +83,8 @@ Para facilitar la interacción con el proyecto, se está desarrollando una inter
 
 2.  **Inicie el servidor de la API.** Desde la carpeta raíz del proyecto, ejecute el siguiente comando:
     ```bash
-    uvicorn api.main:app --reload
+    uvicorn api.main:app --reload --app-dir .
     ```
+    *Nota: El parámetro `--app-dir .` es importante para que `uvicorn` sirva correctamente los archivos estáticos del frontend.*
 
-3.  **Abra la interfaz.** Una vez que el servidor esté en funcionamiento, podrá acceder a la interfaz de usuario desde su navegador en la dirección `http://127.0.0.1:8000`.
+3.  **Abra la interfaz.** Una vez que el servidor esté en funcionamiento, podrá acceder a la interfaz de usuario desde su navegador en la dirección `http://127.0.0.1:8000/frontend/index.html`.
