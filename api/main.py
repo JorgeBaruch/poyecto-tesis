@@ -4,12 +4,36 @@ import subprocess
 import threading
 import uuid # NEW: Import uuid for unique task IDs
 import logging # NEW: Import logging module
+import json # NEW: Import json for reading config
 
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query
 from fastapi.responses import PlainTextResponse
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+log_file_path = os.path.join(PROJECT_ROOT, 'config', 'analysis.json')
+log_config = {}
+try:
+    with open(log_file_path, 'r', encoding='utf-8') as f:
+        # Remove comments before parsing JSON
+        content = ''.join(line for line in f if not line.strip().startswith('//'))
+        log_config = json.loads(content)
+except FileNotFoundError:
+    logging.error(f"Error: analysis.json not found at {log_file_path}")
+except json.JSONDecodeError as e:
+    logging.error(f"Error decoding analysis.json: {e}")
+
+log_directory = os.path.join(PROJECT_ROOT, log_config.get('logPath', 'logs/'))
+os.makedirs(log_directory, exist_ok=True)
+log_file = os.path.join(log_directory, 'api.log')
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(), # Log to console
+        logging.FileHandler(log_file) # Log to file
+    ]
+)
 logger = logging.getLogger(__name__)
 
 app = FastAPI()
