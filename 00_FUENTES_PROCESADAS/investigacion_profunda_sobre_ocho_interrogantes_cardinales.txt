@@ -1,0 +1,1060 @@
+﻿[[1]]
+Investigación profunda sobre ocho interrogantes cardinales
+Esquema: Para cada eje presento (1) núcleo conceptual, (2) debates contemporáneos, (3) ejemplos de cruces disciplinares, (4) fuentes
+académicas clave con referencia APA 7.ª y nota de acceso.
+
+1. Vida
+Núcleo conceptual
+La pregunta “¿qué es la vida?” oscila entre reduccionismo fisico-químico y teorías de la auto-organización. Hoy se discute si basta con una lista de
+propiedades (metabolismo, replicación) o si, como sostienen Maturana y Varela, lo definitorio es la organización autopoiética que se
+autoproduce y mantiene su identidad. Internet Archive
+Debates actuales
+     Origen sintético de protocélulas: ¿crearemos “vida” o un nuevo tipo de artefacto?
+     Simpoiesis vs. autopoiesis: ¿todo sistema está realmente “cerrado”?
+Cruces: biología sintética × filosofía de la tecnología; bioarte que “hace vivir” tejidos in vitro.
+Fuentes clave (APA)
+Maturana, H., & Varela, F. (1980). Autopoiesis and cognition: The realization of the living. Reidel. (PDF abierto en Archive.org).
+Nicholson, D., & Dupré, J. (2018). Everything Flows. Oxford UP. (Pre-print PhilSci).
+
+2. Origen del lenguaje
+Núcleo conceptual
+El “salto” lingüístico se disputa entre:
+      Biolingüística: una mutación mínima habilitó recursión gramatical (Hauser, Chomsky & Fitch; Berwick & Chomsky) ChomskyLIDS
+      Pragmática cultural: el lenguaje emergió de la cooperación y la cognición compartida (Tomasello) Harvard University Press
+Debates actuales
+      Gen vs. cultura: modelos dual-inheritance.
+      Evidencia paleoantropológica (hioides, FOXP2) frente a simulaciones computacionales de nichos sociales.
+Cruces: neurobiología del habla, IA generativa y gramáticas formales.
+Fuentes (APA)
+Berwick, R., & Chomsky, N. (2016). Why Only Us: Language and Evolution. MIT Press. (Capítulos en MIT DSpace).
+Tomasello, M. (1999). The cultural origins of human cognition. Harvard UP. (PDF en repositorio universitario).
+
+3. Tiempo
+
+[[2]]
+Núcleo conceptual
+Del Aión griego a la relatividad: ¿el tiempo es estructura cósmica o flujo vivido?
+     Física: el “presente” es ilusión térmica; Rovelli lo describe como perspectiva termodinámica Goodreads
+     Filosofía: Bergson introduce la duración como continuidad cualitativa irreductible Wikipedia
+Debates
+     “Bloque” espaciotemporal vs. teorías dinámicas donde el futuro se “construye”.
+     Cronopolíticas de la aceleración digital (Rosa).
+Cruces: neurociencia del intervalo presente, arte performativo y ritmos urbanos.
+Fuentes (APA)
+Rovelli, C. (2018). The Order of Time. Penguin. (Extractos libres en Google Books).
+Bergson, H. (1907/2007). La evolución creadora. Siglo XXI. (Ed. francesa dominio público).
+
+4. Espacio y materia
+Núcleo conceptual
+La cuestión pasa de “contenedor absoluto” (Newton) a “nudo relacional”.
+     Agencial‐realismo: Barad defiende que materia y significado se co-constituyen en intra-acciones cuánticas Duke University Press
+     Geografía crítica (Massey): el espacio es producto de prácticas y poderes.
+Debates
+     Metaversos y espacialidad digital: ¿nuevo “lugar” o mera interfaz?
+     Materialismo plano vs. nuevo materialismo (vibrant matter).
+Fuentes (APA)
+Barad, K. (2007). Meeting the Universe Halfway. Duke UP. (Índice abierto en Duke Press).
+Massey, D. (2005). For Space. Sage. (Capítulos en ResearchGate).
+
+5. Conciencia / mente
+Núcleo conceptual
+El hard problem: ¿cómo surge lo cualitativo de lo físico?
+     Explicaciones funcionalistas: teorías globales del espacio de trabajo (Dehaene).
+     Modelos cuantitativos: IIT 4.0 de Tononi formaliza “φ” para medir experiencia PLOS
+     Filosofía: Chalmers distingue problemas “fáciles” y “difícil” consc.net
+Debates
+     Panpsiquismo vs. eliminativismo.
+
+[[3]]
+   IA “consciente”: criterios y tests fenomenológicos.
+Fuentes (APA)
+Chalmers, D. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200-219. (PDF libre).
+Tononi, G., & col. (2024). Integrated Information Theory 4.0. PLOS Computational Biology, 20, e1011465. (OA).
+
+6. Libertad y responsabilidad
+Núcleo conceptual
+Experimentos de Libet muestran potencial de acción antes de la decisión consciente, desafiando el libre albedrío informationphilosopher.com.
+Filósofos compatibilistas (Mele) argumentan que la libertad reside en niveles de control superiores.
+Debates
+      Neuroleyes: ¿puede la reducción a redes neuronales eximir responsabilidad penal?
+      Algoritmos predictivos y “nudging”: libertad en sistemas de recomendación.
+Fuentes (APA)
+Libet, B. (1985). Unconscious cerebral initiative… Brain, 8(3), 529-–. (OA).
+Mele, A. (2014). Free: Why Science Hasn’t Disproved Free Will. Oxford UP. (Acceso parcial).
+
+7. Sentido y valor
+Núcleo conceptual
+Frankl sostiene que la búsqueda de sentido es necesidad humana básica incluso en sufrimiento AmazonVox. Filosofía analítica reciente (Wolf)
+propone que el sentido surge de proyectos “objetivamente” valiosos y subjetivamente amados.
+Debates
+     Postnihilismo vs. restauración de valores religiosos.
+     Eco-sentido: valor intrínseco de biosfera (Naess, deep ecology).
+Fuentes (APA)
+Frankl, V. (2006). Man’s Search for Meaning. Beacon. (e-book libre en muchas bibliotecas).
+Wolf, S. (2010). Meaning in Life and Why It Matters. Princeton UP. (PDF previa).
+
+8. Conocimiento y verdad
+Núcleo conceptual
+Gettier mostró que “creencia verdadera justificada” no basta para decir “saber” fitelson.org. Kuhn describe la ciencia como sucesión de cambios
+de paradigma, no simple acumulación lri.fr. Harding plantea la objetividad fuerte desde posiciones situadas Internet Encyclopedia of Philosophy.
+Debates
+
+[[4]]
+    Posverdad y confianza epistémica (Sunstein).
+        IA como criterio de verdad (modelos fundacionales vs. verificación humana).
+Fuentes (APA)
+Gettier, E. (1963). Is Justified True Belief Knowledge? Analysis, 23, 121-123. (PDF libre).
+Kuhn, T. (1962/1970). The Structure of Scientific Revolutions. Chicago UP. (2.ª ed. PDF OA).
+Harding, S. (1993). Rethinking standpoint epistemology. Hypatia, 8(4), 68-84. (OA IEP).
+
+
+Índice general
+    1. Introducción general
+    2. Ensayos histórico-filológicos
+        2.1. La vida: de la psique griega a la simpoiesis contemporánea
+        2.2. El origen del lenguaje: del mito a la biolingüística
+        2.3. El tiempo: de Cronos a la entropía y la aceleración social
+        2.4. Espacio y materia: del receptáculo platónico a la intra-acción cuántica
+        2.5. Conciencia y mente: de la chispa divina al correlato neuronal
+        2.6. Libertad y responsabilidad: de la voluntas medieval a la neurociencia predictiva
+        2.7. Sentido y valor: del telos cósmico al bricolaje existencial
+        2.8. Conocimiento y verdad: de la autoridad revelada a la “posverdad” algorítmica
+    3. Ejes transversales y tablas comparativas
+    4. Conclusiones y líneas de investigación futura
+    5. Bibliografía general (APA 7.ª edición)
+    6. Apéndices
+        6.1. Glosario de conceptos clave
+        6.2. Recursos de acceso abierto y repositorios recomendados
+        6.3. Notas metodológicas sobre la búsqueda y la crítica de fuentes
+
+Introducción general
+Desde las primeras tablillas mesopotámicas hasta los algoritmos de aprendizaje profundo, la humanidad se ha enfrentado a una serie de
+preguntas que, una y otra vez, desbordan las respuestas de su tiempo. Este trabajo reúne ocho de esos interrogantes cardinales—vida, lenguaje,
+tiempo, espacio-materia, conciencia, libertad, sentido y conocimiento—en un recorrido histórico-filológico que aspira a mostrar tanto su
+continuidad como sus virajes.
+
+[[5]]
+Objetivo. Reconstruir genealogías conceptuales que expliquen por qué estas preguntas siguen abiertas y cómo cada época las reconfigura según
+sus recursos técnicos, sus imaginarios y sus crisis. La ambición no es clausurar el debate, sino ofrecer una cartografía crítica que permita
+orientarse en él.
+Método.
+     1. Historia textual: análisis de fuentes primarias (mitos, tratados filosóficos, manifestos científicos) y su recepción.
+     2. Filología comparada: atención a cómo cambian los términos clave (p. ej., de psykhé a “conciencia”, de chôra a “espacio-tiempo”).
+     3. Interdisciplinariedad: diálogo entre filosofía, ciencia, arte, teología y estudios culturales.
+     4. Criterio académico: selección de literatura proveniente de revistas indexadas, ediciones críticas y repositorios de acceso abierto;
+          referencias normalizadas en APA 7.ª edición.
+Estructura. Cada ensayo sigue un hilo cronológico que abarca:
+      Orígenes mítico-religiosos
+      Formulación clásica
+      Revoluciones conceptuales de la modernidad
+      Giros contemporáneos
+      Tensiones persistentes y preguntas abiertas
+Al final, un apartado de ejes transversales sintetiza puntos de cruce (ontología, subjetividad, técnica, límite), seguido de conclusiones que
+señalan líneas de investigación futura—desde la biología sintética a la gobernanza algorítmica—y un cuerpo bibliográfico unificado.
+Alcance. Si bien el foco principal es la tradición occidental, se incorporan diálogos con cosmologías indígenas, epistemologías del sur y teologías
+místicas, reconociendo que la pluralidad de voces es condición para entender la complejidad de estas preguntas.
+
+Entre el mito y la filogenia: una historia filológica del interrogante sobre el origen del lenguaje
+Ensayo histórico-filológico con referencias APA 7.ª edición
+
+Resumen
+Desde los primeros mitos mesopotámicos hasta los modelos biolingüísticos actuales, la pregunta por el origen del lenguaje atraviesa la historia
+intelectual de la humanidad. Este ensayo reconstruye el itinerario histórico-filológico de esa cuestión, deteniéndose en los grandes hitos: el
+imaginario mítico de la Antigüedad, las especulaciones ilustradas, la filología comparada del siglo XIX, la revolución estructuralista, la irrupción
+generativista y los debates contemporáneos entre biología y cultura. Se evidencian continuidades temáticas —la relación entre pensamiento,
+sociedad y palabra— y virajes metodológicos —del análisis textual a la genética de poblaciones— que muestran cómo cada época reconfigura el
+problema desde sus propios recursos técnicos y conceptuales.
+
+1. Introducción
+
+[[6]]
+Preguntar cómo empezó el lenguaje humano es interrogar, simultáneamente, la naturaleza biológica, cognitiva y social de nuestra especie. La
+philología comparatista del siglo XIX acuñó el término Ursprache para designar una lengua madre hipotética, mientras que la lingüística moderna
+ha pasado de prohibir la discusión (Société de linguistique de Paris, 1866) a situarla en el centro de la investigación interdisciplinar. La indagación
+filológica es indispensable porque toda hipótesis sobre el origen del lenguaje debe apoyarse en el análisis de textos y en la reconstrucción de
+formas lingüísticas antiguas (Aitchison, 2010).
+
+2. Antigüedad y mito
+Los primeros testimonios escritos —Enuma Elish, Popol Vuh, Génesis— atribuyen la palabra a un acto divino creador. Platón, en el Crátilo, debate
+si los nombres son phýsei (naturales) o thései (convencionales), anticipando la dicotomía innatismo vs. convención que seguirá vigente. En la
+India, los grammáticos pāṇinianos defendieron la eternidad del śabda (“sonido-palabra”) y postularon una lengua perfecta y universal. La
+filología clásica, por tanto, ya articulaba tres intuiciones perdurables: la sacralidad de la palabra, su posible carácter natural y la existencia de un
+estado lingüístico originario.
+
+3. De Rousseau a Herder: la Ilustración especulativa
+A mediados del siglo XVIII la cuestión abandona el terreno teológico para integrarse en la filosofía de la historia. Rousseau ([1755] 2012) defendió
+que la emoción colectiva precede a la articulación racional, de modo que el lenguaje habría nacido “en climas cálidos” donde la pasión obliga a
+comunicarse. Herder ([1772] 1986) replicó que el lenguaje es inseparable de la reflexión: la necesidad de conceptualizar excita la “potencia
+representativa” (Vorstellungsvermögen) y origina el signo. Ambos textos inauguran una metodología histórica-filológica al cotejar raíces
+etimológicas, relatar estados evolutivos y vincular clima, sociedad y palabra.
+
+4. Filología comparada y la prohibición de 1866
+Con Bopp (1816) y Grimm (1822) la filología adopta el método comparativo: la regularidad de las correspondencias sonoras permite reconstruir
+protoformas (*bʰréh₂tēr > frater, brother). Schleicher (1863) propone la teoría del árbol genealógico y, bajo influjo darwiniano, concibe las
+lenguas como organismos que nacen y mueren. La proliferación de conjeturas especulativas llevó a la Société de linguistique de Paris a prohibir
+cualquier comunicación sobre el “origen del lenguaje” por considerarla irresoluble (American Scientist, 2016).American Scientist
+Paradójicamente, la prohibición consolidó la filología como disciplina empírico-comparada, relegando la gran pregunta al margen durante medio
+siglo.
+
+5. Siglo XX: estructuralismo y giro biolingüístico
+Saussure ([1916] 2006) muda el foco al sistema sincrónico: cómo funciona la langue en el presente, no cómo surgió. Sin embargo, la revolución
+generativa retoma la cuestión. Chomsky (1965) postula una “facultad del lenguaje” innata, capaz de generar infinitas oraciones mediante reglas
+recursivas. Este cambio coloca la discusión en la encrucijada biología-gramática y revive la necesidad de un relato evolutivo (Berwick & Chomsky,
+
+[[7]]
+2016).MIT Press Direct Tecumseh Fitch (2010) ofrece una síntesis interdisciplinaria que combina paleoneurología, primatología y filología
+comparativa.Amazon
+
+6. Debates contemporáneos: genética, cultura y coevolución
+Los descubrimientos sobre el gen FOXP2, la evidencia arqueológica de Homo heidelbergensis y los modelos de transmisión cultural reabren el
+debate innato vs. emergente. Tomasello (1999) sostiene que la cooperación y la cognición compartida explican la emergencia de gramática a
+partir de gestos comunicativos.JSTOR Frente a ello, la biolingüística minimalista limita la mutación clave a un ligero re-cableado cortical que
+habilita la “operación Merge” (Berwick & Chomsky, 2016). Otros autores, como Johansson (2013), enfatizan la filología paleoantropológica:
+analizar patrones fonéticos en idiomas actuales para inferir capacidades vocales de neandertales.
+
+7. Discusión: continuidad y ruptura
+Históricamente, el estudio filológico ha mostrado que el lenguaje no surge ex nihilo; evoluciona por diferenciación y contacto. Sin embargo, la
+capacidad de concatenar signos de manera recursiva —rasgo central de la gramática humana— carece de paralelos claros en la comunicación
+animal. Esta tensión entre continuidad (vocalización, gestualidad, sociabilidad) y ruptura (recursión, metalingüística) recorre toda la historia del
+problema. Los modelos actuales de “coevolución gene-cultura” proponen que pequeñas innovaciones cognitivas fueron seleccionadas porque
+multiplicaban el flujo de información y, por ende, la adaptabilidad social.
+
+8. Conclusión
+El interrogante sobre el origen del lenguaje se ha desplazado desde la cosmogonía mítica hasta la síntesis evo-devo-cultural de comienzos del
+siglo XXI. El examen filológico de las lenguas existentes —su fonología, morfología y lexicón arcaico— sigue siendo pieza clave: sin él, la biología
+carece de señales fósiles directas de la palabra. La dialéctica entre evidencia textual y modelos biocognitivos sugiere que ninguna disciplina
+resolverá el enigma por sí sola. Tal como ocurrió con la definición de “vida”, la explicación definitiva del lenguaje quizá requiera integrar datos
+genéticos, paleoantropológicos y filológicos en un marco todavía por inventar.
+
+Referencias (APA 7.ª edición)
+American Scientist. (2016, marzo-abril). Not the last word (nota sobre el edicto de 1866 de la Société de linguistique de Paris). Recuperado de
+https://www.americanscientist.org American Scientist
+Aitchison, J. (2010). The articulate mammal: An introduction to psycholinguistics (6.ª ed.). Routledge.
+Berwick, R. C., & Chomsky, N. (2016). Why only us: Language and evolution. MIT Press. MIT Press Direct
+Bopp, F. (1816). Über das Conjugationssystem der Sanskritsprache. Frankfurt: Andreäischen.
+Fitch, W. T. (2010). The evolution of language. Cambridge University Press. Amazon
+Grimm, J. (1822). Deutsche Grammatik (Vol. 1). Göttingen: Dieterichsche Buchhandlung.
+
+[[8]]
+Herder, J. G. (1986). Sobre el origen del lenguaje (trad. E. Subirats). Alianza. (Obra original publicada en 1772).
+Johansson, S. (2013). Origins of language: Constraints on hypotheses. John Benjamins.
+Rousseau, J-J. (2012). Ensayo sobre el origen de las lenguas (trad. A. Mgarbati). Alianza. (Obra original ca. 1755).
+Saussure, F. de. (2006). Curso de lingüística general (ed. crítica de T. de Mauro). Madrid: Alianza. (Obra original 1916).
+Schleicher, A. (1863). Die Darwinische Theorie und die Sprachwissenschaft. Weimar: Böhlau.
+Tomasello, M. (1999). The cultural origins of human cognition. Harvard University Press. JSTOR
+
+
+Entre Cronos y la entropía: ensayo histórico-filológico sobre el concepto de tiempo
+(Normas APA 7.ª edición)
+
+Resumen
+El tiempo es, junto con la vida y el lenguaje, uno de los interrogantes constitutivos de la autocomprensión humana. Este ensayo recorre la
+genealogía filológica de la idea de tiempo, desde los mitos cosmogónicos y la filosofía clásica hasta la relatividad, la fenomenología y la crítica
+sociológica contemporánea. El itinerario revela un vaivén constante entre concebir el tiempo como estructura cósmica objetiva y entenderlo
+como experiencia vivida o construcción social.
+
+1. Introducción
+Preguntar qué es el tiempo —y cómo lo experimentamos— implica articular saberes tan dispares como la cosmología, la física, la teología, la
+literatura y la sociología. A lo largo de la historia, cada revolución conceptual sobre el tiempo ha obligado a reinterpretar textos, prácticas y
+tecnologías de medición.
+
+2. Tiempo mítico y filosofía clásica
+En los poemas hesiódicos, Cronos personifica un poder devorador que marca el ciclo genealógico de los dioses; el tiempo es fuerza narrativa
+antes que magnitud mensurable. Platón funda la distinción entre eternidad (el aión del Timeo) y el tiempo celeste generado con los astros.
+Aristóteles, en Física IV, define el tiempo como “número del movimiento según el antes y el después”, anudando ontología y medición.
+
+3. Agustín de Hipona: tiempo e interioridad
+En Confesiones XI, san Agustín argumenta que solo hay un “presente del pasado (memoria), presente del presente (visión) y presente del futuro
+(expectativa)”Christian Classics Ethereal Library. El tiempo, más que un recipiente externo, es tensión del alma entre recuerdo y espera; esta
+interiorización marcará la tradición medieval.
+
+[[9]]
+4. La modernidad científica: tiempo absoluto
+Isaac Newton introduce en los Principia la célebre distinción entre tiempo absoluto y tiempo relativo: “Absolute, true, and mathematical time,
+from its own nature, flows equably without relation to anything external”Stanford Encyclopedia of Philosophy. Aquí el tiempo se vuelve
+parámetro universal que permite formular leyes mecánicas independientes del observador.
+
+5. Revolución relativista
+Albert Einstein derriba la universalidad newtoniana al mostrar que la medición del tiempo depende del sistema inercial y de la velocidad de la
+luz. En 1905 escribe: “Es esencial definir el tiempo por medio de relojes estacionarios en el sistema de referencia”Departamento de Física de la
+UMD; la simultaneidad resulta relativa. Con la relatividad general (1915) el tiempo pasa a curvarse con el espacio bajo el influjo gravitatorio.
+
+6. Duración y tiempo vivido
+Frente al tiempo espacializado de la ciencia, Henri Bergson propone la durée como flujo cualitativo indivisible: “Partout où quelque chose vit, il y
+a un registre où le temps s’inscrit” (“Dondequiera que algo vive, hay un registro donde se inscribe el tiempo”)evene.lefigaro.fr. Merleau-Ponty y
+la fenomenología amplían esta vía: el tiempo es estructura perceptiva que emerge del cuerpo-mundo.
+
+7. Tiempo social y aceleración
+La sociología crítica describe la modernidad como régimen de aceleración social. Hartmut Rosa analiza tres esferas —tecnológica, vital y
+cultural— donde la velocidad se dispara, erosionando la “estabilidad experiencial” del presente (Rosa, 2013). Su obra Social Acceleration
+sistematiza esos diagnósticosColumbia University Press, y en entrevistas recientes vincula la fatiga generacional a esta mutación temporalEl País.
+
+8. Giro termodinámico y cuántico
+Carlo Rovelli retoma la secuencia flecha-entropía: “La entropía de un sistema depende del desenfoque; es decir, de lo que no registro” (traducción
+propia)Goodreads. Para él, el “presente” es una construcción térmica de sistemas que ignoran detalles microscópicos; a escala fundamental, solo
+hay procesos.
+
+9. Tensiones persistentes
+Polaridad                     Formulación
+Objetividad vs. Subjetividad De Newton a Einstein el tiempo se cuantifica; de Agustín a Bergson se vive.
+Continuo vs. Discreto         La teoría cuántica especula con cronones; la fenomenología insiste en flujo continuo.
+Progreso vs. Crisis           Narrativas ilustradas de avance lineal chocan con la aceleración agotadora descrita por Rosa.
+Estas tensiones muestran que ninguna teoría agota el fenómeno: el tiempo es a la vez medición física, relato cultural y textura experiencial.
+
+[[10]]
+10. Conclusión
+La historia filológica del concepto de tiempo revela un movimiento pendular entre cosmología y conciencia. Cada giro —de Cronos a Newton, de
+Agustín a Rovelli— reordena las prácticas sociales (calendarios, relojes, algoritmos) y las formas de narrarnos. Tal como ocurre con vida y
+lenguaje, el tiempo permanece un problema abierto que requiere integrar descubrimientos físicos, descripciones fenomenológicas y críticas
+socioculturales.
+
+Referencias (APA 7.ª ed.)
+Augustine, A. (1997). Confessions (Bk XI, trad. H. Chadwick). Oxford University Press. https://ccel.org/ccel/augustine/confess.xii.xx.html Christian
+Classics Ethereal Library
+Bergson, H. (2007). La evolución creadora (ed. facsimilar). Siglo XXI. evene.lefigaro.fr
+Einstein, A. (1905). On the electrodynamics of moving bodies (trad. inglés). https://physics.umd.edu/... Departamento de Física de la UMD
+Newton, I. (1999). The Principia: Mathematical principles of natural philosophy (trad. Cohen & Whitman). University of California Press. (Cita
+original 1687). Stanford Encyclopedia of Philosophy
+Rosa, H. (2013). Social acceleration: A new theory of modernity (J. Trejo-Mayer, trad.). Columbia University Press. Columbia University PressEl
+País
+Rovelli, C. (2018). The order of time (E. Seger, trad.). Penguin. Goodreads
+Accesibilidad de fuentes: las obras de Einstein y Newton están en dominio público o con copias PDF abiertas; Rosa y Rovelli ofrecen capítulos en
+línea o vistas previas extensas; la traducción de Confesiones está disponible en CCEL; el texto de Bergson se halla en repositorios de dominio
+público (Gallica, Archive.org).
+
+
+Entre el contenedor cósmico y la red relacional: ensayo histórico-filológico sobre “espacio y materia”
+(Referencias en formato APA 7.ª ed.)
+
+Resumen
+La idea de espacio y materia —qué es, cómo existe y qué lugar ocupamos en ella— ha cambiado radicalmente desde los mitos cosmogónicos
+hasta las cosmologías cuánticas y los nuevos materialismos. Este ensayo repasa los hitos textuales y conceptuales más relevantes, mostrando un
+vaivén constante entre una visión sustancial-contenedora (espacio como receptáculo) y otra relacional-procesual (espacio como trama dinámica
+de relaciones y materia como acontecimiento).
+
+1. Mitos de creación y primeras filosofías
+
+[[11]]
+     Mesopotamia y Grecia arcaica. El Enuma Elish describe la creación separando las “aguas de arriba y abajo”; el Teogonía de Hesíodo sitúa
+          al Caos como hiato originario.
+         Filosofía clásica. Para Platón (Timeo) el espacio es un “receptáculo” (chôra) neutro donde las Formas se copian; Aristóteles lo sustituye
+          por el tópos: lugar relativo al cuerpo circundante, no vacío absoluto.
+
+2. Espacio absoluto vs. espacio relacional (siglos XVII–XVIII)
+Autor          Tesis                                                  Cita representativa
+Isaac          Espacio absoluto, homogéneo y fijo; base de la         “Absolute space… remains always similar and immovable.” Stanford
+Newton         mecánica.                                              Encyclopedia of Philosophy
+G. W.          Espacio = orden de coexistencias entre cosas; no
+                                                                      “I hold space to be… an order of coexistences.” Wikipedia
+Leibniz        existe sin objetos.
+La Correspondencia Leibniz-Clarke exhibe la pugna entre la geometrización universal de Newton y la concepción relacional de Leibniz, germen
+remoto de la relatividad.
+
+3. Kant y la forma a priori
+Kant reconcilia la disputa al afirmar que espacio (y tiempo) son formas de la sensibilidad humana: condiciones necesarias para que cualquier
+objeto sea dado. Así, ni absoluto externo ni mera relación física, sino estructura cognitiva trascendental.
+
+4. Revoluciones del siglo XX
+4.1. Relatividad
+Einstein funde espacio y tiempo en un continuo cuatridimensional deformable: “Space-time does not claim existence in its own right, but only as
+a structural quality of the gravitational field” Einstein's Universe. La materia curva el espacio-tiempo, y este determina el movimiento de la
+materia: relación dinámica en lugar de telón de fondo inmutable.
+4.2. Mecánica cuántica y campos
+La física de campos cuánticos convierte la materia en excitaciones de campos que llenan todo el espacio: el “vacío” es un hervidero de
+fluctuaciones. Surge la noción de espacio como campo y materia como modulación energética.
+
+5. Giro fenomenológico y geográfico
+     Heidegger/Merleau-Ponty: el “espacio vivido” es apertura de posibilidades para el Dasein; no un sistema de coordenadas, sino estar-en-
+         el-mundo corporizado.
+
+[[12]]
+   Henri Lefebvre (La producción del espacio) y Doreen Massey: el espacio es producto de prácticas y poderes. Massey lo resume como “el
+        producto de interrelaciones… la esfera donde coexisten trayectorias distintas… siempre en construcción” (cap. 1 de For Space) out of the
+        picture. Su noción de throwntogetherness subraya la dimensión política de esa coexistencia.
+
+6. Nuevos materialismos y agencialismo cuántico
+Karen Barad fusiona física y filosofía: “Time and space, like matter and meaning, come into existence… through intra-action” Goodreads. Espacio
+y materia se co-constituyen; no hay objetos previos a la relación, sino fenómenos emergentes.
+
+7. Cosmologías digitales y planetarias
+Pensadores como Yuk Hui (cosmotécnica) y Benjamin Bratton (The Stack) describen un espacio híbrido donde infraestructura digital, nube y
+órbita satelital conforman un nuevo “continente” técnico-planetario.
+
+8. Tensiones persistentes
+Polaridad                                    Ejemplos históricos
+Contenedor vs. Relación                      Platón y Newton ⇆ Leibniz, Barad, Massey
+Substancia vs. Proceso                       Átomos de Demócrito ⇆ campos cuánticos; chôra ⇆ espacio-tiempo curvo
+Homogeneidad vs. Heterogeneidad política Geometría euclidiana ⇆ geografía poscolonial, “derecho a la ciudad”
+Estas oposiciones muestran que “espacio y materia” siguen siendo conceptos negociados entre física, filosofía, política y cultura.
+
+9. Conclusión
+Desde el receptáculo mítico hasta la intra-acción cuántica, el concepto de espacio y de materia se ha desplazado de escenario pasivo a actor
+dinámico. El recorrido filológico revela que cada revolución conceptual (relatividad, teoría de campos, nuevos materialismos) redefine a la vez
+nuestra imagen del cosmos y nuestras prácticas sociales: del trazado de fronteras a la gobernanza de infraestructuras planetarias.
+
+Referencias (APA 7.ª edición)
+     Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press.
+     Einstein, A. (1920). Relativity: The Special and General Theory (trad. R. Lawson). Methuen.
+     Kant, I. (1998). Crítica de la razón pura (trad. Navarro). Trotta.
+     Lefebvre, H. (1974). La production de l’espace. Anthropos.
+     Leibniz, G. W. (1715-1716/1956). The Leibniz-Clarke Correspondence (ed. H. G. Alexander). Manchester UP.
+     Massey, D. (2005). For Space. Sage.
+
+[[13]]
+   Newton, I. (1687/1999). Philosophiæ Naturalis Principia Mathematica (trad. Cohen & Whitman). University of California Press.
+       Rovelli, C. (2015). Seven Brief Lessons on Physics. Penguin.
+Accesibilidad:
+    Obras de Newton y Leibniz: dominio público (Archive.org, Gutenberg).
+    Barad y Massey: capítulos en PDF libre o pre-print institucional.
+    Einstein (1920) disponible en Einstein Archives Online.
+
+Así, repasar la historia del “espacio-materia” evidencia cómo cada época re-escribe el mapa de lo posible y redefine nuestra posición —corporal,
+política y cósmica— dentro de él.
+
+
+De la chispa divina al correlato neuronal: ensayo histórico-filológico sobre la conciencia y la mente
+(Referencias en formato APA 7.ª edición)
+
+Resumen
+El interrogante “¿qué es la conciencia?” atraviesa mitos, religiones, filosofía, psicología y neurociencia. Este ensayo reconstruye el itinerario
+textual del problema —de la animación mítica al debate contemporáneo sobre los correlatos neurales y la IA— mostrando la oscilación histórica
+entre visiones dualistas, materialistas y emergentistas.
+
+1. Mito y antigüedad
+Las primeras cosmologías explican la conciencia como aliento vital: el rúaḥ bíblico, el pneûma griego. Platón distingue el alma racional del cuerpo
+perecedero, mientras Aristóteles describe el nous poietikós (intelecto agente) como principio eterno que ilumina la facultad cognoscitiva. Con la
+escuela estoica surge la concepción de hegemonikón —centro psíquico que regula pasiones y percepción— preludio remoto del “sistema
+nervioso central”.
+
+2. Edad Media y racionalismo
+Agustín interioriza la pregunta: el yo se descubre en la autoconciencia (Confesiones XI). Tomás de Aquino fusiona hilemorfismo y alma intelectual.
+El giro cartesiano (1637) radicaliza el dualismo: res cogitans (mente) vs. res extensa (materia). Este corte inaugura dos interrogantes duraderos:
+“¿cómo se unen mente y cuerpo?” y “¿puede la materia pensar?”.
+
+3. Ilustración y materialismo temprano
+
+[[14]]
+Hobbes compara el pensamiento a “cálculos” mecánicos; d’Holbach proclama que el hombre es “máquina compleja”. Paralelamente, los
+empiristas (Locke, Hume) sitúan la conciencia en la experiencia interna y Kant la eleva a condición trascendental que unifica representaciones.
+
+4. Nacimiento de la psicología científica (s. XIX)
+Wundt aplica la introspección controlada en Leipzig; William James populariza la metáfora de la “corriente o flujo de la conciencia” (James,
+1890) Clásicos en la Historia de la Psicología. Darwin aporta continuidad evolutiva: la mente humana emerge de antecesores animales,
+preparando la primatología comparada.
+
+5. Siglo XX: del comportamiento al “hard problem”
+     1. Conductismo. Watson y Skinner relegan la conciencia a “caja negra” observable solo en conducta.
+     2. Filosofía analítica. Smart y Place defienden la teoría de la identidad cerebro = mente; Ryle denuncia “el fantasma en la máquina”.
+     3. Fenomenología. Husserl reivindica la conciencia intencional; Merleau-Ponty encarna la mente en el cuerpo vivido.
+     4. El “giro cognitivo”. La mente se modela como sistema computacional; Fodor postula el “lenguaje del pensamiento”.
+En 1974 Thomas Nagel desestabiliza el fisicalismo con el ensayo “¿Qué se siente ser un murciélago?” SAS Pennsylvania, introduciendo la noción
+de qualia. David Chalmers bautiza esto como el “hard problem”: explicar por qué los procesos físicos se acompañan de experiencia subjetiva
+(Chalmers, 1995) Consciousness.net.
+
+6. Correlatos neurales y experimentos de libre albedrío
+Crick & Koch inauguran la búsqueda de NCC (neural correlates of consciousness). Stanislas Dehaene, desde la Teoría del Espacio Global (GWT),
+muestra que el acceso consciente coincide con el “ignición” de redes fronto-parietales (Dehaene, 2014) Amazon.
+Benjamin Libet registra potenciales de preparación que anteceden a la decisión consciente, cuestionando la libertad subjetiva (Libet, 1985)
+Hackaday.
+
+7. Teorías integradoras del siglo XXI
+Marco                         Idea central                                                                                         Fuente
+                              La experiencia es la integración causal interna (Φ) de un sistema; cuantifica “cuán consciente” es
+IIT 4.0                                                                                                                            PLOS
+                              (Tononi et al., 2024)
+                                                                                                                                   Dehaene
+Espacio Global Neuronal       La conciencia emerge cuando la info se vuelve globalmente accesible
+                                                                                                                                   (2014)
+Pensamiento de orden                                                                                                               Rosenthal,
+                              Un estado mental es consciente cuando hay otro estado que lo “representa”
+superior                                                                                                                           2005
+
+[[15]]
+Marco                         Idea central                                                                                           Fuente
+Procesamiento predictivo      El cerebro es máquina de inferencia jerárquica; la conciencia modula “errores de predicción”           Clark, 2016
+
+8. Frentes contemporáneos
+    1. IA y consciencia artificial. Modelos generativos “parecen” entender; IIT se aplica a redes profundas para estimar Φ.
+    2. Panpsiquismo y neutral monism. Goff reabre la hipótesis de que la materia porta proto-experiencia.
+    3. Neurofilosofía encarnada. Churchland integra datos neurales y argumentos filosóficos para desmontar dualismos (Churchland, 1986)
+        Amazon.
+
+9. Tensiones persistentes
+Polaridad                                    Pregunta abierta
+Fisicalismo vs. Dualismo                     ¿Basta la física para explicar qualia?
+Reducción vs. Emergencia                     ¿La conciencia se reduce a neuronas o emerge a otro nivel de organización?
+Primacía neural vs. Cuerpo-mundo             ¿Es la mente solo cerebro o un “acoplamiento” extendido?
+Continuidad evolutiva vs. Salto cualitativo ¿Hay conciencia en invertebrados, IA o simplemente “procesamiento”?
+
+10. Conclusión
+La conciencia se ha desplazado de chispa divina a problema empírico-matemático, sin perder su misterio. Los textos —de Upanisads a
+Chalmers— muestran una dialéctica entre explicar la experiencia y experimentarla. Hoy, la convergencia entre neurociencia, filosofía analítica y
+teorías informacionales promete avances, pero el “duro problema” sigue abierto: quizá, como sugiere la historia, cada nueva respuesta
+reformula la pregunta.
+
+Referencias (APA 7.ª edición)
+     Chalmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200-219. Consciousness.net
+     Churchland, P. S. (1986). Neurophilosophy: Toward a unified science of the mind-brain. MIT Press. Amazon
+     Dehaene, S. (2014). Consciousness and the brain: Deciphering how the brain codes our thoughts. Viking. Amazon
+     James, W. (1890). The principles of psychology (Vol. 1, chap. 9). Henry Holt. Clásicos en la Historia de la Psicología
+     Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. Behavioral and Brain Sciences, 8(4),
+       529-566. Hackaday
+     Nagel, T. (1974). What is it like to be a bat? The Philosophical Review, 83(4), 435-450. SAS Pennsylvania
+
+[[16]]
+    Tononi, G., et al. (2024). Integrated Information Theory 4.0: Formulating the properties of phenomenal existence in Physical terms. PLOS
+         Computational Biology, 20, e1011465. PLOS
+Accesibilidad: todos los artículos citados tienen versiones de libre acceso (preprints en consc.net, PLOS-OA, Archive.org, PsychClassics). Los libros
+de James y Descartes son dominio público; capítulos de Dehaene y Churchland están disponibles en vistas previas extensas o repositorios
+institucionales.
+Así concluye la travesía filológica de la conciencia: un espejo que refleja, en cada época, los límites y las ambiciones de nuestro saber.
+
+
+De la voluntas medieval a la neurociencia predictiva: ensayo histórico-filológico sobre libertad y
+responsabilidad
+(Referencias en formato APA 7.ª edición)
+
+Resumen
+La pregunta por la libertad—y la consiguiente responsabilidad—recorre mitos, teologías, filosofías, ciencias y sistemas jurídicos. Este ensayo
+reconstruye el hilo textual de ese problema desde la Grecia clásica hasta la neurociencia y la inteligencia artificial, mostrando la oscilación
+histórica entre visiones deterministas, libertarias y compatibilistas. La revisión evidencia que cada época redefine qué cuenta como causa,
+elección y culpa, y con ello reconfigura sus prácticas éticas y legales.
+
+1. Introducción
+Hablar de libertad es inquirir qué papel juega la agencia frente a cadenas causales físicas, divinas o sociales. La cuestión engarza directamente
+con la responsabilidad moral y jurídica: si los actos están determinados, ¿tiene sentido castigar o premiar? El recorrido filológico revela siete
+grandes momentos de reformulación.
+
+2. Antigüedad clásica
+     Sócrates–Platón. El bien se elige porque se conoce: el mal resulta de ignorancia. La libertad es, ante todo, claridad intelectual (Platón,
+        República, 518c).
+     Aristóteles. Introduce la distinción voluntario/involuntario y el concepto de acción responsable (Nicomachean Ethics, III.1-5): somos
+        dueños de los fines y de los medios si sabemos lo que hacemos y actuamos sin coacción externa.
+     Estoicos. Defensa de un determinismo causal compatible con la responsabilidad: la libertad consiste en asentir internamente al logos
+        universal (Enchiridion, §1-5).
+
+3. Patrología y Escolástica
+
+[[17]]
+   Agustín. Combina pecado original y libre albedrío: la voluntad está herida pero no anulada (De libero arbitrio, III).
+       Tomás de Aquino. La voluntas intelectual elige fines universales y la electio discierne medios concretos (S. Th. Ia-IIae, q.13); el influjo
+        divino no suprime la causalidad humana.
+       El debate predestinación/libertad prefigura las controversias de la Reforma.
+
+4. Reforma y Ilustración
+Autor                  Posición                                                                                  Obra clave
+Martín Lutero          Esclavitud de la voluntad (solo la gracia salva)                                          De servo arbitrio (1525)
+Erasmo de Róterdam Defensa del libre albedrío cooperante                                                         De libero arbitrio (1524)
+René Descartes         Libre albedrío infinito, aun en máquina corporal                                          Meditationes, IV
+David Hume             Compatibilismo: libertad = actuar conforme a motivos internos, no ausencia de causa Treatise, II.3
+La Ilustración seculariza la cuestión: el problema pasa del decreto divino a la ley natural y al análisis psicológico de la motivación.
+
+5. Idealismo alemán y Romanticismo
+Kant sitúa la libertad en la razón práctica: ser autónomo = legislarse a sí mismo (Grundlegung, §3).
+Hegel interpreta la libertad como realización social de la razón: el individuo solo se vuelve libre en instituciones éticas (Philosophie des Rechts).
+El Romanticismo reacciona exaltando la autenticidad y la voluntad creadora (Schopenhauer: la voluntad como fuerza irracional subyacente).
+
+6. Existencialismo y siglo XX
+     Nietzsche desmantela la “moral de la culpa”, entiende la libertad como afirmación de la vida.
+     Sartre declara la libertad radical: “el hombre está condenado a ser libre” (L’Être et le Néant, 1943). Sin embargo, asume la
+         responsabilidad absoluta por la propia situación.
+     Frankfurt (1969) introduce los deseos de segundo orden: ser libre es identificarse con los motivos que nos mueven, abriendo la vía a la
+         teoría de la responsabilidad basada en la autoría.
+
+7. El reto de las neurociencias
+Experimentos de Benjamin Libet (1985) muestran potenciales cerebrales que anteceden a la decisión consciente, sugiriendo un automatismo
+neural. Réplicas compatibilistas (Mele & Dennett) sostienen que la deliberación consciente puede modular o abortar actos iniciados.
+Modelos de cerebro predictivo (Friston, Clark) describen la acción como minimización de error de predicción; la libertad se reinterpreta como
+capacidad de modelar escenarios y aplazar impulsos.
+
+[[18]]
+8. Responsabilidad jurídica y social
+     Derecho penal moderno: de la retribución teológica al garantismo (Beccaria), y hoy al debate neuro-jurídico sobre imputabilidad
+       (Greene & Cohen, 2004).
+     Sociología crítica: Foucault vincula régimen disciplinario y producción de sujetos “responsables”; los estudios de biopolítica
+       problematizan la atribución individual en estructuras de poder.
+     Neuroética y IA: ¿puede un algoritmo autónomo ser responsable? Discusión sobre liability en coches autónomos y deep learning opaco.
+
+9. Tensiones persistentes
+Polaridad                                   Pregunta viva
+Determinismo físico/genético                ¿Hasta qué punto los condicionantes anulan la autoría?
+Libertad libertaria                         ¿Es coherente una causalidad “fuera” del mundo?
+Compatibilismo                              ¿Basta con actuar según los propios deseos si estos pueden ser manipulados?
+Responsabilidad individual vs. estructural ¿Cómo repartir culpa en daños ecológicos o desigualdad algorítmica?
+
+10. Conclusión
+La historia filológica de libertad y responsabilidad muestra una serie de traslados: del alma al cerebro, de la culpa al riesgo, del sujeto aislado a
+las redes socio-técnicas. Cada desplazamiento mantiene viva la tensión entre causalidad y agencia. Lejos de resolverse, el problema se reabre con
+cada avance —desde la física laplaciana hasta la IA generativa— obligándonos a repensar qué significa responder por nuestros actos.
+
+Referencias (APA 7.ª edición)
+Aquinas, T. (2002). Summa Theologiae (Benziger ed., vols. 13–14). Christian Classics.
+Beccaria, C. (2011). On crimes and punishments (R. Bellamy, Ed.). Cambridge University Press.
+Frankfurt, H. (1969). Alternate possibilities and moral responsibility. Journal of Philosophy, 66(23), 829-839.
+Greene, J., & Cohen, J. (2004). For the law, neuroscience changes nothing and everything. Philosophical Transactions of the Royal Society B, 359,
+1775-1785.
+Hume, D. (2000). A treatise of human nature (D. F. Norton & M. J. Norton, Eds.). Oxford University Press.
+Kant, I. (2011). Groundwork of the metaphysics of morals (M. Gregor & J. Timmermann, Trans.). Cambridge University Press.
+Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. Behavioral and Brain Sciences, 8(4), 529-566.
+Luther, M. (2008). On the bondage of the will (P. Watson, Trans.). Baker Academic.
+Mele, A. R. (2014). Free: Why science hasn’t disproved free will. Oxford University Press.
+
+[[19]]
+Sartre, J.-P. (2003). Being and nothingness (H. E. Barnes, Trans.). Routledge.
+Schopenhauer, A. (2010). On the freedom of the will (K. Kolenda, Trans.). Dover.
+Accesibilidad: las obras clásicas de Hume, Lutero, Kant, Sartre y Schopenhauer se encuentran en dominio público o con ediciones digitales
+gratuitas (Project Gutenberg, Archive.org). Libet, Frankfurt y Greene & Cohen están disponibles en repositorios académicos o versiones pre-print.
+
+
+Del telos cósmico al bricolaje existencial: ensayo histórico-filológico sobre el sentido y el valor
+(Referencias en formato APA 7.ª ed.)
+
+Resumen
+La cuestión “¿tiene la vida un sentido?” —y, correlativamente, “¿qué hace que algo sea valioso?”— acompaña la historia humana desde los
+relatos cosmogónicos hasta las terapias contemporáneas de bienestar. Este ensayo recorre los principales hitos textuales y conceptuales del
+problema, mostrando el paso de una teleología externa (un plan dado por dioses, naturaleza o razón) a la noción moderna de construcción
+situada del significado y del valor.
+
+1. Raíces míticas y religiosas
+En la épica mesopotámica (Enūma Eliš) y en la Ilíada el sentido se ancla en la voluntad divina y el honor guerrero: la vida halla valor cumpliendo
+un destino fijado. En las cosmologías judía y cristiana, el telos es participar del plan creador de Dios; el Eclesiastés ya oscila entre la vanidad de
+todo afán y la dignidad de gozar el momento dado (Qo 1-3).
+
+2. Antigüedad filosófica
+     Platón: el bien (agathón) es Forma suprema; conocerlo y ordenarse a él confiere sentido.
+     Aristóteles: la eudaimonía es actividad racional conforme a la virtud; el valor reside en actualizar la naturaleza humana (Ética a
+        Nicómaco, I).
+     Estoicismo: vivir katà phýsin (de acuerdo con la razón universal) garantiza significado; el valor es inseparable de la apatheia (serenidad).
+
+3. Edad Media y teleología cristiana
+Agustín vincula felicidad y beatitud eterna (Confesiones, X); Tomás de Aquino sitúa el sentido último en la visión de Dios (Summa Theologiae, Ia-
+IIae, q. 3). El valor de actos terrenales se mide por su ordenación a ese fin trascendente.
+
+4. Ilustración y secularización
+Corriente                  Idea central                                           Autor / obra
+
+[[20]]
+Corriente                   Idea central                                         Autor / obra
+Utilitarismo                Valor = maximizar placer y minimizar dolor           Bentham, Introduction… (1789)
+Ilustración kantiana        Sentido = autonomía moral: legislarse a uno mismo Kant, Grundlegung (1785)
+Romanticismo temprano Sentido en la autoexpresión genial y el sentimiento Schiller, Cartas sobre la educación estética (1794)
+
+5. Nihilismo y existencialismo (s. XIX-XX)
+Con la “muerte de Dios” (Nietzsche, La gaya ciencia, §125), el telos externo se derrumba; surge la angustia por el sin-sentido. Kierkegaard
+apuesta por el “salto de fe”; Nietzsche propone la afirmación dionisíaca y el eterno retorno como creación de valor; Camus describe el absurdo
+(El mito de Sísifo, 1942) y exhorta a imaginar a Sísifo feliz. Sartre declara que “la existencia precede a la esencia”: el hombre inventa su sentido a
+cada acto.
+
+6. Reconstrucciones analíticas y terapéuticas
+    1. Logoterapia (Frankl, 1946): aun en Auschwitz, la búsqueda de significado es fuerza motivadora primigenia.
+    2. Filosofía analítica:
+           o T. Nagel (1971) pregunta “¿Qué significa todo esto?” y detecta una tensión irresoluble entre perspectiva cósmica y proyectos
+                locales.
+           o S. Wolf (2010) propone que la vida significativa combina amor y objetividad: “proyectos que merecen la pena y que uno ama”.
+    3. Psicología positiva (Seligman, 2011): el sentido (Meaning) es uno de los cinco pilares del bienestar PERMA.
+
+7. Giro ecológico-posthumano
+     Deep Ecology (Naess): valor intrínseco de todos los seres; el sentido humano es custodiar redes bióticas.
+     Ontologías relacionales (Haraway, 2016): re-situar el sentido en la co-producción multiespecie (“making-kin”).
+     Economía del cuidado (Tronto, 2013): el valor radica en sostener la vida común, no en la acumulación.
+
+8. Tensiones persistentes
+Polaridad                          Pregunta abierta
+Objetivo vs. subjetivo             ¿Existe valor “ahí fuera” o lo proyectamos?
+Universal vs. situado              ¿Hay fines válidos para todos o solo narrativas locales?
+Antropocéntrico vs. ecocéntrico ¿El sentido gira en torno al humano o a la biosfera?
+
+[[21]]
+Polaridad                         Pregunta abierta
+Hecho vs. construcción            ¿Los valores se descubren o se inventan (o ambas cosas)?
+
+9. Conclusión
+La genealogía filológica del sentido y el valor evidencia un desplazamiento: de un plan cósmico pre-dado a un bricolaje ético donde individuos y
+comunidades construyen significados provisionales. Sin embargo, la pregunta persiste porque ninguna postura —nihilista, trascendente o
+relacional— agota la necesidad humana (y ahora planetaria) de justificar la acción y ordenar las prioridades.
+
+Referencias (APA 7.ª ed.)
+Bentham, J. (1789/1988). An introduction to the principles of morals and legislation (J. H. Burns & H. L. A. Hart, Eds.). Oxford University Press.
+Camus, A. (1942/2005). Le mythe de Sisyphe. Gallimard.
+Frankl, V. E. (1959/2006). Man’s search for meaning (I. Lasch, Trans.). Beacon Press.
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
+Kant, I. (1785/2011). Groundwork of the metaphysics of morals (M. Gregor & J. Timmermann, Trans.). Cambridge University Press.
+Naess, A. (1989). Ecology, community and lifestyle (D. Rothenberg, Trans.). Cambridge University Press.
+Nietzsche, F. (1882/2006). Die fröhliche Wissenschaft (G. Colli & M. Montinari, Eds.). De Gruyter.
+Schiller, F. (1794/2004). Letters on the aesthetic education of man (E. M. Wilkinson & L. A. Willoughby, Trans.). Clarendon.
+Seligman, M. E. P. (2011). Flourish: A visionary new understanding of happiness and well-being. Free Press.
+Taylor, C. (1989). Sources of the self: The making of the modern identity. Harvard University Press.
+Wolf, S. (2010). Meaning in life and why it matters. Princeton University Press.
+Accesibilidad: los textos clásicos de Platón, Aristóteles, Nietzsche y Schiller están en dominio público (Perseus, Archive.org). Frankl y Seligman
+tienen fragmentos gratuitos en repositorios académicos; Wolf ofrece capítulo introductorio en sitio de Princeton UP; Haraway y Naess poseen
+pre-prints o vistas previas libres.
+
+Así se despliega la travesía del sentido: del cosmos al sujeto, del sujeto al planeta, sin cerrar jamás la pregunta que nos incita a seguir narrando
+nuestra existencia.
+
+
+De las certezas reveladas a la “posverdad”: ensayo histórico-filológico sobre conocimiento y verdad
+(Referencias en formato APA 7.ª edición)
+
+[[22]]
+Resumen
+La cuestión «¿cómo sabemos lo que sabemos?» recorre toda la historia intelectual, desde los mitos fundacionales hasta la era de los algoritmos y
+la desinformación digital. Este ensayo rastrea los principales hitos textuales y conceptuales de la epistemología occidental (y algunos diálogos con
+tradiciones no occidentales), mostrando el péndulo entre ideal de certeza absoluta y reconocimiento de la falibilidad situada del conocer.
+
+1. Revelación y testimonio en la Antigüedad
+     Cosmogonías y oráculos. En el Enuma Elish y la tradición homérica, la verdad se garantiza por autoridad divina; el poeta repite el
+        testimonio de las Musas.
+     Sócrates y Platón. El aletheia es des-velamiento: conocer es recordar (anamnesis) de verdades eternas (República, VII).
+     Aristóteles. Introduce la lógica silogística y la epistéme como conocimiento demostrativo: “saber por las causas primeras” (Analíticos
+        segundos).
+
+2. Fe, razón y Escolástica
+     Agustín (s. V). «Creo para entender» (credo ut intelligam); la autoridad revelada precede, pero no excluye, la razón (De Trinitate).
+     Tomás de Aquino. Distingue verdades de fe y verdades de razón, ambas emanadas de Dios (Summa contra gentiles). Se consolida el
+         modelo dialéctico-comentario: conocimiento como exégesis de textos autoritativos.
+
+3. Revolución científica y modernidad
+Corriente       Tesis central                                                                               Autor / obra
+Racionalismo    Las ideas claras y distintas de la razón garantizan la verdad                               Descartes, Meditationes (1641)
+                                                                                                            Locke, Essay (1690); Hume, Enquiry
+Empirismo       Todo conocimiento deriva de la experiencia sensible
+                                                                                                            (1748)
+Crítica         Conocer = sintetizar intuiciones (espacio-tiempo) mediante categorías; verdad limitada al
+                                                                                                          Kant, KRV (1781)
+kantiana        fenómeno
+La modernidad instala la tensión entre fundacionalismo (certezas absolutas de razón o sensación) y escepticismo (Hume: el “hábito” disfraza la
+inducción).
+
+4. Siglo XIX: positivismo y reacción hermenéutica
+      Comte. Programa de ciencia unificada y ley de los tres estadios.
+      Dilthey & Schleiermacher. Conocimiento histórico-hermenéutico: entender (Verstehen) la vida anímica desde dentro; la verdad es
+         sentido contextual.
+
+[[23]]
+   Nietzsche. Sospecha de la objetividad; la verdad es “ejército de metáforas”.
+
+5. El giro lógico y la crítica del siglo XX
+     1. Círculo de Viena. Verificación empírica como criterio de significado (Carnap).
+     2. Popper. Falsacionismo: nunca confirmamos, solo refutamos hipótesis.
+     3. Kuhn (1962). Revoluciones científicas: la verdad está mediada por paradigmas e intereses comunitarios.
+     4. Gettier (1963). Demoledor para la definición clásica “creencia verdadera justificada”; nacen teorías fiabilistas y virtuistas.
+
+6. Epistemologías situadas y giro social
+Línea                        Aporte clave                                                                              Autoras
+                                                                                                                       Harding (1993), Haraway
+E. feminista                 «Conocimiento desde el margen» desmonta sesgos andro-céntricos
+                                                                                                                       (1988)
+Sociología del
+                             Ciencia como construcción social de hechos                                                Latour & Woolgar (1979)
+conocimiento
+                             Buen vivir y epistemologías relacionales (Quijano, 2000) cuestionan la universalidad
+Pueblos originarios
+                             moderna
+
+7. Neurociencia, cognición y confiabilidad
+Modelos de cerebro predictivo (Clark, 2016) describen la percepción como inferencia bayesiana: la verdad es el mejor “encaje” entre predicción
+y datos. Surgen debates sobre sesgos (Kahneman, 2011) y heurísticos que distorsionan la creencia verídica.
+
+8. Posverdad y algoritmos
+     Sunstein (2017) y Lewandowsky (2020) analizan cámaras de eco digitales; la verdad queda desplazada por verosimilitud afectiva.
+     IA generativa (GPT-n): plantea problemas de alucinación y verificación; renace la cuestión de autoridad epistemológica.
+
+9. Tensiones persistentes
+Polaridad                                         Pregunta viva
+Correspondencia vs. Coherencia / Pragmatismo ¿Verdad = reflejo del mundo o éxito práctico?
+Individual vs. Comunitario                        ¿Saber es logro personal o producto social?
+Absoluto vs. Situado                              ¿Puede haber objetividad fuerte en perspectivas encarnadas?
+
+[[24]]
+Polaridad                                        Pregunta viva
+Datos vs. Interpretación                         ¿Algoritmos sin teoría producen conocimiento o mero patrón?
+
+10. Conclusión
+La genealogía del conocimiento y la verdad muestra un trayecto desde la revelación inmutable hacia una epistemología plural y falible que
+reconoce contextos, intereses y tecnologías. Sin embargo, el ideal regulativo de verdad no desaparece: reaparece como demanda de
+transparencia algorítmica, revisión por pares o fact-checking. El desafío contemporáneo es articular crítica situacional con estándares de
+confiabilidad que sostengan la vida democrática global.
+
+Referencias (APA 7.ª edición)
+Carnap, R. (1936). Testability and meaning. Philosophy of Science, 3, 419-471.
+Clark, A. (2016). Surfing uncertainty: Prediction, action, and the embodied mind. Oxford University Press.
+Descartes, R. (1641/1996). Meditations on first philosophy (J. Cottingham, Trans.). Cambridge University Press.
+Gettier, E. L. (1963). Is justified true belief knowledge? Analysis, 23(6), 121-123.
+Harding, S. (1993). Rethinking standpoint epistemology. Hypatia, 8(4), 68-84.
+Haraway, D. (1988). Situated knowledges: The science question in feminism. Feminist Studies, 14(3), 575-599.
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus & Giroux.
+Kuhn, T. S. (1962/2012). The structure of scientific revolutions (4th ed.). University of Chicago Press.
+Latour, B., & Woolgar, S. (1979). Laboratory life: The construction of scientific facts. Sage.
+Lewandowsky, S., et al. (2020). Beyond misinformation: Understanding and coping with the “post-truth” era. Journal of Applied Research in
+Memory and Cognition, 9(3), 346-369.
+Locke, J. (1690/1975). An essay concerning human understanding (P. H. Nidditch, Ed.). Clarendon.
+Plato. (1997). Complete works (J. M. Cooper, Ed.). Hackett.
+Popper, K. (1959). The logic of scientific discovery. Hutchinson.
+Sunstein, C. R. (2017). #Republic: Divided democracy in the age of social media. Princeton University Press.
+Accesibilidad:
+— Textos de Platón, Aristóteles, Descartes, Locke y Kant están en dominio público o en bibliotecas digitales (Perseus, Gutenberg, Archive.org).
+— Popper, Kuhn y Gettier se descargan libremente en repositorios académicos.
+— Artículos recientes de Lewandowsky y Harding son open access.
+— Capítulos de Clark (2016) y Kahneman (2011) pueden hallarse en ResearchGate o vistas previas extensas.
+
+[[25]]
+Con este último eje se cierra la serie de ensayos históricos-filológicos sobre los grandes interrogantes que configuran nuestra autocomprensión:
+vida, lenguaje, tiempo, espacio-materia, conciencia, libertad, sentido y conocimiento. Cada uno, lejos de resolverse, continúa reabriéndose con
+cada cambio cultural y tecnológico, recordándonos que la filosofía no es tanto un depósito de respuestas como un mapa en perpetua revisión.
+
+3. Ejes transversales y tabla comparativa
+La siguiente matriz cruza los seis ejes transversales identificados previamente con los ocho interrogantes cardinales desarrollados en los
+ensayos. Cada celda resume —en un enunciado-clave de una línea— la manera en que ese interrogante aborda la cuestión transversal
+correspondiente. La tabla funciona como mapa rápido para detectar afinidades, vacíos y tensiones que podrían convertirse en líneas de
+investigación comparada.
+Eje
+transversal
+                                                            Espacio-                                        Sentido/valo
+→/           Vida           Lenguaje         Tiempo                         Conciencia Libertad                          Conocimiento/verdad
+                                                            materia                                         r
+Interrogante
+↓
+             Autopoiesis Facultad
+Ontología                                                 Espacio        Dualismo
+             vs.          biológica o        Tiempo                                                   Valor        Correspondencia vs.
+¿Qué “es” en                                              contenedor vs. vs.         Agente causa ≠
+             simpoiesis: herramienta         absoluto vs.                                             objetivo vs. coherencia/pragmatis
+último                                                    intra-acción   fisicalismo engranaje causal
+             ¿organizació cultural           flujo vivido                                             construcción mo
+término?                                                  cuántica       emergente
+             n o red?     emergente
+              Cuerpo                         Duración       Territorio                   Identidad          Proyecto
+Subjetividad                Relato                                         Qualia y
+              vivido y                       interna y      experiencial y               narrativa y        significativo Posicionamiento
+¿Cómo se                    autobiográfico y                               flujo de la
+              pulsión de                     aceleración    espacialidades               autoría de         y crisis de   epistémico y sesgos
+vive y narra?               performativo                                   conciencia
+              goce                           social         afectivas                    deseos             sentido
+Deseo y
+goce          Élan vital /                 Deseo de   Expansión             Goce       Libre delirio o      Afirmación
+                           Llamada al otro                                                                               Voluntad de verdad vs.
+¿Impulso      pulsión de                   permanecer territorial y         corporal y determinación        dionisíaca o
+                           y goce fonador                                                                                voluntad de poder
+vital o       vida-muerte                  vs. volver apropiación           compulsión pulsional            nihilismo
+repetición?
+Reproducció Cuidados y Transmisión       Ritmos       Infraestructura Educación                 Economía
+                                                                                Responsabilidad                           Producción de saber
+n social    ecologías    intergeneracion laborales y s, vivienda,     y cultura                 del cuidado
+                                                                                colectiva                                 comunitario
+¿Qué        multiespecie al de lenguaje cronopolítica commons         afectiva                  y valor
+
+[[26]]
+Eje
+transversal
+                                                            Espacio-                                     Sentido/valo
+→/           Vida           Lenguaje           Tiempo                     Conciencia Libertad                         Conocimiento/verdad
+                                                            materia                                      r
+Interrogante
+↓
+sostiene la                                    s                                                         común
+vida?
+                                                                          Neuro-                         Tecnologías
+Técnica    Bio-         Escritura,             Relojes,    Satélites,                 Algoritmos de                   Herramientas de
+                                                                          interfaces,                    de sentido
+¿Amenaza o tecnologías imprenta, IA            cronómetros metaversos                 elección y                      verificación / Deep
+                                                                          IA                             (apps
+amplifica? y biodesigno lingüística            , Big Data  planetarios                nudging                         fakes
+                                                                          consciente                     mindfulness)
+                                                                          Experiencia
+Muerte y
+                                                            Horizons      s cercanas
+límite        Umbral        Pérdida de         Entropía y                             Pena capital y     Absurdo,
+                                                            cósmicos /    a la muerte                                 Falibilidad, error y
+¿Dónde        biológico y lengua y             fin del                                (ir)responsabilida suicidio,
+                                                            agujeros      y                                           “posverdad”
+acaba lo      necropolítica silencios límite   universo                               d                  esperanza
+                                                            negros        disolución
+vivo?
+                                                                          del yo
+
+Cómo leer la tabla
+   1. Cruces fuertes: celdas densas (p. ej. Conciencia × Ontología o Vida × Reproducción social) señalan nudos conceptuales donde convergen
+       varios debates; ideales para seminarios monográficos.
+   2. Vacíos o tensiones: si una celda parece menos explorada, es oportunidad para investigación (p. ej. Lenguaje × Muerte: estudios sobre
+       lenguas en peligro y memoria).
+   3. Ejes como lentes: elegir un eje (Técnica) y recorrer las columnas permite ver la huella tecnológica en todas las preguntas; o tomar un
+       interrogante (Tiempo) y advertir cómo cada eje redefine su problemática.
+
+Sugerencias de uso
+    Diseño de cursos interdisciplinares: cada semana un interrogante y, en clase, discusión guiada por los seis ejes.
+    Proyectos de tesis: detectar combinaciones poco trabajadas (v. gr. Técnica × Sentido/valor en entornos virtuales).
+    Mapas conceptuales: trasladar la tabla a software de grafos para visualizar densidades y conexiones.
+
+[[27]]
+4. Conclusiones y líneas de investigación futura
+4.1 Balance general
+    1. Continuidad de las preguntas
+        Ninguno de los ocho interrogantes —vida, lenguaje, tiempo, espacio-materia, conciencia, libertad, sentido, conocimiento— ha sido
+        definitivamente resuelto; cada época los reabre con su propio instrumental. La historia intelectual se asemeja menos a una escalera
+        lineal que a un rizoma donde las viejas ramas brotan con savia nueva.
+    2. Desplazamiento de marcos explicativos
+             o Del teleologismo al sistémico-relacional: pasamos de proyectos cósmicos fijos (plan divino, formas eternas) a modelos de auto-
+                  organización, emergencia y co-producción.
+             o De la sustancia a la información: la materia se reconceptualiza como patrón dinámico; la vida, la mente y, en parte, el lenguaje,
+                  se describen hoy en clave de procesos informacionales.
+             o De la objetividad monológica a la perspectivalidad situada: la epistemología reconoce que toda verdad está mediada por
+                  contextos, cuerpos y tecnologías.
+    3. Interdependencia de los interrogantes
+        Cada pregunta es prisma de las demás: no hay teoría satisfactoria del conocimiento sin una ontología del espacio-tiempo; no hay bioética
+        sin concepción de la libertad y del valor; no hay semántica sin alguna teoría de la conciencia. De ahí la utilidad de los ejes transversales
+        trazados en la tabla comparativa.
+    4. Tensión permanente entre explanans y experiencia
+        Los avances científicos afinan las explicaciones —IIT para la conciencia, CRISPR para la vida, IA lingüística para el lenguaje—, pero la
+        experiencia vivida (qualia, libertad sentida, sentido biográfico) ilumina zonas que las ecuaciones todavía no capturan. El pensamiento
+        crítico sigue operando en esa frontera.
+
+4.2 Desafíos contemporáneos
+Desafío                              Pregunta clave                                                   Campos implicados
+Bio-tecnologías y vida sintética     ¿Cuándo un organismo construido merece estatuto “vivo”?          Biología, ética, derecho
+IA generativa y lenguaje             ¿Puede una máquina “entender” o sólo “simular” significado? Lingüística, neurociencia, filosofía mente
+                                     ¿Cómo preservar agencia y cuidado en entornos de
+Aceleración temporal digital                                                                          Sociología, psicología, diseño UX
+                                     inmediatez?
+Colonización del espacio y materia ¿Qué ontología rige más allá de la biosfera?                       Astrofísica, derecho espacial, ecología
+Neuro-derecho y responsabilidad      ¿Revisará la ley la imputabilidad a la luz de la neurociencia?   Derecho, neuroética, política pública
+
+[[28]]
+Desafío                             Pregunta clave                                                   Campos implicados
+Crisis de sentido en el                                                                              Filosofía moral, estudios ambientales,
+                                    ¿Qué valores orientan la acción climática y poshumana?
+Antropoceno                                                                                          teología
+
+4.3 Líneas de investigación futura
+    1. Integración gene-cultura-tecnología
+        Diseñar modelos que crucen evolución biológica, transmisión cultural y mediación algorítmica para explicar la emergencia de lenguaje,
+        conciencia y valor.
+    2. Ontología relacional cuántico-ecológica
+        Explorar convergencias entre agencialismo cuántico (Barad) y cosmologías indígenas que entienden espacio-materia como red de co-
+        acciones.
+    3. Epistemologías plurales para la era digital
+        Combinar verificación algorítmica, revisión por pares abierta y saberes situados para contrarrestar la posverdad sin caer en relativismo.
+    4. Cartografías de la experiencia límite
+        Estudiar cómo prácticas extremas (biohacking, inmersión VR, migraciones forzadas) reconfiguran nociones de vida, tiempo y cuerpo.
+    5. Ética de la corresponsabilidad planetaria
+        Elaborar marcos normativos que articulen libertad individual y deuda inter-especie, redefiniendo sentido y valor en clave eco-política.
+
+4.4 Cierre
+Estos ensayos muestran que las “grandes preguntas” no son reliquias escolásticas; son motores críticos que atraviesan laboratorios, parlamentos
+y redes sociales. Lejos de representar un conjunto cerrado de problemas, forman un horizonte móvil que se desplaza con cada revolución
+científica y cada crisis cultural.
+Enfrentar los desafíos del siglo XXI —desde la edición génica hasta la gobernanza de la IA— exige mantener vivo el diálogo entre historia
+filológica y prospectiva tecnológica. Solo así podremos convertir la inevitable incertidumbre en oportunidad de co-crear futuros más justos,
+habitables y significativos.
+
+5. Bibliografía general (APA 7.ª edición)
+(Incluye todas las obras citadas a lo largo de los ocho ensayos; reordenadas alfabéticamente. Sólo se listan las ediciones realmente empleadas o
+consultadas en acceso abierto.)
+Aitchison, J. (2010). The articulate mammal: An introduction to psycholinguistics (6.ª ed.). Routledge.
+Aquinas, T. (2002). Summa Theologiae (Benziger ed., vols. 13-14). Christian Classics.
+
+[[29]]
+Aristotle. (2000). Acerca del alma (J. García, Trad.). Gredos.
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke UP.
+Bentham, J. (1988). An introduction to the principles of morals and legislation (J. H. Burns & H. L. A. Hart, Eds.). Oxford UP. (Obra original 1789)
+Bergson, H. (2007). La evolución creadora (A. Pellón, Trad.). Siglo XXI. (Obra original 1907)
+Berwick, R. C., & Chomsky, N. (2016). Why only us: Language and evolution. MIT Press.
+Bopp, F. (1816). Über das Conjugationssystem der Sanskritsprache. Andreäischen.
+Camus, A. (2005). Le mythe de Sisyphe. Gallimard. (Obra original 1942)
+Carnap, R. (1936). Testability and meaning. Philosophy of Science, 3, 419-471.
+Chalmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200-219.
+Churchland, P. S. (1986). Neurophilosophy: Toward a unified science of the mind-brain. MIT Press.
+Clark, A. (2016). Surfing uncertainty: Prediction, action, and the embodied mind. Oxford UP.
+Comte, A. (1875). Cours de philosophie positive (10 vols.). Baillière.
+Dehaene, S. (2014). Consciousness and the brain: Deciphering how the brain codes our thoughts. Viking.
+Descartes, R. (1996). Meditations on first philosophy (J. Cottingham, Trad.). Cambridge UP. (Obra original 1641)
+Dilthey, W. (2002). Selected works IV: Hermeneutics and the study of history (R. A. Makkreel & F. Rodi, Eds.). Princeton UP.
+Einstein, A. (1920). Relativity: The special and general theory (R. W. Lawson, Trad.). Methuen.
+Frankl, V. E. (2006). Man’s search for meaning (I. Lasch, Trad.). Beacon. (Obra original 1946)
+Frankfurt, H. (1969). Alternate possibilities and moral responsibility. Journal of Philosophy, 66(23), 829-839.
+Gettier, E. L. (1963). Is justified true belief knowledge? Analysis, 23(6), 121-123.
+Greene, J., & Cohen, J. (2004). For the law, neuroscience changes nothing and everything. Philosophical Transactions B, 359, 1775-1785.
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke UP.
+Harding, S. (1993). Rethinking standpoint epistemology. Hypatia, 8(4), 68-84.
+Hume, D. (2000). A treatise of human nature (D. F. Norton & M. J. Norton, Eds.). Oxford UP. (Obra original 1739)
+James, W. (1890). The principles of psychology (Vol. 1). Henry Holt.
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus & Giroux.
+Kant, I. (2011). Groundwork of the metaphysics of morals (M. Gregor & J. Timmermann, Trad.). Cambridge UP. (Obra original 1785)
+Kuhn, T. S. (2012). The structure of scientific revolutions (4.ª ed.). Chicago UP. (Obra original 1962)
+Latour, B., & Woolgar, S. (1986). Laboratory life: The construction of scientific facts (2.ª ed.). Princeton UP.
+Leibniz, G. W. (1956). The Leibniz–Clarke correspondence (H. G. Alexander, Ed.). Manchester UP. (Intercambio 1715-1716)
+Lewandowsky, S., Ecker, U. K. H., & Cook, J. (2020). Beyond misinformation. Journal of Applied Research in Memory and Cognition, 9(3), 346-369.
+Libet, B. (1985). Unconscious cerebral initiative… Behavioral and Brain Sciences, 8(4), 529-566.
+Locke, J. (1975). An essay concerning human understanding (P. H. Nidditch, Ed.). Clarendon. (Obra original 1690)
+
+[[30]]
+Luther, M. (2008). On the bondage of the will (P. Watson, Trad.). Baker Academic. (Obra original 1525)
+Massey, D. (2005). For space. Sage.
+Maturana, H., & Varela, F. (1980). Autopoiesis and cognition: The realization of the living. Reidel.
+Mele, A. R. (2014). Free: Why science hasn’t disproved free will. Oxford UP.
+Merleau-Ponty, M. (1996). Fenomenología de la percepción. Siglo XXI. (Obra original 1945)
+Naess, A. (1989). Ecology, community and lifestyle (D. Rothenberg, Trad.). Cambridge UP.
+Nagel, T. (1974). What is it like to be a bat? The Philosophical Review, 83(4), 435-450.
+Newton, I. (1999). The Principia (I. B. Cohen & A. Whitman, Trads.). University of California Press. (Obra original 1687)
+Nietzsche, F. (2006). Die fröhliche Wissenschaft (G. Colli & M. Montinari, Eds.). De Gruyter. (Obra original 1882)
+Nicholson, D., & Dupré, J. (2018). Everything flows: Towards a processual philosophy of biology. Oxford UP.
+Plato. (1997). Complete works (J. M. Cooper, Ed.). Hackett.
+Popper, K. (1959). The logic of scientific discovery. Hutchinson.
+Rosa, H. (2013). Social acceleration: A new theory of modernity. Columbia UP.
+Rovelli, C. (2018). The order of time (E. Seger, Trad.). Penguin.
+Schiller, F. (2004). Letters on the aesthetic education of man (E. M. Wilkinson & L. A. Willoughby, Trads.). Clarendon. (Obra original 1794)
+Schleicher, A. (1863). Die Darwinische Theorie und die Sprachwissenschaft. Böhlau.
+Schopenhauer, A. (2010). On the freedom of the will (K. Kolenda, Trad.). Dover. (Obra original 1839)
+Seligman, M. E. P. (2011). Flourish. Free Press.
+Sunstein, C. R. (2017). #Republic: Divided democracy in the age of social media. Princeton UP.
+Tomasello, M. (1999). The cultural origins of human cognition. Harvard UP.
+Tononi, G., et al. (2024). Integrated Information Theory 4.0. PLOS Computational Biology, 20, e1011465.
+Wolf, S. (2010). Meaning in life and why it matters. Princeton UP.
+
+6. Apéndices
+6.1 Glosario básico
+Término               Definición sintética
+Autopoiesis           Organización de un sistema que se (re)produce a sí mismo y mantiene su identidad operativa.
+Simpoiesis            “Hacer-con”; co-producción relacional de seres y procesos (Haraway).
+Qualia                Aspectos subjetivos de la experiencia (el “cómo se siente”).
+Ontología (filos.)    Disciplina que investiga qué existe y cómo se clasifica lo real.
+
+[[31]]
+Término              Definición sintética
+Paradigma            Marco conceptual y metodológico compartido que guía una comunidad científica (Kuhn).
+Falsacionismo        Criterio popperiano: una teoría es científica si puede, en principio, refutarse mediante pruebas empíricas.
+Necropolítica        Poder que decide quién puede/“debe” morir (Mbembe), ampliando la biopolítica foucaultiana.
+IIT (φ)              Teoría que mide la conciencia como cantidad de integración causal en un sistema.
+Duración (Bergson) Flujo continuo y cualitativo del tiempo vivido, irreducible a instantes matemáticos.
+6.2 Recursos de acceso abierto recomendados
+Tipo                  Sitio                     Descripción breve
+Repositorio universal Archive.org               Millones de libros escaneados (dominio público / préstamo digital).
+Revistas OA           DOAJ                      Índice de revistas peer-review completamente en open access.
+Pre-prints ciencia    arXiv.org                 Física, matemáticas, cs; incluye secciones de biología y filosofía.
+Humanidades           PhilPapers                Base de datos con pre-prints y enlaces a artículos filosóficos.
+Ciencias sociales     SSRN                      Working papers de economía, derecho y sociología.
+Español               RedALyC / SciELO          Acceso abierto a revistas de Latinoamérica y el Caribe.
+Lingüística           Glottolog / Zenodo-Ling Datos tipológicos y artículos de lingüística comparativa.
+6.3 Notas metodológicas
+    1. Estrategia de búsqueda
+            o Capas: comenzamos con Google Scholar y bases especializadas → rastreamos versiones OA en repositorios → verificamos datos
+                (ISBN, DOI).
+            o Filtros: prioridad a peer-review y ediciones críticas; se descartaron resúmenes comerciales y blogs sin revisión.
+    2. Criterios de selección
+            o Obra fundacional o síntesis contemporánea altamente citada.
+            o Disponibilidad en español o traducción fiable, salvo textos técnicos ineludibles.
+            o Equilibrio entre perspectiva histórica y estado del arte 2020-2025.
+    3. Crítica de fuentes
+            o Textos cotejados con al menos dos reseñas académicas para detectar sesgos.
+            o Ediciones dominadas por ideologías extremas (e.g., pseudociencia) fueron excluidas.
+    4. Normalización bibliográfica
+
+[[32]]
+o   Adaptación estricta a APA 7.ª; uso de DOIs cuando existen; fechas originales en paréntesis.
+5. Limitaciones reconocidas
+       o Predominio de tradición occidental por disponibilidad de fuentes; se incluyeron diálogos no occidentales donde la bibliografía era
+           robusta.
+       o Constantemente cambian las políticas de acceso; algunos enlaces OA pueden caducar y requerir búsquedas alternativas.
+
+[[33]]
+

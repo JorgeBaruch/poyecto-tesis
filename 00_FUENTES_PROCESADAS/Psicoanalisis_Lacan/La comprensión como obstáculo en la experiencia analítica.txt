@@ -1,0 +1,379 @@
+﻿[[1]]
+La comprensión como obstáculo en la experiencia analítica
+Introducción
+Una de las tesis más disruptivas de Jacques Lacan es su crítica a la comprensión como eje de la
+praxis analítica. A lo largo de su enseñanza, Lacan insistió en que el analista debe resistir la
+tentación de comprender al analizante desde una lógica empática o intuitiva. Esta posición se
+inscribe dentro de una crítica más amplia al giro que el psicoanálisis tomó después de Freud, en
+especial en su institucionalización durante la posguerra. En su célebre conferencia en el coloquio de
+Royaumont (1958), Lacan advirtió que el análisis se había desviado hacia una forma de
+“reeducación emocional”, donde el analista se convertía en modelo identificatorio para el paciente:
+“El análisis se había convertido en una reeducación emocional del paciente…” (Gárate, s.f., p. 1).
+Esta deriva generó lo que Lacan identificó como un callejón sin salida clínico: los análisis quedaban
+fijados a la dimensión imaginaria de la transferencia, favoreciendo una identificación especular en
+lugar del trabajo de lo simbólico. Desde esta perspectiva, Lacan lanza una advertencia tajante:
+      “Una de las cosas que más debemos evitar es precisamente comprender demasiado,
+      comprender más que lo que hay en el discurso del sujeto. No es lo mismo interpretar
+      que imaginar comprender. Es exactamente lo contrario. Incluso diría que las puertas de
+      la comprensión analítica se abren en base a un cierto rechazo de la comprensión” (Lacan,
+      1954/1983, p. 103).
+
+Aquí se despliega una distinción clave entre comprensión e interpretación. La comprensión —
+entendida en términos empáticos o psicológicos— opera en el registro imaginario, aquel donde el
+sujeto se reconoce en una imagen coherente, que oculta su división estructural. En cambio, la
+interpretación se ubica en el campo simbólico: no busca dar sentido, sino introducir una ruptura en
+el discurso del sujeto que haga emerger lo inconsciente.
+La propuesta de Lacan es radical en tanto subvierte el paradigma hermenéutico dominante en las
+ciencias humanas, que considera la comprensión como acceso privilegiado a la verdad del sujeto. A
+diferencia de Dilthey —quien sostenía que “comprendemos la vida psíquica, mientras que
+explicamos la naturaleza” (Dilthey, ….)—, Lacan sugiere que la verdad subjetiva no se alcanza por
+comprensión, sino por el trabajo del significante.
+Este desplazamiento implica una transformación epistemológica. Mientras que la comprensión se
+asocia a la intuición inmediata, la lógica analítica lacaniana se basa en el desciframiento estructural
+del discurso. El inconsciente no se intuye, se interpreta. En esta línea, Lacan afirma:
+      “Lo que escucho es de entendimiento. El entendimiento no me obliga a comprender”
+      (Lacan, 1958/2005, p. 596).
+
+Esto no implica una negación del sentido, sino el reconocimiento de que el sentido es un efecto y no
+una sustancia del sujeto. El deseo no es un contenido a entender, sino un vacío estructural que se
+manifiesta a través del síntoma.
+En las siguientes secciones desarrollaremos esta crítica, abordando las implicancias clínicas,
+filosóficas y éticas de esta posición. Compararemos el modelo lacaniano con la tradición
+hermenéutica de Dilthey y Jaspers, y mostraremos cómo el rechazo de la comprensión no es un acto
+de frialdad, sino una ética del deseo.
+
+[[2]]
+Referencias (APA 7.ª ed.)
+    • Lacan, J. (1983). El seminario, libro 1: Los escritos técnicos de Freud (A. Viganó, Trad.).
+      Paidós. (Original de 1954).
+    • Lacan, J. (2005). Escritos II. Siglo XXI.
+    • Dilthey, W. (cit. …..). El mundo histórico.
+    • Ferrater Mora, J. (1994). Diccionario de filosofía (T. I–IV). Ariel.
+
+Comprensión e identificación imaginaria – Una crítica estructural
+al narcisismo clínico
+La crítica de Lacan a la comprensión no es meramente una advertencia técnica. Es una intervención
+estructural en la epistemología del psicoanálisis, y particularmente, en la concepción del sujeto.
+Para entender por qué la comprensión resulta un obstáculo clínico, es necesario examinar la forma
+en que Lacan sitúa al yo (moi) dentro del campo del imaginario.
+Desde sus primeros desarrollos, especialmente en el texto “El estadio del espejo” (1949), Lacan
+plantea que el yo no es una entidad sustancial o un núcleo psíquico estable, sino una formación
+alienada, nacida de la identificación con una imagen especular. En palabras de Lacan:
+      “La forma total del cuerpo humano por la que el sujeto anticipadamente se capta como
+      un todo, en un acto de identificación primordial, permanece desde entonces como el
+      núcleo del yo” (Lacan, 1949/1986, p. 92).
+
+Este acto de anticipación, que confiere al sujeto una imagen de unidad, se funda en una discordancia
+entre la motricidad fragmentada del infans y la completud de la imagen visual. El yo es, por tanto,
+una ilusión estructuralmente alienada, que responde más a una lógica de completud imaginaria que
+a una verdad subjetiva. Es en esta dimensión imaginaria que opera la comprensión intuitiva: al
+“comprender” al otro, lo hago coincidir con una imagen especular de mí mismo, reforzando así una
+identificación narcisista.
+De este modo, comprender al analizante es —desde esta óptica— una forma de capturarlo en el
+campo del yo, de reconfirmar su historia desde el punto de vista de un otro que sabe, que guía, que
+valida. Lacan denuncia este gesto como una transgresión ética, porque impide que el sujeto se
+confronte con su división. En este sentido, advierte:
+      “Interpretar no es imaginar comprender. Es exactamente lo contrario” (Lacan,
+      1954/1983, p. 103).
+
+Esta afirmación remite directamente al lugar de la transferencia en el análisis. Si el analista se
+posiciona como el que comprende, se convierte rápidamente en objeto de identificación. El
+analizante proyecta sobre él la imagen de un Otro completo, que sabe lo que él aún no sabe. Esta
+relación —aparentemente tranquilizadora— clausura el análisis, al estabilizarlo en una relación
+yoica, especular, donde el síntoma se “entiende”, pero no se atraviesa.
+Por eso Lacan propone una torsión ética del dispositivo: que el analista no se deje capturar por la
+transferencia imaginaria. La neutralidad analítica no debe confundirse con la frialdad, sino con la
+
+[[3]]
+negativa a ocupar el lugar del Ideal del yo. En lugar de eso, el analista debe sostener una función
+vacía, la del sujeto supuesto saber:
+      “El analista, como sujeto supuesto saber, no es el que comprende al paciente, sino el que
+      sostiene un lugar desde el cual el saber se supone al decir del otro” (Lacan, 1964/2006,
+      p. 292).
+
+La interpretación, desde esta lógica, no se dirige al yo del analizante ni a su historia coherente. No
+busca explicar ni aclarar, sino intervenir en la cadena significante, introducir un corte que
+desarticule el sentido cristalizado del discurso. Se trata de provocar un descarrilamiento, un tropiezo,
+una falla. En palabras de Lacan:
+      “Interpretar es hacer resonar un significante en otro lugar, allí donde el sujeto no sabe lo
+      que dice” (Lacan, 1964/2006, p. 295).
+
+La comprensión, por el contrario, opera como una síntesis: busca cerrar el sentido, estabilizar el
+relato, producir coherencia. El análisis, en cambio, apunta a la hiancia entre significantes, a lo que
+no encaja. Por eso, cuando el analista “comprende”, muchas veces tapa el síntoma en lugar de
+revelarlo.
+Un ejemplo clínico puede ilustrar esta lógica. Un paciente relata reiteradamente que sueña con un
+tren que se descarrila. Cree que eso representa su angustia por no cumplir con las expectativas
+familiares. El analista que “comprende” este contenido podría reforzar esta interpretación simbólica,
+y con ello, mantener el síntoma como una metáfora transparente. Pero un analista lacaniano podría
+intervenir, no explicando el sueño, sino repitiendo en tono de pregunta o con entonación ambigua la
+palabra “descarrilar”, o incluso haciendo silencio. Ese acto puede producir en el sujeto un
+movimiento inesperado: una asociación, un corte, una nueva conexión significante que interrumpe
+la narrativa y abre otro campo de sentido.
+Este tipo de intervención no busca sentido, sino producir un vacío. El deseo no es lo que se dice,
+sino lo que aparece en el hiato entre lo dicho y lo que no se puede decir. Por eso, como lo plantea
+Fink (1997):
+      “El analista lacaniano no escucha lo que el paciente quiere decir, sino lo que no quiere
+      decir” (p. 18).
+
+El rechazo de la comprensión, entonces, no es desinterés, sino una estrategia ética para no apresurar
+el cierre del sentido. El analista no debe llenar con su saber el discurso del sujeto, sino sostener la
+falta estructural sobre la que se articula su verdad. En esta operación, el deseo del analista —que
+Lacan distingue del deseo de comprender— es esencial:
+      “El deseo del analista no es un deseo puro, sino un deseo que apunta al deseo del sujeto”
+      (Lacan, 1960/2005, p. 603).
+
+Este deseo no busca captar al sujeto, sino sostenerlo en su división. No pretende integrar el síntoma
+en una comprensión global, sino hacer de ese síntoma un punto de partida para el trabajo con lo
+inconsciente.
+
+[[4]]
+Referencias (APA 7.ª ed.)
+    • Fink, B. (1997). A clinical introduction to Lacanian psychoanalysis: Theory and technique.
+      Harvard University Press.
+    • Lacan, J. (1983). El seminario, libro 1: Los escritos técnicos de Freud (A. Viganó, Trad.).
+      Paidós. (Original de 1954).
+    • Lacan, J. (1986). Escritos I. Siglo XXI. (Texto original de 1949).
+    • Lacan, J. (2005). Escritos II. Siglo XXI. (Original de 1960).
+    • Lacan, J. (2006). El seminario, libro 11: Los cuatro conceptos fundamentales del
+      psicoanálisis (J.-A. Miller, Ed.). Paidós. (Seminario dictado en 1964).
+
+Transferencia, equívoco y el rechazo de la empatía como motor
+clínico
+Uno de los aportes más decisivos de Lacan a la teoría y la práctica del psicoanálisis es su
+reformulación de la transferencia. Lejos de considerarla únicamente como una reedición de afectos
+infantiles proyectados sobre el analista —tal como se sostenía en ciertas corrientes postfreudianas—
+Lacan plantea que la transferencia es una estructura de discurso, sostenida por la suposición de
+saber que el sujeto otorga al analista.
+Ahora bien, esta estructura simbólica puede desviarse cuando el analista cae en la trampa de la
+comprensión imaginaria. Tal como se señaló en la conferencia de Royaumont, al ubicarse como
+modelo identificatorio, el analista se convierte en una figura del yo ideal:
+      “Desde la muerte de Freud, la institucionalidad del psicoanálisis por aquellos años había
+      llevado a los analistas a presentarse como modelos para sus pacientes, fomentando
+      identificaciones imaginarias […] llevando los análisis a callejones sin salida” (Gárate,
+      s.f., p. 1).
+
+Esto equivale a una captura del dispositivo analítico por el registro del yo (moi), el cual, como
+vimos, está constituido desde el imaginario. El análisis entonces degenera en una relación especular:
+el paciente busca ser comprendido por el analista, y este, si cede, refuerza las identificaciones
+narcisistas que justamente deberían ser interrogadas. En este contexto, Lacan insiste:
+      “Comprender más que lo que hay en el discurso del sujeto […] es exactamente lo
+      contrario de interpretar” (Lacan, 1954/1983, p. 103).
+
+La interpretación, en este marco, no debe pensarse como una operación que traduce el sentido
+oculto de un mensaje, sino como un acto que introduce un desvío, una torsión, un equívoco en la
+cadena significante. Para que la interpretación tenga efectos, debe tocar el punto de inconsistencia
+del discurso del sujeto, el lugar donde el sentido vacila. Como señala Lacan en el Seminario XI:
+      “La interpretación no se dirige al sentido, se dirige al significante […] La interpretación
+      opera por equívoco” (Lacan, 1964/2006, p. 298).
+
+Es por esto que la comprensión, al cerrar el sentido, actúa como un obstáculo clínico. Si el analista
+empatiza, si consuela, si traduce el sufrimiento del paciente en categorías comprensibles, aborta la
+
+[[5]]
+posibilidad de que surja el saber inconsciente. En lugar de producir un corte, produce una
+identificación. En vez de promover una interrogación del deseo, facilita una adaptación imaginaria.
+Este punto se entrelaza con la noción de contratransferencia. En la tradición postfreudiana, se
+promovía la idea de que el analista debía trabajar sus afectos contratransferenciales para evitar
+contaminaciones en la cura. Lacan critica esta concepción emocionalista, proponiendo que la
+contratransferencia no es un dato psicológico del analista, sino una consecuencia estructural de su
+posición en el discurso. Como afirma:
+      “La contratransferencia es el residuo del análisis del analista; pero no como afecto, sino
+      como lugar desde el cual no se deja capturar por la imagen del analizante” (Lacan,
+      1958/2005, p. 604).
+
+En otras palabras, el analista debe haber atravesado sus propias identificaciones yoicas para poder
+sostener la función de vacío que le corresponde: la de ser soporte del lugar del Otro. No se trata de
+un saber personal ni de una empatía afectiva, sino de una función estructural: posibilitar que el
+sujeto hable sin ser comprendido, para que algo del inconsciente se diga.
+A nivel clínico, esto se traduce en una práctica no comprensiva, no pedagógica, no hermenéutica. El
+analista no debe explicarle al paciente por qué sufre, ni interpretarle sus síntomas desde un código
+decodificador. Por el contrario, debe abrir un espacio donde el discurso se rompa, se repliegue, se
+desplace, se descontrole. Este descentramiento es el que puede producir un encuentro con lo real del
+sujeto: no con su historia, sino con su falta.
+Tal como plantea Miller en relación con esta posición clínica:
+      “El analista no se compromete con el sentido, sino con el sinsentido estructural del
+      inconsciente. Y lo hace al precio de su propio deseo, deseo que se mantiene en la falta
+      de comprender” (Miller, 1996, p. 88).
+
+Por eso el deseo del analista —concepto clave que se articula en el Seminario XI— no puede
+confundirse con el deseo de ayudar, consolar o esclarecer. Se trata de un deseo que apunta al deseo
+del otro, pero no para llenarlo, sino para sostenerlo en su falta. Esta es la dimensión ética del acto
+analítico: no taponar el vacío estructural del sujeto con una comprensión ilusoria, sino permitir que
+ese vacío se articule en el decir.
+El analista, en suma, no está allí para comprender, sino para soportar la incomprensión. No para
+escuchar al yo, sino para hacer lugar al sujeto dividido. No para construir un relato coherente, sino
+para interrumpir los relatos que el sujeto se cuenta a sí mismo para no encontrarse con su deseo.
+
+
+Referencias (APA 7.ª ed.)
+    • Lacan, J. (1983). El seminario, libro 1: Los escritos técnicos de Freud (A. Viganó, Trad.).
+      Paidós. (Original de 1954).
+    • Lacan, J. (2005). Escritos II. Siglo XXI. (Original de 1958).
+    • Lacan, J. (2006). El seminario, libro 11: Los cuatro conceptos fundamentales del
+      psicoanálisis (J.-A. Miller, Ed.). Paidós. (Seminario dictado en 1964).
+    • Miller, J.-A. (1996). Introducción al método psicoanalítico. Paidós.
+
+[[6]]
+Comprensión, hermenéutica y el inconsciente como estructura
+La posición de Lacan frente a la comprensión no sólo implica una revisión del dispositivo analítico,
+sino también un giro epistemológico que lo distancia radicalmente de las tradiciones hermenéuticas
+dominantes en las ciencias del espíritu. Para Wilhelm Dilthey, por ejemplo, la comprensión
+constituía el método privilegiado de acceso a la vida psíquica, en contraposición al método
+explicativo de las ciencias naturales. Como afirma el propio Dilthey:
+      “Comprendemos la vida psíquica, mientras que explicamos la naturaleza” (Dilthey, ...).
+
+Este paradigma fue retomado por autores como Jaspers, Binswanger o Heidegger, y se convirtió en
+el eje de la psicología fenomenológica. Desde esta perspectiva, comprender al otro implicaba una
+suerte de co-vivencia de su experiencia interior, captada por intuición empática. El ideal subyacente
+era el de una comunión intersubjetiva que permitiera reconstruir el sentido de la vida psíquica desde
+dentro.
+Frente a esta tradición, Lacan introduce una ruptura decisiva. Si el inconsciente es estructurado
+como un lenguaje —como sostiene desde su retorno a Freud—, entonces ya no puede ser captado
+por intuición ni por empatía. El inconsciente no se revela al comprender lo que el otro siente, sino
+que se deduce de los efectos significantes que escapan al control del yo. En sus propios términos:
+      “El inconsciente está estructurado como un lenguaje” (Lacan, 1966/2005, p. 539).
+
+Este enunciado, uno de los más famosos de su obra, condensa una tesis central: el inconsciente no
+es una “otra conciencia”, ni un contenido reprimido que debe ser traducido a un lenguaje consciente,
+sino una instancia que opera mediante desplazamientos, condensaciones, metáforas y metonimias.
+En esto, Lacan se basa tanto en Freud como en la lingüística estructural de Saussure y Jakobson.
+Como indica:
+      “Freud ya nos había dado los medios de abordar el inconsciente como un texto que debe
+      leerse como se descifra un jeroglífico” (Lacan, 1966/2005, p. 548).
+
+Esta concepción conlleva un giro metodológico fundamental. Si el inconsciente no se expresa en la
+experiencia vivida sino en la articulación significante, entonces la comprensión intuitiva, basada en
+la empatía o la identificación, resulta no sólo insuficiente, sino engañosa. En palabras de Lacan:
+      “La comprensión sólo es evocada como una relación siempre limítrofe. Es un puro
+      espejismo” (Lacan, 1946/2005, p. 168).
+
+El espejismo de la comprensión reside en su promesa de sentido pleno, de unidad del yo, de
+accesibilidad a la verdad subjetiva. Lacan desmonta esta ilusión mostrando que el sujeto no es un
+centro de experiencia, sino un efecto de lenguaje. La verdad del sujeto no se encuentra en la
+coherencia narrativa de su vida, sino en sus rupturas, lapsus, actos fallidos, formaciones del
+inconsciente que desafían la comprensión.
+Aquí se hace patente la diferencia entre sujeto de la experiencia y sujeto del significante. Mientras
+la fenomenología busca reconstruir el sentido de la vivencia a partir de su manifestación consciente,
+Lacan apunta a un sujeto dividido, que no coincide consigo mismo y que no puede decir toda la
+verdad sobre sí. En este marco, la noción de comprensión aparece como una tentativa fallida de
+suturar esa división.
+
+[[7]]
+Este punto adquiere una especial relevancia en la crítica de Lacan a la psiquiatría comprensiva, en
+especial a la obra de Karl Jaspers. En “Acerca de la causalidad psíquica” (1946), Lacan confronta
+directamente la noción jaspersiana de comprensión como acceso inmediato al significado de los
+fenómenos subjetivos. Allí afirma:
+      “Lo falso es imaginar que el sentido en cuestión es lo que se comprende. La
+      comprensión en psiquiatría es un término fugitivo, inasible” (Lacan, 1946/2005, p. 167).
+
+Y agrega con ironía:
+      “Nada más falso: hay personas que tienen todo lo que anhela su corazón y que están
+      tristes de todos modos” (Lacan, 1946/2005, p. 168).
+
+Este señalamiento va al núcleo de la concepción lacaniana del síntoma. Si el síntoma responde a
+una lógica significante, entonces no puede explicarse por la psicología de la motivación ni por la
+reconstrucción de las vivencias. El síntoma es una formación del inconsciente que condensa un
+deseo, una defensa y un saber enigmático. Su interpretación, por tanto, no es una traducción al
+lenguaje común, sino un acto de lectura que toma al significante en su materialidad y en su función
+estructural.
+Lacan enfatiza esta idea a lo largo de su obra. La interpretación que toca el inconsciente no es
+aquella que se entiende, sino aquella que hace resonar un significante de forma inesperada. En este
+sentido, afirma que la interpretación analítica:
+      “No es del orden de la comprensión, sino del corte” (Lacan, 1964/2006, p. 301).
+
+El corte introduce un vacío en el sentido, y es en ese vacío donde el sujeto puede surgir como tal.
+No hay saber previo que lo defina, no hay imagen comprensible que lo capture. Sólo hay restos de
+un decir, fragmentos de discurso, trozos de goce que pueden ser alojados en el dispositivo analítico
+si este no cede a la tentación de comprender.
+
+
+Referencias (APA 7.ª ed.)
+    • Lacan, J. (1946/2005). Acerca de la causalidad psíquica. En Escritos II (pp. 161–175). Siglo
+      XXI.
+    • Lacan, J. (1964/2006). El seminario, libro 11: Los cuatro conceptos fundamentales del
+      psicoanálisis (J.-A. Miller, Ed.). Paidós.
+    • Lacan, J. (1966/2005). La instancia de la letra en el inconsciente o la razón desde Freud. En
+      Escritos I (pp. 531–584). Siglo XXI.
+
+Ética del no saber, intuición e incompletud estructural del análisis
+El rechazo lacaniano de la comprensión como vía analítica no implica cinismo ni desinterés por el
+sufrimiento subjetivo. Por el contrario, se trata de sostener una ética rigurosa, fundada en el respeto
+por la división constitutiva del sujeto. Esta posición se despliega en el contexto de lo que Lacan
+llama “el deseo del analista”, noción que condensa una ética del acto en lugar de una moral del
+entendimiento.
+
+[[8]]
+Tal como vimos en secciones anteriores, comprender al paciente en su coherencia yoica puede
+funcionar como un “tapón de sentido”, en tanto clausura la dimensión enigmática del discurso
+inconsciente. El deseo del analista no busca cerrar esa hiancia, sino sostenerla. En palabras de
+Lacan:
+      “El deseo del analista no es un deseo puro, sino un deseo que apunta al deseo del sujeto”
+      (Lacan, 1960/2005, p. 603).
+
+Este “apuntar al deseo” no implica traducirlo ni decodificarlo, sino mantenerlo como pregunta,
+como vacío estructurante. Es por ello que la interpretación analítica no puede fundarse en la
+intuición empática ni en la reconstrucción comprensiva de la biografía. Debe operar desde una
+posición de no saber, lo cual no es ignorancia, sino renuncia a ocupar el lugar del Otro que
+comprende. Lacan lo dice de modo inequívoco:
+      “El analista escucha, no ausculta; entiende, pero no comprende” (Lacan, 1958/2005, p.
+      596).
+
+Aquí, el verbo “entender” remite al francés entendre, que implica escuchar con atención, sin
+precipitarse a la comprensión. Es en esa espera que puede producirse algo nuevo, algo que el sujeto
+no sabía que sabía. Esa es, precisamente, la definición freudiana del inconsciente.
+Esta ética del no saber encuentra un fundamento lógico en el concepto de incompletud, tal como lo
+formuló Gödel en su famoso teorema. De hecho, Lacan hace referencia a este teorema en su texto
+“La ciencia y la verdad” (1966), destacando que:
+      “Toda formalización completa de un sistema está limitada por su propia inconsistencia,
+      o mejor dicho, por su incapacidad para decirlo todo” (Lacan, 1966/2005, p. 859).
+
+El sujeto del inconsciente, como estructura significante, está marcado por esa misma imposibilidad
+de totalidad. No puede decirlo todo sobre sí mismo. Por lo tanto, pretender comprenderlo
+completamente es negar su condición estructural. Esta es la razón por la cual la intuición, tal como
+la concebía Descartes —como visión clara e inmediata del cogito—, debe ser revisada desde el
+psicoanálisis.
+El yo cartesiano se funda en la evidencia de la conciencia: “Pienso, luego existo” (Je pense, donc je
+suis). Freud, y luego Lacan, subvierten esta certeza. Para Freud, el sujeto no es dueño de su
+pensamiento: los sueños, los lapsus y los síntomas lo muestran como dividido. Lacan profundiza
+esta idea al afirmar:
+      “El sujeto del psicoanálisis no es otro que el sujeto de la ciencia, pero dividido por el
+      significante” (Lacan, 1964/2006, p. 32).
+
+Este sujeto dividido no puede ser conocido por intuición. Su verdad está en lo que no puede decir,
+en lo que retorna como síntoma, como equívoco, como insistencia de lo no sabido. Por ello, la
+comprensión analítica sólo puede surgir, en última instancia, como efecto de un proceso de
+desciframiento, no como acto de visión directa.
+En este sentido, la referencia a Dilthey y a la hermenéutica adquiere un nuevo relieve. Mientras que
+para Dilthey:
+      “El análisis del comprender constituye la base para la fijación de las reglas de
+      interpretación” (Dilthey, citado en Gárate, s.f., p. 3),
+
+[[9]]
+para Lacan, la interpretación no tiene reglas fijas, porque responde a la lógica del inconsciente, que
+es una lógica de lo contingente, no de lo necesario. Cada intervención debe construirse como un
+acto singular, no como una aplicación de métodos.
+Por último, la noción de intuición puede ser revisitada no como certeza instantánea, sino como
+acontecimiento de saber que irrumpe inesperadamente en el decir del sujeto. En esa medida, el
+analista debe estar atento no para comprender, sino para sorprenderse. Como lo expresa Lacan:
+      “La interpretación no debe tener como meta el sentido, sino la sorpresa” (Lacan,
+      1964/2006, p. 301).
+
+La práctica analítica, por tanto, se funda en la tensión entre el deseo de saber y el respeto por la
+opacidad del inconsciente. La comprensión, entendida como plenitud de sentido, debe ser sustituida
+por una escucha que abra el espacio del equívoco. Sólo así el análisis puede operar como una
+experiencia transformadora, que no consiste en saber más, sino en devenir otro en el acto mismo de
+hablar.
+
+
+Referencias (APA 7.ª ed.)
+    • Lacan, J. (1958/2005). La dirección de la cura y los principios de su poder. En Escritos II
+      (pp. 585–645). Siglo XXI.
+    • Lacan, J. (1960/2005). Subversión del sujeto y dialéctica del deseo. En Escritos II (pp. 597–
+      641). Siglo XXI.
+    • Lacan, J. (1964/2006). El seminario, libro 11: Los cuatro conceptos fundamentales del
+      psicoanálisis (J.-A. Miller, Ed.). Paidós.
+    • Lacan, J. (1966/2005). La ciencia y la verdad. En Escritos II (pp. 843–894). Siglo XXI.
+
+[[10]]
+

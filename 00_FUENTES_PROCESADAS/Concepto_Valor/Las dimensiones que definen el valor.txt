@@ -1,0 +1,598 @@
+﻿[[1]]
+El concepto de valor es intrínsecamente complejo y ha sido abordado desde múltiples
+disciplinas y perspectivas a lo largo de la historia, lo que explica la dificultad para encontrar una
+definición única y universalmente aceptada. Su transformación refleja los cambios en las
+sociedades y en las formas de conocimiento.
+A continuación, se detalla cómo ha evolucionado el concepto de valor a través de distintas
+disciplinas y eras:
+1. Concepciones Tempranas y la Antigüedad
+• Filosofía Clásica y Medieval:
+   ◦ Desde sus orígenes, la filosofía se ha ocupado del valor, aunque inicialmente se centró en
+valores particulares como el Bien supremo (Platón en La República) o la virtud y la eudaimonía
+(felicidad) (Aristóteles en su Ética a Nicómaco). En la filosofía medieval, el valor se ligó a la teología
+con pensadores como San Agustín y Tomás de Aquino.
+   ◦ Se debatía si los valores existían independientemente de la percepción humana (objetivismo)
+o si dependían de las creencias y preferencias individuales o culturales
+(subjetivismo/relativismo).
+• Antropología y Sociedades Antiguas:
+   ◦ La concepción occidental dominante hasta el siglo XIX clasificaba las sociedades en etapas
+jerárquicas como Salvajes, Bárbaros y Civilizados, aplicando la idea de evolución. Inicialmente, la
+antropología evolucionista adhirió a esta visión, considerando otras culturas como
+inherentemente inferiores.
+   ◦ La arqueología del valor explora cómo el valor se manifestaba en el pensamiento mítico y
+mágico, a través de la sacralidad de objetos, lugares y seres, los sacrificios, la economía del don
+(con su reciprocidad y significado simbólico), y el valor del prestigio y el honor en sociedades
+tribales. Se reconoce la inefabilidad de ciertos valores como la vida y la comunidad.
+• Economía Política Clásica:
+   ◦ Pensadores como Adam Smith introdujeron la distinción entre "valor de uso" (la utilidad de un
+bien) y "valor de cambio" (el poder de compra que confiere la propiedad de un objeto).
+   ◦ La Teoría del Valor-Trabajo, desarrollada por Smith, David Ricardo y posteriormente por Karl
+Marx, postulaba que el valor de una mercancía se determina por la cantidad de trabajo necesaria
+para producirla. Marx profundizó esta idea con conceptos como la plusvalía y la fetichización de la
+mercancía.
+2. La Modernidad y el Surgimiento de la Axiología Formal
+• Axiología como Disciplina: No fue hasta finales del siglo XIX que el concepto de "valor" en
+general se convirtió en un objeto de estudio filosófico, dando origen a la axiología o teoría del
+valor. Max Scheler y Nicolai Hartmann son considerados pioneros de la axiología moderna,
+proponiendo teorías que afirmaban la objetividad y jerarquía de los valores. Risieri Frondizi
+ofreció un análisis que consideraba tanto la objetividad como la subjetividad en la valoración.
+• Filosofía Moderna: El debate sobre la subjetividad y objetividad del valor continuó con
+pensadores como Descartes, Spinoza, Kant (con el deber y la autonomía como valores morales) y
+Nietzsche (con una perspectiva crítica y relativista que cuestiona el fundamento de los valores
+tradicionales).
+• Sociología del Valor:
+  ◦ Gabriel Tarde consideraba el valor como una "cualidad de intensidad variable" que puede ser
+medida cuantitativamente, distinguiendo entre valores individuales y valores colectivos. Los
+valores colectivos, como la opinión pública, son percibidos como realidades objetivas.
+
+[[2]]
+◦ Émile Durkheim veía el valor como un dato objetivo que surge de la sociedad, manifestado en
+"ideales" y "sistemas de valores" que regulan la actividad humana y son compartidos por la
+comunidad.
+   ◦ Max Weber enfocó el valor como "criterios de valor internalizados" que guían la acción y
+como "tomas de posición valorativas" puramente subjetivas. Para Weber, el valor se distingue del
+hecho y no puede explicarse por la génesis histórica de un objeto, aunque le confiere su sentido
+propio.
+   ◦ Charles Cooley introdujo la "valuación" como una actividad orgánica interna que asigna valor
+a los objetos, derivando en "valores públicos" que regulan la evolución social.
+   ◦ Talcott Parsons restringió el concepto de valor a "pautas de valor", entendidas como criterios
+culturales compartidos que orientan la acción individual.
+• Economía y Marginalismo:
+   ◦ A principios del siglo XX, la economía neoclásica, influenciada por autores como Vilfredo
+Pareto, comenzó a desterrar el concepto de "valor" de la teoría económica, considerándolo
+metafísico, y se centró en los precios relativos y las curvas de indiferencia.
+   ◦ El marginalismo estableció que el valor de un bien o servicio se determina por su utilidad
+marginal, haciendo el valor subjetivo y dependiente de las preferencias individuales, en oposición
+a la teoría del valor-trabajo.
+3. Transformaciones Contemporáneas y Postmodernas
+• Giro Antropológico y Relativismo Cultural:
+  ◦ Franz Boas cuestionó la progresión lineal de las culturas, enfatizando el desarrollo de culturas
+en diferentes direcciones según eventos históricos y la importancia de conductas y tradiciones
+locales y personales.
+  ◦ A partir del siglo XX, la antropología cultural adoptó el relativismo cultural, sosteniendo que
+no existen pueblos intrínsecamente superiores o inferiores y que muchas experiencias son
+construcciones culturales.
+• Giro Postmoderno en Antropología: A finales de los 80 y 90, se reflejó una tendencia hacia
+etnografías más interpretativas y reflexivas, que abordaban explícitamente la metodología, el
+posicionamiento cultural, de género y racial del autor, y su influencia en el análisis.
+• Pensamiento Decolonial:
+  ◦ Propone un cuestionamiento epistemológico de las ciencias sociales, dirigiéndose a sus bases
+eurocéntricas y visibilizando otras epistemologías y conocimientos.
+  ◦ Busca el "diálogo de saberes" y la "coproducción de conocimiento" con los actores sociales,
+investigando con ellos, no sobre ellos. Denuncia la proyección de historias locales o regionales
+como si fuesen una única trayectoria universal.
+  ◦ Enrique Dussel enfatiza la necesidad de afirmar la exterioridad despreciada y la
+autovaloración del propio legado cultural.
+• Transformación de los Valores del Patrimonio Cultural:
+  ◦ Ha habido un cambio de posiciones epistémicas más estáticas a otras más dinámicas e
+inclusivas. Se ha pasado de la creencia en valores intrínsecos inmutables y universales (asociados a
+bienes tangibles y estáticos) a una visión donde el valor es multitemporal, poliédrico y construido
+socialmente.
+  ◦ La participación social y la democratización de los discursos son clave para definir y valorar el
+patrimonio, primando la perspectiva inclusiva y social sobre la materialista o estética tradicional.
+  ◦ Se ha producido un desplazamiento del debate teórico desde un eje estético-histórico a otro
+antropológico-cultural. Los valores extrínsecos, que resultan de la interacción del patrimonio con
+sus contextos sociales, económicos e históricos, han ganado relevancia.
+
+[[3]]
+◦ Los valores económicos del patrimonio se vinculan ahora a la sostenibilidad cultural y al
+bienestar social, trascendiendo la mera lógica de mercado.
+• Colapso de la "Comunidad" Tradicional:
+   ◦ La globalización, el pluralismo y la violencia han evidenciado el colapso de la comunidad
+entendida como una entidad estable y homogénea.
+   ◦ Se ha puesto en cuestión la "tiranía de la unicidad" (una identidad, homogeneidad) que llevó a
+la violencia en nombre de la comunidad.
+   ◦ Nuevas formas de socialidad como "interfaces", "tribus", "ensamblajes" y "redes" están
+siendo exploradas para entender la fluidez y heterogeneidad de los vínculos contemporáneos.
+   ◦ Para autores como Delanty, lo que construye comunidad son los procesos comunicativos y no
+una estructura institucional o el territorio. Zygmunt Bauman habla de una "modernidad líquida"
+donde las instituciones, identidades y valores se han vuelto fluidos y maleables.
+• La "Arqueología del Saber" de Foucault y los "Regímenes de Verdad":
+   ◦ Michel Foucault se centró en la historia de los diferentes modos de subjetivación del ser
+humano y en cómo los discursos forman sistemáticamente los objetos de los que hablan.
+   ◦ Su arqueología del saber no busca orígenes o intenciones de autor, sino que describe
+rupturas, discontinuidades y transformaciones en las prácticas discursivas, analizando las reglas
+de formación de los objetos, enunciados, conceptos y estrategias.
+   ◦ Foucault sostiene que la verdad no es universal e inmutable, sino que existen "regímenes de
+verdad" que son específicos a cada cultura y están intrínsecamente ligados a las relaciones de
+poder y la constitución de la subjetividad. El "valor" de los enunciados se define por su lugar,
+capacidad de circulación e intercambio, y posibilidad de transformación dentro de la economía de
+los discursos.
+• Emociones y Neurociencia: Los trabajos de Damasio han demostrado la importancia de los
+sentimientos y emociones en la vida humana, y la antropología simbólica ha explorado la estrecha
+correlación entre emoción y valor. Los objetos de valor provocan emociones positivas y su
+pérdida, negativas.
+• Ética de la Inteligencia Artificial (IA): En la actualidad, se discuten los principios éticos clave para
+la IA, incluyendo el bienestar humano, la supervisión, la mitigación de sesgos, la transparencia y la
+privacidad, lo que evidencia una nueva dimensión en la aplicación del concepto de valor.
+En síntesis, el concepto de valor ha transitado desde definiciones metafísicas y esencialistas hacia
+comprensiones más relacionales, contextuales y dinámicas. Ha pasado de ser una cualidad
+intrínseca y objetiva a ser visto como una construcción sociohistórica y subjetiva, influenciada por
+el lenguaje, las emociones, las relaciones de poder y las prácticas culturales, lo que refleja un
+cambio hacia una visión más integral y compleja de su naturaleza.
+Para comprender en profundidad la génesis y expresión del concepto de valor, diversas
+metodologías y enfoques disciplinares han evolucionado a lo largo de las eras. Estas metodologías
+buscan desentrañar cómo el valor se forma, se percibe, se codifica y se manifiesta en distintos
+contextos.
+
+A continuación, se detallan las metodologías clave para una comprensión profunda de la
+génesis y expresión del valor, basándose en las fuentes proporcionadas:
+Metodologías para la Génesis del Valor (Arqueología del Valor)
+La arqueología del valor se enfoca en la génesis pre-discursiva del valor, explorando cómo los
+valores surgen antes de ser formalizados explícitamente.
+• Arqueología del Saber (Michel Foucault):
+  ◦ Este método, desarrollado por Michel Foucault, se centra en la historia de los diferentes
+modos de subjetivación del ser humano y cómo los discursos forman sistemáticamente los
+
+[[4]]
+objetos de los que hablan. Foucault no busca orígenes o intenciones, sino que describe rupturas,
+discontinuidades y transformaciones en las prácticas discursivas, analizando las reglas de
+formación de los objetos, enunciados, conceptos y estrategias.
+   ◦ La arqueología del saber toma como objeto el "saber", que Foucault entiende como la película
+de pensamiento implícito en las culturas que articula los dominios más íntimos de su modo de
+vida.
+   ◦ Foucault se ha centrado en el valor de los enunciados, definido no por su verdad, sino por su
+lugar, capacidad de circulación e intercambio, y su posibilidad de transformación dentro de la
+economía de los discursos y la administración de recursos escasos.
+   ◦ Analiza cuatro dimensiones de las formaciones discursivas: la formación de los objetos (cómo
+emergen y se especifican los objetos del discurso), la formación de las modalidades enunciativas
+(cómo se pronuncian los enunciados y las posiciones subjetivas que implican), la formación de los
+conceptos (cómo se definen y aplican los conceptos) y la formación de las elecciones estratégicas
+(los temas y teorías que surgen).
+   ◦ Su enfoque busca entender cómo se han configurado históricamente los "regímenes de
+verdad" y su relación con el poder y la subjetividad.
+• Antropología del Valor:
+   ◦ Explora cómo el valor se manifestaba en el pensamiento mítico y mágico de sociedades
+antiguas. Esto incluye el análisis de la sacralidad de objetos, lugares y seres, el valor de los
+sacrificios (humanos, animales, bienes), la economía del don (con su reciprocidad y significado
+simbólico), y el valor del prestigio y el honor en sociedades tribales.
+   ◦ También se ocupa de la inefabilidad de ciertos valores como la vida y la comunidad.
+   ◦ Históricamente, la antropología cultural ha evolucionado desde la dependencia de informes
+fragmentarios hasta el trabajo de campo etnográfico y la observación participante, defendidos
+por Malinowski y Boas, para entender los contextos culturales específicos y evitar clasificaciones
+universales.
+• Análisis de Mitos y Rituales:
+   ◦ Complementa la antropología del valor al estudiar las narrativas y prácticas simbólicas que
+vehiculizan y expresan el valor en diferentes culturas.
+• Filosofía del Valor (Axiología):
+   ◦ Aunque la axiología como disciplina surgió formalmente a fines del siglo XIX, la filosofía ha
+abordado la génesis del valor desde la Antigüedad. Se discute si los valores son inherentes a los
+objetos (objetivismo) o dependen de la percepción humana (subjetivismo).
+   ◦ Pensadores como Max Scheler y Nicolai Hartmann propusieron teorías sobre la objetividad y
+jerarquía de los valores. Risieri Frondizi ofreció un análisis que integra tanto la objetividad como la
+subjetividad en la valoración.
+• Sociología del Valor:
+   ◦ La sociología se enfoca en cómo los valores personales de una comunidad se forman y
+cambian. Aborda la adquisición de valores a través de la experiencia social y la influencia de
+valores socialmente transmitidos en la conformación de la personalidad.
+   ◦ Autores como Gabriel Tarde veían el valor como una cualidad de intensidad variable que podía
+ser medida y diferenciaban entre valores individuales y colectivos. Émile Durkheim consideraba el
+valor como un dato objetivo que surge de la sociedad, manifestado en ideales y sistemas de
+valores compartidos. Max Weber se centró en los valores como criterios internalizados que guían
+la acción y tomas de posición subjetivas.
+   ◦ Se busca un análisis sociológico crítico del valor, despojado de reminiscencias metafísicas, para
+construir un modelo teórico sintético que integre diversas perspectivas.
+Metodologías para la Expresión del Valor (Codificación Simbólica)
+
+[[5]]
+La expresión del valor se refiere a cómo el valor se manifiesta y se codifica a través de sistemas
+simbólicos y lingüísticos.
+• Semiótica del Valor:
+   ◦ Estudia cómo el valor es expresado y codificado simbólicamente. Se basa en el estudio de los
+signos y su significado, aplicando teorías de:
+      ▪ Ferdinand de Saussure: Introduce el valor lingüístico, donde el significado de un signo se
+deriva de su relación diferencial con otros signos dentro de un sistema. El signo tiene un
+significante (imagen acústica) y un significado (concepto), y su "valor" reside en su oposición a
+otros signos.
+      ▪ Charles S. Peirce: Su semiótica considera tres categorías fenomenológicas universales:
+Primeridad (cualidad, sentimiento, posibilidad), Segundidad (hecho, reacción, existencia) y
+Terceridad (ley, mediación, pensamiento, signo). Estos principios permiten analizar cómo símbolos
+y metáforas recurrentes vehiculizan el valor.
+      ▪ Para que los objetos se configuren como valor, deben percibirse como símbolos que poseen
+sentido (significante y significado) y se les atribuye una calificación valorativa.
+• Filología del Valor:
+   ◦ Se centra en la evolución lingüística y conceptual del término "valor" y sus equivalentes en
+diferentes idiomas. Utiliza:
+      ▪ Análisis filológico y etimológico para rastrear los orígenes de la palabra "valor" (del latín
+valere y griego axia) y cognados.
+      ▪ Lingüística histórica y comparada y semántica histórica para entender el desarrollo del
+término en la filosofía occidental y en lenguas no occidentales (como artha en sánscrito o dao en
+chino).
+      ▪ Estudia el impacto de la traducción y los desafíos de la "inconmensurabilidad" lingüística.
+      ▪ Considera la hipótesis de Sapir-Whorf, que explora la relación entre el lenguaje y la
+percepción del valor.
+Metodologías Complementarias y Enfoques Actuales
+• Economía Política (Clásica y Marxista):
+   ◦ Aunque centrada en el valor económico, contribuye a entender la expresión del valor a través
+del trabajo (teoría del valor-trabajo de Adam Smith y David Ricardo), y las distinciones de Marx
+entre valor de uso, valor de cambio, plusvalía y fetichización de la mercancía. Estas teorías
+explican cómo el valor se codifica en la producción y el intercambio de bienes.
+• Perspectiva Intercultural y Decolonial del Valor:
+   ◦ Propone un cuestionamiento epistemológico de las ciencias sociales y sus bases
+eurocéntricas. Busca visibilizar otras epistemologías y conocimientos, promoviendo el diálogo de
+saberes y la coproducción de conocimiento con los actores sociales.
+   ◦ Enfatiza la justicia cognitiva para superar las relaciones asimétricas entre el conocimiento
+hegemónico y los saberes subalternos.
+   ◦ Las metodologías incluyen el análisis comparativo intercultural, etnografía (con énfasis en la
+observación participante), estudios culturales, y técnicas para capturar el conocimiento tácito
+como entrevistas en profundidad, observación participante y análisis de video/audio.
+   ◦ Considera el "Pensamiento Abismal" y el "Epistemicidio" como obstáculos a superar para
+lograr una "Ecología de Saberes" que reconozca múltiples formas de conocimiento.
+• Psicología y Neurociencia:
+   ◦ Los estudios sobre la naturaleza humana han abordado la disyuntiva emoción-cognición en la
+conceptualización del valor. Los trabajos de Damasio han demostrado la importancia de los
+sentimientos y emociones en la vida humana, y la antropología simbólica ha explorado la estrecha
+correlación entre emoción y valor, donde los objetos de valor provocan emociones positivas.
+
+[[6]]
+• Análisis de Contenido:
+   ◦ Como técnica de investigación, permite estudiar y analizar la comunicación de manera
+objetiva, sistemática y cuantitativa. Se puede aplicar a diversas formas de comunicación (textos,
+programas televisivos, discursos, pinturas) para compenetrarse con los valores de una cultura o
+las actitudes y creencias de personas o grupos.
+   ◦ Puede ser cualitativo (centrado en la intencionalidad y sus implicaciones) o cuantitativo
+(centrado en la frecuencia de palabras y patrones).
+• Pruebas e Inventarios Estandarizados:
+   ◦ Existen pruebas diseñadas para medir variables como los valores, la personalidad, los
+intereses, la motivación, entre otros. Estas pruebas, como el Test de Rorschach o el Test de
+Apercepción Temática, pueden analizar respuestas cualitativa y cuantitativamente para medir
+proyecciones del sujeto, incluyendo sus valores.
+• Escalas Multidimensionales:
+   ◦ Permiten medir a los sujetos en varias dimensiones, incluyendo dimensiones cognitivas y
+emocionales, lo cual es útil para explorar la distancia psicológica entre conceptos y sus valores
+asociados.
+En resumen, la comprensión profunda de la génesis y expresión del valor requiere una
+aproximación multidisciplinaria que combine métodos como la arqueología del saber (para la
+génesis discursiva y pre-discursiva del valor), la antropología del valor (para su manifestación en
+pensamiento mítico y ritual), la semiótica y filología (para su codificación simbólica y evolución
+lingüística), la sociología (para su construcción social y cultural), y la psicología junto con la
+neurociencia (para sus dimensiones afectivas y cognitivas). Además, el pensamiento decolonial
+ofrece una perspectiva crítica fundamental para reconocer la pluralidad de saberes y la co-
+producción de conocimiento en el estudio del valor.
+
+• Del universalismo a la contextualidad y situacionalidad del valor:
+   ◦ Hay una duda sobre la existencia de valores universales, ya que los valores se delimitan por
+una cultura, grupo, religión, hábitos o tradiciones. Por ejemplo, el respeto a las mujeres varía entre
+culturas.
+   ◦ Los valores dejan de ser vistos como propiedades intrínsecas, inmutables y universales de los
+objetos (una creencia que se ha debilitado desde el último tercio del siglo XX). En cambio, se
+entienden como multitemporales, poliédricos y construidos socialmente.
+   ◦ La valía de un objeto es, en cierta medida, atribuida por el sujeto de acuerdo a sus criterios e
+interpretación, producto de un aprendizaje, una experiencia o un ideal. Para que los objetos se
+configuren como valor, deben percibirse como símbolos que poseen sentido (significante y
+significado) y se les atribuye una calificación valorativa.
+   ◦ El giro antropológico y el relativismo cultural enfatizan que las culturas se desarrollan en
+diferentes direcciones según eventos históricos, y que no existen pueblos intrínsecamente
+superiores o inferiores, siendo muchas experiencias construcciones culturales. La historia del valor
+se vuelve situacional y contextual, dejando atrás narrativas estáticas y valores intrínsecos para
+abrazar la construcción de significados múltiples.
+• Democratización y participación en la definición del valor:
+   ◦ La concepción del patrimonio como proceso cultural ha llevado a la democratización de las
+prácticas patrimoniales y a la necesidad de incluir las voces de las comunidades locales en la
+elaboración de los discursos sobre el patrimonio y su valor.
+   ◦ Esto implica un cambio de rol de los expertos académicos, quienes pasan de ser autoridades a
+"facilitadores" en un proceso de valoración que prioriza una perspectiva inclusiva, participativa y
+
+[[7]]
+social. Se busca superar la exclusividad que hasta ahora han tenido los académicos y profesionales
+en la definición del valor y la autenticidad.
+   ◦ Los valores extrínsecos, resultado de la interacción del patrimonio con sus contextos sociales,
+económicos e históricos, han ganado relevancia, evidenciando que los factores de formación del
+valor están fuera del objeto en sí.
+• Enfoques metodológicos transformadores y críticos:
+   ◦ La antropología cultural ha evolucionado hacia etnografías más interpretativas y reflexivas,
+que abordan explícitamente la metodología del autor, su posicionamiento cultural, de género y
+racial, y su influencia en el análisis etnográfico.
+   ◦ Para investigar los conflictos y las paces desde una perspectiva decolonial, se utilizan métodos
+de investigación transformadores como la Etnografía para la Paz (Etnopaz), la Investigación-
+Acción Intercultural para la Paz (IAIP), el Análisis Crítico del Discurso (ACD) y la Investigación
+Anclada (o Teoría Fundamentada). Estos métodos se basan en las realidades y experiencias
+situadas de los sujetos sociales, buscando transformar la realidad y co-construir teoría desde los
+actores sociales, en situaciones que no son universales ni neutrales con relación al poder.
+   ◦ La flexibilidad en el diseño de la investigación es clave, permitiendo cambiar preguntas,
+objetivos, métodos y técnicas en función del contexto y la variabilidad de los acontecimientos.
+   ◦ Se enfatiza la "praxis de Paz integral decolonial" como una metodología para transformar un
+mundo injusto y desigual hacia uno de vida-naturaleza posible, promoviendo pedagogías y
+construcciones de paz horizontales.
+En resumen, las perspectivas no eurocéntricas redefinen el estudio del valor al desmantelar la
+pretensión de universalidad de los valores occidentales, promover una epistemología plural y
+dialogante, situar el valor en contextos culturales y sociales específicos, y enfatizar la participación
+y agencia de las comunidades en la construcción y expresión del valor.
+
+Las dimensiones que definen el valor
+El concepto de "valor" es inherentemente complejo y ha sido abordado desde múltiples disciplinas
+y perspectivas a lo largo de la historia, lo que explica la dificultad para encontrar una definición
+única y universalmente aceptada. Para comprender su riqueza, es crucial explorar diferentes
+fuentes y enfoques.
+Las perspectivas no eurocéntricas redefinen el estudio del valor al promover una visión más
+inclusiva y contextualizada, desafiando las concepciones tradicionales. Esto se basa en el
+cuestionamiento epistemológico de las ciencias sociales, que a menudo han sido eurocéntricas,
+invisibilizando otros saberes [i].
+Las dimensiones que definen el valor, formuladas a menudo de manera bipolar para evidenciar las
+grandes dicotomías presentes en su concepción, son las siguientes:
+• Dimensión Objetiva/Subjetiva:
+   ◦ El debate central en la axiología es si el ser humano crea el valor o lo descubre.
+   ◦ El valor es "objetivo" si existe independientemente de un sujeto o de una conciencia
+valorativa. Se identifica con los bienes o con cualidades estructurales del objeto que trascienden
+la vivencia personal. En este enfoque, hay una clara diferencia entre valor y valoración, siendo esta
+última la percepción del sujeto.
+   ◦ Es "subjetivo" si debe su existencia, sentido y validez a reacciones fisiológicas o psicológicas
+del sujeto que valora. Las orientaciones subjetivas consideran que el valor es una construcción del
+sujeto, algo que este añade a los objetos físicos o sociales, dependiendo de sus características y
+vivencias psicológicas.
+   ◦ Las interpretaciones "situacionistas" intentan superar esta dicotomía, entendiendo que el valor
+es el resultado de una interrelación dinámica entre un sujeto que valora y un objeto de
+
+[[8]]
+valoración, influenciada por condiciones históricas, sociales, físicas o estructurales. Es decir, la
+valía de un objeto es, en cierta medida, atribuida por el sujeto de acuerdo a sus criterios e
+interpretación, producto de un aprendizaje, experiencia o ideal.
+• Dimensión Real/Ideal:
+   ◦ Esta dimensión hace referencia a si el valor se sitúa en coordenadas específicas y concretas (lo
+real, lo sustantivo, lo que agrada o interesa en un momento dado) o si es una concepción
+abstracta, un estado ideal a conseguir (lo potencial o deseable, lo que puede ser aunque aún no
+exista). Los estudios antropológicos y sociológicos a menudo sitúan el valor en el mundo de lo
+ideal, lo posible y deseable, no identificable con objetos o individuos concretos.
+• Dimensión Emocional/Racional:
+   ◦ Esta dimensión aborda cómo se "capta" el valor, ya sea de forma emocional o racional.
+   ◦ Las teorías que enfatizan lo emocional consideran que el valor se percibe a través de la
+intuición sentimental o que las emociones y los sentidos están en conjugación con los valores que
+tenemos de las personas, relaciones y cosas. Por ejemplo, tener un objeto valioso provoca una
+emoción positiva, y perderlo, una negativa.
+   ◦ Las perspectivas racionales enfatizan que el conocimiento es previo y necesario, pero no
+suficiente; si no hay sentimiento, no hay valoración. Para Durkheim, los ideales (elementos
+cognitivos) permiten apreciar objetivamente el valor de un objeto. El valor posee un componente
+intelectual y otro emocional, fusionándose ambos en la valoración y configurando la personalidad.
+• Dimensión Universal/Relativa:
+   ◦ Se refiere a la estabilidad y consistencia de los valores en el espacio y en el tiempo.
+   ◦ Las interpretaciones objetivas de los valores, al concebirlos como entidades independientes
+del sujeto o del objeto de valor, los consideran universales y absolutos, inmutables ante el devenir
+histórico.
+   ◦ Las teorías subjetivas plantean un relativismo psicológico e histórico. Los valores están
+condicionados por el desarrollo y las circunstancias de la actividad psicológica de las personas,
+careciendo de universalidad. También se identifican con hechos o fenómenos reales,
+condicionados por factores sociales o culturales. Por ejemplo, el respeto a las mujeres varía entre
+culturas y religiones.
+• Dimensión Colectiva/Individual:
+   ◦ Aborda si el valor es un fenómeno de la conciencia individual o si tiene un carácter colectivo.
+   ◦ Tradicionalmente, la axiología y la psicología lo han visto como un fenómeno individual. Los
+"valores personales" son aquellos que residen en cada individuo, interpretados y ejercidos según
+su libre albedrío.
+   ◦ Sin embargo, los estudios antropológicos y sociológicos han introducido el valor en el contexto
+de la cultura, resaltando su dimensión colectiva. Autores como Tarde y Durkheim distinguen entre
+"valores individuales" y "valores colectivos" o "valores sociales". Estos últimos son producto de la
+interacción social de subjetividades y son percibidos como realidades objetivas, difíciles de
+modificar por individuos aislados.
+Además de estas dicotomías, el valor se define por otras características clave:
+• Polaridad: Todo valor tiene un antivalor, presentándose en aspectos positivos y negativos (ej.,
+belleza/fealdad, bien/mal, justicia/injusticia). Esta polaridad implica que las personas no pueden
+ser indiferentes a los valores.
+• Intensidad Variable y Medibilidad: Los valores pueden variar en intensidad (hay más o menos
+de un valor, ej., más o menos belleza, más o menos justicia). Esta es una "cualidad de intensidad
+variable". En sociología, se diseñan instrumentos para medir estas cualidades, como encuestas
+para la popularidad. Las metodologías de investigación empírica en ciencias sociales utilizan
+
+[[9]]
+escalas (Likert, Diferencial Semántico, Guttman) y cuestionarios para cuantificar la percepción de
+los valores.
+• Carácter Relacional: Los valores son propiedades de la realidad que solo aparecen en la relación
+que se establece entre realidades valiosas y los seres humanos que se vinculan con ellas. El valor
+es el resultado de la interrelación de un sujeto que valora y un objeto de valoración.
+• Simbólico y Socialmente Construido: Los objetos, servicios o relaciones sobre los cuales se
+establecen valoraciones son percibidos como símbolos que tienen sentido y se configuran en la
+mente humana. Los valores están ligados al honor y al poder, y su uso por personas de poder
+puede determinar el mimetismo y la búsqueda de identidad en otros. Las representaciones
+simbólicas del campo social dependen de cómo se definen los principios de diferenciación,
+adquiriendo importancia cuando se establecen relaciones y contextos entre objetos, hechos o
+acciones.
+• Jerarquización y Categorización: Los valores, por su pluralidad, admiten ser clasificados y
+ordenados desde diferentes puntos de referencia. Todos los valores "valen", pero no todos valen
+lo mismo, y es posible jerarquizarlos según un orden de preferencia. Las clasificaciones pueden ir
+desde lo inferior a lo superior, como en la propuesta de Max Scheler (valores sensibles, vitales,
+espirituales, religiosos) o Quintana (lógicos, morales, religiosos, estéticos, socioculturales, vitales,
+comunitarios, hedónicos, económicos).
+• Fuerza Orientadora y "Deber Ser": Todo valor va acompañado de un "deber ser" orientativo
+que, por su idealidad, nunca se alcanza totalmente. Los valores son exigentes y ejercen presión
+sobre la voluntad y la libertad de las personas.
+• Infinitud: Los valores nunca se alcanzan en su totalidad, y su posesión siempre deja
+positivamente insatisfechos, ya que ninguna realidad es tan valiosa que impida un
+perfeccionamiento posterior.
+En síntesis, el concepto de valor ha transitado de definiciones metafísicas y esencialistas hacia
+comprensiones más relacionales, contextuales y dinámicas. Ha pasado de ser una cualidad
+intrínseca y objetiva a ser visto como una construcción sociohistórica y subjetiva, influenciada por
+el lenguaje, las emociones, las relaciones de poder y las prácticas culturales, reflejando una visión
+más integral y compleja de su naturaleza.
+
+Explorando la Interconexión de Valores, Emociones, Cultura y Metodología
+en las Ciencias Sociales
+Fecha: 15 de junio de 2024
+1. Introducción y Propósito
+Este documento tiene como objetivo proporcionar una revisión detallada de las interconexiones
+entre los valores, las emociones, la cultura y la metodología de investigación, particularmente en
+el contexto de las ciencias sociales. Se busca sintetizar las ideas más relevantes sobre el tema,
+destacando cómo estos conceptos influyen en la comprensión de la conducta humana, la sociedad
+y la aproximación científica a su estudio. La exploración abarca desde las bases antropológicas y
+psicológicas de las emociones y los valores hasta las consideraciones metodológicas para su
+investigación, incluyendo una mirada crítica a las perspectivas hegemónicas.
+2. Las Emociones como Componente Fundamental del Ser Humano y su Relación con los Signos y
+Valores
+La antropología simbólica y la neurociencia convergen en la afirmación de que "las emociones son
+un componente fundamental del ser humano y que, por ende, forman parte vital del estudio
+antropológico" ("Antropología simbólica de las emociones y neurociencia"). Las emociones no son
+meramente sensaciones internas, sino que orientan el sentido de los signos percibidos.
+
+[[10]]
+    Significados Plurales y Contenido Emocional: Los signos no solo poseen significados
+         plurales, sino que también "contienen un comunicado emocional, el cual surge del emisor
+         del comunicado y tiene consecuencias en el receptor del mismo" ("Antropología simbólica
+         de las emociones y neurociencia").
+      Valor y Emoción: Los signos tienen un "contenido valorativo en el proceso social,
+         contenido que genera emociones tanto en quien emite el signo como en quien lo recibe"
+         ("Antropología simbólica de las emociones y neurociencia"). La configuración de valores
+         jerárquicos y emocionales se analiza a partir de la lingüística y la antropología estructural.
+      Relaciones Sintagmáticas y Paradigmáticas de las Emociones: El sentido de los
+         significantes se adquiere por relaciones sintagmáticas y paradigmáticas, pero esta tesis se
+         extiende para incluir que el sentido también se configura por "las emociones que se
+         transmiten" ("Antropología simbólica de las emociones y neurociencia"). Las emociones, al
+         igual que los elementos lingüísticos, forman sintagmas y paradigmas, mostrando cómo
+         una misma situación puede evocar emociones contradictorias y fuertes, configurando una
+         relación paradigmática emocional.
+      La Emoción como Orientadora del Sentido: Citando a Damasio (1995), la fuente subraya
+         que las emociones son "fundamentales en el funcionamiento del cerebro para encontrar
+         el sentido de los signos que se reciben por medio de la percepción". Ante múltiples
+         significados posibles para un signo, se elige aquel que produce una emoción, lo que
+         implica que "la emoción no sólo es algo que en sí mismo se siente, sino que también es
+         orientadora del sentido" ("Antropología simbólica de las emociones y neurociencia").
+      Objetos y Sujetos Generadores de Emoción y Sentido: Tanto sujetos como objetos,
+         además de generar sentido, "provocan una emoción" ("Antropología simbólica de las
+         emociones y neurociencia"). La estética y el valor de un objeto (como una silla en un
+         comedor) dependen de su concordancia con el entorno cultural y el conjunto de objetos,
+         lo que a su vez genera emociones y sentidos que califican al objeto-valor o sujeto-valor.
+      Conatus de Spinoza: Damasio (2002) destaca que de la multitud de sentimientos, la
+         alegría-regocijo y la angustia-desamparo son clave, basadas en el "conatus" de Spinoza,
+         que es "la lucha, el esfuerzo y la tendencia que los organismos siempre tienen para
+         preservar la vida" ("Antropología simbólica de las emociones y neurociencia"). Las
+         emociones se manifiestan a partir de estímulos externos, con complejas vías de
+         transmisión sensorial y respuestas hormonales o musculares.
+      Arte como Comunicación Inter-subjetiva: Changeux (1996) define el arte como una
+         "forma de comunicación intersubjetiva donde la individualidad del creador y del
+         espectador […] ocupa un núcleo central" ("Antropología simbólica de las emociones y
+         neurociencia"). La contemplación artística es una recreación de la obra que activa áreas
+         cerebrales, y el cerebro actúa de manera proyectiva, orientándose por representaciones
+         internas y estableciendo hipótesis. Las redes sinápticas clave, influenciadas por el
+         lenguaje, creencias, normas sociales y sistemas de valores, se forman en la infancia y guían
+         al individuo el resto de su vida.
+3. El Concepto de Valor: Dimensiones y Evolución
+El valor es un concepto multifacético, analizado desde diversas perspectivas filosóficas y
+sociológicas, con un interés creciente en su estudio "científico".
+      Perspectivas Objetivo vs. Subjetivo:Subjetiva: El valor es una "construcción del sujeto; es
+         algo que éste añade a los objetos físicos o sociales", dependiendo de las características y
+         vivencias psicológicas del sujeto ("SOBRE EL CONCEPTO DE VALOR. UNA PROPUESTA DE
+         INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+
+[[11]]
+   Objetiva: El valor "existe de forma real, autónoma y objetiva, constituyendo un aspecto de
+    la realidad que se le impone al sujeto" ("SOBRE EL CONCEPTO DE VALOR. UNA PROPUESTA
+    DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Estructural (Frondizi): Una tercera vía concibe el valor como una "cualidad estructural"
+    que surge de la interrelación entre un sujeto que valora y un objeto de valoración,
+    trascendiendo la dicotomía objeto/sujeto y teniendo una dimensión dinámica
+    dependiente de condiciones históricas, sociales, físicas o estructurales ("SOBRE EL
+    CONCEPTO DE VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS",
+    "Valor: Introducción y Fundamentos del Estudio").
+   Características de los Valores (Axiología):Apetecibles o deseados: Indican una capacidad
+    de suscitar deseo, "merece la pena ser deseado por su dignidad" ("SOBRE EL CONCEPTO
+    DE VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Fuerza para orientar la vida humana: Conllevan un "deber ser" orientativo y ejercen
+    presión sobre la voluntad y libertad de las personas ("SOBRE EL CONCEPTO DE VALOR.
+    UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Polaridad: Todo valor tiene un antivalor (agrado/desagrado, bien/mal), lo que implica que
+    no se puede ser indiferente ante ellos y suscitan reacciones ("SOBRE EL CONCEPTO DE
+    VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Categorización y Jerarquización: Los valores son múltiples, clasificables y ordenables.
+    Existe una jerarquía donde "no todos valen lo mismo ni son siempre compatibles entre sí"
+    ("SOBRE EL CONCEPTO DE VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES
+    PERSPECTIVAS"). Un valor más bajo implica mayor gravedad en su violación, mientras que
+    un valor más alto, menor gravedad y obligación en su transgresión (ej. valores estéticos vs.
+    económicos).
+   Infinitud y Carácter Relacional: Nunca se alcanzan en su totalidad y su existencia se da en
+    relación con un sujeto sensible e inteligente que los capta ("SOBRE EL CONCEPTO DE
+    VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Valores Morales: Se distinguen por depender de la libertad humana, ser exclusivamente
+    humanos (no atribuibles a animales u objetos), tener pretensión de universalidad y
+    contribuir al "crecimiento en humanidad" de quien los adopta ("SOBRE EL CONCEPTO DE
+    VALOR. UNA PROPUESTA DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
+   Evolución Cultural y Valoración Patrimonial: Los valores del patrimonio cultural han
+    evolucionado de "posiciones epistémicas más estáticas a otras más dinámicas", con un
+    énfasis actual en la participación social. Se ha pasado de narrativas estáticas centradas en
+    valores históricos o estéticos intrínsecos a una comprensión de la autenticidad como
+    "situacional", donde la percepción de la comunidad es crucial. Los valores naturales se
+    combinan con aspectos antropológicos y etnológicos, reconociendo la importancia de las
+    comunidades agrícolas y la relación entre el paisaje y la presencia humana ("Evolución de
+    los valores del patrimonio cultural").
+   Nihilismo y Aliquidismo Intrínseco: El nihilismo moral sostiene que hay "cero cantidades
+    con valor intrínseco", mientras que el aliquidismo afirma que hay "uno o más" (monismo,
+    multismo, panismo) ("Valor intrínseco (ética)").
+   Valores Individuales y Colectivos: Tarde, Durkheim, Weber, Cooley, Parsons, Bouglé y
+    Piaget, a pesar de sus diferencias, coinciden en la distinción entre "valores individuales" y
+    "valores colectivos", así como en el carácter interno y externo de estos sistemas de
+    valores. Los valores individuales son "altamente afectados por el proceso de socialización"
+    y son, en cierto modo, valores sociales. Los valores colectivos son "la expresión de la
+    norma hacia la cual tienden las opiniones y valoraciones efectuadas en un grupo de
+
+[[12]]
+personas en interacción social" ("VALORES INDIVIDUALES Y VALORES COLECTIVOS
+        ANÁLISIS SOCIOLÓGICO Y SÍNTESIS DE UN MODELO TEÓRICO").
+     Anomia y Disolución de Valores: La debilidad o carencia de la función social de los valores
+        ocurre cuando hay un choque entre los valores compartidos y la experiencia de su
+        aplicación en la sociedad, generando "anomia" (Durkheim) o "desintegración y
+        desadaptación social" ("La construcción de los valores, el proceso hacia su disolución y su
+        relación con la ética pública"). Merton extiende esto a la conducta desviada y delictiva,
+        sugiriendo que las estructuras sociales pueden presionar hacia la desviación. La corrupción
+        es un problema cultural de valores y ética, no solo normativo.
+4. Pensamiento Decolonial y Crítica al Eurocentrismo en las Ciencias Sociales
+El pensamiento decolonial ofrece una perspectiva crítica fundamental para la enseñanza y la
+investigación en ciencias sociales, cuestionando las bases epistemológicas y ontológicas del
+conocimiento dominante.
+     Cuestionamiento Epistemológico: Propone una "profundización en el cuestionamiento
+        epistemológico de las ciencias sociales al dirigirse a las bases eurocéntricas y al
+        desperdicio de experiencia que generan, a las ausencias o invisibilización de otros"
+        ("Aportes del Pensamiento Decolonial a la enseñanza de Ciencias Sociales en la
+        Universidad").
+     Invención de América: Dussel (1994) explica cómo "América fue inventada a imagen y
+        semejanza de Europa y cómo el indio no fue descubierto como Otro, sino como lo Mismo
+        ya conocido y sólo reconocido (negado como Otro)" ("Aportes del Pensamiento Decolonial
+        a la enseñanza de Ciencias Sociales en la Universidad"). La conquista no solo dominó el
+        cuerpo del indígena para la explotación, sino que impuso una cultura y moral
+        eurocéntricas.
+     Modernidad/Colonialidad: La colonialidad se entiende no como un momento histórico,
+        sino como "uno de los elementos constitutivos de la modernidad y del patrón mundial de
+        poder capitalista" (Quijano, 2014a) ("Aportes del Pensamiento Decolonial a la enseñanza
+        de Ciencias Sociales en la Universidad"). Esto implica una redefinición de los fundamentos
+        del poder.
+     Transparencia del Eurocentrismo: Es necesario "transparentar" el punto de vista
+        fuertemente eurocéntrico en la enseñanza de las ciencias sociales, reconociendo que "en
+        esa historia universal nosotros no existimos" (Dussel). El modelo educativo tradicional a
+        menudo fomenta la memorización y una posición pasiva, alienando al estudiante del
+        conocimiento ("Aportes del Pensamiento Decolonial a la enseñanza de Ciencias Sociales
+        en la Universidad").
+     Desprendimiento y Giro Decolonial: El pensamiento decolonial propone "pensar en las
+        fronteras de un patrón de relaciones dominante, desprenderse del mismo y realizar un
+        giro para convertirse en una opción más en la diversidad de proyectos que actualmente
+        están en conflicto" (Carballo y Mignolo, 2014) ("Aportes del Pensamiento Decolonial a la
+        enseñanza de Ciencias Sociales en la Universidad"). Este giro busca "resignificar y
+        'desconectarse'" (Grosfoguel) de las estructuras de poder coloniales.
+6. Conclusión
+Las emociones y los valores son intrínsecos a la experiencia humana y, por ende, centrales para el
+estudio antropológico y sociológico. Su naturaleza compleja, influenciada por factores culturales,
+psicológicos e históricos, requiere un enfoque metodológico riguroso y reflexivo. El pensamiento
+decolonial, al desafiar las perspectivas eurocéntricas inherentes a gran parte del conocimiento en
+ciencias sociales, nos invita a reconsiderar cómo se construyen el saber y las relaciones de poder,
+proponiendo una aproximación más inclusiva y crítica al estudio de la realidad social y humana. La
+
+[[13]]
+comprensión de estas interconexiones es esencial para desarrollar investigaciones válidas,
+relevantes y éticamente conscientes.
+
+[[14]]
+

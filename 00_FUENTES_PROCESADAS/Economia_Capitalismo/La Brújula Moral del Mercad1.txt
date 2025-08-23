@@ -1,0 +1,599 @@
+﻿[[1]]
+La Brújula Moral del Mercado: Explorando
+Intereses Empresariales Más Allá del Lucro y
+el Debate sobre la "Moral Implícita"
+I. Introducción: Más Allá del Lucro Puro – Preparando el
+Escenario para la Moralidad del Mercado
+La concepción tradicional de la actividad empresarial a menudo se centra en la maximización de
+beneficios como el objetivo único, o al menos primordial, para emprendedores y empresas. Sin
+embargo, un creciente cuerpo de pensamiento filosófico y económico desafía esta visión estrecha,
+proponiendo que los mercados y sus participantes operan con una "moralidad implícita" o están
+influenciados por intereses que trascienden la mera ganancia financiera. Este informe se adentra en
+este complejo terreno, buscando desentrañar las múltiples dimensiones de la ética en el ámbito
+económico.
+Joseph Heath, un filósofo canadiense de renombre, ancla su ética empresarial en el concepto de
+"fallas de mercado", argumentando que la eficiencia paretiana actúa como la "moral implícita del
+mercado". Desde esta perspectiva, las obligaciones éticas para las empresas no surgen de principios
+morales externos, sino de la propia lógica de la eficiencia del mercado. Este enfoque proporciona un
+marco inicial convincente para examinar cómo las consideraciones éticas pueden estar
+intrínsecamente ligadas a la actividad económica.
+El propósito de este informe es enriquecer la comprensión de la moralidad del mercado. Para ello,
+se explicará en detalle el enfoque de Heath y se ampliará la discusión para incluir otras corrientes
+teóricas y autores relevantes. Mediante la comparación y el contraste de estos diversos puntos de
+vista, se busca construir una imagen más matizada y exhaustiva de los intereses empresariales y las
+dimensiones éticas de las operaciones de mercado.
+
+II. El "Enfoque de Fallas de Mercado" (EFM) de Joseph
+Heath en la Ética Empresarial
+El Enfoque de Fallas de Mercado (EFM) de Joseph Heath ofrece un marco distintivo para la ética
+empresarial, arraigando las obligaciones morales en el concepto económico de eficiencia. Su trabajo
+proporciona una lente analítica rigurosa a través de la cual comprender las responsabilidades éticas
+de las empresas dentro de un sistema capitalista.
+
+La Eficiencia como Moral Implícita
+Heath postula que la eficiencia paretiana es la "moral implícita del mercado". Este principio
+establece que una política o resultado es Pareto eficiente si no es posible mejorar la situación de una
+persona sin empeorar la de otra. Para Heath, este es un "principio irreductiblemente normativo" que
+impulsa la cooperación y la maximización de beneficios al agotar las mejoras paretianas disponibles.
+En esencia, representa una prohibición general del despilfarro.
+La justificación de los mercados, según Heath, radica en que son "instituciones de propósito
+especial diseñadas para promover la eficiencia paretiana". Su legitimidad ética se deriva de su
+
+[[2]]
+capacidad para generar resultados Pareto eficientes, satisfaciendo óptimamente las preferencias de
+los consumidores. La implicación de esto es profunda: la moralidad no es una imposición externa al
+mercado, sino que es inherente a su funcionamiento óptimo. Si se entiende que el mercado es un
+mecanismo para el beneficio colectivo (eficiencia paretiana), entonces el comportamiento ético no
+es un añadido caritativo, sino una condición necesaria para que el mercado cumpla su propio
+propósito. Esto desplaza el debate de "¿deberían las empresas ser éticas?" a "¿cómo pueden las
+empresas ser verdaderamente eficientes y, por extensión, éticas?".
+
+Imperativos Éticos para la Empresa: El Principio de "Como Si Fuera
+Competencia Perfecta"
+Heath sostiene que los administradores privados tienen la obligación moral de "no explotar fallas
+del mercado". Una "empresa ética" no busca lucrarse mediante fallas del mercado. Este enfoque
+riguroso utiliza la teoría económica, como la teoría de juegos y los costos de transacción, para
+derivar normas morales que exigen que las empresas se comporten "como si la competencia fuera
+perfecta".
+Este código moral implícito conlleva varias restricciones específicas :
+    • Minimizar las externalidades negativas (por ejemplo, la contaminación).
+    • Competir únicamente en función del precio y la calidad, no mediante "prácticas perversas".
+    • Reducir las asimetrías informativas entre la empresa y el cliente.
+    • No explotar la dispersión de la propiedad accionaria de manera injusta.
+    • Evitar imponer barreras de entrada a nuevos competidores.
+    • No recurrir a subsidios cruzados para eliminar rivales.
+    • No oponerse a regulaciones que corrijan imperfecciones del mercado.
+•      No buscar aranceles u otras medidas proteccionistas.
+•      Tratar los niveles de precios como determinados exógenamente.
+•      No participar en comportamientos oportunistas hacia clientes u otras empresas.
+El marco de Heath proporciona un conjunto de reglas éticas concretas y con fundamento económico,
+que trascienden el moralismo abstracto. Al enmarcar la ética como "reglas del juego" necesarias
+para la eficiencia del mercado, ofrece un atractivo pragmático a los líderes empresariales que, de
+otro modo, podrían considerar la ética irrelevante para su función principal. Esto también implica
+que muchas prácticas empresariales comunes, a menudo consideradas astutas o competitivas, son en
+realidad poco éticas porque socavan las mismas condiciones que justifican el mercado.
+
+La Analogía del "Fair Play Empresarial"
+Heath utiliza la analogía del deporte para explicar que, en contextos competitivos, se permiten
+ciertos comportamientos (por ejemplo, la agresividad en el deporte) que serían inaceptables en la
+vida cotidiana. Sin embargo, incluso en el deporte, existen reglas de "juego limpio" para limitar los
+abusos. De manera similar, las empresas necesitan un concepto de "fair play empresarial" que
+distinga las prácticas competitivas legítimas de aquellas que distorsionan la competencia.
+
+[[3]]
+La competencia implica tratar a los demás como adversarios, lo que conduce a un "debilitamiento
+deóntico" de la moralidad cotidiana, donde algunas acciones normalmente obligatorias se vuelven
+opcionales, y algunas acciones prohibidas se vuelven permisibles. Esta orientación adversarial es
+inherente porque los precios se determinan competitivamente, y la competencia es un problema de
+acción colectiva institucionalizado donde se alienta a los individuos a aplicar estrategias de "free
+rider".
+Esta analogía pone de relieve una tensión fundamental: la naturaleza competitiva del mercado
+parece exigir una suspensión de la moralidad "cotidiana". Sin embargo, Heath argumenta que esta
+suspensión no es una licencia para la amoralidad, sino que exige una moralidad de mercado
+específica definida por la eficiencia. El desafío, entonces, es definir los límites de este "juego
+limpio" para evitar que la competencia degenere en explotación o daño sistémico. Esto también
+implica que los fallos éticos en los negocios no se deben a menudo a fallos morales individuales,
+sino a la falta de "reglas del juego" claramente definidas o a un fallo colectivo en su cumplimiento.
+
+El Papel del Estado en la Visión de Heath
+Heath argumenta que el Estado y el mercado pueden funcionar como "socios complementarios".
+Propone un "modelo de bajo conflicto" en el que las democracias avanzadas desarrollan reglas que
+complementan las actividades del mercado, en lugar de estar en una competencia constante de suma
+cero.
+La intervención estatal se justifica principalmente cuando existen fallas de mercado (por ejemplo,
+bienes públicos, externalidades, información imperfecta, problemas de acción colectiva). Por
+ejemplo, el sistema de bienestar canadiense, que incluye la salud pública y la seguridad social, se
+considera una respuesta a las fallas del mercado, funcionando como un gran sistema de seguros
+gestionado por el Estado.
+Heath cree que apelar a la eficiencia y a las fallas del mercado para justificar la intervención estatal
+es "menos controvertido" y genera un consenso político más amplio que las apelaciones directas a
+ideales abstractos de igualdad o justicia. Además, defiende una burocracia estatal profesional como
+la "infraestructura" que sostiene la democracia moderna, capaz de resolver problemas complejos.
+Heath ofrece una justificación pragmática para el Estado de bienestar que trasciende las divisiones
+ideológicas tradicionales entre izquierda y derecha. Al enmarcar la intervención estatal como una
+corrección necesaria de las imperfecciones del mercado (en lugar de un ideal redistributivo), busca
+generar consenso en torno a políticas que mejoren el bienestar social. Esto implica que una
+gobernanza eficaz requiere una comprensión profunda de los mecanismos económicos para
+identificar dónde y cómo la intervención es realmente necesaria, en lugar de ser impulsada por
+impulsos morales abstractos.
+
+Críticas y Matices al EFM de Heath
+El EFM de Heath, si bien es riguroso, ha recibido críticas. Una de las principales objeciones es que
+la premisa de comportarse "como si" se estuviera en competencia perfecta es un "ideal difícil de
+aplicar en la práctica". El mundo real está lleno de imperfecciones, y la adhesión unilateral a estas
+restricciones podría desfavorecer a una empresa.
+Algunos académicos, como Singer, proponen un "enfoque de fallas de justicia" (EFJ) para
+complementar el EFM de Heath, argumentando que las empresas también deberían abordar las
+desigualdades políticas y sociales, lo que sugiere que la eficiencia por sí sola es insuficiente para
+
+[[4]]
+una ética empresarial integral. Otros argumentan que, incluso en condiciones ideales, el EFM no
+excluye daños significativos, o que es demasiado exigente o no lo suficientemente exigente en
+condiciones no ideales. Además, algunas críticas sugieren que la visión de Heath de los contextos
+competitivos implica un mundo de "deshonestidad inevitable" donde se otorgan permisos éticos
+para comportamientos poco cooperativos que normalmente serían incorrectos.
+Heath implícitamente argumenta contra el control de precios y el proteccionismo, al enfatizar que
+los precios reflejan la escasez relativa y que manipularlos distorsiona señales cruciales del mercado,
+lo que lleva a la ineficiencia. Sugiere que la "falacia del precio justo" (la idea de que un precio
+alternativo es más "justo") no considera las consecuencias más amplias. Si bien el EFM de Heath
+apoya la maximización de beneficios dentro de las "reglas del juego" que promueven la eficiencia
+paretiana, algunas críticas a la maximización de beneficios como único propósito señalan que
+ignora el momento, el riesgo y los intereses de varias partes interesadas. Heath distingue la
+maximización de beneficios del interés propio, argumentando que la obligación de los gerentes de
+maximizar los beneficios es distinta de la ganancia personal.
+Las críticas revelan la tensión inherente al intentar derivar una ética sólida únicamente de un
+principio económico como la eficiencia. Aunque Heath busca un enfoque pragmático y menos
+controvertido, la complejidad del mundo real de los mercados, la persistencia de los desequilibrios
+de poder y las demandas más amplias de justicia social a menudo empujan las consideraciones
+éticas más allá de un marco puramente impulsado por la eficiencia. Esto pone de manifiesto el
+debate filosófico en curso sobre los principios fundamentales de la ética empresarial y si los
+modelos económicos pueden captar plenamente el panorama moral.
+
+III. Corrientes Alternativas: Ampliando la Discusión sobre el
+Propósito y la Ética Empresarial
+Para abordar plenamente el interés del usuario en "otras corrientes y autores" más allá de la
+perspectiva de Heath, es crucial explorar diversos marcos teóricos que ofrecen puntos de vista
+alternativos o complementarios sobre las motivaciones empresariales y el propósito moral de los
+negocios.
+
+Teoría de los Stakeholders (R. Edward Freeman)
+Introducida por R. Edward Freeman en la década de 1980, la teoría de los stakeholders postula que
+las organizaciones se componen de varias partes interesadas, cada una con objetivos e intereses
+distintos, que contribuyen al éxito de la organización. Esta teoría cambia fundamentalmente el
+enfoque de satisfacer únicamente a los accionistas a reconocer una gama más amplia de partes
+afectadas por las acciones organizacionales, incluyendo empleados, clientes, proveedores, entidades
+gubernamentales y comunidades locales.
+La tarea de la dirección es crear valor para todos los stakeholders, no solo para los accionistas,
+alineando sus objetivos potencialmente contrapuestos. Esto implica una responsabilidad de
+equilibrar diversos intereses para el éxito y la sostenibilidad a largo plazo de la organización. La
+teoría de los
+stakeholders desafía directamente el paradigma de la maximización de beneficios al afirmar que el
+propósito de una empresa se extiende a la creación de valor para todos los que tienen un "interés" en
+ella. Este marco sugiere que el éxito empresarial no es meramente financiero, sino también
+
+[[5]]
+relacional y social, lo que exige que los gerentes consideren una brújula moral más amplia
+impulsada por la interdependencia.
+
+Responsabilidad Social Corporativa (RSC) (Archie Carroll)
+Desarrollada por Archie Carroll en 1991, la Pirámide de la RSC describe cuatro componentes clave
+de la responsabilidad social corporativa: responsabilidades económicas, legales, éticas y
+filantrópicas.
+•      Económica: Ser rentable; es el fundamento de todas las demás responsabilidades.
+•      Legal: Obedecer la ley; la ética codificada de la sociedad.
+•       Ética: Hacer lo correcto, justo y equitativo, incluso más allá de los requisitos legales. Este
+nivel reconoce que las leyes pueden ir por detrás de las expectativas sociales.
+•      Filantrópica: Ser un buen ciudadano corporativo; actividades voluntarias que promueven el
+bienestar humano y la buena voluntad.
+El modelo de Carroll define explícitamente responsabilidades que van más allá de las obligaciones
+meramente económicas y legales, enfatizando que las empresas deben desempeñar un papel
+positivo en la comunidad y considerar los impactos ambientales y sociales. Si bien la
+responsabilidad económica es fundamental, la pirámide debe verse de forma integral, integrando los
+cuatro niveles. La pirámide de Carroll proporciona una visión jerárquica pero integrada de las
+responsabilidades empresariales, sugiriendo que, si bien el beneficio es necesario para la
+supervivencia, no es el único propósito. Las capas ética y filantrópica implican un imperativo moral
+para que las empresas contribuyan activamente al bienestar social, impulsadas por un sentido de
+ciudadanía corporativa que va más allá de los mínimos legales. Este marco sugiere que las
+motivaciones empresariales pueden y deben abarcar un impacto social más amplio.
+
+Creación de Valor Compartido (CVC) (Porter & Kramer)
+Introducido por Michael E. Porter y Mark R. Kramer, el concepto de CVC se centra en la
+generación simultánea de beneficios económicos y sociales. Argumenta que las empresas pueden
+impulsar la innovación y el crecimiento al reconcebir productos/mercados (por ejemplo,
+satisfaciendo las necesidades de comunidades desfavorecidas), redefiniendo la productividad en la
+cadena de valor (por ejemplo, innovaciones sociales/ambientales) y apoyando el desarrollo de
+clusters industriales.
+Porter y Kramer sostienen que el CVC difiere de la RSC tradicional porque se trata de "crear valor
+compartido" (beneficios económicos y sociales) en lugar de simplemente donar dinero o definir
+responsabilidades separadas. Integra las cuestiones sociales y ambientales en la estrategia central
+del negocio. Sin embargo, es crucial señalar que el CVC "mantiene la obtención de beneficios en la
+raíz de la definición de una empresa". Ofrece una "versión ligeramente modificada de la
+maximización de beneficios", enmarcando las mejoras sociales como vías para lograr beneficios
+económicos y ventaja competitiva.
+El CVC intenta salvar la brecha entre el beneficio y el impacto social argumentando que los
+problemas sociales pueden ser oportunidades para obtener una ventaja competitiva. Si bien este
+enfoque anima a las empresas a abordar las necesidades sociales, su base en el beneficio como
+motor último lo distingue de motivaciones más altruistas o basadas en la virtud. Implica que los
+
+[[6]]
+intereses empresariales pueden alinearse con el bien social, pero principalmente cuando dicha
+alineación es estratégicamente beneficiosa para la empresa.
+
+Ética de la Virtud (Alasdair MacIntyre)
+Alasdair MacIntyre, siguiendo a Aristóteles, critica el negocio capitalista moderno por priorizar los
+"bienes externos" (por ejemplo, el beneficio, el poder, el prestigio, la riqueza material) sobre los
+"bienes internos" (por ejemplo, la excelencia en el oficio, la satisfacción intrínseca, el bienestar
+comunal, la dignidad derivada del autodesarrollo). Argumenta que este enfoque corrompe las
+"prácticas" y hace que el negocio sea moralmente indefendible desde una perspectiva de ética de la
+virtud.
+Una "práctica" es una "actividad humana cooperativa socialmente establecida" a través de la cual se
+realizan "bienes internos a esa forma de actividad" al esforzarse por la excelencia. Las virtudes se
+cultivan mediante la participación en tales prácticas. Los bienes externos son finitos, posesiones
+individuales, objetos de competencia (por ejemplo, dinero, fama). Los bienes internos son
+intangibles, no finitos y comunales, logrados a través de la propia actividad (por ejemplo, la
+habilidad analítica en el ajedrez, el orgullo por la artesanía). MacIntyre afirma que una corporación
+virtuosa "no podría tener como objetivo último la ganancia económica".
+MacIntyre ofrece una crítica radical, sugiriendo que la propia estructura del capitalismo moderno,
+con su énfasis en las ganancias externas y cuantificables, socava activamente el desarrollo de las
+virtudes y un propósito más profundo e intrínseco en el trabajo. Esto implica que, para que los
+intereses empresariales vayan genuinamente "más allá del beneficio", se requiere una reorientación
+fundamental de la empresa, alejándola de la mera adquisición y dirigiéndola hacia la búsqueda de la
+excelencia y los bienes comunales, lo que podría desafiar los principios básicos de los mercados
+competitivos.
+
+El Enfoque del Bien Común
+Este marco ético enfatiza el bienestar de toda la comunidad o sociedad, sosteniendo que las
+organizaciones deben tomar decisiones y emprender acciones que promuevan el "bien mayor" en
+lugar de priorizar sus propios intereses. Fomenta el equilibrio de las necesidades e intereses de
+varias partes interesadas, incluidos empleados, clientes, la comunidad local y el medio ambiente.
+El bien común se define como las condiciones de la vida social que permiten a todos los miembros
+"un acceso relativamente completo y fácil a su propia realización", abarcando la salud pública, la
+seguridad, la justicia y un medio ambiente no contaminado. Lograrlo requiere esfuerzos
+cooperativos. Sin embargo, existen desafíos, como el pluralismo (diferentes visiones del bien
+común), el "problema del
+free-rider", el individualismo y el reparto desigual de las cargas.
+El Enfoque del Bien Común proporciona una lente ética a nivel macro, viendo a la empresa como
+una parte integral de un tejido social más amplio. Implica que los intereses empresariales deben
+guiarse por la responsabilidad de contribuir al florecimiento colectivo, incluso si ello requiere
+sacrificios o la gestión de complejas compensaciones. Esta perspectiva a menudo contrasta con la
+eficiencia del mercado como único principio moral, ya que prioriza resultados sociales más amplios
+y valores compartidos.
+
+[[7]]
+Teorías Críticas de la Empresa
+Las teorías críticas de la empresa examinan cómo las empresas, particularmente dentro de las
+estructuras capitalistas, contribuyen a la desigualdad sistémica, la explotación y la degradación
+ambiental. Desafían las estructuras de poder establecidas y se centran en el cambio social.
+Estas teorías a menudo argumentan que el enfoque del modelo de negocio convencional en la
+maximización de beneficios a corto plazo es un motor principal de estos resultados negativos.
+Abogan por una redefinición del propósito corporativo para incluir responsabilidades sociales y
+ambientales más amplias. La explotación puede ser estructural, una propiedad de instituciones o
+sistemas donde las "reglas del juego" benefician injustamente a un grupo (por ejemplo, los
+propietarios del capital) en detrimento de otro (por ejemplo, el trabajo). Esto va más allá de la
+injusticia transaccional en intercambios discretos.
+Las teorías críticas ofrecen un contrapunto profundo al argumentar que la búsqueda de beneficios
+dentro de sistemas capitalistas no regulados o insuficientemente regulados conduce inherentemente
+a la explotación y la injusticia. Sugieren que "otros intereses" para los empresarios deberían incluir
+el desmantelamiento activo de estas estructuras explotadoras y la defensa de cambios sistémicos
+que prioricen la justicia social y la sostenibilidad ambiental, en lugar de simplemente mitigar los
+impactos negativos. Esto implica una postura más confrontacional contra la "moralidad implícita"
+de la eficiencia si se percibe que perpetúa daños sistémicos.
+
+Motivaciones Empresariales Más Allá del Lucro
+Cada vez más, las empresas se guían por valores fundamentales, un propósito claro y el deseo de
+generar un cambio positivo. Este enfoque "orientado por un propósito" posiciona a las empresas
+como éticamente responsables y puede conducir a una mayor lealtad de los clientes, compromiso de
+los empleados y rendimiento financiero.
+Los empresarios están motivados por la sostenibilidad y el impacto social, desarrollando soluciones
+creativas a desafíos globales como el cambio climático y la desigualdad social. Esto atrae a
+inversores socialmente responsables. Más allá de los beneficios inmediatos, el éxito empresarial se
+considera la creación de un "ecosistema positivo" que garantiza la estabilidad y la resiliencia a largo
+plazo. Las prácticas éticas mejoran la reputación y la credibilidad, fomentando la confianza y las
+relaciones duraderas con las partes interesadas.
+Esta tendencia emergente sugiere una evolución práctica en la motivación empresarial, donde las
+consideraciones éticas y el propósito social no son solo presiones externas, sino motores internos
+para la innovación, la ventaja competitiva y la viabilidad a largo plazo. Implica una convergencia
+entre "buenos negocios" y "bien para la sociedad", impulsada por el reconocimiento de que el
+bienestar social y la salud ambiental están intrínsecamente vinculados al éxito económico sostenible.
+
+Tabla 1: Comparación de la Primacía del Accionista frente a la Primacía del
+Stakeholder en el Propósito Empresarial
+Criterio                  Primacía del Accionista          Primacía del Stakeholder
+                          Maximizar la riqueza del
+Objetivo Primario                                          Crear valor para todos los stakeholders
+                          accionista
+                                                           Todos los stakeholders relevantes
+Beneficiarios
+                          Accionistas                      (empleados, clientes, proveedores,
+Primarios
+                                                           comunidades, medio ambiente)
+
+[[8]]
+Criterio                 Primacía del Accionista        Primacía del Stakeholder
+                         Limitada al cumplimiento legal
+Visión de la
+                         y al beneficio (Doctrina       Impacto social y ambiental más amplio
+Responsabilidad Social
+                         Friedman)
+                         Deber fiduciario hacia los
+Rol Gerencial                                           Equilibrar e integrar diversos intereses
+                         accionistas
+Proponentes Clave        Milton Friedman                R. Edward Freeman
+Exportar a Hojas de cálculo
+
+IV. Una Perspectiva Contrastante: Guillermo Moreno sobre
+Estado, Mercado y Justicia Social
+Guillermo Moreno, un prominente político y economista argentino, ofrece una perspectiva
+marcadamente contrastante con la de Joseph Heath, particularmente en lo que respecta al papel del
+Estado y la moralidad inherente del mercado. Sus puntos de vista están profundamente arraigados
+en la filosofía económica peronista, que enfatiza la soberanía nacional, la industrialización y la
+justicia social.
+
+Crítica al Capitalismo No Regulado
+Moreno critica vehementemente las políticas que priorizan las importaciones sobre la producción
+nacional, argumentando que "cuando vos compras mercadería afuera estás comprando trabajo" y
+que "destruir trabajo doméstico... es un problema". Esto conduce a una pérdida de ingresos para los
+trabajadores locales y a la erosión de las habilidades especializadas y el conocimiento colectivo
+dentro del país, ya que "el hacer enseña". Ilustra esto con ejemplos de profesiones que pierden su
+experiencia sin práctica continua.
+Afirma que una tasa de desempleo creciente "destruye la cohesión" social. Moreno utiliza la
+analogía del Líbano, donde las dificultades económicas llevaron a la fragmentación social, para
+subrayar la importancia de la cohesión social. Posiciona al peronismo como una "garantía de que
+eso no pase". Además, describe cómo un sistema financiero no regulado puede "parar de mano" al
+gobierno, obligándolo a "rendirse". Cita ejemplos de maniobras inusuales y costosas del Banco
+Central (por ejemplo, la compra de dinero con "pases" a altas tasas de interés) como prueba de la
+pérdida de control del gobierno y la falta de comprensión económica frente a poderosas fuerzas
+financieras.
+La crítica de Moreno pone de manifiesto los costos sociales y humanos de una economía puramente
+impulsada por el mercado, especialmente en un contexto de desarrollo. Sostiene que la "moralidad"
+implícita de un mercado de este tipo es destructiva para el tejido social, lo que lleva a la
+desindustrialización, el desempleo y la desintegración social. Esto implica que la eficiencia del
+mercado, si se persigue sin una fuerte dirección estatal, puede conducir a resultados moralmente
+inaceptables desde una perspectiva nacional y de justicia social.
+
+El Estado Intervencionista
+Moreno aboga por un fuerte papel del Estado en la protección del trabajo y la industria nacionales,
+enfatizando que "nosotros priorizamos el trabajo nuestro". Apoya políticas como las "licencias no
+automáticas y restricciones a la competencia extranjera" para salvaguardar la producción y el
+empleo nacionales.
+
+[[9]]
+Como ex Secretario de Comercio Interior (2006-2013), Moreno implementó políticas de control de
+precios y "administración de comercio". Argumentó que "el peronismo tiene que controlar todos los
+precios". Creía que el Estado debía "fijar la pauta inflacionaria" para los productos de consumo
+masivo. El enfoque de Moreno implica un Estado proactivo que no solo regula, sino que también
+interviene directamente en la actividad económica para lograr objetivos nacionales específicos.
+Considera que el papel del Estado es defender el "interés general".
+Moreno presenta al Estado no solo como un corrector de las fallas del mercado (como hace Heath),
+sino como una fuerza activa y rectora que moldea el mercado para servir a objetivos nacionales y
+sociales. Esto implica la creencia de que el mercado, librado a su suerte, no se alineará naturalmente
+con el bien común o la justicia social, lo que exige una intervención directa y a menudo contundente
+para garantizar el "juego limpio" desde una perspectiva nacional.
+
+"Capitalista en la Producción, Justicialista en la Distribución"
+Esta frase resume la filosofía económica peronista, que Moreno defiende firmemente. Implica un
+sistema que abraza la propiedad privada y la producción (capitalismo) pero busca asegurar una
+distribución justa de la riqueza y los ingresos (justicialismo).
+Moreno habla de la necesidad de "armonía entre el capital y el trabajo" , sugiriendo que la política
+económica debe equilibrar los intereses de ambos factores de producción para lograr una
+distribución más equitativa de los ingresos. Señala que en la "década ganada", los trabajadores
+recibían el 50% del PIB, cifra que desde entonces ha caído por debajo del 40%.
+Este principio representa un marco moral distinto para el mercado, donde la eficiencia en la
+producción es un medio para un fin: la justicia social en la distribución. A diferencia de la moralidad
+implícita de la eficiencia paretiana de Heath, que se centra en no empeorar la situación de nadie, el
+"justicialismo" de Moreno apunta explícitamente a una distribución más equitativa, incluso si ello
+requiere una intervención directa en los resultados del mercado. Esto pone de manifiesto una
+divergencia fundamental en lo que constituye un mercado "moral".
+
+El "Ser Nacional" y la Cohesión Social
+Moreno enfatiza el concepto del "ser nacional" como un elemento central del pensamiento peronista
+y un principio rector de la política económica. Conecta esto con la importancia de la unidad
+nacional y la defensa de la soberanía, particularmente en relación con las Islas Malvinas.
+Critica a quienes son "apátridas", como los "anarcocapitalistas" que "no cree en los pueblos, no cree
+en la frontera, no cree en los países". Esto se considera una amenaza a la identidad nacional y a la
+capacidad de definir a la Argentina. Para Moreno, la discusión de la "patria" "no es una discusión
+exenta de la justicia social". Una "patria sin justicia social es una patria desde la visión de las elites
+inestable".
+Moreno introduce una dimensión de la moralidad del mercado ligada a la identidad nacional y al
+destino colectivo, que está en gran medida ausente en el marco universalista de Heath, centrado en
+la eficiencia. Esto implica que el "mercado moral" no solo debe ser eficiente o justo en la
+distribución, sino que también debe servir al objetivo primordial de fortalecer la cohesión nacional
+y la soberanía, lo que podría justificar políticas económicas proteccionistas o nacionalistas que
+podrían considerarse ineficientes según un estándar puramente paretiano.
+
+[[10]]
+Crítica al Neoliberalismo
+Moreno es muy crítico con las políticas neoliberales, describiendo el actual modelo económico
+como un "mamarracho" que está "absolutamente colapsado". Argumenta que conduce a la
+"destrucción de la sociedad" y a la "anomia" (falta de normas).
+A menudo contrasta a los economistas académicos (como Melcoñan o Caputo) con quienes
+realmente "saben" de economía, como empresarios y líderes sindicales que tienen experiencia
+práctica ("el hacer enseña"). Critica a los economistas que "no saben la economía de verdad, la
+economía del remito y la factura y el caminar en la calle". Moreno califica al actual presidente de
+"anarcocapitalista" que "no cree en los gobiernos, no cree en los Estados". Esta ideología se
+considera destructiva para la sociedad al no comprender la macroeconomía.
+La crítica de Moreno al neoliberalismo no es meramente económica, sino profundamente moral y
+epistemológica. Sostiene que las políticas neoliberales, al desmantelar la intervención estatal y
+priorizar principios abstractos de mercado, conducen a la desintegración social y se basan en una
+comprensión defectuosa y desvinculada de la economía. Esto implica que un "mercado moral" debe
+basarse en el conocimiento práctico y servir a las necesidades concretas de la gente, en lugar de
+teorías abstractas o dogmas ideológicos.
+
+V. Análisis Comparativo: Puntos de Vista Intersectados sobre
+la Moralidad del Mercado
+La exploración del "Enfoque de Fallas de Mercado" de Joseph Heath y la filosofía económica
+peronista de Guillermo Moreno, junto con otros marcos de ética empresarial, revela un rico tapiz de
+perspectivas sobre la "moralidad implícita del mercado" y los intereses empresariales más allá del
+beneficio. Este análisis comparativo destaca convergencias y divergencias fundamentales.
+
+Heath frente a Marcos Alternativos de Ética Empresarial
+La insistencia de Heath en la eficiencia y la corrección de las fallas del mercado converge con
+aspectos de la RSC (por ejemplo, minimizar las externalidades) y el CVC (encontrar soluciones
+win-win que beneficien tanto a las empresas como a la sociedad). Todos estos marcos, en mayor o
+menor medida, reconocen que las prácticas empresariales responsables pueden conducir a mejores
+resultados económicos.
+Sin embargo, existen divergencias significativas con principios morales más amplios. Mientras que
+Heath limita las obligaciones éticas a las derivadas de la eficiencia paretiana , la Teoría de los
+Stakeholders y la RSC extienden las responsabilidades a una gama más amplia de preocupaciones
+sociales y ambientales, a menudo más allá de lo estrictamente requerido para la eficiencia del
+mercado. El Enfoque del Bien Común y las Teorías Críticas van aún más allá, exigiendo que las
+empresas contribuyan activamente al florecimiento colectivo o desafíen las injusticias sistémicas,
+incluso si no están directamente vinculadas a la eficiencia.
+La motivación más allá del beneficio también varía. El marco de Heath, aunque ético, sigue
+arraigado en la lógica de la eficiencia del mercado y la búsqueda de beneficios (aunque restringida).
+En contraste, la Ética de la Virtud critica explícitamente la priorización de "bienes externos" (como
+el beneficio) sobre "bienes internos" (como la excelencia y la satisfacción intrínseca), sugiriendo
+una reorientación más fundamental de la motivación empresarial. Del mismo modo, el Enfoque del
+
+[[11]]
+Bien Común y las Teorías Críticas a menudo implican motivaciones impulsadas por un deseo de
+justicia social y cambio sistémico que no siempre pueden alinearse con la eficiencia o el beneficio.
+El EFM de Heath ofrece un piso ético minimalista, pero riguroso, derivado de la lógica económica.
+Sin embargo, otros marcos sugieren que una "moralidad de mercado" verdaderamente integral
+requiere construir sobre este piso con consideraciones de justicia distributiva, valor intrínseco en el
+trabajo y un bienestar social más amplio. La tensión reside en si la eficiencia es un principio moral
+suficiente o simplemente una condición necesaria para un mercado verdaderamente ético. Esto pone
+de manifiesto el desafío continuo de integrar la racionalidad económica con valores humanos y
+sociales más amplios.
+
+Heath frente a Moreno: Una Comparación Directa de Filosofías Económicas y
+Éticas
+La comparación entre Heath y Moreno revela una profunda brecha ideológica y filosófica con
+respecto a la naturaleza moral del mercado. Heath busca encontrar la moralidad dentro de la lógica
+del mercado, mientras que Moreno ve el mercado como una herramienta que debe ser controlada
+por un propósito moral y nacional superior. Esto pone de manifiesto las profundas implicaciones
+políticas y éticas de cómo se define la "moralidad implícita" del mercado, ya sea como una
+propiedad emergente del intercambio eficiente o como una construcción social que requiere una
+orientación moral y política constante.
+Tabla 2: Análisis Comparativo de las Filosofías Económicas y Éticas de Joseph Heath y
+Guillermo Moreno
+Criterio              Joseph Heath                          Guillermo Moreno
+                                                            Justicia Social ("Justicialista en la
+                      Eficiencia Pareto (moral implícita
+Principio Ético                                             distribución"), Cohesión Nacional ("Ser
+                      del mercado)
+Central                                                     Nacional")
+
+                   Mecanismo para la asignación             Fuerza destructiva si no está regulado,
+                   óptima de recursos, propenso a           lleva a la desindustrialización y la
+Visión del Mercado
+                   fallas                                   anomia
+
+                                                            Intervención directa y fuerte para
+                      Interviene para corregir fallas de
+                                                            proteger el trabajo nacional, controlar
+Rol del Estado        mercado (socio complementario)
+                                                            precios y asegurar la justicia social
+
+                      Obligación de no explotar fallas de El capitalismo no regulado es
+Visión de la          mercado (comportarse "como si       explotador (destruye el trabajo, el saber
+Explotación           fuera competencia perfecta")        hacer)
+
+                      "Juego limpio" dentro de la           El Estado debe gestionar la competencia
+Visión de la
+                      competencia adversaria                para servir al interés nacional
+Competencia
+                                                            Empleo, distribución equitativa, unidad
+Énfasis en          Eficiencia, mejoras graduales
+                                                            nacional
+Resultados Sociales
+Crítica Clave a       Critica el dogmatismo ideológico, el Critica el neoliberalismo como
+Vistas Opuestas       "consumismo ético" y la falta de     "mamarracho" basado en la ignorancia
+
+[[12]]
+Criterio              Joseph Heath                          Guillermo Moreno
+                      pensamiento en las consecuencias      teórica
+
+Fuente del            Filosofía académica y teoría          Experiencia práctica de empresarios y
+Conocimiento          económica                             líderes sindicales ("el hacer enseña")
+Económico
+
+El Papel del Emprendedor
+Las diversas perspectivas revelan que los "intereses empresariales más allá del beneficio" pueden
+abarcar desde una comprensión sofisticada de la eficiencia del mercado (Heath) hasta un
+compromiso con el desarrollo nacional y la justicia social (Moreno), o un compromiso más amplio
+con los stakeholders, la comunidad y los valores intrínsecos (otros marcos). Este espectro subraya
+que la "brújula moral" de un empresario no es monolítica, sino que está moldeada por su
+fundamento filosófico, su contexto social y su comprensión del papel de la empresa en la economía
+en general.
+En la visión de Heath, el emprendedor ético es aquel que maximiza el beneficio operando "como si"
+estuviera en competencia perfecta, evitando la explotación de las fallas del mercado. Sus "otros
+intereses" se alinean con la eficiencia, contribuyendo al funcionamiento óptimo general del sistema
+de mercado. Para Moreno, el emprendedor ético es aquel que contribuye al "trabajo doméstico" y al
+"ser nacional", operando dentro de un marco guiado por el Estado para lograr la "justicia social".
+Sus "otros intereses" están intrínsecamente ligados al desarrollo nacional y al bienestar social,
+aceptando potencialmente los controles estatales para el bien colectivo.
+Otros marcos presentan al emprendedor de la siguiente manera: la teoría de los stakeholders lo ve
+equilibrando los intereses de todas las partes; la RSC lo describe participando en actividades éticas
+y filantrópicas más allá del beneficio y el cumplimiento legal; el CVC lo sitúa encontrando
+oportunidades de beneficio al resolver problemas sociales; la ética de la virtud lo impulsa a buscar
+la excelencia y los bienes internos, lo que puede desafiar el beneficio como objetivo último; el
+enfoque del bien común lo orienta a contribuir al bienestar de toda la comunidad; y las teorías
+críticas lo ven desafiando las estructuras de explotación y abogando por el cambio sistémico.
+
+El Espectro de la Intervención Estatal
+El debate sobre la moralidad del mercado está intrínsecamente ligado al papel del Estado. La
+"moralidad implícita" del mercado no se autoimpone; sus resultados éticos dependen en gran
+medida del entorno institucional y regulatorio. La elección entre el Estado complementario del
+mercado de Heath y el Estado director del mercado de Moreno refleja creencias divergentes sobre la
+capacidad inherente del mercado para la autorregulación moral frente a su necesidad de orientación
+y control moral externos.
+El ideal de Heath es una intervención mínima, centrada en corregir fallas de mercado específicas e
+identificables para restaurar la eficiencia. El Estado es un "socio". Por el contrario, el ideal de
+Moreno es un control y una planificación estatales fuertes, proactivos y directos para asegurar la
+industria nacional, el empleo y la distribución equitativa, viendo el mercado como una herramienta
+que debe ser dirigida. Otros marcos, como la teoría de los
+stakeholders y la RSC, a menudo consideran la regulación como una línea de base, con la acción
+ética yendo "más allá del cumplimiento". El CVC busca soluciones win-win que podrían reducir la
+
+[[13]]
+necesidad de cierta intervención estatal. Las teorías críticas a menudo abogan por la intervención
+estatal para abordar los desequilibrios de poder sistémicos y promover la justicia.
+
+VI. Conclusión: Hacia una Comprensión Multifacética de la
+Moralidad del Mercado
+La exploración del "Enfoque de Fallas de Mercado" de Joseph Heath junto con diversas corrientes
+éticas y económicas —desde la teoría de los stakeholders y la ética de la virtud hasta el modelo
+peronista intervencionista de Guillermo Moreno— revela que la "moralidad implícita del mercado"
+dista mucho de ser un concepto singular y universalmente aceptado. Por el contrario, es un terreno
+en disputa, moldeado por supuestos filosóficos variables sobre la naturaleza humana, el propósito
+de la actividad económica y la relación ideal entre el mercado, el Estado y la sociedad.
+Heath ofrece una ética convincente, impulsada por la eficiencia, argumentando que las obligaciones
+morales de las empresas provienen de las mismas condiciones necesarias para que los mercados
+funcionen de manera óptima (eficiencia paretiana). Su concepto de "fair play empresarial" busca
+alinear la conducta empresarial con la lógica inherente del mercado, con el Estado actuando como
+un corrector pragmático de las imperfecciones.
+En contraste, figuras como Guillermo Moreno articulan una visión en la que el mercado, si se deja
+sin regular, socava activamente la cohesión nacional y la justicia social, lo que requiere una fuerte
+intervención estatal para dirigir la actividad económica hacia el bienestar colectivo y la soberanía
+nacional. El principio de "capitalista en la producción, justicialista en la distribución" encapsula un
+imperativo moral para resultados equitativos que trasciende la mera eficiencia.
+Otros marcos, como la Teoría de los Stakeholders, la RSC, el CVC, la Ética de la Virtud y las
+Teorías Críticas de la Empresa, ofrecen dimensiones adicionales: desde equilibrar diversos intereses
+y cumplir con deberes sociales más amplios hasta cuestionar fundamentalmente el motivo de lucro
+y abogar por un cambio sistémico.
+Este análisis multifacético enriquece significativamente la pregunta inicial al demostrar que los
+intereses empresariales pueden extenderse mucho más allá del beneficio. Estos "otros intereses"
+pueden entenderse a través de lentes de eficiencia, responsabilidad social, identidad nacional,
+excelencia intrínseca o un compromiso con la justicia, cada uno implicando diferentes obligaciones
+morales y roles para los actores del mercado y el Estado.
+El debate en curso sobre la moralidad del mercado subraya la complejidad de integrar la
+racionalidad económica con las demandas éticas en un mundo globalizado y diverso. La
+investigación futura y las aplicaciones prácticas podrían centrarse en:
+    • Desarrollar modelos híbridos que sinteticen las fortalezas de la ética basada en la eficiencia
+      con principios sólidos de justicia y responsabilidad social.
+    • Explorar cómo los diferentes contextos culturales y políticos moldean la percepción y la
+      implementación de la "moralidad del mercado".
+    • Diseñar mecanismos institucionales que incentiven un comportamiento empresarial alineado
+      con objetivos sociales más amplios, yendo más allá del mero cumplimiento para fomentar
+      negocios genuinamente orientados a un propósito.
+
+[[14]]
+• Fomentar un discurso público conceptualmente claro y basado en la evidencia, como aboga
+      Heath, al tiempo que se reconocen los valores arraigados y las aspiraciones nacionales
+      defendidas por pensadores como Moreno.
+En última instancia, comprender la "brújula moral del mercado" requiere un diálogo continuo e
+interdisciplinario que abarque tanto el análisis económico riguroso como la profunda reflexión ética.
+
+[[15]]
+

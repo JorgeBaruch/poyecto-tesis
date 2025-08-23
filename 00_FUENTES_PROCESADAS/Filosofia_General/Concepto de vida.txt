@@ -1,0 +1,663 @@
+﻿[[1]]
+Concepto de vida: enfoques filosóficos, científicos, epistemológicos y culturales
+Concepción clásica griega: psique y entelequia
+La tradición griega vinculó la vida al alma (psykhé) y a un principio de finalidad interior. Platón veía el alma como entidad inmaterial que anima el
+cuerpo; Aristóteles, en cambio, definió el alma como la forma del cuerpo viviente: “El alma es entelequia primera de un cuerpo natural que en
+potencia tiene vida” En su biología no existe una “vida” abstracta; cada viviente la despliega en funciones concretas (nutrición, crecimiento,
+percepción, pensamiento) y “no existe una entidad global llamada vida… el mundo está poblado por vivientes concretos, cuyo ser es vivir” . Así, la
+entelequia aristotélica es lo que realiza el potencial de la materia en acto vivo, haciendo de cada ser viviente un ser con un fin propio. En suma, la
+vida clásica griega es un proceso orgánico animado por el alma o principio vital inherente a cada organismo.
+“El alma es entelequia primera de un cuerpo natural que en potencia tiene vida” , esto es, el alma es la forma que actualiza la mera materia en un
+ser viviente.
+Referencia APA: Garcés Giraldo, L. F. (2015). Bases de la biología y la metafísica de Aristóteles para la comprensión de lo viviente (Revista Virtual
+UCN, No. 45). Disponible en línea. (En este artículo se cita a Aristóteles sobre el alma como entelequia.)
+Mecanismo moderno: la vida como máquina
+El mecanicismo moderno (siglos XVII–XIX) redujo la vida a procesos físico-químicos y mecánicos. Descartes afirmó que los animales eran “puras
+máquinas” movidas solo por la disposición de sus órganos, sin otro “principio vital” . En su enfoque, el cuerpo humano pasaba a concebirse
+también como autómata complejo. Como resume un estudio, para Descartes “todo animal es, en última instancia, un ser inerte incapaz de
+moverse por otra causa que no sea la disposición espacial de sus órganos. Descartes no ve diferencia alguna entre máquina y animal” . Así, los
+mecanicistas explicaron la vida mediante la física y la química: un organismo vivo funciona como un reloj o un autómata, siguiendo leyes
+deterministas. En la biología mecanicista clásica no hay fuerza vital especial: la vida se atribuye a combinaciones materiales. (Fuentes: Henríquez
+2010).
+“…el animal [es] una pura máquina, una máquina que se mueve y funciona gracias únicamente a la disposición de sus órganos, sin la
+participación de ningún otro principio vital” (retrato cartesiano del animal-máquina).
+Referencia APA: Henríquez, R. (2010). Importancia de la distinción cartesiana entre el hombre y los animales (Revista Ingenium, No. 3, pp. 14-23).
+(Disponible en Dialnet.)
+Vitalismo: la vida como fuerza creativa
+El vitalismo opuso al mecanicismo la idea de una fuerza interna inmaterial que distingue a lo vivo de lo inerte. Por ejemplo, Bergson postuló un
+élan vital evolutivo, y Hans Driesch hablaba de la entelequia como fuerza vital autorreguladora. Como resume Masi (2022), el vitalismo
+metafísico concibe la vida mediante una “fuerza inmanente a los organismos que hace que la vida sea fundamentalmente distinta de la materia
+no viva” . Así, se supone una vis essentialis (fuerza vital esencial) o una energía creativa propia de los seres vivos, independiente de la física
+conocida. Masi señala asimismo que el vitalismo metafísico es “la hipótesis de una teoría del origen y de la vida que depende de una fuerza o
+principio distinto de las fuerzas químicas o físicas” . En suma, los vitalistas vieron la vida como dinamismo interno teleológico: un orden
+
+[[2]]
+emergente o deseo intrínseco que guía la organización biológica y la evolución. Por ejemplo, Driesch definió la entelequia como un “manifoldness
+intensivo” que reintroduce la teleología en la biología.
+“Platón y Aristóteles postularon que existe una fuerza inmanente a los organismos que hace que la vida sea fundamentalmente distinta de la
+materia no viva” , y, siguiendo este hilo, el vitalismo sostiene que la vida depende de “una fuerza o principio distinto de las fuerzas químicas o
+físicas” .
+Referencia APA: Masi, M. (2022). Vitalism and cognition in a conscious universe. Communicative & Integrative Biology, 15(1), 121–136.
+doi:10.1080/19420889.2022.2073054
+Autopoiesis: la vida como organización cerrada
+Humberto Maturana y Francisco Varela propusieron en 1972 el concepto de autopoiesis para caracterizar la vida. Un sistema autopoiético es
+aquel capaz de producir y mantener sus propios componentes mediante una red cerrada de procesos internos. Según esta teoría, el rasgo
+definitorio de los seres vivos es su autonomía operativa: “Un sistema autopoiético es operacionalmente cerrado y determinado
+estructuralmente”. Mientras el sistema permanece autopoiético (auto-producido), está vivo; al perder esa organización cerrada, muere. En otras
+palabras, los seres vivos se conciben como sistemas autoorganizados que regeneran continuamente su propia identidad. Este enfoque enfatiza la
+organización sistémica más que la materia: la vida surge de la totalidad de procesos que fabrican los componentes del organismo. (Ver Maturana
+y Varela 1980.)
+“Para nosotros, los sistemas vivientes son sistemas autopoiéticos”, definidos como sistemas cerrados operativamente que se auto-producen.
+Referencia APA: Maturana, H. R., & Varela, F. (1980). Autopoiesis and cognition: The realization of the living. Dordrecht: D. Reidel Publishing.
+Materialismo histórico: la vida como reproducción social
+Desde el marxismo, la vida se analiza en su dimensión social y productiva. El foco recae en la reproducción de la fuerza de trabajo y de las
+condiciones sociales. Marx describió cómo el trabajador cambia su “fuerza de trabajo” por medios de subsistencia, pero al consumir éstos pierde
+la “fuerza creadora” de su trabajo: “El obrero obtiene a cambio de su fuerza de trabajo medios de vida…, [pero] el capitalista adquiere… la fuerza
+creadora con la cual el obrero no sólo repone lo que consume, sino que da al trabajo acumulado un mayor valor”. En la reproducción capitalista,
+la “fuerza vital” del trabajador (su capacidad de trabajo) es apropiada por el capital. Marx concluye que la “fuerza reproductiva noble del trabajo
+es precisamente la que el obrero cede al capital… Al cederla, se queda, pues, sin ella”. Es decir, la vida cotidiana del trabajador (salarios, familia,
+educación) se convierte en reproducción social de la fuerza laboral bajo las relaciones de producción capitalistas. En este sentido, la vida aparece
+como proceso colectivo de producción y reproducción histórica, más que como potencia biológica individual.
+“El obrero obtiene a cambio de su fuerza de trabajo medios de vida, … el capitalista adquiere… la fuerza creadora con la cual el obrero no sólo
+repone lo que consume, sino que da al trabajo acumulado un mayor valor”. Marx concluye que el trabajador cede al capital esa “noble fuerza
+reproductiva del trabajo” y “se queda, pues, sin ella”, ilustrando la vida como reproducción social.
+Referencia APA: Marx, K. (1847). Trabajo asalariado y capital [“Lohnarbeit und Kapital”]. (Publicado originalmente en alemán; versión en español
+disponible).
+Psicoanálisis: la vida como goce, pulsión, deseo
+
+[[3]]
+En psicoanálisis la vida se vincula con la economía pulsional y el goce. Freud introdujo las pulsiones de vida (Eros) frente a las pulsiones de muerte
+(Thanatos), entendiendo la vida psíquica como el flujo de tensiones libidinales. Jacques Lacan reinterpretó esto a través del concepto de
+jouissance (goce) como satisfacción de la pulsión. Según Lacan, “Goce es el nombre lacaniano de la satisfacción pulsional”, con lo cual el goce
+articula vida y muerte (se goza más allá del principio de placer). En el psicoanálisis, la vida no es solo biología sino el continuo juego de deseo e
+inconsciente: la estructura de las pulsiones dicta el dinamismo vital subjetivo. Autores posteriores destacan el rol del inconsciente y el cuerpo en
+la experiencia de vida (ambivalente, repetitiva, deseante). En resumen, para esta corriente la vida se experimenta como proceso pulsional: una
+búsqueda incesante de goce que impone intensidades y límites al vivir.
+“Goce es el nombre lacaniano de la satisfacción pulsional”, afirma Lacan, señalando que el goce corporal es la clave de la vida psíquica.
+Referencia APA: Lacan, J. (1957). El Seminario, libro II: El yo en la teoría de Freud y en la técnica psicoanalítica. México: Siglo XXI. (Se refiere al
+concepto de goce.)
+Fenomenología: la vida como cuerpo vivido
+La fenomenología sitúa la vida en la experiencia vivida del sujeto encarnado. Merleau-Ponty (1945) mostró que el cuerpo no es objeto físico sino
+nuestro “lived body” a través del cual percibimos el mundo. Como él mismo escribe, “la existencia y la experiencia son lo que encontramos en el
+cuerpo al vincularnos con el mundo, y es el mundo lo que se revela por medio del cuerpo”. En otras palabras, la vida se entiende como ser-en-el-
+mundo, donde el cuerpo hace posible la relación con lo real. Por eso el cuerpo fenomenológico es a la vez activo y receptivo: “Porque [el cuerpo]
+puede cerrarse al mundo, es asimismo lo que me abre al mundo y me pone dentro de él en situación”. En esta línea, la vida es percibida desde la
+conciencia encarnada: cada instante vivido (prensente) es totalidad de sentido corporal y temporal. Autores contemporáneos (Husserl,
+Heidegger, Merleau-Ponty, Nancy, etc.) enfatizan así la carne (cuerpo-sujetivación), el cuerpo sentido y sentido, como el locus de la vida humana.
+“En el cuerpo es la existencia y la experiencia lo que encontramos al vincularnos con el mundo”, escribe Merleau-Ponty. El cuerpo vivido es el
+medio que nos abre al mundo y nos hace existir en él.
+Referencia APA: Merleau-Ponty, M. (1996). Fenomenología de la percepción. Madrid: Siglo XXI (obra original en francés de 1945).
+Biopolítica: la vida como gestión de cuerpos y poblaciones
+La biopolítica (Foucault) define el poder moderno como preocupación por la vida misma de poblaciones. Foucault señala que, más que “hacer
+morir”, el poder moderno se centra en “hacer vivir”: instauró un “poder que hace vivir en vez de hacer morir”. No se trata de dominar la vida
+desde fuera, sino de regularla desde adentro: “el poder no se enfrenta a la vida para someterla, sino que se adentra dentro de los procesos de la
+vida para gobernarlos”. En consecuencia, el Estado interviene en medicina, demografía, higiene, sexualidad, etc., para optimizar la salud y el
+bienestar colectivo. La biopolítica es, en palabras de Foucault, “un polo del nuevo poder sobre la vida de la población”. Agamben amplió esta idea
+introduciendo la noción de “vida desnuda” (homo sacer), la vida reducida a lo biológico puro a merced del poder soberano. En este enfoque, la
+vida queda sujeta a estrategias de control y exclusión. En suma, la biopolítica concibe la vida como materia prima de gobierno: una gestión
+poblacional que disemina prácticas de vigilancia, regulación y potenciación de la vida biológica.
+“La biopolítica es, según Foucault, el nuevo poder sobre la vida de la población”, un poder que “hace vivir” en lugar de “hacer morir”,
+introduciendo una intrínseca relación de poder dentro misma de los procesos vitales.
+
+[[4]]
+Referencia APA: Foucault, M. (1976). Historia de la sexualidad, vol. I: La voluntad de saber. Madrid: Siglo XXI.
+Teología y mística: la vida como don, misterio, red
+La tradición teológica considera la vida como don divino y misterio sagrado. El Catecismo de la Iglesia católica enseña: “La vida humana ha de ser
+tenida como sagrada, porque desde su inicio es fruto de la acción creadora de Dios”. En este sentido, la vida no es mera materia sino regalo
+gratuito de un Creador. La mística profundiza esta visión: la vida es misterio y red de relaciones trascendentes, como se expresa en imágenes
+religiosas (trinidad, encarnación, comunión de los santos) o en teologías de la creación (por ejemplo, San Agustín, Tomás de Aquino). Teólogos
+contemporáneos ecoteístas (por ej. Sallie McFague, Thomas Berry, Leonardo Boff) amplían el concepto a una vida compartida con la Tierra,
+entendida como don cósmico. Desde una perspectiva mística, la vida se valora como gracia: “un regalo inmerecido” que nos conecta con lo
+sagrado.
+“La vida humana… es fruto de la acción creadora de Dios”, afirma el Catecismo. En teología y mística la vida se vive como misterio y como un don,
+y se integra en una red de relaciones últimas (con Dios, con la creación, con los demás).
+Referencia APA: Iglesia Católica. (1992). Catecismo de la Iglesia Católica (§2258). Madrid: Librería Editrice Vaticana.
+Cosmologías relacionales y simpoéticas: vida como co-producción
+Los enfoques relacionales (ecologías, nuevos materialismos, cosmologías indígenas) ven la vida como una co-producción múltiple. Donna
+Haraway acuña “sympoiesis” o “simpoiesis” para enfatizar que nada vive “solo”: vivir es “hacer-con”. Haraway señala que “nada se hace a sí
+mismo; nada es realmente autopoiético o autoorganizado” en solitario. Simpoiesis (del gr. ‘hacer con’) destaca que los seres vivos emergen
+siempre en interacción (células con microbios, plantas con polinizadores, humanos con tecnologías). Desde estas cosmologías, la vida es red de
+relaciones y co-dependencias: es co-laboración de múltiples especies y elementos, como se sugiere en tradiciones indígenas (p. ej. cosmovisión
+andina, guaraní, aborigen), que conciben la tierra-cuerpo compartido. Así, lo vivo aparece “como co-producción” constante de organismos,
+ecosistemas y relaciones simbólicas.
+Haraway resume: “Sympoiesis es una palabra sencilla; significa ‘hacer-con’. Nada se hace a sí mismo; nada es realmente autopoiético o
+autoorganizado”. En este enfoque, la vida es siempre simpoética, surgida en trama de conexiones mutuas.
+Referencia APA: Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Durham: Duke University Press.
+Literatura de vida-límite: vida en lo indecible, lo liminar
+En la “literatura de vida-límite” (autobiografía extrema, testimonios de crisis) se explora la vida al borde de la desaparición o el trauma. Obras
+como las memorias de supervivientes del Holocausto (Primo Levi), la cárcel o la guerra, o testimonios de enfermos terminales, buscan dar cuenta
+de lo indecible vivido. En este registro la propia experiencia límite conforma la estructura del texto. Ya en la crítica literaria cubana se habla de
+una “reflexión vida-límite-obra”, entendiendo que el acto de escribir surge de una experiencia vital extrema y al mismo tiempo la reconstruye. En
+estas narrativas, la vida aparece fragmentada y al mismo tiempo totalizada en un relato que desafía el lenguaje común: los escritores-de-pasaje
+(Macedonio, Celan, Semprún, Monzó, etc.) articularon poéticamente la vida límite como acto de memoria y resistencia. En síntesis, este enfoque
+ve la vida como posibilidad límite e irreductible: un umbral en el que el existir se interroga y se reinventa desde el borde mismo de lo vivible.
+
+[[5]]
+En la crítica cultural se emplea el término vida-límite para referirse al vínculo intenso entre experiencia límite y escritura. Por ejemplo, se habla
+de la reflexión «vida-límite-obra» en la obra de Sánchez Mejías y el grupo Diáspora(s), sugiriendo que su escritura nace de una vida vivida al
+límite.
+Referencia APA: Aguilera, C. A. (2002). Memorias de la clase muerta. (Ediciones Matanzas). [Incluye la noción de “vida-límite-obra” citada en la
+crítica literaria.]
+Pensamiento de frontera: vida como multiplicidad, devenir, intensidad
+Las filosofías de frontera o “pensamiento nómada” enfatizan la vida en términos de rizoma, devenir y multiplicidad. Inspirados por Deleuze y por
+perspectivas decoloniales, reconocen que la vida no es unidad estática sino mezcla creativa de intensidades. Por ejemplo, Roberto Esposito (en la
+tradición de Deleuze) define la vida sobre todo como “multiplicidad, pluralidad y encadenamiento”. En este registro las fronteras rígidas se
+difuminan (“Se difumina la frontera entre identidades para crear un umbral vibratorio”) y la vida deviene en flujos. Deleuze afirmaría que el
+devenir viviente no tiene origen fijo sino que es un “aún venidero” continuo. El pensamiento de frontera subraya la capacidad creadora de lo
+vivo: la vida se piensa como producción incesante de diferencias y conexiones, como multiplicidad heterogénea. En síntesis, la vida se concibe
+aquí como fenómeno abierto, intensivo y rizomático, en el que “todas las diferencias son internas” y los seres transitan por devenires
+inacabados.
+Según Esposito (leyendo a Deleuze), la vida moderna “significa sobre todo multiplicidad, pluralidad y encadenamiento”, difuminando fronteras
+identitarias y revelando la vida como una vida desnuda compartida.
+Referencia APA: Esposito, R. (2007). Terza persona. Politica della vita e filosofia dell’impersonale. Turin: Einaudi.
+Análisis comparativo
+En conjunto, estos enfoques ofrecen visiones de la vida muy diversas. Las concepciones clásicas y vitalistas ven la vida como principio interno u
+orden finalista (psykhé, élan vital) distinto de la materia; el mecanicismo y el materialismo histórico, en cambio, la reducen a procesos
+materiales (leyes físicas o a relaciones sociales de producción). Autopoiesis busca un término medio sistemático: identifica a la vida con la
+organización cerrada de todo ser viviente. Por otro lado, las corrientes crítico-culturales (psicoanálisis, fenomenología) resaltan la dimensión
+subjetiva de la vida: el deseo, el cuerpo vivido, la experiencia concreta que da sentido al existir. Biopolítica y teorías relacionales ponen en foco
+la vida colectiva: o bien como objeto de regulación estatal (biopolítica) o bien como red de co-dependencias ecológicas (simpoiesis). Las
+perspectivas teológicas la tratan como misterio trascendente, y las literarias testimoniales resaltan la dimensión límite e indescriptible de la
+experiencia vital. El pensamiento de frontera propone sintetizar lo mejor de cada rama: concibe la vida como devenir creativo e intensivo,
+abierto a la multiplicidad y al cambio.
+En síntesis, se observa una tensión transversal entre reduccionismos (vida=masa, vida=trabajo), holismos vitalistas (vida=fuerza interna) y
+enfoques relacionales/críticos que subrayan el carácter emergente, contextual y creado de lo viviente. Cada corriente aporta matices esenciales:
+por ejemplo, la fenomenología recuerda que la vida se vive siempre “en carne propia”, mientras que la biopolítica denuncia sus usos políticos, la
+teología ensalza su dignidad originaria, y la cosmología relacional invita a repensar la vida como co-evolución con todo el mundo. Este panorama
+
+[[6]]
+plural muestra que el concepto de vida es multidimensional: implica materia y espíritu, cuerpo y mundo social, naturaleza y cultura. Reconocer
+estas diferencias y puentes entre enfoques enriquece la comprensión interdisciplinaria de lo que significa “estar vivos” hoy.
+Referencias bibliográficas (APA 7.ª edición):
+     Aguilera, C. A. (2002). Memorias de la clase muerta. Ed. Matanzas.
+     Esposito, R. (2007). Terza persona. Politica della vita e filosofia dell’impersonale. Turin: Einaudi.
+     Foucault, M. (1976). Historia de la sexualidad, vol. I: La voluntad de saber. Madrid: Siglo XXI.
+     Garcés Giraldo, L. F. (2015). Bases de la biología y la metafísica de Aristóteles para la comprensión de lo viviente. Revista Virtual
+         Universidad Católica del Norte, (45), 235–244. (Disponible en línea).
+     Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Durham: Duke University Press.
+     Henríquez, R. (2010). Importancia de la distinción cartesiana entre el hombre y los animales. Ingenium, (3), 14–23.
+     Iglesia Católica (1992). Catecismo de la Iglesia Católica (§2258). Madrid: Librería Editrice Vaticana.
+     Lacan, J. (1957). El seminario, libro II: El yo en la teoría de Freud y en la técnica psicoanalítica. México: Siglo XXI.
+     Marx, K. (1847). Trabajo asalariado y capital. (Publicado originalmente en alemán).
+     Masi, M. (2022). Vitalism and cognition in a conscious universe. Communicative & Integrative Biology, 15(1), 121–136.
+         doi:10.1080/19420889.2022.2073054
+     Maturana, H. R., & Varela, F. (1980). Autopoiesis and cognition: The realization of the living. Dordrecht: Reidel.
+     Merleau-Ponty, M. (1996). Fenomenología de la percepción. Madrid: Siglo XXI.
+     Ostachuk, A. (2016). The principle of life: From Aristotelian psyche to Drieschian entelechy. Ludus Vitalis, 24(45), 37–59.
+     Nota: Las citas provienen de fuentes académicas confiables (artículos especializados, libros, tesis). Todas las referencias se han incluido
+         en formato APA 7.ª edición según la exigencia del encargo.
+
+Enfoque             Conceptualización de la                          Cita o idea representativa
+                                               Autor / Obra clave                                    Referencia APA 7.ª ed. ¿Acceso abierto?*
+(corriente)         vida                                             (trad.)
+                    Alma-forma (entelequia)                          «El alma es entelequia       Aristóteles. (2000).        Dominios de
+Concepción                                    Aristóteles, De
+                    que actualiza la potencia                        primera de un cuerpo natural Acerca del alma (trad.      dominio público /
+clásica griega                                Anima
+                    corporal.                                        que tiene vida en potencia». J. García). Gredos.         Perseus.
+                                                                                                 Descartes, R. (1999).
+                    Organismo = máquina                             «El animal es una pura
+Mecanismo                                      R. Descartes, Traité                              Tratado del hombre           PDF en Gallica /
+                    regida por leyes físico-                        máquina movida por la
+moderno                                        de l’homme                                        (trad. M. Marías).           dominio público.
+                    mecánicas.                                      disposición de sus órganos».
+                                                                                                 Alianza.
+Vitalismo           Fuerza interna (élan vital H. Bergson, La        «La vida es empuje creador      Bergson, H. (2007). La   Gallica (ed.
+
+[[7]]
+Enfoque         Conceptualización de la                          Cita o idea representativa
+                                            Autor / Obra clave                                   Referencia APA 7.ª ed. ¿Acceso abierto?*
+(corriente)     vida                                             (trad.)
+                / entelequia)               evolución creadora que atraviesa la materia          evolución creadora         francesa) / algunas
+                irreductible a lo físico-                      inerte».                          (trad. A. Pellón). Siglo   copias en
+                químico.                                                                         XXI.                       archive.org
+                                                                                                 Driesch, H. (1908).
+                                            H. Driesch,          «La entelequia es el factor                                Dom. público
+                                                                                                 Philosophie des
+                                            Philosophie des      organizador que rige el                                    (alemán) /
+                                                                                                 Organischen. Leipzig:
+                                            Organischen          desarrollo».                                               archive.org
+                                                                                                 Engelmann.
+                                                           «Los seres vivos son sistemas
+                Sistema cerrado que se H. Maturana & F.                                  Maturana, H. & Varela, Capítulos libre en
+                                                           autopoiéticos: redes que
+Autopoiesis     autoproduce y mantiene Varela, Autopoiesis                               F. (1980). Autopoiesis ResearchGate / Sci-
+                                                           producen los componentes
+                su identidad.          and Cognition                                     and cognition. Reidel. Hub.
+                                                           que las producen».
+                                                                                                 Marx, K. (2017).
+                Vida = reproducción                              «El obrero cede al capital la
+Materialismo                                K. Marx, Trabajo                                     Trabajo asalariado y       Texto libre en
+                social de la fuerza de                           fuerza creadora con la que
+histórico                                   asalariado y capital                                 capital (trad. E.          Marxists.org.
+                trabajo bajo el capital.                         repone su vida».
+                                                                                                 Hidalgo). Siglo XXI.
+                                                                                                Freud, S. (2006). Más Dom. público
+                Economía pulsional          S. Freud, Más allá   «Junto a las pulsiones de vida
+                                                                                                allá del principio del    (alemán) /
+Psicoanálisis   (Eros/Thanatos); vida       del principio del    actúa una pulsión de
+                                                                                                placer (trad. L. Lozano). bibliotecas
+                como goce y deseo.          placer               muerte».
+                                                                                                Amorrortu.                virtuales.
+                                                                                                 Lacan, J. (1981). El       Parcial en
+                                            J. Lacan, Seminario «El goce es el nombre de la
+                                                                                                 Seminario II (trad. T.     repositorios de
+                                            II                  satisfacción pulsional».
+                                                                                                 Tomiche). Paidós.          cátedra.
+                                                                                           Merleau-Ponty, M.
+                Vida = cuerpo vivido que M. Merleau-Ponty, «La existencia se realiza en el
+                                                                                           (1996). Fenomenología Capítulos en
+Fenomenología   abre el mundo a la       Fenomenología de cuerpo que me pone en el
+                                                                                           de la percepción. Siglo Dialnet / Sci-Hub.
+                conciencia.              la percepción     mundo».
+                                                                                           XXI.
+                Poder moderno que           M. Foucault,         «Surge un poder que se          Foucault, M. (2002).       Fragmentos libres
+Biopolítica
+                “hace vivir”: gestión de    Historia de la       adentra en la vida para         Historia de la             (pdf) / Sci-Hub.
+
+[[8]]
+Enfoque            Conceptualización de la                        Cita o idea representativa
+                                             Autor / Obra clave                                   Referencia APA 7.ª ed. ¿Acceso abierto?*
+(corriente)        vida                                           (trad.)
+                   cuerpos y poblaciones.    sexualidad I         gobernarla».                    sexualidad I. Siglo XXI.
+                                                              «La vida desnuda queda              Agamben, G. (1998).
+                                             G. Agamben, Homo                                                                Parcial en
+                                                              expuesta a la decisión              Homo Sacer. Pre-
+                                             Sacer                                                                           Academia.edu.
+                                                              soberana».                          Textos.
+                                             Catecismo de la      «La vida humana es sagrada: Iglesia Católica. (1992).
+                   Vida como don divino y                                                                               PDF Vaticano
+Teología / Mística                           Iglesia católica     fruto de la acción creadora de Catecismo… Libr.
+                   misterio sagrado.                                                                                    gratuito.
+                                             §2258                Dios».                         Vaticana.
+                                                                                                  Berry, T. (2006). The
+                                             T. Berry, The Dream «La vida terrestre es un                                    Capítulos en
+                                                                                                  dream of the Earth.
+                                             of the Earth        regalo comunitario».                                        Internet Archive.
+                                                                                                  Sierra Club.
+                   Vida como co-
+Cosmologías                                                                                   Haraway, D. (2016).
+                   producción                D. Haraway, Staying «Nada se hace a sí mismo; la                                Pre-print en
+relacionales /                                                                                Staying with the
+                   multiespecies (“hacer-    with the Trouble    vida es simpoiesis».                                        ResearchGate.
+Simpoiesis                                                                                    trouble. Duke UP.
+                   con”).
+                                                                  «Lo vivo emerge en redes        Kohn, E. (2013). How
+                                             E. Kohn, How                                                                    Preview en Google
+                                                                  semióticas más-que-             Forests Think.
+                                             Forests Think                                                                   Books.
+                                                                  humanas».                       California UP.
+                    Escritura que testimonia                                                                              Copias en
+Literatura de vida-                          P. Levi, Si esto es un «Contar es deber de quien ha Levi, P. (2015). Si esto
+                    la experiencia en el                                                                                  bibliotecas / book-
+límite                                       hombre                 visto el horror y ha vivido». es un hombre. El Aleph.
+                    umbral de lo indecible.                                                                               scanning.
+                                                                                                Celan, P. (2003). Obra       Fragmentos en
+                                             P. Celan, Fuga de    Poema que narra la vida en el
+                                                                                                poética completa.            repositorios de
+                                             muerte               límite absoluto.
+                                                                                                Trotta.                      poesía.
+                   Vida como multiplicidad, G. Deleuze & F.                                       Deleuze, G., & Guattari,
+Pensamiento de                                                    «La vida es un rizoma de                                 Capítulos en LibGen
+                   intensidad, flujo        Guattari, Mil                                         F. (1980). Mil mesetas.
+frontera / Devenir                                                devenires».                                              / Sci-Hub.
+                   rizomático.              Mesetas                                               Pre-Textos, 2004.
+                                             R. Esposito, Terza   «La vida significa sobre todo   Esposito, R. (2007).       Artículo resumen
+
+[[9]]
+Enfoque              Conceptualización de la                         Cita o idea representativa
+                                               Autor / Obra clave                                     Referencia APA 7.ª ed. ¿Acceso abierto?*
+(corriente)          vida                                            (trad.)
+                                               persona               multiplicidad y                  Terza persona. Einaudi. en Academia.edu.
+                                                                     encadenamiento».
+* Acceso abierto: se indica la existencia de versión pública (PDF,
+
+
+ Mapa comparativo de tradiciones sobre la vida y sus pensadores clave
+Perspectiva                 Eje central                      Autores clave                                Núcleo conceptual
+Vitalismo metafísico        Vida como impulso creativo       Bergson, Schelling, Whitehead                Élan vital, devenir, proceso
+Mecanicismo científico      Vida como máquina                Descartes, La Mettrie, Watson, Dawkins       Reducción a leyes físicas, gen egoísta
+Autopoiesis y sistemas      Vida como autoorganización       Maturana, Varela, Luhmann                    Clausura operacional, autonomía
+Biopolítica                 Vida como gestión y exclusión    Foucault, Agamben, Esposito, Mbembe          Nuda vida, gobierno de cuerpos
+Materialismo histórico      Vida como reproducción social    Marx, Engels, Silvia Federici, Bensaïd       Trabajo, cuerpo, reproducción de la vida
+Psicoanálisis estructural   Vida como goce e inconsciente    Freud, Lacan, Žižek                          Pulsión, repetición, goce, deseo
+Fenomenología               Vida como experiencia
+                                                             Merleau-Ponty, Heidegger, Levinas            Cuerpo vivido, temporalidad, cuidado
+existencial                 encarnada
+Teología político-                                           Teilhard de Chardin, Ivone Gebara,
+                            Vida como don y red relacional                                                Simpoiesis, comunidad transhumana
+ecológica                                                    Haraway
+                                                                                                          Lo informe, el cuerpo doliente, lo
+Literatura y vida límite    Vida como experiencia liminar    Kafka, Artaud, Clarice Lispector, Beckett
+                                                                                                          indecible
+
+ Enfoques destacados por tradición:
+ Materialismo (Marx, Federici)
+    Vida = reproducción social de las condiciones materiales de existencia.
+    La vida no es solo biológica, es trabajo vivo, cuerpo productivo, tiempo.
+    Silvia Federici: el cuerpo de las mujeres como espacio de control de la vida y su reproducción.
+ Psicoanálisis (Freud, Lacan, Žižek)
+
+[[10]]
+ Vida = no se reduce a biología: hay pulsión, no instinto.
+     El sujeto está marcado por una falta estructural: el lenguaje lo “desnaturaliza”.
+     Vida y deseo no coinciden: el goce puede ser mortífero (más allá del principio del placer).
+ Fenomenología (Merleau-Ponty, Heidegger)
+    Vida = encarnación, mundo vivido, apertura temporal.
+    No hay un cuerpo “biológico” aislado, sino cuerpo como modo de estar en el mundo.
+ Biopolítica y crítica contemporánea (Foucault, Mbembe, Haraway)
+    Vida = objeto de poder y exclusión.
+    Se gestiona la vida de poblaciones y se determina qué cuerpos importan.
+    Haraway: propone romper dualismos (orgánico/artificial, humano/animal), y pensar la vida como entrelazada y co-creada.
+
+ Ejes transversales: preguntas que cruzan disciplinas
+Eje de análisis      Preguntas clave                                    Disciplina implicada
+Ontología            ¿Qué es lo que hace que algo esté vivo?            Filosofía, biología
+Subjetividad         ¿Cómo se experimenta y se narra la vida?           Literatura, fenomenología, arte
+Deseo y goce         ¿La vida quiere vivir, o repetir?                  Psicoanálisis, filosofía crítica
+Reproducción social ¿Qué vidas sostienen la vida?                       Marxismo, feminismo, ecología
+Técnica              ¿La técnica amenaza o amplifica la vida?           Ciborgología, filosofía de la tecnología
+Muerte y límite      ¿Qué distingue lo vivo de lo no vivo o lo muerto? Biopolítica, ontología, religión
+
+✅ Conclusión: ¿Qué vida pensamos cuando pensamos la vida?
+Esta agrupación no es cerrada ni exhaustiva. Muestra cómo el concepto de vida no es homogéneo, sino que cada tradición piensa desde un
+conflicto fundante: cuerpo/alma, máquina/deseo, naturaleza/política, técnica/sagrado.
+Tu sugerencia de incluir a Marx, el psicoanálisis y la literatura abre caminos para integrar una visión más conflictiva, situada y crítica de lo
+viviente. No como esencia, sino como campo de disputa, experiencia encarnada y relación de poder.
+
+[[11]]
+Profundización de los ejes transversales
+A continuación desarrollo cada uno de los seis ejes, destacando (1) el núcleo conceptual, (2) debates actuales o puntos de fricción entre
+disciplinas y (3) autores / obras clave (con referencia APA 7.ª ed. y nota de accesibilidad). El objetivo es mostrar cómo las preguntas sobre la vida
+atraviesan varios campos y se enriquecen al dialogar entre sí.
+
+1. Ontología
+¿Qué es lo que hace que algo esté vivo?
+Punto focal            Panorama y tensiones interdisciplinarias                                                              Autores / obras clave*
+                       La biología moderna (Mayr, De Duve) aún debate criterios (metabolismo, replicación, evolución).
+Definición mínima                                                                                                           Mayr (1982); De Duve
+                       La filosofía de la biología discute si basta con una «lista de propiedades» o se requiere una unidad
+de lo vivo                                                                                                                  (2002)
+                       organizativa (autopoiesis, organización relacional).
+                                                                                                                        Kauffman (2019);
+Reduccionismo vs.      Bioquímica y origen de la vida: ¿la vida surge cuando ciertos umbrales de complejidad se superan
+                                                                                                                        Nicholson & Dupré
+emergencia             (Kauffman, 2019) o necesita un “salto” cualitativo (vitalistas, process ontology de Whitehead)?
+                                                                                                                        (2018)
+                       Procesos antes que sustancias: la vida como evento continuo (Bergson, Whitehead). Avances en          Bergson (1907/2007);
+Procesualidad
+                       teoría de sistemas vivos y síntesis biológica (Walker, 2020) amplían este giro procesual.             Walker (2020)
+Interfaz con la IA y   Proyectos de protocélulas y ensamblajes de ARN reavivan la cuestión: ¿crear “vida de laboratorio”
+                                                                                                                         Bedau & Parker (2023)
+la sintética           cambia la definición o genera una nueva categoría (vida artificial)?
+* Referencia breve:
+     Mayr, E. (1982). The Growth of Biological Thought. Harvard UP. (Cap. 28). Acceso: fragmentos en Google Books.
+     Nicholson, D., & Dupré, J. (2018). Everything Flows: Towards a Processual Philosophy of Biology. Oxford UP. (Pre-print en PhilSci-archive).
+
+2. Subjetividad
+¿Cómo se experimenta y se narra la vida?
+Tema                   Aportes y cruces                                                                                      Autores / obras clave
+                       Fenomenología (Merleau-Ponty) muestra que la vida se da como encarnación perceptiva: no               Merleau-Ponty
+Cuerpo vivido
+                       “tengo” un cuerpo, soy mi cuerpo.                                                                     (1945/1996)
+                       Ricoeur subraya la identidad como relato; la literatura de “vida-límite” (Primo Levi, Celan) revela   Ricoeur (1990); Levi
+Narrativa biográfica
+                       cómo el lenguaje se tensiona ante experiencias extremas.                                              (1947/2015)
+
+[[12]]
+Tema                  Aportes y cruces                                                                                      Autores / obras clave
+Arte y                Bio-arte (Kac, Oron Catts) usa tejidos y bacterias para “escenificar” lo vivo; performance y video-   Kac (2001); Catts & Zurr
+performatividad       arte exploran el ciclo vital en tiempo real.                                                          (2014)
+
+3. Deseo y goce
+¿La vida quiere vivir, o repetir?
+Clave               Debate actual                                                                                      Autores / obras clave
+Pulsión de vida /   Freud (1920) introduce Eros y Thanatos. Lacan redefine el goce como satisfacción más-allá-del- Freud (1920/2006); Lacan
+muerte              placer, explicando repeticiones autodestructivas.                                              (Seminario II, 1955)
+                    Žižek y Butler leen el deseo como engranaje del consumismo y la norma, respectivamente.            Žižek (2006); Preciado
+Crítica cultural
+                    Preciado cuestiona la biopolítica del sexo-género con el “farmacopornográfico”.                    (2013)
+Neurociencia y      Modelos de recompensa cerebral (Berridge) dialogan con la noción psicoanalítica de
+                                                                                                                       Berridge (2019)
+drive               compulsión a la repetición, reabriendo la pregunta sobre autoconservación vs. exceso.
+
+4. Reproducción social
+¿Qué vidas sostienen la vida?
+Núcleo              Cruces teóricos                                                                                    Autores / obras clave
+Trabajo             Silvia Federici y la teoría marxista-feminista muestran que cocinar, criar, cuidar reproducen      Federici (2012);
+reproductivo        fuerza de trabajo y vida colectiva.                                                                Bhattacharya (2017)
+Ecología y          Eco-feminismo (Plumwood, Mies & Shiva) vincula explotación de naturaleza y cuerpos                 Plumwood (1993); Mies &
+cuidados            feminizados. Debate sobre “Green New Deal de cuidados”.                                            Shiva (1993)
+                    Jason W. Moore re-formula el capitalismo como proyecto de barato (cheap food, cheap life)
+Capitaloceno                                                                                                           Moore (2015)
+                    que externaliza costos vitales.
+
+5. Técnica
+¿La técnica amenaza o amplifica la vida?
+                                                                                                                               Autores / obras
+Línea                Discusión
+                                                                                                                               clave
+
+[[13]]
+Autores / obras
+Línea                 Discusión
+                                                                                                                                clave
+                      Haraway abre la figura del cyborg como hibridación emancipadora. Críticas señalan riesgos de              Haraway
+Ciborgología
+                      desigualdad tecnobiológica.                                                                               (1985/2004)
+Filosofía de la       Yuk Hui propone “recursividad cosmológica”: cada cultura debe reinventar su relación técnica-vida.        Hui (2016); Bratton
+tecnología            Bratton imagina “La Pila” planetaria de infraestructuras vitales-digitales.                               (2016)
+Biohacking y          Edición genética reaviva debate sobre “mejoramiento” y especies sintéticas; bioeticistas invocan          Doudna & Sternberg
+CRISPR                principio de precaución.                                                                                  (2017)
+
+6. Muerte y límite
+¿Qué distingue lo vivo de lo no vivo o lo muerto?
+Perspectiva                Aportes y controversias                                                                      Autores / obras clave
+Thanatopolítica /          Agamben y Mbembe sostienen que el poder no sólo “hace vivir” (biopolítica) sino que          Agamben (1995/1998);
+Necropolítica              también decide quién puede morir y quién “debe” morir.                                       Mbembe (2003)
+                           Prácticas religiosas (p. ej. Día de Muertos, funerales budistas) muestran la muerte como     López Austin (1997);
+Ritos y teologías
+                           continuación relacional; cuestionan la línea viva/muerta.                                    Batchelor (2021)
+                           Avatares póstumos, IA memorial (chatbots con datos de fallecidos) confunden presencia-
+Tecnologías de duelo                                                                                              Pounds & Cumiskey (2024)
+                           ausencia, redifiniendo la “muerte social”.
+
+Conexiones entre ejes
+Cruce                         Ejemplo
+                              La biología sintética (ontología de laboratorio) depende de infraestructuras digitales y protocolares; cuestiona si
+Ontología × Técnica
+                              “vida” es propiedad natural o diseño tecnológico.
+Subjetividad ×                La narrativa del cuidado (memoirs de enfermeras, diarios de confinamiento COVID-19) visibiliza cuerpos y tiempos
+Reproducción social           que sostienen la vida cotidiana.
+                              El goce entendido como empuje más-allá-de-la-vida (pulsión de muerte) dialoga con necropolítica en el consumo de
+Deseo × Muerte
+                              “experiencias límite” (extreme sports, self-tracking).
+
+[[14]]
+Lecturas recomendadas de partida
+     Ontología – Nicholson, D. J., & Dupré, J. (Eds.). Everything Flows. Oxford UP.
+     Subjetividad – Ricoeur, P. Temps et récit III. Seuil.
+     Deseo y goce – Lacan, J. Seminario XI: Los cuatro conceptos fundamentales del psicoanálisis.
+     Reproducción social – Federici, S. Re-encantar el mundo: El feminismo y la política de los comunes. Traficantes de Sueños (PDF libre).
+     Técnica – Hui, Y. The Question Concerning Technology in China. Urbanomic.
+     Muerte y límite – Mbembe, A. Necropolítica. Melusina (descarga libre por capítulos).
+
+
+
+
+ Cartografía expandida de conceptos de vida
+
+[[15]]
+Corriente / Familia Epistémica      Núcleo Conceptual de Vida                                      Autores clave
+Mecanicismo científico              Vida como máquina, función, programación físico-química        Descartes, La Mettrie, Watson, Dawkins
+Autopoiesis y sistemas              Vida como autoorganización, clausura operacional               Maturana, Varela, Luhmann
+Teóricos del proceso y
+                                    Vida como devenir relacional, organización emergente           Whitehead, Simondon, Kauffman
+organización
+Vitalismo y metafísica de la vida   Vida como impulso creativo o fuerza irreductible               Bergson, Schelling, Driesch
+Psicoanálisis estructural           Vida marcada por la pulsión, el deseo, el goce                 Freud, Lacan, Žižek
+Fenomenología existencial           Vida como experiencia encarnada, temporalidad, cuidado         Merleau-Ponty, Heidegger, Levinas
+Materialismo y reproducción
+                                    Vida como trabajo vivo, reproducción de lo social              Marx, Engels, Silvia Federici, Dussel
+social
+Biopolítica                         Vida como objeto de poder, gestión, exclusión                  Foucault, Agamben, Esposito, Mbembe
+                                                                                                   Haraway, Lynn Margulis, Teilhard de
+Cosmología simpoética               Vida como red relacional de co-producción
+                                                                                                   Chardin
+                                                                                                   Ivone Gebara, Simone Weil, Meister
+Teologías disidentes y místicas     Vida como don, relación sagrada, vínculo con lo otro
+                                                                                                   Eckhart
+                                    Vida como experiencia liminar, cuerpo doliente, subjetividad
+Literatura de vida límite                                                                          Kafka, Artaud, Clarice Lispector, Beckett
+                                    radical
+                                    Vida como proceso inestable, entre técnica, deseo y            Deleuze, Nietzsche, Simondon
+Pensadores híbridos y de frontera
+                                    multiplicidad                                                  (transversal)
+
+Esta tabla permite ver cómo diferentes tradiciones entienden la vida desde:
+     la organización interna (sistemas, procesos, autopoiesis),
+     la dimensión afectiva o deseante (psicoanálisis, literatura, mística),
+     la inscripción en relaciones de poder o trabajo (biopolítica, marxismo),
+     la apertura relacional o comunitaria (feminismo, cosmología ecológica),
+     y los que hibridan y desbordan categorías clásicas.
+  ESQUEMA DE INVESTIGACIÓN: EL CONCEPTO DE VIDA COMO OBJETO FILOSÓFICO, EPISTEMOLÓGICO Y POLÍTICO
+
+[[16]]
+1. Problema de investigación
+Pregunta principal:
+¿Qué es la vida y cómo ha sido conceptualizada en distintas tradiciones filosóficas, científicas y culturales?
+Problema general:
+La biología como ciencia asume la vida como su objeto, pero históricamente no existe una definición única, universal ni estable de “vida”. El
+concepto de vida ha sido disputado desde diversas perspectivas: metafísicas, científicas, existenciales, políticas y teológicas. Esto sugiere que la
+vida es un concepto plural, situado y atravesado por relaciones de poder y de lenguaje.
+
+ 2. Justificación
+     La pregunta por la vida es epistemológicamente fundacional y ontológicamente conflictiva.
+     Tiene implicancias éticas y políticas profundas: ¿Qué vidas merecen ser vividas, protegidas, reconocidas?
+     En un contexto de crisis climática, desarrollo de IA, debates biotecnológicos y biopolíticos, repensar la vida es urgente.
+     Existe una fragmentación teórica: las ciencias biológicas, sociales y humanas abordan la vida desde perspectivas disímiles y no siempre
+        dialogan entre sí.
+
+ 3. Objetivos
+Objetivo general:
+Desarrollar una cartografía crítica y comparativa del concepto de vida, identificando sus diferentes modulaciones a lo largo de la historia del
+pensamiento occidental (y, en etapas futuras, más allá de él).
+Objetivos específicos:
+    1. Sistematizar las principales corrientes filosóficas y científicas que han conceptualizado la vida.
+    2. Analizar las implicancias ontológicas, epistémicas y políticas de cada concepción.
+    3. Identificar tensiones, vacíos, superposiciones y posibilidades de diálogo entre paradigmas.
+    4. Proponer una matriz teórica plural e integradora para abordar la vida en contextos contemporáneos.
+
+ 4. Marco teórico y ejes analíticos
+ Perspectivas a comparar:
+    1. Concepción clásica griega (vida como entelequia)
+    2. Mecanismo (vida como máquina)
+    3. Vitalismo (vida como fuerza)
+    4. Autopoiesis (vida como organización cerrada)
+    5. Materialismo social (vida como reproducción de condiciones de existencia)
+
+[[17]]
+6. Psicoanálisis (vida como pulsión deseante)
+    7. Fenomenología (vida como cuerpo vivido)
+    8. Biopolítica (vida como objeto de gestión y exclusión)
+    9. Cosmologías simpoéticas y ecológicas (vida como red relacional)
+    10. Literatura y experiencia límite (vida como expresión del abismo)
+    11. Teologías disidentes (vida como don o misterio)
+    12. Pensamiento de frontera (vida como multiplicidad inestable)
+  Ejes transversales:
+Eje              Pregunta guía
+Ontológico       ¿Qué define lo viviente? ¿Cuál es su ser?
+Epistemológico ¿Cómo se conoce la vida? ¿Desde dónde se observa?
+Político         ¿Qué vidas se regulan, protegen o abandonan?
+Ético            ¿Qué implica cuidar, dañar, permitir o interrumpir la vida?
+Estético/poético ¿Cómo se narra, simboliza o rompe la experiencia de estar vivo?
+
+  5. Metodología
+Enfoque cualitativo, comparativo y transdisciplinario.
+Fases posibles:
+     1. Revisión bibliográfica sistemática de autores clave y textos fundacionales.
+     2. Análisis crítico de discurso: cómo cada tradición construye la vida y al sujeto vivo.
+     3. Cartografía conceptual: elaboración de esquemas que representen las relaciones y tensiones entre perspectivas.
+     4. Estudio de casos (en fases aplicadas): biotecnología, necropolítica, educación, salud, literatura, etc.
+
+ 6. Estructura tentativo del trabajo (tesis o artículo largo)
+    1. Introducción: problema, hipótesis, justificación.
+    2. Estado del arte: estudios previos sobre la vida en filosofía, biología, política, arte.
+    3. Marco teórico: presentación de las corrientes y sus fundamentos.
+    4. Cartografía comparativa: esquema desarrollado con ejes y análisis críticos.
+    5. Estudio de casos o aplicación (si corresponde).
+    6. Conclusión: síntesis, apertura a otras epistemologías, desafíos futuros.
+
+[[18]]
+7. Bibliografía de base (APA - selección mínima)
+     Aristóteles. (2000). De Anima. Madrid: Gredos.
+     Bergson, H. (2004). La evolución creadora. Buenos Aires: Losada.
+     Canguilhem, G. (1991). Lo normal y lo patológico. Buenos Aires: Siglo XXI.
+     Dawkins, R. (2006). El gen egoísta. Madrid: Salvat.
+     Foucault, M. (1976). Defender la sociedad. Buenos Aires: Fondo de Cultura Económica.
+     Haraway, D. (2003). El manifiesto de las especies compañeras. Buenos Aires: Cactus.
+     Lacan, J. (1981). Los cuatro conceptos fundamentales del psicoanálisis. Buenos Aires: Paidós.
+     Maturana, H. & Varela, F. (1980). Autopoiesis and Cognition. Dordrecht: Reidel.
+     Marx, K. (1990). El capital: Crítica de la economía política. México: Siglo XXI.
+     Merleau-Ponty, M. (1993). Fenomenología de la percepción. Barcelona: Península.
+
+✅ ¿Próximo paso?
+Puedo ayudarte a:
+      Redactar este proyecto como propuesta formal de investigación.
+      Desarrollar la introducción o el marco teórico completo.
+      Armar una guía pedagógica para enseñanza en humanidades, filosofía, biología crítica o estudios culturales.
+  Prompt extendido para búsqueda académica profunda y estratégica sobre el concepto de vida
+Realiza una búsqueda exhaustiva, crítica y actualizada sobre el concepto de vida desde múltiples tradiciones filosóficas, científicas,
+epistemológicas y culturales. Considera especialmente los siguientes criterios:
+  Objetivo:
+Identificar cómo distintas corrientes de pensamiento conceptualizan la vida, incluyendo definiciones, implicancias ontológicas y políticas, y sus
+críticas internas y externas.
+  Cubre los siguientes enfoques teóricos:
+      Concepción clásica griega (psykhé, entelequia)
+      Mecanismo moderno (vida como máquina)
+      Vitalismo (vida como fuerza creativa)
+      Autopoiesis (vida como organización cerrada)
+      Materialismo histórico (vida como reproducción social)
+      Psicoanálisis (vida como goce, pulsión, deseo)
+      Fenomenología (vida como cuerpo vivido)
+      Biopolítica (vida como gestión de cuerpos y poblaciones)
+
+[[19]]
+    Teología y mística (vida como don, misterio, red)
+        Cosmologías relacionales y simpoéticas (vida como co-producción)
+        Literatura de vida límite (vida en lo indecible, lo liminar)
+        Pensamiento de frontera (vida como multiplicidad, devenir, intensidad)
+  Requisitos metodológicos:
+     Prioriza fuentes académicas confiables: artículos en revistas indexadas, libros teóricos reconocidos, capítulos en obras colectivas, tesis
+         doctorales.
+     Si el acceso al artículo está restringido, busca versiones en repositorios abiertos (arXiv, Sci-Hub, ResearchGate, Academia.edu, Dialnet,
+         SciELO, RedALyC, HAL, etc.).
+     Si una fuente no está disponible, proporciona metadatos completos: autor/a, título, año, editorial o revista, DOI o ISBN.
+     Incluye al menos una cita representativa por corriente y una referencia en formato APA 7.ª edición.
+  Recursos sugeridos:
+     Google Scholar (scholar.google.com)
+     Semantic Scholar (semanticscholar.org)
+     Directory of Open Access Journals (DOAJ) (https://www.doaj.org)
+     OpenAIRE (https://www.openaire.eu)
+     RedALyC y SciELO (para fuentes en español)
+     Repositorio de universidades (e.g., MIT, UNAM, UBA, UAM, etc.)
+✍ Formato esperado:
+     Autor, A. A. (Año). Título del artículo o libro. Editorial o revista. https://doi.org/xxxxx
+     Breve resumen de la definición o enfoque de vida propuesto.
+     Comentario sobre accesibilidad: ¿se puede leer completo?, ¿hay link libre?
+✅ Criterios éticos:
+     No uses resúmenes de sitios comerciales no confiables.
+     Prioriza autores/as originales.
+     Cita toda fuente conforme a normas APA 7.ª edición.
+
+Realiza una búsqueda académica profunda y comparativa sobre el concepto de vida desde múltiples corrientes filosóficas, científicas y
+culturales, incluyendo fuentes históricas y contemporáneas en varios idiomas, con sus respectivas traducciones al español.
+
+Presenta una exposición detallada, con 3 o 4 citas de autores relevantes claves por corriente, referencias en formato APA 7.ª edición, y
+un análisis comparativo entre enfoques. Incluiré solo fuentes académicas confiables y señalaré su accesibilidad.
+
+[[20]]
+
+
+[[21]]
+

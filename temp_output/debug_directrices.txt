@@ -1,0 +1,120 @@
+Directrices para autores/as (este es un marco posible no rígido)
+DIRECTRICES DE PUBLICACIÓN
+ARTÍCULOS
+
+
+
+Condiciones de envío de los artículos:
+La extensión mínima del trabajo deberá ser de 4000 palabras y la máxima de 8000
+(incluidas notas al final y bibliografía).
+ Abstract en inglés[1] y en español, palabras claves en inglés y español.
+ El archivo deberá procesarse en Word o enviarse en formato RTF.
+ Los títulos y subtítulos deberán estar justificados y en negrita. Y numerados en decimales
+que no superen el tercer nivel de orden (ej. 1.1.3).
+ Al comienzo del artículo deberá figurar el nombre y la procedencia institucional de cada
+autor.
+ Al final un breve CV del o lxs autores y su dirección de correo electrónico.
+ La sección donde aparecen los textos citados se titula Referencias. También justificado y
+en negrita.
+ Las referencias bibliográficas de citas textuales o referencias hechas en el texto deben
+indicarse en el cuerpo del texto y no como notas al final. Por ejemplo:
+Sin embargo, y a pesar de no haberse alcanzado en el campo de la herencia, ni antes ni después de
+dicha cristalización, acuerdo completo por parte de comunidad científica acerca de cuáles eran los
+problemas a resolver. (Lorenzano, 2002: 399)
+ Las citas textuales van en cursivas sin comillas en el mismo tamaño de letra. Las citas de
+más de 40 palabras deberán ir en un párrafo aparte, sangría de ambos lados, interlineado
+1pt.
+ Las notas al pie deberán colocarse al final del trabajo, antes de la bibliografía empleada.
+
+
+
+El formato de citas en la bibliografía deberá respetar los siguientes esquemas:
+
+Libro
+van Fraassen, B. (1996) La Imagen Científica, México: Paidós.
+ Compilación
+McCarthy, J.; Buvac, S. (1997), “Formalizing context”, en Aliseda, Atocha (et al.) (eds.), Computing
+Natural Language, EE.UU.: Stanford University Press.
+ Artículo en revista
+Copeland, J. (1997) “Vague identity and fuzzy logic”, Journal of Philosophy vol. 94, pp 514-534.
+ Imágenes y gráficos.
+Toda imagen que se incluya en el trabajo deberá enviarse adicionalmente como archivo separado
+(jpg, gif, tif, etc.), a fin de posibilitar la edición posterior.
+Si el trabajo incluye fuentes tipográficas no estasdándar (por ejemplo, símbolos lógicos), deberán
+incrustarse en el cuerpo del texto y se solicita además que se envíe aparte una versión impresa o
+un archivo PDF a fin de posibilitar la edición posterior.
+ Formato de Presentación
+ Documento Word editable.
+ Tamaño: A4. 21 x 29,7 cm.
+ Márgenes: Sup. e Inf. de 2,5 cm. Izqda. y Dcha. 3 cm.
+ Fuente: Arial 11 pts.
+ Alineación: Justificada
+
+
+
+
+
+Interlineado: 1,5 cm
+Extensión Mínima: 4000
+Extensión Máxima: 8000
+
+
+
+Evaluación
+Serán evaluados solamente los artículos que se ajusten a los puntos mencionados. Todos los
+artículos serán evaluados por referís anónimos. Los evaluadores serán designados por el Comité
+Editorial de la revista, los que pueden aceptarlos, aceptarlos con correcciones o rechazarlos.
+
+✅ Instrucciones adaptadas para trabajo asistido por IA
+1. Extensión del trabajo:
+o La extensión debe estar entre 4000 y 8000 palabras, incluyendo notas al final y
+bibliografía.
+2. Abstract y palabras clave:
+o Incluir un abstract (resumen) en español e inglés.
+o Incluir palabras clave en español e inglés.
+3. Títulos y subtítulos:
+o Deben ir justificados, en negrita, y numerados en formato decimal que no supere
+el tercer nivel (ej.: 1.1.3).
+4. Identificación del autor:
+o Al comienzo del artículo debe figurar el nombre del autor y su afiliación
+institucional.
+5. Referencias en el texto:
+o Las referencias deben citarse dentro del cuerpo del texto, no como nota al pie.
+Ejemplo:
+"...acuerdo completo por parte de comunidad científica acerca de cuáles eran los problemas a
+resolver. (Lorenzano, 2002: 399)"
+6. Citas textuales:
+o Deben ir en cursiva, sin comillas, y con el mismo tamaño de letra.
+o Si superan las 40 palabras, se colocan en un párrafo aparte con sangría a ambos
+lados y interlineado de 1 pt.
+7. Notas al pie:
+o Se incluirán como notas numeradas y ubicadas al final del trabajo, antes de la
+bibliografía.
+8. Referencias bibliográficas (formato):
+o Libro:
+Apellido, Inicial. (Año) Título, Lugar: Editorial.
+Ej: van Fraassen, B. (1996) La Imagen Científica, México: Paidós.
+o Compilación:
+Autor(es) (Año), “Título del capítulo”, en Compilador(es) (eds.), Título del libro,
+Lugar: Editorial.
+Ej: McCarthy, J.; Buvac, S. (1997), “Formalizing context”, en Aliseda, A. (et al.)
+(eds.), Computing Natural Language, EE.UU.: Stanford University Press.
+o Artículo en revista:
+Apellido, Inicial. (Año) “Título del artículo”, Nombre de la revista vol. xx, pp. xx-xx.
+Ej: Copeland, J. (1997) “Vague identity and fuzzy logic”, Journal of Philosophy vol.
+94, pp. 514-534.
+9. Formato general de texto (solo aplicable a lo que una IA puede producir):
+
+o
+o
+o
+o
+o
+
+Tamaño del documento: A4
+Fuente: Arial, 11 pts
+Alineación: Justificada
+Interlineado: 1.5
+Márgenes recomendados: Superior e inferior: 2.5 cm, Izquierdo y derecho: 3 cm
+
+

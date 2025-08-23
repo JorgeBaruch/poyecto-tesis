@@ -1,0 +1,973 @@
+﻿[[1]]
+Marechal: Epopeya Argentina y Mito Fundacional
+Nombre del Autor: [Tu Nombre Completo] Procedencia Institucional: [Tu Institución/Afiliación]
+Abstract This essay performs a comprehensive comparative analysis of Leopoldo Marechal's
+Adán Buenosayres and Antígona Vélez, contrasting them with the structures, motifs, and
+symbolisms of classical epics such as The Iliad, The Odyssey, and The Aeneid, as well as Dante
+Alighieri's Divine Comedy. It explores how Marechal's works, through their re-elaboration of
+classical myths, reflect, reinterpret, and dialogue with the origins and conflicts of the Río de la Plata
+independence movement and the subsequent construction of the Argentine nation. By examining
+how Marechal transforms traditional epic elements into a "democratized" national epic, the essay
+highlights his unique approach to forging an Argentine identity rooted in both European heritage
+and local realities. The analysis will delve into character archetypes, symbolic settings,
+philosophical dimensions, and the socio-political context of Marechal's work, revealing its
+foundational poetic project.
+Keywords: Leopoldo Marechal, Adán Buenosayres, Antígona Vélez, epic, myth, Argentine
+literature, intertextuality, national identity.
+Resumen Este ensayo realiza un análisis comparado exhaustivo de Adán Buenosayres y
+Antígona Vélez de Leopoldo Marechal, contrastándolas con las estructuras, motivos y simbolismos
+de las epopeyas clásicas como La Ilíada, La Odisea y La Eneida, así como con la Divina Comedia
+de Dante Alighieri. Se explora cómo estas obras marechalianas, a través de su reelaboración del
+mito clásico, reflejan, reinterpretan y dialogan con los orígenes y conflictos de la gesta
+independentista del Virreinato del Río de la Plata y la posterior construcción de la nación argentina.
+Al examinar cómo Marechal transforma los elementos épicos tradicionales en una epopeya
+nacional "democratizada", el ensayo destaca su enfoque único para forjar una identidad argentina
+arraigada tanto en la herencia europea como en las realidades locales. El análisis profundiza en
+los arquetipos de personajes, los escenarios simbólicos, las dimensiones filosóficas y el contexto
+sociopolítico de la obra de Marechal, revelando su proyecto poético fundacional.
+Palabras clave: Leopoldo Marechal, Adán Buenosayres, Antígona Vélez, epopeya, mito, literatura
+argentina, intertextualidad, identidad nacional.
+--------------------------------------------------------------------------------
+La Epopeya Revisitada: Una Investigación Comparada de la Poética Nacional en Leopoldo
+Marechal
+1. Introducción: La Novela como Epopeya en la Poética de Leopoldo Marechal
+Leopoldo Marechal (1900-1970) se erige como una figura central y compleja en la literatura
+argentina del siglo XX, un autor multifacético que abarcó la poesía, el drama, la novela y el ensayo.
+Su obra cumbre, Adán Buenosayres, publicada en 1948, es un hito indiscutible en la narrativa de
+su tiempo, reconocida por su profundidad y originalidad. Marechal fue un miembro prominente del
+Grupo Florida y un activo "martinfierrista" durante la efervescencia vanguardista de la década de
+1920 en Buenos Aires. Su trayectoria estilística evidencia una notable evolución, transitando de un
+lenguaje inicial más descriptivo a una expresión madura marcadamente simbólica e indirecta,
+adoptando un clasicismo particular en sus obras narrativas y dramáticas.
+Un aspecto fundamental que marcó su vida y la recepción de su obra fue su adhesión al
+peronismo a partir de 1944-1945. Esta postura política le valió una notoria "proscripción
+intelectual" y un distanciamiento significativo de la élite cultural de la época, incluyendo a figuras
+del influyente Grupo Sur. A pesar de ello, la preocupación por el destino de Argentina y la
+búsqueda de una identidad nacional profunda constituyen un eje transversal en toda su
+producción, concibiendo a su patria como un "pueblo de Dios". La estética marechaliana es
+definida como "unitiva", un crisol donde convergen la belleza ontológica, la creación artística, la
+erótica, la epistemología y la mística, nutriéndose de manera primordial de fuentes griegas y
+cristianas.
+1.1. La concepción marechaliana de la novela como "sucedáneo legítimo" de la epopeya
+clásica y su propósito fundacional
+Marechal articuló explícitamente su visión de la novela como un "sucedáneo legítimo" de la
+epopeya clásica, afirmando haber estructurado Adán Buenosayres según los cánones aristotélicos
+del género épico. Esta declaración no es meramente una formalidad, sino un posicionamiento
+deliberado de su obra dentro de una tradición literaria milenaria, reinterpretada para la modernidad.
+Para el autor, la novela se convierte en la epopeya de los tiempos contemporáneos, un género
+que emerge cuando los narradores literarios desplazan su atención del "Olimpo de los dioses y el
+
+[[2]]
+arsenal de héroes" para "fijar su atención en los hombres corrientes". Este cambio, según
+Marechal, no representa una "corrupción" del género, sino una "adaptación" necesaria a las
+nuevas condiciones del siglo, en la que "nada se pierde y todo se transforma" (Marechal, 2014:
+30).
+La obra es concebida por Marechal como un "poema concluido", un "discurso poético" que, a
+pesar de estar escrito en prosa, aspira a narrar "hazañas de un héroe o un hecho grandioso" con
+la intervención de elementos sobrenaturales o maravillosos. El autor mismo insistió: Al escribir mi
+Adán Buenos Aires no entendí salirme de la poesía (Marechal, 1997b: 869). Esta filiación genérica
+con la épica clásica es, por lo tanto, crucial para comprender el desarrollo y las intenciones más
+profundas de su obra. En sus "Claves de Adán Buenosayres", Marechal buscó desvincular el
+"valor intencional" y la "genealogía" real de la obra de las meras identificaciones de personajes
+ficticios con personas reales.
+La concepción de la novela como una epopeya "democratizada" trasciende una simple evolución
+genérica; constituye una estrategia deliberada para construir una identidad nacional argentina.
+Esta identidad no se cimienta en figuras míticas inalcanzables o en un pasado heroico distante,
+sino en la heroicidad cotidiana del pueblo. Al elegir hombres de carne y hueso, porteños, filósofos,
+artistas, bohemios como sus protagonistas, Marechal busca una expresión ontológica fundacional
+para Argentina que sea inclusiva y refleje la naturaleza variada de su pueblo. Este enfoque es
+particularmente relevante para una nación joven y marcada por la inmigración, donde la identidad
+colectiva debe forjarse a partir de la diversidad y la experiencia compartida de lo ordinario, elevado
+a lo trascendente. La novela, en su cualidad de "poema concluido", se convierte así en el vehículo
+para mitificar el presente y el futuro de la nación, no solo su pasado glorioso. Las epopeyas
+clásicas, como la Ilíada y la Odisea, sirvieron para cohesionar la identidad de un pueblo alrededor
+de sus héroes y mitos fundacionales, y Marechal, al reinterpretar este modelo, lo adapta para la
+fundación de un nuevo ethos argentino.
+1.2. Objetivos y Metodología del Ensayo
+El presente ensayo se propone realizar un análisis comparado exhaustivo de Adán Buenosayres y
+Antígona Vélez de Leopoldo Marechal, contrastándolas con las estructuras, motivos y simbolismos
+de las epopeyas clásicas como La Ilíada, La Odisea y La Eneida, así como con la Divina Comedia
+de Dante Alighieri. Se explorará cómo estas obras marechalianas, a través de su reelaboración del
+mito clásico, reflejan, reinterpretan y dialogan con los orígenes y conflictos de la gesta
+independentista del Virreinato del Río de la Plata y la posterior construcción de la nación argentina.
+Para abordar esta compleja intertextualidad y los múltiples niveles de significado, se empleará una
+metodología que integra el análisis textual, la semiótica y la etimología. El análisis textual permitirá
+identificar las alusiones directas e indirectas y las estrategias de reescritura. La semiótica
+desvelará las capas de significado de personajes, escenarios y símbolos, examinando cómo estos
+elementos construyen sentido en el contexto de la obra y su relación con la tradición. El análisis
+etimológico, por su parte, ofrecerá una comprensión más profunda de la carga simbólica inherente
+a los nombres y topónimos elegidos por Marechal, revelando intenciones y resonancias ocultas
+que enriquecen la interpretación de su poética nacional.
+2. Adán Buenosayres: El Viaje del Héroe Moderno y la Cosmogonía Porteña
+2.1. Estructura y Filiationes Épicas
+Leopoldo Marechal concibe Adán Buenosayres como una narración épica, a pesar de su forma en
+prosa, lo que de por sí representa una ruptura formal con la epopeya tradicional. Esta concepción
+se ve reforzada por la insistencia del autor en que la novela es un "poema concluido" y su
+afirmación categórica: Al escribir mi Adán Buenos Aires no entendí salirme de la poesía (Marechal,
+1997b: 869). Esta declaración eleva la obra de un mero relato a una composición con una
+resonancia mítica y metafísica inherente.
+La influencia de Homero y Dante Alighieri es explícita y fundamental en la construcción de la
+novela. La estructura narrativa se articula en torno al "simbolismo del viaje" o "errar", una "imagen
+viva de la existencia humana" que encuentra su principal inspiración en la Odisea. La crítica ha
+trazado paralelismos entre Adán Buenosayres y obras como el Ulises de James Joyce y
+Manhattan Transfer de John Dos Passos, catalogándola a veces como un "centón heterogéneo,
+un caos literario". El propio Marechal reconoció la influencia de Joyce, habiendo leído la
+traducción francesa del Ulises durante su segundo viaje a Europa, lectura que "disparó la escritura
+del Adán" (Ayala, 2000: 49). Sin embargo, la intención de Marechal no era una simple imitación,
+sino una profunda "reapropiación" y "reinvención" de estas fuentes clásicas y modernas.
+
+[[3]]
+Marechal se apoyó en la Poética de Aristóteles para justificar la génesis novelística de su obra,
+argumentando que la novela es el "sucedáneo" de la epopeya, adaptado para centrarse en los
+"hombres corrientes" (Marechal, 2014: 30). El lenguaje en Adán Buenosayres es un testimonio de
+esta síntesis, una amalgama dialéctica de lo épico y lo popular. Coexisten epítetos homéricos
+como Gea, numerosa de semillas, el Amor flechero, Juno, la de los ojos de buey o Minerva, la de
+los ojos de lechuza (Marechal, 1997a: 95), junto con frases formulares como el Hades tenebroso o
+las cóncavas naves, que conviven en el mismo registro lingüístico con el lunfardo, la jerga barrial y
+los coloquialismos porteños. Esta mezcla no es fortuita; se trata de un "juego paródico" que, lejos
+de ser una burla despectiva, sugiere una "cercanía e intimidad" con la tradición clásica,
+reinventándola para el contexto argentino.
+La categorización de su novela como un "poema" le confiere una autoridad intrínseca para
+funcionar como un texto fundacional. Esta "poeticidad" eleva la obra de un mero relato a un plano
+mítico y metafísico, sugiriendo que la "verdad" de la identidad argentina, con su compleja
+amalgama de influencias y su "crisol de razas", solo puede ser aprehendida plenamente a través
+del lenguaje poético. Este lenguaje, que "muestra y oculta, dice y no dice", se convierte en el
+medio idóneo para la construcción del ser nacional. Los elementos paródicos, en este sentido, no
+disminuyen la grandeza de la tradición, sino que la "reinventan", permitiendo que lo clásico
+resuene con lo local y lo cotidiano. Este enfoque permite a Marechal trascender la simple mímesis
+para construir una "poética filosófica" que busca una experiencia mística y una comprensión
+ontológica del ser argentino, donde la forma poética se sostiene en una dimensión ontológica.
+2.2. Análisis de Personajes y Alusiones a Figuras Reales
+2.2.1. Adán Buenosayres: El "primer hombre" argentino y su itinerario espiritual
+Adán Buenosayres es el protagonista central de la novela, un Stephen Dedalus porteño que, en
+gran medida, encarna al propio Leopoldo Marechal, dotando a la obra de un marcado carácter
+autobiográfico. El nombre "Adán" es de origen hebreo, con significados como "hombre", "rojizo",
+"sangre" o "hecho de tierra", aludiendo al primer hombre bíblico creado por Dios. El apellido
+"Buenosayres" era, de hecho, el apodo de Marechal durante su infancia en Maipú. Esta elección
+nominal, cargada de simbolismo, ya establece un propósito fundacional y universal para el
+personaje, presentándolo como un prototipo del ser humano y, por extensión, del argentino.
+La novela narra un período de tres días en la vida de Adán, un lapso de intensa experiencia
+trascendente que culmina con su abrazo de la fe cristiana. Este proceso refleja la propia
+conversión espiritual del autor hacia finales de los años 20. La búsqueda existencial de Adán se
+orienta hacia un "centro" y un "Absoluto", estructurándose en modelos de "ascensos y descensos
+neotestamentarios y en la cosmología dantesca". A pesar de ser presentado como un héroe
+huidizo, agonizante y herido de muerte, Adán y los personajes que lo rodean son, con sus
+acciones, los artífices de un ethos particular que pretende construir una nueva identidad argentina.
+2.2.2. El "Grupo de Florida" en la ficción: Luis Pereda (Borges), Schultze (Xul Solar), Bernini
+(Scalabrini Ortiz), Samuel Tesler (Jacobo Fijman), Titania (Victoria Ocampo)
+Marechal, con una fina ironía y un agudo sentido del humor, satiriza de manera velada a figuras
+reales de su círculo literario, el Grupo Florida, a través de sus personajes ficticios: Luis Pereda
+representa a Jorge Luis Borges, Schultze a Xul Solar, Bernini a Raúl Scalabrini Ortiz, Samuel
+Tesler a Jacobo Fijman, y Titania a Victoria Ocampo. Estos personajes son retratados como
+poetas, filósofos y artistas que animan el ambiente intelectual y urbano de Buenos Aires.
+La función dialogal de estos personajes es crucial, ya que sus interacciones recrean las
+"fervorosas tertulias" de los martinfierristas, donde se debatían temas trascendentes con un humor
+característico. La obra, sin embargo, fue recibida con feroces críticas por los propios amigos
+representados, quienes no siempre supieron apreciar la humorada o el juego paródico implícito. El
+desagrado de sus colegas se explica, en parte, por el cambio que habían experimentado sus
+caracteres a lo largo de las dos décadas transcurridas desde las andanzas juveniles hasta la
+publicación de la novela. Marechal hereda de Macedonio Fernández el uso del humor para
+abordar temas trascendentes, lo que añade una capa de complejidad a estas interacciones
+satíricas.
+La combinación de elementos autobiográficos con la sátira de figuras contemporáneas no es un
+mero recurso literario, sino un acto metaliterario con profundas implicaciones para la construcción
+de la identidad nacional. Al proyectar su propia búsqueda espiritual en Adán, Marechal sugiere que
+el "primer hombre" de la epopeya argentina es un intelectual moderno, y que la forja del ser
+nacional se da a través de las vivencias y debates de su propia generación. La sátira, lejos de ser
+
+[[4]]
+puramente burlesca, funciona como una autocrítica y una reflexión sobre el papel de la
+intelectualidad en la definición de la nación. La hostilidad de sus amigos ante la publicación
+subraya la tensión inherente entre la representación personal y el ambicioso proyecto
+universalizador de la "Argentinopeya". Esto revela que el proceso de definir una identidad nacional
+es intrínsecamente complejo, cargado de conflictos personales e ideológicos, incluso entre
+aquellos que comparten un objetivo común de "pensar el ser nacional".
+2.3. Escenarios Simbólicos y el Descenso al Inframundo
+2.3.1. Buenos Aires como "Teatro del Universo" y crisol de identidades
+Buenos Aires, en la obra de Marechal, es mucho más que un simple escenario geográfico; es
+recreada desde una perspectiva mística, metafísica y mitológica. La ciudad se transforma en un
+Teatro del Universo - Símbolo de la Peregrinación, una metrópolis moderna e industrializada de
+finales de los años 20. Se presenta como un "crisol de razas", donde las diversas colectividades
+de inmigrantes —iberos, vascuences, andaluces, ligures, napolitanos, turcos, judíos, griegos,
+dálmatas, nipones— son parodiadas como "tropas de Guerreros". Esta diversidad es un elemento
+fundamental para la "problemática del ser nacional" y la conformación de la personalidad
+argentina en un país con una alta tasa de inmigración y una tradición relativamente joven.
+Marechal mitifica Buenos Aires, haciendo que lo ordinario y cotidiano conviva con lo fantástico,
+transformándola en una "urbe de leyenda".
+2.3.2. El "Viaje a la oscura ciudad de Cacodelphia"
+El descenso al inframundo es un motivo épico recurrente y central en la literatura clásica, presente
+en las travesías de Odiseo en la Odisea, Eneas en la Eneida, y Dante en la Divina Comedia. En
+Adán Buenosayres, este descenso se materializa en los libros III y VII, representando un viaje de
+"purificación" y "autoconocimiento" que busca la "realización de ciertas posibilidades de tipo
+inferior" para alcanzar una catarsis y el despertar de la conciencia hacia una nueva fe cristiana.
+El Viaje a la oscura ciudad de Cacodelphia (Libro VII) es una "catábasis porteña", una reescritura
+paródica del descenso de Eneas en el Libro VI de la Eneida y del Infierno de Dante. El nombre
+"Cacodelphia" es revelador etimológicamente, al contraponerse a la ideal "Philadelphia". Caco-
+proviene del griego kakos, que significa "malo", "feo" o "malvado". Delphia puede aludir a
+adelphos (hermano) o a Delphi (el ombligo del mundo). Así, "Cacodelphia" podría interpretarse
+como "mala hermandad" o "origen/útero feo/malo", simbolizando las fallas, contradicciones y
+aspectos oscuros inherentes a la construcción de la sociedad porteña. Cacodelphia y Calidelphia
+no son meras ciudades mitológicas, sino "dos aspectos de una misma ciudad" y una "contrafigura
+de la Buenos Aires visible", accesible solo para los "ojos del intelecto". Esto sugiere una dimensión
+oculta, espiritual o incluso infernal de la metrópolis, que debe ser explorada para una comprensión
+completa del ser nacional.
+Marechal reinterpreta elementos clásicos en este descenso: la hoja mortífera (cicuta) que
+mastican Adán y Schultze es el equivalente al ramo dorado que la Sibila ordena a Eneas buscar
+para transitar entre la vida y la muerte; la oscuridad de la noche, las estrellas como "los mil ojos de
+un Argos parpadeante", los ladridos del "Cancebero", y la cercanía de los suburbios al Río de la
+Plata (identificado como la laguna Estigia) son todos elementos extraídos de los hipotextos
+clásicos y reescritos en el contexto marechaliano. El astrólogo Schultze (Xul Solar) funge como el
+guía, el "Virgilio argentino". A diferencia de los héroes clásicos que regresan iluminados y
+comparten su sabiduría, los resultados del itinerario que conduce al Absoluto de Adán quedan
+"incompletos" o "fuera de la diégesis" porque la unión con la divinidad es "inenarrable". Esto
+representa una ruptura formal con el mito clásico, pero una continuidad con la nueva ideología
+religiosa de Marechal, donde lo místico trasciende el lenguaje y la narrativa convencional.
+El simbolismo del Cristo de la Mano Rota es un ancla espiritual crucial en este inframundo urbano.
+La búsqueda de un "centro existencial" y un "Absoluto" en la novela culmina en este Cristo,
+ubicado en la Iglesia de San Bernardo. Este símbolo orienta a Adán hacia el sentido trascendente
+y la renuncia a los "amores de abajo".
+La transformación del arquetipo del inframundo clásico, tradicionalmente un lugar de juicio y
+revelación ancestral, en el subconsciente urbano de Buenos Aires, implica que la verdadera
+"fundación" del alma argentina no se da en un glorioso pasado mítico, sino en una inmersión en
+sus propias complejidades, contradicciones y "malas hermandades" urbanas. El elemento
+paródico no es una burla, sino una afirmación de que el modelo heroico clásico debe ser
+resignificado para la realidad moderna y diversa de Argentina. El "Cristo de la Mano Rota" como
+ancla espiritual en este infierno urbano simboliza que la redención y la integración nacional no
+
+[[5]]
+provienen de la perfección, sino de la confrontación y superación de los aspectos "inferiores" o
+"caídos" del ser colectivo. Este descenso es una "purificación" necesaria para la realización
+espiritual del héroe (y, por extensión, de la nación), una realización que, al ser "inenarrable",
+apunta a una dimensión mística que trasciende la narrativa convencional.
+2.3.3. La Batalla de la Calle Gurruchaga: Una "Argentinopeya" inspirada en la Ilíada
+La descripción de una iracunda pelea de barrio en la verdulería "La Buena Fortuna" es una clara
+derivación del "catálogo de las naves" del Libro 2 de la Ilíada. Marechal, sin embargo, no busca
+fundar un ethos guerrero al estilo homérico, sino un ethos nacional que celebre la naturaleza
+variada de su pueblo y la heroicidad cotidiana. La descripción de los combatientes barriales —que
+incluye una vasta gama de inmigrantes como "iberos", "vascuences", "andaluces", "ligures",
+"napolitanos", "turcos", "judíos", "griegos", "dálmatas", y "nipones"— busca otorgar una "prosapia
+al pueblo argentino", haciéndolo heredero de una tradición que debe ser reinterpretada y adaptada
+al contexto latinoamericano. Esta "Argentinopeya" de Gurruchaga democratiza aún más la
+heroicidad, mostrando que la lucha épica por la identidad se libra en la cotidianidad de un pueblo
+diverso, no solo en grandes gestas históricas.
+2.4. Dimensiones Filosóficas: Platonismo y Misticismo
+La estética de Marechal se caracteriza por ser "unitiva", un punto de convergencia para la belleza
+ontológica, la producción artística, la erótica, la epistemología y la mística. Esta unidad es un
+reflejo de su profundo compromiso con una visión holística de la realidad.
+La influencia platónica es medular: Platón y Dante son considerados fuentes fundamentales para
+Marechal. Marechal adopta la concepción platónica de que la contemplación de la belleza sensible
+sirve como un "escalón" hacia la belleza trascendente. Su obra Descenso y Ascenso del Alma por
+la Belleza es un claro reflejo de este movimiento cíclico de expansión y concentración del alma,
+donde la belleza es vista como "anagógica", es decir, que conduce hacia arriba, permitiendo al
+alma elevarse de su cautiverio. El Amor (Eros) en Platón, y consecuentemente en Marechal, es el
+principio de todos los amores, intrínsecamente ligado al deseo del Bien, la Felicidad y la Belleza,
+donde el acto de amar es inherentemente creador. Marechal critica la "razón calculadora" y la
+visión materialista de la modernidad, que ha fragmentado la conexión con lo trascendente,
+abogando por una comprensión conciliadora entre espíritu y materia. La referencia al mito del
+Andrógino platónico y la distinción entre Venus terrestre y Venus celeste (Circe diabólica vs.
+Madonna angélica) es un eje fundamental para su simbolismo de la mujer, buscando una eventual
+fusión de ambos aspectos en su obra posterior. La escritura de Marechal es, en esencia, una
+"poética filosófica" que "piensa por imágenes", asimilando profundamente la filosofía platónica en
+su propia expresión.
+La cosmología dantesca también impregna la obra. La búsqueda de sentido en Adán Buenosayres
+se estructura en torno a modelos de ascensos y descensos neotestamentarios y la cosmología
+dantesca. El descenso a Cacodelphia es explícitamente comparado con el Infierno de la Divina
+Comedia, con el astrólogo Schultze asumiendo el rol del "Virgilio argentino". Marechal sigue a
+Dante en la concepción polisémica de la escritura y la profundidad metafísica de su obra.
+La integración de la metafísica platónica (la belleza como vía a la trascendencia, el Eros como
+fuerza creadora, la relación espíritu/materia) con la cosmología cristiana dantesca (viajes de
+ascenso/descenso, la búsqueda del Absoluto) establece un marco filosófico para comprender el
+alma argentina. Esta síntesis eleva la búsqueda de la identidad nacional de un plano meramente
+político o sociológico a una profunda gesta espiritual. La "problemática del ser nacional" se
+universaliza, convirtiendo la "Argentinopeya" en una alegoría moderna del viaje del alma hacia la
+unidad y la trascendencia, reflejo de la propia conversión y las inclinaciones místicas de Marechal.
+Esta aproximación le permite abordar la fragmentación de la realidad argentina (marcada por la
+inmigración y los conflictos internos) dentro de una narrativa espiritual coherente y profunda,
+donde la búsqueda de Dios y la búsqueda de la Patria se entrelazan indisolublemente.
+3. Antígona Vélez: La Tragedia Clásica en la Pampa y la Construcción de la Nación
+3.1. Reescritura del Mito y Contexto Argentino
+En Antígona Vélez, Marechal realiza una audaz adaptación de la Antígona de Sófocles,
+transponiendo el mito griego a un universo diegético local y toponímicamente marcado: la pampa
+argentina del siglo XIX, específicamente durante la "Conquista del Desierto". Esta obra se inscribe
+en la tradición de la "literatura de frontera", la cual aborda la lucha de las organizaciones estatales
+contra los pueblos indígenas argentinos.
+
+[[6]]
+La dicotomía "civilización y barbarie" constituye el eje central de la obra, retomando y
+reelaborando el esquema historiográfico de Sarmiento en su Facundo. Esta oposición, que
+evolucionó de "civilización y barbarie" a "civilización o barbarie", se transforma en un "dispositivo
+simbólico fundacional" de la historia argentina. La obra transmite un mensaje político que, en el
+contexto del peronismo, justifica los "medios bárbaros" si el fin es civilizado. Esto implica una
+reinterpretación positiva del gobierno autoritario, donde los abusos de poder de Facundo Galván
+se justifican por la bondad de sus fines, como la difusión de la civilización y el progreso.
+La muerte de Antígona Vélez, a diferencia de la Antígona sofocleana, adquiere un profundo
+"sentido salvífico", permitiendo que otros vivan, lo que amplifica los puntos de contacto con el
+pensamiento cristiano y la idea del martirio. La dicotomía "Civilización y Barbarie" se resignifica en
+Antígona Vélez, moviéndose más allá de una simple oposición para convertirse en un dispositivo
+simbólico fundacional para la historia argentina, particularmente en el contexto de la "Conquista
+del Desierto". La reinterpretación de Marechal, especialmente a través de la figura de Facundo
+Galván, justifica los medios autoritarios en pos del progreso nacional. La "muerte salvífica" de
+Antígona trasciende la tragedia individual para convertirse en un sacrificio colectivo por la unidad
+nacional y el "triunfo de la civilización". Esta resignificación transforma un conflicto histórico en un
+mito fundacional, sugiriendo que la identidad nacional se forja a través de la superación de
+antagonismos internos mediante un sacrificio necesario.
+3.2. Análisis de Personajes, Escenarios y Símbolos
+3.2.1. Antígona Vélez
+Antígona Vélez es la protagonista central de la obra, equivalente a la Antígona de Sófocles.
+Encarna la defensa de las leyes divinas y antiguas frente a las leyes humanas, con una fuerte
+pulsión por la muerte y una aceptación resignada de su destino. A diferencia de su homóloga
+griega, Antígona Vélez muere para que otros vivan, lo que le confiere un sentido salvífico a su
+sacrificio. Ella misma llega a justificar las acciones de Facundo Galván, comprendiendo que sus
+decisiones buscan el progreso y la conquista del desierto para el beneficio futuro de la comunidad.
+3.2.2. Facundo Galván
+Facundo Galván es el equivalente a Creonte en la obra de Sófocles. Es un estanciero que
+administra "La Postrera" y, a diferencia de Creonte, no actúa en nombre del Estado, sino como un
+tirano local que impone su voluntad en la pampa. Su ley es absoluta, equiparando la traición a su
+persona con la traición a Dios. Sus acciones se enmarcan en un contexto de constante amenaza
+indígena, lo que, según el análisis, atenúa un juicio moral sobre su personaje y explica la ausencia
+de arrepentimiento final. Marechal lo presenta como un "déspota ilustrado", cuyas medidas
+extremas, como dejar un cadáver insepulto, se justifican por el noble objetivo de difundir la
+civilización y el progreso. Su decisión final es conciliadora, y sus razones son comprendidas y
+justificadas por Antígona, lo que delimita un mensaje político distinto al de Sófocles. El nombre
+"Facundo" proviene del latín facundus, que significa "verboso" o "elocuente", lo que resalta su
+capacidad para imponer su voluntad a través de la palabra y la ley. Su alusión a Juan Facundo
+Quiroga, el caudillo, y su posible identificación con Juan Domingo Perón, refuerzan su rol como
+figura autoritaria pero con un propósito nacional.
+3.2.3. Otros Personajes
+• Carmen Vélez: Equivalente a Ismene, es un personaje secundario, timorato y sumiso, cuya
+función principal es realzar la figura central de Antígona.
+• Lisandro Galván: Equivalente a Hemón.
+• Rastreador: Cumple la función del Guardia de Sófocles, siendo clave en la acusación a
+Antígona. Marechal lo utiliza para nacionalizar la obra y darle "color local", presentándolo con una
+infalibilidad similar a la descrita por Sarmiento en su Facundo, como portador de un saber
+"bárbaro" aprovechable por la civilización.
+• Ignacio Vélez y Martín Vélez: Equivalentes a Polinices y Eteocles, respectivamente, aunque
+ausentes de la escena. Ignacio Vélez, el traidor, muere por bala (connotación civilizada), mientras
+que Martín Vélez, el defensor de La Postrera, muere por lanza (connotación bárbara).
+• Coros y Brujas: El coro de hombres viejos de Sófocles se divide en dos en Antígona Vélez: un
+coro de hombres y uno de mujeres. Marechal añade tres personajes de "Brujas", que pueden
+considerarse una fusión de Tiresias con el coro, comentando, anticipando y explicando la historia,
+y remitiendo a la simbología griega de las Parcas y a las brujas shakesperianas de Macbeth.
+3.2.4. La Estancia "La Postrera" y la Pampa
+
+[[7]]
+La estancia "La Postrera" no es solo un escenario, sino un símbolo de la "civilización", el último
+mojón de la cultura blanca cristiana en la frontera. Los símbolos recurrentes de la civilización y la
+lucha contra el medio geográfico adverso son el arado y el sable. El arado simboliza la labor
+civilizadora, la transformación de la tierra infértil en productiva, mientras que el sable representa la
+defensa y la conquista violenta del territorio. La pampa, por su parte, se asimila tanto al medio
+infértil como a las culturas indígenas, consideradas "barbarie". El apellido "Vélez" tiene orígenes
+españoles y deriva de "velar", significando "estar atento o vigilante", o "el pueblo vigilante".
+También puede derivar del nombre medieval Vela, que significa "guerrero". Esta etimología
+resuena con la lucha de la familia Vélez por defender "La Postrera" y la pampa.
+La re-contextualización del conflicto clásico en la pampa crea una "tragedia argentina" única. La
+pampa, lejos de ser un telón de fondo neutro, se convierte en un campo de batalla simbólico
+donde los temas universales de la ley, el sacrificio y la fundación se reinterpretan. El "arado" y el
+"sable" simbolizan la doble naturaleza de la construcción nacional: el trabajo civilizador y la
+conquista violenta. Esta re-contextualización eleva el conflicto local a una dimensión universal y
+mítica, permitiendo a Marechal explorar los dilemas éticos de la construcción de una nación.
+3.3. Alusiones a Próceres de la Independencia y la Poética Nacional
+Aunque las obras Adán Buenosayres y Antígona Vélez no contienen alusiones textuales directas y
+extensas a próceres específicos de la independencia como San Martín, Belgrano o Moreno, la
+poética nacional de Marechal se inscribe profundamente en el diálogo con la gesta
+independentista y la construcción de la identidad argentina. Marechal, quien compuso el "Canto a
+San Martín" (Marechal, 1998a: 320-323), demuestra su compromiso con los héroes nacionales y
+el legado de la independencia. Su "preocupación por la Argentina" y el "destino de su patria" es un
+tema recurrente en toda su obra.
+El concepto del "neocriollo" es fundamental en este contexto. Marechal lo concibe como una
+creación metaliteraria y anticolonialista, que busca reconciliar las raíces latinoamericanas con la
+herencia europea. Este "neocriollismo" puede interpretarse como una evolución de la identidad
+criolla que impulsó los movimientos independentistas, adaptándola al contexto moderno argentino.
+La identidad criolla fue, de hecho, un motor clave en la independencia, al buscar autonomía y
+derechos sobre la tierra frente a la metrópoli española.
+La dicotomía "civilización y barbarie", central en Antígona Vélez, fue un concepto definitorio en las
+guerras civiles argentinas post-independentistas, con la "barbarie" a menudo asociada a los
+caudillos federales y las fuerzas populares. Marechal, al reinterpretar esta dicotomía y justificar los
+"medios bárbaros" para fines civilizados (como en la figura de Facundo Galván), y al reivindicar
+figuras asociadas con la "barbarie" (como Facundo Quiroga), realiza una forma de revisionismo
+histórico. Este revisionismo desafía las narrativas liberales y eurocéntricas de la construcción
+nacional, buscando integrar los elementos "bárbaros" (populares, locales) en la identidad nacional.
+Esta revalorización de la "barbarie" se alinea con la idea de que "la barbarie era más argentina" y
+que la "montonera" (fuerzas irregulares) fue "el ejército de la independencia luchando en el
+interior".
+El motivo del "viaje, sacrificio y fundación" en las obras de Marechal establece un paralelo con el
+viaje épico de la construcción de la nación durante la independencia, que implicó sacrificios
+significativos (guerras, conflictos civiles) para la fundación de un nuevo estado. La muerte salvífica
+de Antígona Vélez, que permite a otros vivir y fertiliza la tierra, resuena directamente con los
+sacrificios realizados durante las luchas independentistas por el futuro de la nación.
+El "neocriollismo" de Marechal representa una evolución conceptual de la identidad criolla forjada
+durante la independencia. Si el criollo del Virreinato luchó por su derecho a la tierra y la autonomía
+frente a la metrópoli, el "neocriollo" de Marechal, en un contexto post-independentista y de
+formación nacional, busca integrar las tensiones internas. La "barbarie", lejos de ser un mero
+obstáculo a erradicar, se resignifica como una fuerza telúrica y popular, intrínseca a la identidad
+argentina. Al reivindicar figuras asociadas con la "barbarie" (como Facundo Quiroga a través de
+Facundo Galván) y al justificar sus métodos por un fin civilizador, Marechal propone una
+reconciliación de las facciones históricamente opuestas. Esta poética nacional no niega los
+conflictos, sino que los asimila como elementos constitutivos de una identidad compleja y mestiza.
+El "neocriollo" se convierte así en el arquetipo de una Argentina que no solo hereda la tradición
+europea, sino que también abraza su propia "barbarie" como fuente de autenticidad y poder
+fundacional, necesaria para la "expresión ontológica fundacional" del país.
+4. Conclusiones: La Poética Nacional de Marechal como Relectura Fundacional
+
+[[8]]
+La obra de Leopoldo Marechal, a través de Adán Buenosayres y Antígona Vélez, constituye una
+relectura audaz y profunda de la tradición épica y trágica clásica, transmutándolas en vehículos
+para la construcción de una poética nacional argentina. Al concebir la novela como un "sucedáneo
+legítimo" de la epopeya y al infundirle una profunda "poeticidad", Marechal eleva sus narrativas a
+un plano mítico y fundacional. No se trata de una mera imitación, sino de una "reapropiación" y
+"reinvención" que permite que los arquetipos universales (el viaje del héroe, el descenso al
+inframundo, el conflicto trágico) resuenen con la realidad argentina.
+La transformación de Buenos Aires en un "Teatro del Universo" y el descenso a "Cacodelphia"
+simbolizan una inmersión en las complejidades y contradicciones del alma porteña, donde la
+búsqueda de la identidad se da en la confrontación con lo "inferior" y lo "oscuro" de la propia
+sociedad. La "Batalla de la Calle Gurruchaga" se erige como una "Argentinopeya" de la heroicidad
+cotidiana, celebrando la diversidad del pueblo argentino. En Antígona Vélez, la reescritura del mito
+clásico en la pampa argentina resignifica la dicotomía "civilización y barbarie", justificando el
+sacrificio individual y los "medios bárbaros" en pos de un fin civilizador y la unidad nacional.
+La síntesis de influencias platónicas y dantescas con el misticismo cristiano dota a la obra de
+Marechal de un marco filosófico que eleva la búsqueda de la identidad argentina a una gesta
+espiritual. Esta "estética unitiva" permite integrar la fragmentación y los conflictos de la realidad
+nacional en una narrativa coherente y trascendente.
+El legado de Leopoldo Marechal en el canon literario argentino y latinoamericano es innegable, a
+pesar de la proscripción inicial que sufrió. Sus obras ofrecen una lente única para comprender el
+diálogo constante entre los mitos universales y las realidades locales. Su "poética filosófica" sigue
+invitando a múltiples interpretaciones, revelando cómo la literatura puede no solo reflejar la historia,
+sino también reconfigurarla y dotarla de un sentido más profundo y trascendente.
+Notas al pie
+1. La frase "civilización o barbarie" se popularizó en Argentina a partir de la obra Facundo de
+Domingo Faustino Sarmiento, publicada en 1845.
+Referencias
+• AA.VV. (1995), Revista MARTIN FIERRO (1924-1927). Edición Facsimilar, Estudio Preliminar de
+Horacio Salas, Fondo Nacional de las Artes, Buenos Aires.
+• Aguerre Core, Fernando (2013), "La independencia en el Río de la Plata: diferentes escenarios y
+nuevas formas de análisis", Humanidades: revista de la Universidad de Montevideo, vol. XIII, pp.
+9-12.
+• Alighieri, Dante (1945), La Divina Comedia. Anaconda: Buenos Aires.
+• Andrés, Alfredo (1968), Palabras con Leopoldo Marechal. Carlos Pérez Editor: Buenos Aires.
+• Ayala, Francisco (2000), "Peripecia de un libro", Cuadernos de Proa en las letras y en las artes,
+vol. 49, pp. 55-57.
+• Bajtín, M.M. (1997), Hacia una filosofía del acto ético. De los borradores y otros escritos.
+Barcelona: Anthropos.
+• Bravo Herrera, Fernanda Elisa (2015), Parodias y reescrituras de tradiciones literarias en
+Leopoldo Marechal, Buenos Aires: Corregidor.
+• Cavallero, Pablo (2014), "Configuración y recepción del mito troyano. De Homero al s. XXI",
+CONICET.
+• Cheadle, Norman (2014), "Between Wandering Rocks: Joyce’s Ulysses in the Argentine Culture
+Wars", en TransLatin Joyce: Global Transmissions in Ibero-American Literature, New York:
+Palgrave Mcmillan, pp. 57-85.
+• Davis González, Ana (2017), "ADÁN BUENOSAYRES: EL ULISES ARGENTINO", Romanica
+Olomucensia, vol. 29, nº 2, pp. 187-201.
+• Fiscina, Julián Abel (s.f.), "2.22. Sirenas en el zaguán: la apropiación de los textos homéricos en
+Adán Buenosayres de Leopoldo Marechal", Dialnet.
+• Gómez Sánchez, Ángel (2022), "LA DIVINA COMEDIA DE DANTE Y EL ADÁN BUENOSAYRES
+DE MARECHAL, UNA RELACIÓN DE INTERTEXTUALIDAD DESDE AMBOS LADOS DEL
+OCÉANO", Synergía, vol. 1, nº 2, pp. 4-14.
+• Infobae (2025), ""Adán Buenosayres", historia de la novela que marcó un antes y un después en
+la literatura argentina", Infobae.
+• Marechal, Leopoldo (1997a), Adán Buenosayres [Jorge Lafforgue y Fernando Colla (coord.)],
+Madrid: Galaxia Gutemberg.
+
+[[9]]
+• Marechal, Leopoldo (1997b), "Claves de Adán Buenosayres", en Marechal, L. – laFForGue, J. –
+colla, F. (coord.), Adán Buenosayres, Madrid: Galaxia Gutemberg, pp. 863-871.
+• Marechal, Leopoldo (1998a), "Carta al doctor Atilio Dell‘Oro", en Obras completas V. Los cuentos
+y otros escritos [María de los Ángeles Marechal (ed.)], Buenos Aires: Perfil Libros, pp. 320-323.
+• Marechal, Leopoldo (2008), Cuaderno de navegación. Seix Barral.
+• Marechal, Leopoldo (2014), Antígona Vélez. Buenos Aires: Ediciones Colihue.
+• Maturo, Graciela (s.f.), "“LEOPOLDO MARECHAL, EL DESTINO DE LA ARGENTINA Y LA
+MISIÓN DE DESPERTAR A SUS COMPATRIOTAS”", Instituto de Cultura CUDES.
+• Pellico, Fernando Gonzalo (s.f.), "Inframundos porteños y Virgilios de bolsillo en los bajos de
+Saavedra", XI Jornadas de Estudios Clásicos y Medievales. Diálogos Culturales.
+• Sosa, Carlos Hernán; Ruiz de Los Llanos, Natalia María (2020), ""Apartar los cuervos, enterrar a
+los hombres": El designio de Antígona. De Sófocles a Antígona Vélez de Leopoldo Marechal",
+Cuadernos del Hipogrifo.
+
+
+Hitos Literarios Argentinos y Mitos Clásicos
+(Las respuestas guardadas son de solo lectura)
+
+A continuación, se presenta una línea de tiempo detallada de los eventos principales cubiertos en
+las fuentes, seguida de una lista de personajes con breves biografías.
+Línea de Tiempo de Eventos
+•        1507 (fecha de publicación): Publicación de "La Divina Comedia" de Dante Alighieri.
+•        1837: Juan Cristian Andersen publica el cuento "La Sirenita", influenciado por el mito de las
+sirenas.
+•        1845: Domingo Faustino Sarmiento publica Facundo, popularizando la dicotomía
+"civilización o barbarie" en Argentina.
+•        1870: Heinrich Schliemann inicia los estudios arqueológicos en Troya, que prueban su
+existencia real.
+•        1899: Nace Jorge Luis Borges.
+•        1900: Nace Leopoldo Marechal.
+•        Principios del Siglo XX: Surge la corriente criollista en Argentina, que ensalza al gaucho
+como representante de la identidad nacional, tendencia que Marechal deslegitimará.
+•        1919: Evar Méndez funda una revista de pocos números llamada Martín Fierro.
+•        1922: Se publica el Ulises de James Joyce.
+•        1924-1927: Período de publicación de la revista Martín Fierro, a la que Marechal y Borges
+contribuyeron. Marechal es un activo "martinfierrista".
+•        1925: Borges publica en la revista Proa una versión de la última página del Ulises. Valery
+Larbaud publica en Proa "Carta a dos amigos".
+•        1926: Marechal publica un artículo en el Nº 34 de la revista Martín Fierro polemizando con
+el nacionalismo literario y criticando la exaltación del gaucho y el arrabal, mientras rescata la
+novela de Güiraldes, Don Segundo Sombra.
+•        1927: Se publica la primera versión completa de La Odisea de Nikos Kazantzakis.
+•        Finales de los años 20: Leopoldo Marechal experimenta su propia conversión espiritual
+hacia la fe cristiana.
+•        1929: Jorge Luis Borges publica El tamaño de mi esperanza, redefiniendo el criollismo.
+Marechal comienza a escribir su propia versión del Ulises, que se convertiría en Adán
+Buenosayres. Ernst Krenek es autor de la ópera Vida de Orestes.
+•        Década de 1930: Marechal colabora con la revista Sur. Comienza a ser explícita la
+preocupación por la identidad nacional en Argentina, con obras como Historia de una pasión
+argentina de Eduardo Mallea, El hombre que está solo y espera de Raúl Scalabrini Ortiz, y
+Radiografía de la Pampa de Ezequiel Martínez Estrada.
+•        1935: Jean Giraudoux presenta su obra La guerra de Troya no tendrá lugar.
+•        1936: Marechal publica un poema con la frase "De todo laberinto se sale por arriba".
+•        1937: Joan Maragall publica Nausica. Sebastián Juan Arbó publica Nausica.
+
+[[10]]
+•       1938: Nikos Kazantzakis culmina las reescrituras de su Odisea.
+•       1939: Jorge Luis Borges publica el cuento "Pierre Menard, autor del Quijote". Borges
+publica "Joyce y los neologismos" en Sur y "El último libro de Joyce" en El hogar. Marechal publica
+Cinco poemas australes.
+•       1940: Marechal publica El Centauro.
+•       1941: Jorge Luis Borges pierde el premio nacional de literatura con El jardín de los
+senderos que se bifurcan frente a Eduardo Acevedo Díaz. Marechal gana el primer premio en
+"Poesía" con Sonetos a Sophia y El Centauro. Marechal publica "James Joyce y su gran aventura
+novelística", mostrando su acercamiento a Ulises. Jean Anouilh compone su Eurídice y Virgilio
+Piñera compone Electra Garrigó. Hauptmann inicia su tetralogía Los Atridas.
+•       1942: Jean Anouilh compone su Antígona. Albert Camus escribe El mito de Sísifo.
+•       1943: Jean Paul Sartre publica Las moscas.
+•       1944: Albert Camus publica El malentendido. Hauptmann culmina su tetralogía Los Atridas.
+Antonio Fernández Lera publica Muerte de Áyax.
+•       1944-1945: Leopoldo Marechal se adhiere al peronismo.
+•       1945: Marechal apoya la movilización del 17 de octubre y forma parte del comité pro-
+candidatura de Perón.
+•       1946: Jorge Luis Borges publica "Nota sobre el Ulises en español" en Los Anales de
+Buenos Aires. Gonzalo Torrente Ballester publica La vuelta de Ulises.
+•       1948: Se publica Adán Buenosayres de Leopoldo Marechal. Recibe feroces críticas,
+especialmente de la revista Sur. La primera edición incluye una dedicatoria a los "camaradas
+'martinfierristas'". Omar del Carlo publica Electra al amanecer. Jean Cocteau publica Antígona.
+Bernt von Heiseler publica Filoctetes. Tras el drama de Sófocles. Leopoldo Marechal publica
+Estudio en Cíclope (inédito hasta su muerte en 1970). María Luisa Algarra publica Casandra.
+•       1949: Julio Cortázar publica una reseña favorable de Adán Buenosayres en la revista
+Realidad. Gonzalo Torrente Ballester escribe Ifigenia. Corrado Alvaro publica Larga noche de
+Medea.
+•       1950: Marechal compone el "Canto a San Martín" a pedido oficial.
+•       1951: Marechal estrena Antígona Vélez, por la que recibe el Premio Nacional del Teatro.
+Jorge Luis Borges presenta "El escritor argentino y la tradición" (publicado en 1953).
+•       1952: Antonio Buero Vallejo publica La tejedora de sueños.
+•       1954: Marguerite Yourcenar publica Electra o la caída de las máscaras. Mario Camerini
+dirige la película Ulises.
+•       1955: Noé Jitrik critica Adán Buenosayres en Contorno. Robert Graves publica la novela La
+hija de Homero. Leopoldo Marechal vive la proscripción del peronismo tras la Revolución
+Libertadora. Sus libros son retirados de librerías. Borges y Bioy Casares retiran sus poemas de
+una antología que habían editado años antes.
+•       1956: Robert Wise dirige la película Helena de Troya.
+•       1957: Salvador S. Monzó publica Ulises o el retorno equivocado. Alfonso Sastre publica El
+pan de todos.
+•       1958: Héctor Berlioz culmina su ópera Los Troyanos. Malena Sándor publica Los dioses
+vuelven.
+•       Octubre 1959: Jorge Luis Borges comenta a Bioy Casares que Marechal había
+considerado el nombre "Fulano Varangot" para su personaje principal.
+•       1960: Álvaro Cunqueiro publica Las mocedades de Ulises. J. M. Benet i Jornet publica La
+vuelta de Ulises. Marechal publica La patria, un poemario de edición limitada.
+•       1961: Giorgio Ferroni dirige la película La guerra de Troya.
+•       1962: Sergio de Cecco adapta el asunto de Electra en El reñidero. Nicolás Rubiò i Tudurí
+publica Ulises en la Argólida.
+•       1963: Murena responde a Emir Rodríguez Monegal en La Nación.
+•       1964: Julio Imbert publica La Electra.
+
+[[11]]
+•       1965: Marechal publica El banquete de Severo Arcángelo. Logra la reedición de Adán
+Buenosayres, sin la dedicatoria original. José Ricardo Morales publica La Odisea. César Magrini
+publica Partenopeo.
+•       1966: Marechal publica Las tres caras de Venus.
+•       1968: Franco Rossi dirige Las aventuras de Ulises. Marechal es invitado como jurado del
+premio Casa de América en Cuba. Marechal da la entrevista "Palabras con Leopoldo Marechal"
+(publicada en 1990).
+•       1969: Se publica el informe de Investigaciones Literarias & Congreso Cultural sobre la
+proscripción de Marechal.
+•       1970: Muere Leopoldo Marechal. Rodolfo Modern y Jorgelina Loubet publican Penélope
+aguarda.
+•       1971: Domingo Miras publica Penélope y Egisto.
+•       1973: Se publica "Los puntos fundamentales de mi vida" de Marechal en Clarín. Germán
+Ubillos Orsolich publica El llanto de Ulises.
+•       1974: Carlota O’Neill publica Circe y los cerdos. Walter Jens publica Filoctetes. Antonio
+Gala publica ¿Por qué corres, Ulises?.
+•       1977: Mihalis Kakogiannis dirige la película Ifigenia. Domingo Miras publica Áyax.
+•       1978: Román Comamala publica El retorno de Ulises.
+•       1979: Francisco Pérez Navarro y José María Martín Saurí publican una adaptación de la
+Odisea en cómic. Manuel Martín Ayer publica Odisea.
+•       1980: Alberto Boadella publica La Odisea. Francisco Nieva publica Casandra.
+•       1981: Se estrena la serie televisiva de dibujos animados Ulises 31.
+•       1982: Ciriaca Morano publica "El resurgir de lo mítico en la literatura contemporánea:
+diversos procedimientos de acceso al mito".
+•       1983: Carmen Resino publica Ulises no vuelve. Luis Riaza publica Ulises no vuelve. Emilio
+Isgrò inicia su trilogía Orestía de Gibellina con Agamenón. Christa Wolf publica la novela
+Casandra.
+•       1984: Emilio Isgrò publica Coéforos. Alberto Miralles publica La Odisea. Domingo Miras
+reelabora Las Troyanas en Entre Troya y Siracusa.
+•       1985: Emilio Isgrò publica Villa Euménides. Pablo Cavallero publica "Las sirenas de la
+antigüedad grecolatina y el motivo de las sirenas en la literatura hispano-argentina".
+•       1986: Lorenzo Píriz Carbonell publica Electra y Agamenón.
+•       1987: Fernando Savater publica Último desembarco.
+•       1988: Lourdes Ortiz publica Los motivos de Circe. Ignacio Arriola Haro compone una
+Medea.
+•       1989: Emilio Isgrò compone la novela Polifemo. Germán Díez Barrio publica Aquiles ante
+los muros de Troya.
+•       1990: Alfonso Sastre publica Demasiado tarde para Filoctetes.
+•       1991: Lourdes Ortiz publica Electra-Babel.
+•       1994: Moncho Alpuente publica La órbita de Ulises. Alberto Omar Walls publica El informe:
+Llanto por los caballos de Aquiles. Heiner Müller publica Electra.
+•       1995: Javier Tomeo publica Los bosques de Nyx.
+•       1996: Rodrigo García publica Martillo. Itziar Pascual publica Las voces de Penélope.
+•       1997: Andrei Konchalovsky dirige la película La Odisea.
+•       1998: Colleen McCullough publica La canción de Troya.
+•       1999: Raúl Hernández Garrido publica Agamenón vuelve a casa.
+•       2000: Raúl Hernández Garrido publica Si un día me olvidares.
+•       2002: Lourdes Ortiz publica Aquiles y Pentesilea.
+•       2003: John Kent Harrison dirige la película Helena de Troya.
+•       2004: Wolfgang Petersen dirige la película Troya.
+•       2006: Mario Vargas Llosa publica Odiseo y Penélope.
+•       2008: Roberto Sayar publica la pieza teatral Las Sirenas.
+
+[[12]]
+•        Febrero 2009: Guillermo Montilla Santillán fecha la pieza Silencio de Piedra. Antonio
+Aguilera Vita publica No me fastidies, Electra.
+•        2013: Fernando Aguerre Core publica "La independencia en el Río de la Plata: diferentes
+escenarios y nuevas formas de análisis".
+•        2018 (Julio): Artículo de Patricio Zunini en Infobae sobre "Adán Buenosayres" de Leopoldo
+Marechal.
+•        2020: Carlos Hernán Sosa y Natalia María Ruiz de Los Llanos publican ""Apartar los
+cuervos, enterrar a los hombres": El designio de Antígona. De Sófocles a Antígona Vélez de
+Leopoldo Marechal".
+•        2022 (Noviembre-Abril 2023): Ángel Gómez Sánchez publica "LA DIVINA COMEDIA DE
+DANTE Y EL ADÁN BUENOSAYRES DE MARECHAL, UNA RELACIÓN DE
+INTERTEXTUALIDAD DESDE AMBOS LADOS DEL OCÉANO" en Synergía.
+•        2025 (Julio 20): Artículo de Infobae ""Adán Buenosayres", historia de la novela que marcó
+un antes y un después en la literatura argentina" es actualizado.
+•        2025 (Octubre 27): Comienza un Viaje Cultural a Nueva York organizado por el Instituto de
+Cultura CUDES.
+•        2025 (Agosto 4): Comienza la Diplomatura en Historia Argentina organizada por el
+Instituto de Cultura CUDES.
+•        2025 (Julio 14): Comienza el módulo de "Literatura" de la Diplomatura en Cultura
+Argentina organizada por el Instituto de Cultura CUDES.
+Elenco de Personajes
+•        Leopoldo Marechal (1900-1970): Poeta, novelista y dramaturgo argentino, figura central
+de la literatura del siglo XX. Miembro del Grupo Florida y "martinfierrista". Su obra cumbre, Adán
+Buenosayres, es un hito por su profundidad y originalidad. Su adhesión al peronismo (a partir de
+1944-1945) le valió la "proscripción intelectual" y el alejamiento de la élite cultural. Se preocupó
+profundamente por la identidad y el destino de Argentina. Sus obras reinterpretan mitos clásicos
+para construir una poética nacional, con influencias platónicas y cristianas.
+•        Jorge Luis Borges (1899-1986): Destacado escritor argentino, contemporáneo de
+Marechal. Tuvo una relación ambivalente con el Ulises de Joyce y, aunque interesado en traducirlo,
+finalmente no lo hizo. Formó parte del grupo "Florida" y colaboró en la revista Sur. Declarado
+antiperonista, fue promotor de la Unión Democrática. Se alejó de Marechal tras su adhesión al
+peronismo.
+•        James Joyce (1882-1941): Escritor irlandés, autor de la novela Ulises (1922), que sirvió
+de influencia y punto de comparación para Adán Buenosayres de Marechal. Su obra fue llevada a
+juicio por obscenidad.
+•        Dante Alighieri (1265-1321): Poeta italiano, autor de La Divina Comedia (publicada en
+1472), una obra fundamental del pensamiento cristiano que influyó notablemente en la estructura
+y cosmovisión de Adán Buenosayres.
+•        Juan Domingo Perón: Coronel y figura política argentina, cuyo ascenso al poder fue
+apoyado por Leopoldo Marechal a partir de 1945, causando el alejamiento de este de gran parte
+de la intelectualidad de la época.
+•        Eva Perón: Primera Dama de Argentina, quien solicitó a Leopoldo Marechal la reescritura
+de Antígona Vélez tras el extravío del manuscrito original.
+•        José Salas Subirat: Vendedor de seguros y parte del círculo de intelectuales de Boedo,
+quien adquirió previamente los derechos de traducción del Ulises de Joyce, impidiendo que
+Borges lo tradujera.
+•        Natalio Botana: Director del diario Crítica, quien propuso a Borges traducir el Ulises de
+Joyce.
+•        Julio Cortázar: Escritor argentino, una de las pocas voces que publicó una reseña
+favorable de Adán Buenosayres en la revista Realidad, lo que le valió amenazas e insultos.
+•        Victoria Ocampo: Intelectual argentina, figura central de la revista Sur, de la que Marechal
+se alejó. Es satirizada en Adán Buenosayres como "Titania".
+
+[[13]]
+•       Eduardo González Lanuza: Colaborador de la revista Martín Fierro y Sur, cuya crítica de
+Adán Buenosayres fue lapidaria, tildando la obra de "abundantemente salpicada de estiércol" y al
+autor de "engreído, resentido y tomista".
+•       Enrique Anderson Imbert: Crítico literario que describió Adán Buenosayres como "un
+bodrio con fealdades".
+•       Emir Rodríguez Monegal: Crítico literario que condenó el supuesto intento de Marechal
+de imitar a Joyce en Adán Buenosayres, calificándolo de "desdichada parodia".
+•       Carlos Gamerro: Escritor y crítico argentino, autor de Facundo o Martín Fierro, quien
+recuerda la visión política compartida inicialmente por Borges y Marechal.
+•       Daniel Guebel: Escritor que describe a Borges como un "serrucho que poda las ramas del
+árbol de las letras argentinas".
+•       Hipólito Paz: Miembro del comité pro-candidatura del coronel Perón, junto a Leopoldo
+Marechal.
+•       José María Castiñeira de Dios: Miembro del comité pro-candidatura del coronel Perón,
+junto a Leopoldo Marechal.
+•       Arturo Cancela: Miembro del comité pro-candidatura del coronel Perón, junto a Leopoldo
+Marechal.
+•       Xul Solar (Oscar Agustín Alejandro Schulz Solari): Artista argentino, amigo de Borges,
+quien también se volcó al peronismo. Es satirizado en Adán Buenosayres como el astrólogo
+"Schultze", quien funge como guía del protagonista en su descenso al inframundo.
+•       Adán Buenosayres: Protagonista de la novela homónima de Leopoldo Marechal, un
+"Stephen Dedalus porteño" que encarna en gran medida al propio autor y su itinerario espiritual.
+•       Luis Pereda: Personaje ficticio en Adán Buenosayres que satiriza a Jorge Luis Borges,
+descrito como el "poeta ciego".
+•       Bernini: Personaje ficticio en Adán Buenosayres que satiriza a Raúl Scalabrini Ortiz.
+•       Samuel Tesler: Personaje ficticio en Adán Buenosayres que satiriza a Jacobo Fijman.
+•       Stephen Dedalus: Personaje protagonista del Ulises de James Joyce, con quien Adán
+Buenosayres es comparado.
+•       Molly Bloom: Personaje protagonista del Ulises de James Joyce.
+•       Solveid Amundsen: Personaje ficticio que en Adán Buenosayres se convierte en el
+equivalente de Beatriz en La Divina Comedia, llevando al protagonista al paraíso.
+•       Doña Tecla: Personaje de Adán Buenosayres que, en una reescritura paródica, asume el
+papel de la Sibila, abriendo las puertas al "santobogan" de Cacodelphia.
+•       Caronte: Barquero mitológico en el inframundo de la tradición clásica. Su equivalente en
+Adán Buenosayres es un "gallego renegado" y "peligroso colectivero".
+•       Antígona Vélez: Protagonista de la obra teatral homónima de Leopoldo Marechal, una
+adaptación de la Antígona de Sófocles, ambientada en la pampa argentina del siglo XIX. Encarna
+la defensa de las leyes divinas y su muerte adquiere un sentido salvífico.
+•       Facundo Galván: Personaje principal de Antígona Vélez, equivalente a Creonte en la obra
+de Sófocles. Es un estanciero que ejerce un poder autoritario en "La Postrera" en la pampa
+argentina, cuyas acciones extremas son justificadas por el fin civilizador. Su nombre alude a Juan
+Facundo Quiroga y puede identificarse con Juan Domingo Perón.
+•       Creonte: Personaje en la Antígona de Sófocles, cuyo rol es asumido por Facundo Galván
+en Antígona Vélez.
+•       Carmen Vélez: Personaje secundario en Antígona Vélez, equivalente a Ismene, que realza
+la figura de Antígona.
+•       Lisandro Galván: Personaje en Antígona Vélez, equivalente a Hemón.
+•       Rastreador: Personaje en Antígona Vélez que cumple la función del Guardia de Sófocles,
+clave en la acusación a Antígona.
+•       Ignacio Vélez y Martín Vélez: Personajes en Antígona Vélez, equivalentes a Polinices y
+Eteocles, respectivamente, aunque ausentes de la escena.
+•       Tiresias: Profeta en la tragedia griega, elementos de su rol se fusionan con el coro y las
+Brujas en Antígona Vélez.
+
+[[14]]
+•       Macedonio Fernández: Escritor argentino, compañero de Marechal en la vanguardia,
+quien lo influyó en el uso del humor y la concepción de la novela.
+•       Oliverio Girondo: Escritor argentino, compañero de Marechal y Borges en la vanguardia
+"martinfierrista", autor del manifiesto de la revista Martín Fierro.
+•       Raúl Scalabrini Ortiz: Escritor y pensador argentino, autor de El hombre que está solo y
+espera. Es satirizado como "Bernini" en Adán Buenosayres.
+•       Jacobo Fijman: Poeta argentino. Es satirizado como "Samuel Tesler" en Adán
+Buenosayres.
+•       Horacio Salas: Autor del estudio preliminar de la edición facsimilar de la Revista MARTIN
+FIERRO (1924-1927).
+•       Fernando Colla: Co-coordinador de la edición de Adán Buenosayres (1997a) y (1997b).
+•       Jorge Lafforgue: Co-coordinador de la edición de Adán Buenosayres (1997a) y (1997b).
+•       Carlos Hernán Sosa y Natalia María Ruiz de Los Llanos: Autores del artículo "Apartar
+los cuervos, enterrar a los hombres": El designio de Antígona. De Sófocles a Antígona Vélez de
+Leopoldo Marechal.
+•       Ana Davis González: Autora de "ADÁN BUENOSAYRES: EL ULISES ARGENTINO", un
+estudio comparativo entre las obras de Marechal y Joyce.
+•       Julián Abel Fiscina: Autor de "Sirenas en el zaguán: la apropiación de los textos
+homéricos en Adán Buenosayres de Leopoldo Marechal".
+•       Fernando Aguerre Core: Autor de "La independencia en el Río de la Plata: diferentes
+escenarios y nuevas formas de análisis".
+•       Graciela Maturo: Escritora y profesora de Diplomatura en Cultura Argentina, quien ha
+estudiado la obra de Marechal y su preocupación por la patria.
+•       Mónica Bueno: Autora de "Virgilio y Leopoldo Marechal: el poeta, el héroe y la patria",
+quien analiza la relación de Marechal con el mito de Eneas y Virgilio.
+•       Fernando Gonzalo Pellico: Autor de "Inframundos porteños y Virgilios de bolsillo en los
+bajos de Saavedra", quien compara la catábasis en Adán Buenosayres con la de la Eneida.
+•       Ángel Gómez Sánchez: Autor de "LA DIVINA COMEDIA DE DANTE Y EL ADÁN
+BUENOSAYRES DE MARECHAL, UNA RELACIÓN DE INTERTEXTUALIDAD DESDE AMBOS
+LADOS DEL OCÉANO", quien compara la obra de Marechal con la de Dante.
+•       Mónica Montes: Doctora en filología hispánica que ha estudiado a profundidad la obra de
+Marechal, especialmente Adán Buenosayres.
+•       Jaime Soberanis: Pastor de la iglesia Mi gran familia internacional, citado por Ángel
+Gómez Sánchez para hablar de las relaciones de ascenso y descenso en la vida.
+•       Eduardo Mallea: Escritor argentino, autor de Historia de una pasión argentina.
+•       Ezequiel Martínez Estrada: Escritor argentino, autor de Radiografía de la Pampa.
+•       Domingo Faustino Sarmiento: Escritor y político argentino, autor de Facundo, cuya
+dicotomía "civilización y barbarie" fue retomada y resignificada por Marechal.
+•       Juan Facundo Quiroga: Caudillo argentino, aludido a través de la figura de Facundo
+Galván en Antígona Vélez.
+•       Valeria Secchi: Comentadora de las novelas de Marechal, señalando el simbolismo del
+viaje, el convivio y la guerra.
+•       Juan María Gutiérrez: Crítico argentino que reconoció la existencia de una tradición
+americana de traducciones de Virgilio.
+•       Miguel Antonio Caro: Traductor colombiano de la Eneida de Virgilio.
+•       Demetrio Calcóndilas: Responsable de la primera edición impresa occidental de la Ilíada
+y la Odisea en 1488.
+•       Publio Virgilio Marón: Poeta romano, autor de la Eneida, cuya obra y figura influyeron en
+Marechal.
+•       Platón: Filósofo griego, cuya filosofía platónica influyó en la concepción estética y
+metafísica de Marechal.
+•       Aristóteles: Filósofo griego, cuya Poética sirvió a Marechal para justificar la novela como
+"sucedáneo legítimo" de la epopeya.
+
+[[15]]
+•       Rabelais: Escritor francés, cuyas lecturas influyeron en la búsqueda de la "catarsis por la
+risa" de Marechal.
+
+Briefing: Leopoldo Marechal, la Epopeya Nacional y la Reinterpretación de Mitos Clásicos en la
+Construcción de la Identidad Argentina
+Este briefing examina la obra de Leopoldo Marechal, con especial énfasis en Adán Buenosayres y
+Antígona Vélez, analizando cómo el autor reinterpreta y se apropia de mitos y estructuras de la
+literatura clásica (Homero, Virgilio, Dante, Sófocles) para construir un proyecto poético fundacional
+de la identidad argentina. Se abordan las influencias literarias, el contexto socio-político de su
+época y la recepción crítica de su trabajo.
+
+1. Leopoldo Marechal: Un Autor Fundamental y Controvertido
+Leopoldo Marechal (1900-1970) es una figura central de la literatura argentina del siglo XX,
+reconocido como poeta, novelista y dramaturgo. Fue un miembro activo del Grupo Florida y los
+"martinfierristas" en la década de 1920. Su obra maestra, Adán Buenosayres (1948), es
+considerada un hito por su profundidad y originalidad. Sin embargo, su adhesión al peronismo a
+partir de 1944-1945 le valió una "proscripción intelectual" y el alejamiento de gran parte de la élite
+cultural, incluido el influyente Grupo Sur (Infobae, 2025; Maturo, s.f.; Gómez Sánchez, 2022). A
+pesar de este aislamiento, Marechal mantuvo una profunda "preocupación por la Patria" y la
+búsqueda de una identidad nacional, concibiendo a Argentina como un "pueblo de Dios" (Maturo,
+s.f.). Su estética es descrita como "unitiva", fusionando la belleza ontológica, el arte, la erótica, la
+epistemología y la mística, con fuertes raíces griegas y cristianas (Marechal: Epopeya Argentina y
+Mito Fundacional).
+
+2. La Novela como Epopeya: Adán Buenosayres y la Cosmogonía Porteña
+Marechal concibe su novela Adán Buenosayres no como un mero relato, sino como un
+"sucedáneo legítimo" de la epopeya clásica, afirmando haberla estructurado bajo los "cánones
+aristotélicos del género épico" (Marechal: Epopeya Argentina y Mito Fundacional; Infobae, 2025).
+Su objetivo era "devolverle a la novela su lineamiento clásico y su raíz tradicional", adaptándola
+para "fijar su atención en los hombres corrientes" (Infobae, 2025). Marechal insistió: "Al escribir mi
+Adán Buenos Aires no entendí salirme de la poesía" (Infobae, 2025).
+
+2.1. Influencias Clásicas y Modernas
+La novela exhibe una "presencia efectiva de un texto en otro" (Genette, citado en Fiscina, s.f.):
+
+Homero y la Odisea: La estructura narrativa se inspira en el "simbolismo del viaje" o "errar", una
+"imagen viva de la existencia humana" (Marechal: Epopeya Argentina y Mito Fundacional).
+Múltiples alusiones, citas y usos homéricos permean la obra, desde el motivo del viaje hasta la
+configuración heroica del protagonista. El barrio de Villa Crespo es transformado en los mares
+griegos que Ulises debe atravesar, con personajes cotidianos asumiendo roles míticos: el mendigo
+ciego como Polifemo, Ruth (la tendera) como Circe, y tres adolescentes como "ninfas del zaguán"
+(Sirenas). Marechal utiliza epítetos homéricos como "Gea, numerosa de semillas" o "Minerva, la
+de los ojos de lechuza" (Fiscina, s.f.; Marechal: Epopeya Argentina y Mito Fundacional).
+Virgilio y la Eneida: El "Viaje a la oscura ciudad de Cacodelphia" (Libro VII) es una "catábasis
+porteña", una reescritura paródica del descenso de Eneas al inframundo. Elementos como la "hoja
+mortífera" (cicuta) y la oscuridad de la noche, o el astrólogo Schultze (Xul Solar) como el "Virgilio
+argentino", demuestran esta filiación. La novela busca una "realización espiritual" similar a la
+experiencia metafísica de los héroes épicos (Pellico, s.f.; Marechal: Epopeya Argentina y Mito
+Fundacional).
+Dante y la Divina Comedia: La cosmología dantesca impregna la obra, con la búsqueda de Adán
+estructurada en "ascensos y descensos neotestamentarios y en la cosmología dantesca"
+(Marechal: Epopeya Argentina y Mito Fundacional; Gómez Sánchez, 2022). Marechal incluso crea
+sus propias "siete espinas" para sus enemigos, similar a las de Dante (Gómez Sánchez, 2022).
+Adán tiene su propia Beatriz, Solveid Amundsen, quien lo guía al paraíso (Gómez Sánchez, 2022).
+James Joyce y Ulises: Adán Buenosayres ha sido comparado con el Ulises de Joyce, al punto de
+ser llamado el "Ulises argentino" (Infobae, 2025; Davis González, 2017). Marechal reconoció
+haber leído la traducción francesa de Ulises, lo que "disparó la escritura del Adán" (Ayala, 2000,
+
+[[16]]
+citado en Davis González, 2017). Sin embargo, Marechal se distanció de Joyce, argumentando
+que este se quedó en la "mera literalidad del texto", mientras él buscó una dimensión "simbólica" y
+"metafísica" (Infobae, 2025; Davis González, 2017; Pellico, s.f.). Las críticas iniciales incluso lo
+acusaron de plagio o "desdichada parodia" (González Lanuza: "Imaginad, si podéis, el Ulises
+escrito por el padre Coloma y abundantemente salpicado de estiércol, y tendréis una idea
+bastante adecuada de este libro"; Rodríguez Monegal: "Marechal repitió sin ningún sentido los
+riesgosos enfoques e hizo sonar a hueco lo que era, en Joyce, forma plena de contenido,
+convirtiendo la copia o transcripción en desdichada parodia") (Infobae, 2025; Davis González,
+2017).
+Rabelais: Marechal también se influenció por Rabelais en su búsqueda de una "catarsis por la
+risa", creando un "Infierno humorístico" en Cacodelphia (Pellico, s.f.).
+2.2. Personajes y Sátira
+El protagonista, Adán Buenosayres, encarna al propio Marechal y su búsqueda espiritual,
+convirtiéndose en el "primer hombre" argentino. Su nombre alude al primer hombre bíblico y al
+apodo de Marechal en su infancia (Marechal: Epopeya Argentina y Mito Fundacional).
+
+La novela incluye una velada sátira de figuras reales del Grupo Florida:
+
+Luis Pereda (Jorge Luis Borges): El "poeta ciego" (Infobae, 2025).
+Schultze (Xul Solar): El astrólogo que funge como guía en el descenso al inframundo (Infobae,
+2025; Marechal: Epopeya Argentina y Mito Fundacional).
+Bernini (Raúl Scalabrini Ortiz): (Infobae, 2025).
+Samuel Tesler (Jacobo Fijman): (Infobae, 2025).
+Titania (Victoria Ocampo): La más satirizada, a quien se le atribuye "pesca en otros continentes,
+atrayendo a sí a numerosos ejemplares masculinos, todos afinados en el uso y abuso de la
+inteligencia" (Infobae, 2025).
+Estas representaciones, aunque humorísticas, generaron "feroces críticas" de los amigos de
+Marechal, lo que el autor atribuyó en parte al cambio en sus caracteres a lo largo de dos décadas
+(Marechal: Epopeya Argentina y Mito Fundacional). Julio Cortázar fue una de las pocas voces que
+defendió la obra, publicando una reseña favorable en Realidad, lo que le valió "amenazas e
+insultos" (Infobae, 2025).
+
+2.3. Escenarios Simbólicos
+Buenos Aires es un "Teatro del Universo" y "crisol de razas", una metrópolis mitificada donde lo
+cotidiano convive con lo fantástico. La diversidad de inmigrantes es parodiada como "tropas de
+Guerreros", buscando una "prosapia al pueblo argentino" (Marechal: Epopeya Argentina y Mito
+Fundacional). El descenso a "Cacodelphia" (etimológicamente "mala hermandad" o "origen/útero
+feo/malo") simboliza una inmersión en las fallas y contradicciones de la sociedad porteña
+(Marechal: Epopeya Argentina y Mito Fundacional). La "Batalla de la Calle Gurruchaga", una
+"iracunda pelea de barrio" inspirada en el "catálogo de las naves" de la Ilíada, se convierte en una
+"Argentinopeya" que celebra la heroicidad cotidiana y la diversidad del pueblo (Marechal: Epopeya
+Argentina y Mito Fundacional).
+
+2.4. Dimensiones Filosóficas: Platonismo y Misticismo
+La estética "unitiva" de Marechal busca una visión holística de la realidad. Las influencias
+platónicas y dantescas son medulares, con la belleza sensible como "escalón" hacia la
+trascendente, el Amor (Eros) como principio creador, y la búsqueda del "Absoluto" a través de
+viajes de ascenso y descenso (Marechal: Epopeya Argentina y Mito Fundacional). El simbolismo
+del "Cristo de la Mano Rota" en Cacodelphia es un ancla espiritual, guiando a Adán hacia la
+trascendencia y la renuncia a los "amores de abajo" (Marechal: Epopeya Argentina y Mito
+Fundacional).
+
+3. Antígona Vélez: Tragedia Clásica en la Pampa Argentina
+En Antígona Vélez (1951), Marechal traspone el mito de Sófocles a la pampa argentina del siglo
+XIX, en el contexto de la "Conquista del Desierto". Esta obra, por la que recibió el Premio Nacional
+del Teatro, reinterpreta la dicotomía sarmientina "civilización y barbarie" (Infobae, 2025; Sosa &
+Ruiz de Los Llanos, 2020).
+
+[[17]]
+3.1. Personajes y Simbolismo
+Antígona Vélez: Equivalente a la Antígona sofocleana, defiende las leyes divinas frente a las
+humanas. A diferencia de su par griega, su muerte adquiere un "sentido salvífico", permitiendo que
+otros vivan, lo que conecta con el pensamiento cristiano del martirio. Ella incluso justifica las
+acciones de Facundo Galván por el progreso (Marechal: Epopeya Argentina y Mito Fundacional).
+Facundo Galván: Equivalente a Creonte, es un estanciero y tirano local. Su nombre alude a Juan
+Facundo Quiroga y se le ha identificado con Juan Domingo Perón, reforzando su rol como figura
+autoritaria con un propósito nacional (Marechal: Epopeya Argentina y Mito Fundacional; Sosa &
+Ruiz de Los Llanos, 2020). Sus "medios bárbaros" se justifican por fines civilizados como la
+difusión del progreso (Marechal: Epopeya Argentina y Mito Fundacional).
+Elenco Secundario: Carmen Vélez (Ismene), Lisandro Galván (Hemón), el Rastreador (el Guardia,
+nacionalizado con "color local" y la infalibilidad descrita por Sarmiento), Ignacio Vélez y Martín
+Vélez (Polinices y Eteocles), y las "Brujas" (fusión de Tiresias y el coro, remitiendo a las Parcas y
+a las brujas shakesperianas) (Marechal: Epopeya Argentina y Mito Fundacional).
+3.2. La Estancia "La Postrera" y la Pampa
+"La Postrera" simboliza la "civilización", el último bastión de la cultura blanca en la frontera. El
+arado y el sable representan la labor civilizadora y la conquista violenta del territorio,
+respectivamente. La pampa se asimila a lo "bárbaro", tanto el medio infértil como las culturas
+indígenas. El apellido "Vélez" resuena con la idea de "vigilancia" o "guerrero", acorde con la lucha
+por defender la estancia (Marechal: Epopeya Argentina y Mito Fundacional).
+
+4. La Poética Nacional y el Revisionismo Histórico
+Marechal, a través de sus obras, se inscribe en el diálogo con la gesta independentista y la
+construcción de la identidad argentina. Su concepto de "neocriollo" busca reconciliar las raíces
+latinoamericanas con la herencia europea, reinterpretando la identidad criolla que impulsó la
+independencia (Marechal: Epopeya Argentina y Mito Fundacional).
+
+El autor realiza un revisionismo histórico al reinterpretar la dicotomía "civilización y barbarie" y
+justificar los "medios bárbaros" para fines civilizados, como en la figura de Facundo Galván. Esta
+revalorización de la "barbarie" se alinea con la idea de que "la barbarie era más argentina" y que
+las "montoneras" fueron "el ejército de la independencia luchando en el interior" (Marechal:
+Epopeya Argentina y Mito Fundacional).
+
+El "viaje, sacrificio y fundación" en las obras de Marechal establece un paralelo con la
+construcción de la nación durante la independencia, implicando sacrificios para la fundación de un
+nuevo estado. La "muerte salvífica" de Antígona Vélez, que fertiliza la tierra, resuena con los
+sacrificios independentistas por el futuro de la nación (Marechal: Epopeya Argentina y Mito
+Fundacional).
+
+5. Recepción y Legado
+La publicación de Adán Buenosayres en 1948 generó una recepción crítica polarizada. Mientras
+figuras como Eduardo González Lanuza y Emir Rodríguez Monegal la tildaron de "bodrio con
+fealdades" y "desdichada parodia" del Ulises (Infobae, 2025), Julio Cortázar la defendió,
+considerándola un "acontecimiento extraordinario en las letras argentinas" (Infobae, 2025). La
+crítica negativa estuvo fuertemente influenciada por la adhesión de Marechal al peronismo, lo que
+le valió la "proscripción intelectual" y el ostracismo de la comunidad literaria, incluido el retiro de
+sus poemas de antologías editadas por Borges y Bioy Casares (Infobae, 2025).
+
+A pesar de la inicial "proscripción", el legado de Marechal es innegable. Sus obras ofrecen una
+lente única para comprender el diálogo constante entre los mitos universales y las realidades
+locales, demostrando cómo la literatura puede reconfigurar la historia y dotarla de un sentido más
+profundo y trascendente (Marechal: Epopeya Argentina y Mito Fundacional). Su "poética filosófica"
+sigue invitando a múltiples interpretaciones y su pensamiento, aunque considerado "retrógrado"
+por él mismo en el sentido de mejorar la tradición, se considera hoy "más vigente que nunca"
+(Gómez Sánchez, 2022; Marechal: Epopeya Argentina y Mito Fundacional).
+
+[[18]]
+

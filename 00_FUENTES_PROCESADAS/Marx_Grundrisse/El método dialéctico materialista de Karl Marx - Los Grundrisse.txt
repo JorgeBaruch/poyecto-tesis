@@ -1,0 +1,527 @@
+﻿[[1]]
+El método dialéctico materialista de Karl Marx - Los
+Grundrisse
+¿Cuál fue el método de investigación que llevó a cabo Marx para escribir el Capital? ¿En qué
+sentido la dialéctica de Marx se distingue de la de Hegel y otros? ¿Cómo podemos superar la
+abstracción de la economía clásica para tener un entendimiento más concreto de las
+relaciones de producción, distribución, cambio y consumo? Hola, soy Amilcar Paris Mandoki
+y gracias por acompañarme a filosofía de la historia. En esta cápsula veremos la introducción
+de los Grundrisse, de Marx, los borradores que escribió en 1857 y 1858 y que establece la
+metodología sobre la cual se construye su obra magna. Veremos el contexto de la obra, cuál
+es el procedimiento dialéctico que utiliza y la primera aplicación que hace sobre las cuatro
+principales esferas de la economía.
+
+Así que comencemos de una vez. El manifiesto comunista es publicado a inicios de 1848 y
+en el despertar de una revolución que sacude a Europa desde Francia hasta Transilvania.
+Aunque los detalles de esa revolución los tendré que dejar para otro momento, me limitaré
+aquí a decir que fue una sacudida de quienes encabezaban el poder en Europa, pero al final
+las viejas estructuras de poder se volvieron a establecer, aunque a veces con distinta cara.
+
+Para los radicales como Marx, esto significó que la Europa continental ya no era un lugar
+seguro y muchos tuvieron que huir a Inglaterra, que siempre fue un refugio para todos los
+exiliados políticos, desde los Borbones y Bonaparte hasta comunistas, liberales y
+anarquistas. A partir de 1850 Marx comenzará su reclusión en la biblioteca del museo
+británico en donde aumentará su ya enorme acervo de conocimientos económicos y
+someterá a crítica las nociones que ya había construido. En este proceso Marx hará una
+relectura más profunda de la teoría de David Ricardo, en particular de su teoría del
+excedente.
+
+Además, reconceptualizará los distintos conceptos de la economía política desde la
+dialéctica hegeliana. Mientras estaba clavado en esto, en 1857 sucedió algo por primera vez
+que hoy en día ya es cotidiano, una crisis financiera norteamericana que se convirtió en una
+crisis económica mundial. Esta crisis también llevó al inicio de otra ya cimentada tradición.
+
+Economistas aprovechando el momento para escribir artículos que explican las razones de la
+crisis. Marx absorberá todo esto y comenzará a escribir explicaciones de lo sucedido y una
+nueva crítica a la economía política. Lo escrito entre 1857 y 1858, que ahora llamamos
+Röntgese por ser la palabra alemana para manuscritos, iba a terminar con parte de la obra
+Contribución a la Crítica de la Economía Política.
+
+Esta obra quedó sin terminar pues era demasiado ambiciosa, ya que parecía ser un texto de
+filosofía de la historia que comenzara desde la producción capitalista. Sin embargo, lo que
+investigó al final terminó siendo materia para el capital. Los Röntgese sirven como un punto
+medio entre la crítica hegeliana y la economía política.
+
+Ayudan a trazar las líneas que conectan la visión hegeliana con la crítica del capitalismo,
+mismas que se mantuvieron obscuras hasta que la obra aparece en su primera edición
+alemana de 1939. En esta cápsula veremos la introducción, pues aquí es donde Marx
+describe detalladamente cómo hacer un análisis material desde una perspectiva hegeliana.
+
+[[2]]
+Sirve para ver con lentes de rayos X al capital y encontrar todos los giros dialécticos que ahí
+se encuentran escondidos.
+
+Puede además servir de guía para realizar un verdadero análisis dialéctico materialista a
+cualquier fenómeno social. ¿Cuál es la estructura del texto? Marx iniciará con una crítica a lo
+que se llama las robinsonadas dieciochescas, el erróneo acercamiento a la manera de
+explicar la economía en el siglo anterior al suyo. Luego mostrará cómo debe ser el
+acercamiento a la economía y finalmente explicará la metodología de este acercamiento.
+
+Sí, primero aplica la metodología y luego la explica. No me parece un orden óptimo, pero no
+lo podemos juzgar porque estos son unos manuscritos, entonces nos toca a nosotros
+ponerles orden. Por ello, y para que se entienda mejor, yo empezaré por la metodología,
+incluyendo la crítica a las robinsonadas, y luego explicaré cómo la aplica.
+
+Para entender el método de la economía política de Marx hay que entender algunos
+términos hegelianos que usa, así como la manera diferenciada en que los utiliza.
+Comencemos con la distinción entre lo concreto y lo abstracto. El uso coloquial de estos
+términos nos lleva a pensar que lo concreto es lo más inmediato, lo que vemos y sentimos,
+las intuiciones que recibimos, la mesa, la luz, la pared, el libro.
+
+A esto normalmente se le opone lo abstracto, que tiene que ver con el pensamiento, las
+ideas, los conceptos, las relaciones matemáticas, etcétera. Pero si algo sabemos de Hegel es
+que le gusta ir en contra del sentido común. Pues para Hegel, todas las cosas que mencioné,
+todo aquello que ve nuestros sentidos de manera inmediata, son cosas abstractas.
+
+¿A qué me refiero? Les voy a contar una historia. Antes de estudiar filosofía, yo había
+estudiado ingeniería en sistemas computacionales. Obtuve mi título y trabaja de eso.
+
+Me iba bien, soy relativamente bueno programando y hasta tenía un puesto con un nombre
+todo pretencioso. Además, me gustaba la inteligencia artificial, tenía ganas de desarrollar
+algo que tuviera que ver con la interpretación del lenguaje natural. Esto significa que una
+computadora puede leer un texto escrito por una persona y entender lo que está diciendo.
+
+Por ejemplo, si está hablando bien de algo o si está hablando mal. El trabajo pagaba bien y
+yo era apreciado, pero aunque no conocía el término todavía estaba yo enajenado. Así que
+eventualmente tuve una crisis existencial y decidí que quería hacer algo más en la vida, por
+lo que decidí regresar a la universidad y estudiar una segunda carrera, filosofía.
+
+No dejé mi trabajo, pues de alguna manera hay que satisfacer las necesidades animales que
+nos permiten desarrollar nuestro ser genérico. Así que trabajaba en la mañana y en la tarde
+iba a la universidad. En cuanto salía de clases iba a la biblioteca a estudiar Cuando entré
+procuré no decirle a nadie que había estudiado ingeniería antes, sospeché que podía
+levantar ciertos prejuicios.
+
+Mis sospechas fueron confirmadas en las clases, pues de vez en cuando algún profesor
+arremetía en contra de los ingenieros o en contra de los científicos, y yo disfrutaba
+contestarles, defendiéndome al mismo tiempo que trataba de no delatarme. Por ahí de
+mediados de la carrera me seguía yendo bien en el trabajo, de hecho comencé a trabajar en
+un proyecto donde iba a ser justo un sistema que analizará el lenguaje natural. Comencé a
+
+[[3]]
+tomar clase con un profesor muy famoso, mundialmente reconocido, lo que llamamos una
+vaca sagrada.
+
+Con este profesor vimos justo este texto, Los Gortys, y como yo estoy a punto de hacer,
+comenzó por explicarnos la diferencia entre abstracto y concreto a ingeniería. El profesor
+comenzó a decir algo así como Los ingenieros creen que son muy concretos. Yo
+internamente contesté, pues sí.
+
+Trabajan en un motor y creen que ese motor es lo más concreto. Pues sí, qué cosa más
+concreta hay que un motor, con sus pistones y sus válvulas, y están hechos de metal y son
+pesados y ruidosos, qué más concreto que eso. Es que no se dan cuenta que están
+abstraídos en el motor, no ven las conexiones ocultas en el motor, cómo se relaciona con
+otras cosas, cuando ven al motor solo ven al motor, pero no se dan cuenta que el motor es
+un motor de una demoledora que va a tirar la casa en la que viven.
+
+Y es que para Hegel, lo más abstracto es lo más simple, y lo más concreto es lo más
+complicado. Ver a un objeto aislado es ver al objeto en sentido abstracto, separado de toda
+conexión que puede tener con lo demás, con todas las demás cosas en el mundo. Marx nos
+recuerda en este texto que Spinoza, a quien Hegel le debe mucho, definía la determinación
+como negación.
+
+Por ejemplo, cuando nos referimos a los objetos negros nos referimos a una determinación
+de la totalidad de objetos, negamos todos los demás objetos, los grises, los rojos, los
+morados y los multicolores. Además, podemos juntar determinaciones para ser más
+específicos. Podemos hablar de zapatos negros, con lo que no sólo niego todos los objetos
+que no son negros, sino también todos los objetos que no son zapatos, aunque sean negros,
+como las chamarras negras, los coches negros y las aguas negras del capitalismo yanqui.
+
+Desde el punto de vista de Hegel y de Marx, los conceptos se construyen negativamente, a
+partir de determinaciones. Así, cuando hablamos de lo abstracto hablamos de lo menos
+determinado, lo que tiene el menor número de determinaciones, y cuando hablamos de lo
+concreto hablamos de lo más determinado, el conjunto de un mayor número de
+determinaciones. Por ello, la fenomenología del espíritu es un camino de lo menos
+determinado a lo más determinado, de lo más abstracto a lo más concreto.
+
+Comienza en lo más abstracto, la intuición sensible, un ruido, un color, un objeto que
+observas. Progresa dialécticamente confrontando el momento con una negación
+determinada que es su antítesis y sintetizando las actuales determinaciones con las nuevas.
+El proceso dialéctico de Hegel es un proceso de síntesis que va de lo más abstracto e
+inmediato a lo más concreto, que es lo más real.
+
+Para Hegel como para Spinoza, el proceso de síntesis tiene una importancia central,
+mientras que el proceso de análisis es relegado. En la fenomenología, el proceso de análisis
+es un proceso reflexivo, es un mirar hacia atrás, eliminar determinaciones para ver un
+momento anterior del objeto, un momento más abstracto, menos real. Esto muestra que
+Hegel piensa que los conceptos más abstractos preceden lógica e históricamente a los
+conceptos más concretos.
+
+[[4]]
+Para Marx, esto parte de una confusión entre el camino del entendimiento y el camino de la
+realidad misma. Yo no sé si lo llamaría confusión, porque Hegel está bastante convencido de
+que todo lo real es racional y todo lo racional es real, de que la razón guía al mundo, que es
+el absoluto y es la idea. Pero como bien sabemos, esa es la parte de Hegel con la que Marx
+no está de acuerdo.
+
+Marx va a replantear el método dialéctico a partir de la distinción entre el camino de la
+realidad y el camino del pensamiento. Hacer esto los lleva a crear una distinción entre lo
+concreto real, que es lo concreto representado, y lo concreto pensado, que es lo concreto
+síntesis de determinaciones. El punto de partida del método dialéctico materialista es
+entonces lo concreto representado, la realidad misma, la cual es concreta sin importar si la
+observamos o no.
+
+La realidad tiene una multiplicidad de determinaciones, las cuales no requieren que las
+percibamos, pero en un principio se nos aparecen como caóticas. A partir de lo concreto
+representado hacemos un análisis, esto es, eliminamos determinaciones para llegar a
+conceptos cada vez más simples, desmenuzamos las determinaciones para llegar a
+determinaciones abstractas. A diferencia de Hegel, en el que este proceso es regresivo, para
+Marx es progresivo.
+
+Partimos de lo concreto y vamos a lo abstracto por medio de comparación, comparando
+objetos similares, eliminando lo contingente y manteniéndolo esencial. Así, por ejemplo,
+podemos acercarnos a un ecosistema que en un principio nos aparece caótico con una
+multiplicidad de criaturas. Podemos proceder de manera analítica obteniendo las
+determinaciones abstractas como robles, pasto, agua, puercos, gallinas, cuervos, pericos,
+tucanes y pingüinos.
+
+Comparando a estos últimos podemos profundizar el análisis eliminando las
+determinaciones particulares de cada especie y llegar a una categoría más abstracta, por
+ejemplo la de ave. El ave no existe, es una determinación abstracta creada por el
+pensamiento, por nuestra capacidad de percibir lo universal. Sin embargo, gracias a ese
+concepto podemos entender una serie de criaturas que observamos.
+
+Luego del proceso de análisis, cuando tenemos una serie de determinaciones abstractas,
+sigue el proceso de síntesis. Vemos cómo las determinaciones se determinan entre sí,
+vemos cómo las categorías se conectan, y a partir de ellas podemos construir lo concreto.
+Pero esto concreto lo construimos en el pensamiento, es lo concreto como síntesis de
+determinaciones, una construcción en la mente de lo concreto representado.
+
+Continuando con el ejemplo podemos ver cómo los nidos de las aves interactúan con los
+árboles, cómo algunos mamíferos cazan, otros son cazados y otros comen plantas. Al
+entender todas estas determinaciones podemos construir una visión concreta del
+ecosistema, pero no es el mismo ecosistema del que partimos. Este nuevo es concreto
+síntesis de determinaciones, lo construimos nosotros en el pensamiento.
+
+Desde Marx podemos ver que cada una de las especies y organismos preceden lógicamente
+al ecosistema, pues no podemos entender al todo sin ir entendiendo las partes, pero eso no
+significa que lo preceden históricamente, pues como bien sabemos había ecosistemas antes
+de que existieran las especies actuales. Sabemos que había ecosistemas cuando rondaban
+
+[[5]]
+los dinosaurios, y cada una de las especies actuales emergió dentro de un ecosistema. Pero
+gracias a que podemos entender a las especies actuales y con base en ello a los ecosistemas,
+podemos entender especies anteriores y ecosistemas anteriores.
+
+Así, el paso de lo concreto representado a las determinaciones abstractas a lo concreto
+como síntesis de determinaciones es un proceso epistemológico que establece para Marx
+un orden lógico, pero no como para Hegel un orden ontológico. Para Marx, el punto final, la
+totalidad concreta como totalidad del pensamiento es un producto del pensamiento que es
+trabajo de elaboración, que transforma intuiciones y representaciones en conceptos. No es,
+como dice Hegel, un producto de un concepto que piensa y se engendra a sí mismo.
+
+Vale la pena mencionar que esto es una nueva iteración de un método que es más viejo que
+la filosofía, que de hecho la precede. Platón prohibía la entrada a su academia de quien no
+supiera geometría, porque en la geometría de la Grecia clásica se aprendía el proceso de
+análisis y el proceso de síntesis. Pero lo que aquí es nuevo viene en tres pasos.
+
+El primero es el de Spinoza, de entender la determinación como negación. El segundo es el
+de Hegel, quien interpreta a Spinoza de una manera que le permite ver el análisis como
+eliminación de determinaciones, a la síntesis como la unión de determinaciones, a lo
+abstracto como lo menos determinado y a lo concreto como lo más determinado. Además,
+Hegel pone todo esto en movimiento como un proceso, el proceso dialéctico.
+
+Marx llega para superar la enajenación hegeliana que identificaba la realidad con el
+pensamiento y para desdoblar el proceso en dos pasos, el de análisis y el de síntesis. Ahora,
+esto que he explicado con ejemplos en la biología, Marx lo hace sobre la economía política.
+Busca partir de individuos que producen en sociedad o de la producción de los individuos
+socialmente determinados.
+
+En la economía política anterior a Marx, estaba de moda incluir un capítulo inicial en la que
+se trataban las condiciones generales de toda producción. Para Marx esto solía incluir
+tautologías vulgares de determinaciones muy simples sobre las condiciones necesarias para
+la producción, así como las condiciones que la hacen avanzar. Esto realmente consistía en
+un montón de tautologías que terminaban afirmando que la riqueza se crea más fácil en
+donde más existen elementos que la crean.
+
+Marx expresa una frustración ante la falta de seriedad de los análisis sobre la producción en
+general, pues parece ser que lo único que quieren afirmar es que esta es regida por leyes
+eternas de la naturaleza, las cuales casualmente terminan siendo las relaciones sociales
+burguesas. El cazador y el pescador solos y aislados con los que comienzan Smith y Ricardo
+pertenecen a las imaginaciones desprovistas de fantasía que produjeron las robinsonadas
+dieciochescas, las cuales, a diferencia de lo que creen los historiadores de la civilización, en
+modo alguno expresan una simple reacción contra un exceso de refinamiento y un retorno a
+una malentendida naturaleza. El término dieciochesco de robinsonada fue acuñado por
+Johann Gottfried Schnabel para referirse al género literario que emergió tras la publicación
+en 1719 de la novela Robinson Crusoe.
+
+Esta novela causó tanto revuelo que produjo todo un género literario en el siglo diecinueve
+y engendró una multitud de obras de ficción. Como Marx menciona, los historiadores de la
+civilización pensaron que este género literario, que incluye a Ricardo, Smith y hasta
+
+[[6]]
+Rousseau, venía de una reacción contra el refinamiento y una búsqueda de regresar a la
+naturaleza. Pero Marx nota que esto solo es la apariencia estética de las robinsonadas, pues
+lo que verdaderamente reflejan es la naturaleza de la sociedad civil, una sociedad de libre
+competencia donde cada individuo aparece desprendido de los lazos que antes lo
+integraban a un conglomerado humano.
+
+Robinson Crusoe es el producto de la disolución de las formas de sociedad feudales y de las
+nuevas fuerzas productivas modernas. Solo a partir del siglo dieciocho aparece el individuo
+aislado para quienes las relaciones sociales son medios para lograr sus fines privados
+egoístas. Pero esta apariencia, menciona Marx, también es falsa, es una abstracción, porque
+en este siglo es en el que las relaciones sociales han llegado al más alto grado de desarrollo.
+
+El que la producción aparezca desde un individuo aislado es tan absurdo como el que lo
+haga el lenguaje. Sin embargo, Smith y Ricardo lo ven al revés y toman el resultado histórico
+abstracto, el individuo aislado, como el punto de partida de la historia. Han confundido al
+trabajo asalariado con el trabajo general o la propiedad privada con el trabajo acumulado.
+
+Han cometido el error de Hegel de pensar que lo más abstracto precede a lo más concreto.
+Se imaginan una sociedad primitiva con valor de cambio, pero para que esta exista
+realmente se necesita una sociedad concreta en la que aparezcan las determinaciones de
+división del trabajo, propiedad privada, intercambio y mercancías. Sin embargo, muy a la
+Hegel, Marx reconoce que esto no es su culpa, sino culpa de su tiempo.
+
+Las abstracciones más generales surgen únicamente ahí donde existe el desarrollo concreto
+más rico, donde un elemento aparece como lo común a muchos, como común a todos los
+elementos. Entonces deja de poder ser pensado solamente bajo una forma particular. Es
+decir, para poder entender las determinaciones abstractas de la sociedad, esta tiene que
+llegar a un desarrollo tal que exista una diversidad de elementos que se pueden comparar y
+así realizar correctamente el análisis.
+
+Así, el trabajo en abstracto o trabajo en general solo es pensable en una sociedad en la que
+los individuos pueden pasar fácilmente de un trabajo a otro, donde un trabajo particular le
+es indiferente. Por ello, para Marx, solo en la sociedad burguesa industrial, que es la más
+compleja y desarrollada, se pueden comprender las categorías, la organización y las
+relaciones de producción de todas las formas de sociedad pasadas. Tomando todo esto en
+cuenta, regresemos al punto de partida.
+
+Marx quiere hablar de la producción en abstracto, de las determinaciones esenciales que
+hacen a algo producción. Para obtener estas determinaciones hay que llevar un proceso de
+análisis que atienda al hecho que todas las épocas de la producción tienen ciertas
+determinaciones comunes. Por ejemplo, en ellas hay un sujeto que es la humanidad y un
+objeto que es la naturaleza.
+
+También hay que ver que toda producción requiere un instrumento, aunque éste sea solo la
+mano, y que este instrumento requiere de trabajo pasado acumulado, aunque éste solo sea
+la habilidad adquirida por la práctica. A partir de esto Marx aventura una definición general
+de la producción. Toda producción es apropiación de la naturaleza por parte del individuo
+en el seno y por intermedio de una forma de sociedad determinada.
+
+[[7]]
+Cuando afirma que la producción es apropiación lleva consigo el hecho de que una forma de
+producción implica una forma de propiedad. Sin embargo, Marx tiene que llamar la atención
+a que esto no significa que la producción implique a la propiedad privada. De hecho,
+recuerda que históricamente ha sido más común la propiedad comunal.
+
+Además, una forma de propiedad determinada también implica instituciones jurídicas, por
+lo que cada forma de producción engendrará sus propias instituciones jurídicas y su propio
+gobierno. Luego aclara que también en la distribución se podría realizar un proceso similar
+en la que se extraigan los caracteres comunes de los distintos momentos históricos para ver
+cuáles son sus características generales. Se pueden observar determinaciones generales
+sobre la distribución que refiere a que una parte de la producción social le toca al esclavo, al
+siervo o al trabajador y que otra toca al sacerdote, al señor, al conquistador o al burócrata.
+
+La proporción estará determinada por el concepto de propiedad y por la protección de ésta
+por medio del uso de la fuerza. Producción y distribución son parte de las cuatro esferas que
+Marx identificará, producción, distribución, cambio y consumo. Establecerá las definiciones
+de estas esferas en seis dimensiones semánticas diferentes, de acuerdo a la función, al
+producto, al proceso, a la relación sujeto-objeto, a la determinación cualitativa y
+cuantitativa y al silogismo.
+
+Valdrá la pena si gustan revisar estas definiciones con cuidado, y para ello dejaré una liga a
+un diagrama que realice sobre esto. Pero ahora procederé a una visión sintética de cada
+esfera. Marx construye las esferas desde la más general o social, aquella de la producción,
+hasta la más particular o individual, que es la del consumo.
+
+Desde esta perspectiva, la producción consiste en la objetivación de las personas mediante
+la apropiación de la naturaleza a las necesidades individuales. Es apropiación en dos
+sentidos, en que se vuelve propia a la naturaleza, se vuelve una propiedad, y en que se
+vuelve propia a las necesidades, se modifica para satisfacer las necesidades. El siguiente
+momento de lo general a lo particular es la esfera de la distribución.
+
+Esta consiste en la determinación de la proporción cuantitativa en la que la producción
+general corresponde a cada individuo. Cada sociedad tendrá sus reglas de distribución. En el
+capitalismo el trabajador se queda con el salario y el capitalista con el resto.
+
+En el feudalismo el señor feudal se queda con lo producido entre semana y el trabajador con
+lo producido en fin de semana. En la esclavitud los esclavos se quedaban con apenas lo
+suficiente para no morir. Marx no lo menciona explícitamente, pero queda claro que en la
+distribución se abstrae todo elemento cualitativo de la producción y solo se mantiene lo
+cuantitativo.
+
+En el feudalismo la distribución se da en términos de días trabajados, y en el capitalismo en
+términos de valor o dinero. La determinación cualitativa se obtiene en el siguiente paso, en
+el del intercambio. Esta esfera es en la que los individuos intercambian entre sí los
+productos que pertenecen a su proporción para obtener aquellos elementos específicos que
+van a satisfacer sus necesidades.
+
+Es decir, los individuos llegan con la proporción que les tocó de lo que produjeron o no
+produjeron y la cambian para obtener aquellos productos que van a satisfacer sus
+
+[[8]]
+necesidades de alimentación, vestido, vivienda o espíritu. Estos productos luego pasan al
+momento más particular y específico, el consumo. Aquí el producto se subjetiva, se vuelve
+persona, satisface las necesidades del individuo.
+
+Con esto se resuelven dos pasos, el primero el del análisis. Quedan definidos los conceptos
+correspondientes a las cuatro esferas de acuerdo a sus determinaciones abstractas. El
+segundo es el de una primera síntesis que muestra una determinación lineal desde la
+producción hasta el consumo.
+
+Sin embargo, el proceso de síntesis es mucho más rico y complejo, pues las distintas esferas
+llevan entre sí muchas más determinaciones que las que se observan en un principio. Como
+vimos, la síntesis consiste en unir determinaciones. Esto significa que las determinaciones se
+van a determinar mutuamente.
+
+Siendo que la determinación es negación, ¿significa que ahora producción, distribución,
+cambio y consumo se niegan? Sí y no. Aunque suene redundante, una determinación es una
+negación determinada. Decir que la producción determina el consumo significa que la
+producción niega al consumo, pero no que el consumo desaparece, sino que se limita.
+
+Una sociedad que solo produzca comida chatarra, solo consumirá comida chatarra. La
+síntesis entre producción y consumo nos muestra cómo se limitan mutuamente, y esta
+sucede en tres dimensiones. Consumo y producción son inmediatamente idénticos, tienen
+una relación en la que se median mutuamente y se crean uno al otro.
+
+La primera dimensión es la identidad inmediata entre consumo y producción. Esto es, que el
+consumo y la producción son lo mismo. Al producir se consume la materia prima y los
+medios de producción, pero también algo más, las fuerzas vitales del individuo que produce.
+
+Se consume una especie de fuerza que se usa para el trabajo, algo así como una fuerza de…
+Bueno, Marx no le pone nombre aquí. Pero esta identidad no solo se da del lado productivo,
+también del lado del consumo. Marx nos recuerda que cuando consumimos los bienes
+producidos, también estamos produciendo, pues nos producimos a nosotros mismos.
+
+¿Significa que producción y consumo no tienen diferencia? No, ambos momentos son
+diferentes, pues el primero es el momento en el que el productor se objetiva, mientras que
+el segundo es en el que la cosa se personifica. En ambos extremos de la relación hablamos
+de producción y consumo, pero se distinguen por las determinaciones de sujeto y cosa,
+desde las cuales son momentos opuestos. La producción del sujeto es consumo de la cosa,
+la producción de la cosa es consumo del sujeto.
+
+La segunda dimensión de la interdeterminación entre producción y consumo es la
+mediación. La producción es mediadora del consumo y viceversa. Esto es porque la
+producción crea el medio para ser consumido, crea aquello que se consume y sin lo cual el
+consumo no podría existir.
+
+Así no solo media, sino produce al consumo, pero el consumo también crea el medio para el
+producto, crea el sujeto para el cual son los productos. Para explicar esto último, Marx se
+refiere al concepto aristotélico de dynamé o potencia. Este concepto, junto con energia,
+
+[[9]]
+resuena en el sentido en el que Hegel se refiere a la cosa en sí, la cosa en potencia y su
+realización.
+
+Así el producto solo lo es en potencia en el momento de la producción y se realiza como
+producto solo hasta ser consumido. Un vestido solo se realiza cuando se lleva puesto, unos
+tacos solo son realmente tacos hasta que alguien se los come, antes de eso solo son tacos
+en potencia. Además, todo objeto producido tiene una finalidad.
+
+Como diría Kant, esto significa que solo puede ser pensado como construido para cumplir un
+fin, y el fin de todo producto es el consumo. Por ello, el consumo pone idealmente el objeto
+de la producción como necesidad y finalidad. Adicionalmente, al ser la producción
+mediadora del consumo, la producción produce el acto del consumo, y de ese modo al
+consumidor.
+
+La producción de teléfonos inteligentes con cámara produce a gente que se toma selfies y
+las sube a redes sociales, y la producción de redes sociales produce a gente que está
+obsesionada con tener likes, discutir sobre minucias con extraños y enojarse
+constantemente. La producción crea al objeto para el sujeto, pero también crea al sujeto
+para el objeto. Por ello, la producción es el primer momento del camino fenomenológico, y
+el consumo es el último momento.
+
+El consumo existe desde el principio en potencia. Todo el proceso es el proceso de
+realización del objeto hasta que lo logra en el último momento. La realización total del
+producto es la satisfacción de las necesidades del sujeto.
+
+Lo siguiente que examinará Marx son las determinaciones entre la esfera de distribución y la
+esfera de producción. Recordemos que la distribución determina, mediante leyes sociales, la
+parte de los productos que le corresponden a los individuos. Así, los agentes de la
+producción se manifiestan en la distribución de una manera determinada socialmente.
+
+Por ejemplo, en el capitalismo el trabajo se manifiesta como salario, la tierra como renta y
+los medios de producción como capital, ganancia e interés. Pero esta determinación tiene
+sus raíces en la producción misma. El trabajo es trabajo salariado y por eso se manifiesta en
+salario.
+
+Las herramientas y materiales son capital, son propiedad privada y por eso se manifiestan
+en forma de ganancia e interés. La tierra se encuentra separada del capital y del trabajo, por
+eso se manifiesta como renta. Por ello, en una sociedad dada, los agentes de la producción
+adquieren su expresión más definida en la esfera de la distribución.
+
+Ahora, si han visto las cápsulas de Hegel, ya se sabe el truco hegeliano de empezar una
+oración con y luego aplicarle a lo afirmado la hegeliana, o sea, negarlo. Marx no se quedará
+atrás y afirmará que, parece que, la distribución condiciona la posición del individuo dentro
+de la producción, pues el individuo que no posea capital ni tierra está destinado al trabajo
+asalariado. Pero el que el capital y la propiedad territorial existan como agentes autónomos
+de la producción es lo que produce esto.
+
+Parece que la distribución es independiente de la producción. La economía política clásica
+entiende la producción como una realidad eterna y la distribución como una arbitrariedad
+
+[[10]]
+histórica. Pero antes de la distribución de lo producido se encuentra la distribución de los
+medios de producción.
+
+Un modo de distribución de los medios de producción llevará a un modo de distribución de
+los productos. Puesto de este modo, esto es, afirmar que la distribución es independiente
+de la producción suena ridículo, pero es una ilusión muy común dentro del capitalismo.
+Busquen cualquier video sobre las personas más ricas del mundo y encontrarán una
+infinidad de clips motivacionales sobre el secreto del éxito, sobre la actitud que se debe
+tener, sobre una visión del mundo.
+
+No voy a negar que es necesario tener cierta actitud, tener ciertas ideas y hacer ciertas
+cosas para que te vaya bien, pero si no tienes capital no tienes nada. Lo que tienen en
+común las personas más ricas del mundo es que tienen capital, esto es, tienen poder de
+decisión sobre el trabajo de otras personas y tienen el control de medios de producción.
+Estos medios toman la forma de oficinas, servidores, código de software, centros de
+distribución, fábricas de automóviles, líneas de telecomunicaciones y redes de distribución.
+
+Gracias a que tienen todo esto, a la hora de distribuir los ingresos, estas personas se quedan
+con una proporción mucho más grande que las que obtienen sus pobres empleadas y
+empleados. Entonces, ¿precede la distribución a la producción? No, tienen una relación
+dialéctica. En un momento una cierta distribución aparece como el supuesto de la
+producción, pero tal producción llevará a una nueva distribución.
+
+El movimiento histórico que desarrolla fuerzas productivas mediante la producción hace
+que estas fuerzas productivas tengan efectos sobre la distribución y ésta a su vez sobre la
+producción. Las máquinas se producen, pero éstas afectan a la distribución generando
+diferencias en el mercado y la ganancia, esto es, en la proporción de producto que les
+corresponde a los trabajadores y al capitalista. La última esfera, la esfera del cambio o la
+circulación, es la que menos atención recibe en este texto.
+
+Esto es debido a que para Marx sólo tiene una función mediadora. Media entre la
+producción y la distribución, media entre la producción y el consumo, y media dentro de la
+producción misma. Esto significa que el cambio aparece para mediar una vez que se
+produce y se reparte lo producido, que aparece antes de que los individuos consuman, y
+que aparece dentro de la producción, en el proceso en el que las materias primas y los
+elementos de la producción van cambiando de manos hasta convertirse en el producto final.
+
+El cambio determina la producción cuando el mercado se extiende, la producción amplía su
+ámbito y se subdivide más. Marx va a aclarar que para que haya cambio se necesita división
+del trabajo, y para que haya cambio privado es necesaria la propiedad privada. Esto significa
+que el cambio también es determinado por la distribución y por la producción.
+
+Así queda explicado el método dialéctico materialista, el método que parte de lo concreto
+representado y mediante el análisis llega a determinaciones abstractas para ir desde ahí
+mediante la síntesis a lo concreto como síntesis de determinaciones. Incluye dentro de sí la
+inducción como proceso de análisis y la deducción como proceso de síntesis. Trae a la
+realidad material el proceso dialéctico y eleva a lo más concreto el proceso de observación.
+
+[[11]]
+Es una metodología que nos invita a analizar nuestra propia realidad y darnos cuenta de
+cuando estamos abstraídos en ella. Nos permite ver que estar en lo concreto representado
+no quiere decir que no estemos abstraídos. Cuando yo estaba trabajando de ingeniero de
+software estaba iniciando un proyecto de análisis del lenguaje natural, un sistema que
+analizará un texto y pudiera realizar una evaluación al respecto.
+
+¿Está el autor expresando agrado con el objeto o desagrado? ¿Es un texto halagador o un
+texto crítico? Era un software complicado que podría tener varias aplicaciones. Cuando mi
+maestro me dijo es que no se dan cuenta que están abstraídos en el motor, no ven las
+conexiones ocultas en el motor, cómo se relaciona con otras cosas, cuando ven al motor
+solo ven al motor, pero no se dan cuenta que el motor es un motor de una demoledora que
+va a tirar la casa en la que viven. Me di cuenta de lo que no estaba viendo.
+
+El software que estaba desarrollando se iba a vender a empresas, políticos y gobiernos para
+encontrar en las redes quienes estaban hablando a favor de ellos y quienes los estaban
+criticando. No estaba observando todas las determinaciones. Yo estaba estudiando filosofía
+para elaborar una crítica del mundo real, y quería esa crítica publicarla en redes.
+
+Un software como el que yo mismo estaba haciendo podía servir justo para encontrar a
+personas como yo. Pensaba que estaba en lo concreto, pero estaba abstraído, estaba
+construyendo el motor de la demoledora que buscaba destruir mi propia casa.
+
+[[12]]
+

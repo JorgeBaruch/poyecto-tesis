@@ -1,0 +1,600 @@
+﻿[[1]]
+� Ensayo: El goce del equilibrio: economía,
+discurso y síntoma en una escena mediática
+contemporánea
+
+1. Introducción: el dispositivo discursivo del debate mediático
+� Presentación del corpus
+El presente trabajo analiza un intercambio televisivo protagonizado por el economista Roberto
+Cachanosky y un grupo de panelistas, en el marco de un programa de debate político-económico
+argentino. El archivo transcripto lleva por título "CACHANOVSKY CRUZÓ a PERIODISTAS
+ENSOBRADOS y ARRUINÓ a MILEI en VIVO", lo que ya anticipa su orientación
+performativa y provocadora. En este tipo de dispositivos discursivos, el contenido técnico se
+entremezcla con la lógica del espectáculo, dando lugar a un espacio híbrido entre análisis
+económico, retórica política e interpelación mediática.
+El corpus se inscribe en un contexto político signado por las reformas de ajuste económico
+promovidas por el gobierno de Javier Milei, las tensiones con el Congreso, y el intento de legitimar
+un nuevo orden basado en el equilibrio fiscal y la reducción drástica del gasto público.
+
+
+� Justificación: ¿por qué es relevante analizar este material?
+Este material resulta relevante por múltiples razones. En primer lugar, porque articula discursos
+técnicos (propios de la economía) con estrategias de dramatización mediática que configuran una
+escena discursiva altamente significativa del presente argentino. En segundo lugar, porque visibiliza
+—en su cruce de voces y tensiones— las formas en que se construyen verdades económicas, se
+disputan sentidos políticos y se organiza el goce colectivo en torno al sacrificio, la falta o la culpa
+del otro.
+Además, el texto no solo muestra una lucha ideológica, sino un verdadero conflicto de discursos,
+donde el saber técnico, la retórica política, el espectáculo mediático y las formas del goce se
+entrecruzan en una estructura compleja. Analizar este tipo de material permite comprender cómo
+funciona hoy la maquinaria simbólica que articula política, economía y subjetividad.
+
+
+� Enfoque metodológico
+El enfoque adoptado es semiótico-discursivo, con herramientas provenientes de tres campos
+teóricos:
+    1. Análisis del discurso (de orientación foucaultiana): para estudiar las posiciones de
+       enunciación, los regímenes de verdad y los efectos de poder que emergen en el debate.
+    2. Psicoanálisis lacaniano: se emplean las nociones de discurso del amo, universitario,
+       histérico y del analista, así como el concepto de plus-de-goce, para pensar cómo circula el
+       deseo, el saber y el goce en la escena.
+
+[[2]]
+3. Crítica político-económica de raíz marxista: para situar los enunciados en su relación con
+       las lógicas estructurales del capital, en especial la figura del mercado como fetiche
+       simbólico.
+Esta triangulación teórica busca sostener un análisis denso y situado que permita abordar tanto los
+efectos visibles como los indicios latentes del discurso.
+
+
+� Hipótesis inicial
+Nuestra hipótesis es que este debate televisivo no escenifica simplemente un conflicto de opiniones
+sobre el rumbo económico del país, sino una lucha simbólica por el sentido, el poder y el goce.
+Los distintos personajes no solo enuncian posiciones racionales, sino que encarnan discursos
+estructurales, movilizando goce, culpa, autoridad y fantasmas colectivos.
+En este sentido, el análisis mostrará cómo el discurso del equilibrio fiscal, lejos de ser una simple
+cuestión técnica, se convierte en un nuevo significante amo, organizador del lazo social bajo la
+lógica del sacrificio y la renuncia. A la vez, se evidenciará cómo ciertos sujetos intentan resistir,
+bordear o subvertir esa lógica desde posiciones de crítica, ironía o ambigüedad simbólica.
+
+2. Descripción del dispositivo: personajes y roles
+El análisis discursivo del corpus parte de la identificación de los protagonistas del debate y sus
+posiciones de enunciación. A falta de nombres propios en el archivo original, se ha procedido a
+distinguir los personajes según sus funciones, estilos argumentativos y tipo de saber que movilizan.
+Esta clasificación no responde únicamente a los turnos de palabra, sino al rol estructural que cada
+uno ocupa en la escena discursiva.
+
+
+� Conductor: el mediador dramatizante
+    • Rol funcional: organiza la escena, reparte la palabra, introduce temas y dramatiza los
+      momentos de tensión.
+    • Posición de enunciación: híbrida. Oscila entre una supuesta neutralidad periodística y un
+      goce evidente en la escenificación del conflicto.
+    • Estilo discursivo: coloquial, irónico, con uso de metáforas populares ("pollo o pasta con
+      broche en la nariz").
+    • Discurso dominante: histérico performativo. Pregunta sin esperar respuestas, ironiza,
+      dramatiza. No representa un saber, sino un goce en la circulación del sentido.
+      “Vos entrás al cuarto oscuro y no es un tenedor libre donde vos votás lo que se te va. Es
+      medio pollo-pasta y no te gusta pollo. Y hay una fuentecita con broche, te ponés un
+      broche en la nariz y decís, voto por acá.”
+
+
+
+� Panelista 1: el técnico institucional
+    • Rol funcional: voz que estabiliza y valida el discurso del ajuste desde una mirada moderada.
+
+[[3]]
+• Posición de enunciación: se presenta como experto objetivo, apegado al dato económico.
+   • Estilo discursivo: técnico pero accesible, con moderación retórica.
+   • Discurso dominante: universitario. Enuncia desde el saber como legitimador.
+     “Desde el punto de vista macroeconómico, el haber logrado algo parecido a un
+     equilibrio fiscal… me parece que es muy importante.”
+
+
+
+� Panelista 2: el economista confrontativo
+   • Rol funcional: advierte sobre riesgos macroeconómicos, centrado en tasas, dólar y crédito.
+   • Posición de enunciación: se presenta como economista experto, orientado a futuro,
+     pragmático.
+   • Estilo discursivo: técnico, con metáforas (“manta corta”), tono severo.
+   • Discurso dominante: amo técnico. Emite advertencias desde una racionalidad dura.
+     “A ver, si vos subís los encajes… a medida que te suben los encajes tenés menos
+     capacidad de préstamo.”
+
+
+
+� Panelista 3: el analista del deseo político
+   • Rol funcional: introduce subjetividad, ego y motivaciones personales en la política.
+   • Posición de enunciación: reflexiva, casi filosófica. Humaniza la escena política.
+   • Estilo discursivo: narrativo, con metáforas subjetivas (“el grito de lo federal”).
+   • Discurso dominante: histérico reflexivo. Interroga el deseo del poder.
+     “Hay una dimensión que creo que no estamos poniendo sobre la mesa: la dimensión
+     humana de la política. Son personas… tienen ego, tienen vehemencia…”
+
+
+
+� Panelista 4 (Camilo): el cuantitativo neutro
+   • Rol funcional: presenta cifras, mide inflación y proyecta escenarios.
+   • Posición de enunciación: pretende hablar “sin ideología”.
+   • Estilo discursivo: técnico-cuantitativo, despojado de juicio político.
+   • Discurso dominante: universitario neutro. Saber como dato, sin afecto ni ideología.
+     “Nosotros que medimos la inflación justamente en julio tenemos 1,9%”.
+
+
+
+� Roberto Cachanosky: el disruptivo estructurante
+   • Rol funcional: economista crítico, desmonta el discurso oficial del equilibrio fiscal.
+
+[[4]]
+• Posición de enunciación: saber con pathos. Habla desde el saber económico pero con
+      dramatismo.
+    • Estilo discursivo: técnico, directo, provocador, con ejemplos cotidianos.
+    • Discurso dominante: histérico combativo. El saber es un arma para la denuncia del engaño.
+     “Tenés unos agujeros de la gran siete… ¿Es sostenible? ¿Cómo lo estás
+     manteniendo?”CACHANOVSKY CRUZÓ a PER…
+
+
+
+� El mercado: entidad ausente omnipresente
+    • Rol funcional: operador simbólico invocado por todos pero sin voz directa.
+    • Posición de enunciación: espectral. El mercado aparece como Sujeto supuesto Saber.
+    • Estilo discursivo: ventrílocuo. “El mercado dice”, “el mercado espera”.
+    • Discurso dominante: amo silencioso. Su sola mención ordena los discursos, sin hablar.
+
+
+� Tabla resumen de personajes y discursos
+  Personaje    Función en la escena      Discurso dominante Modo de intervención
+Conductor    Organizador dramatizante Histérico performativo Ironiza, dramatiza
+Panelista 1  Técnico institucional      Universitario moderado Estabiliza
+Panelista 2  Economista confrontativo Amo técnico              Advierte, alerta
+Panelista 3  Analista de subjetividades Histérico reflexivo    Interroga deseos
+Panelista 4  Cuantitativo               Universitario neutro   Mide, proyecta
+Cachanosky Disruptor estructurante      Histérico combativo    Denuncia, desmonta
+“El mercado” Amo estructural ausente Amo espectral             Es invocado, no enuncia
+
+
+3. Extracción del corpus: fragmentos textuales por personaje
+Esta sección reúne una selección curada de fragmentos textuales organizados por personaje,
+agrupados según cinco bloques temáticos claves: equilibrio fiscal, modelo de ajuste, el mercado,
+dinámica política e inflación/dólar. Este corpus constituye la base empírica que fundamentará el
+análisis temático y estructural posterior.
+
+
+� Roberto Cachanosky (economista crítico)
+Sobre equilibrio fiscal:
+     “Del punto de vista fiscal, financiero, tienen un déficit de la gran siete. Por lo menos
+     cuatro o cinco puntos de Producto Bruto.”
+     “¿Es sostenible? ¿Cómo lo estás manteniendo? Ustedes van por las rutas… Tenés unos
+     agujeros de la gran siete.”
+Sobre ajuste y deterioro estatal:
+
+[[5]]
+“No mantenés, por lo menos las rutas, te consumiste el toque de capital.”
+     “Ejemplo número 2. El tema del Garrahan. ¿Qué pasó? Lo enfrentaste, y al final tuviste
+     que dar marcha atrás. Tercero. Los jubilados, ¿pueden seguir ganando 500.000 pesos
+     mensuales?”
+
+
+� Conductor
+Sobre votación y subjetividad política:
+     “No es un tenedor libre donde vos votás lo que se te va. Es medio pollo-pasta y no te
+     gusta pollo. Y hay una fuentecita con broche, te ponés un broche en la nariz y decís,
+     voto por acá.”
+Sobre expectativas del mercado:
+     “El mercado está esperando que entre a la segunda etapa de las gestiones con capacidad
+     de negociación necesaria para sacar las reformas.”
+     “Desde la derrota en el Senado... ese nivel de agresividad... no ha sido muy fructífero.”
+
+
+� Panelista 1 (técnico institucional)
+Sobre equilibrio fiscal como logro técnico:
+     “Desde el punto de vista macroeconómico, el haber logrado algo parecido a un
+     equilibrio fiscal… me parece que es muy importante.”
+     “Creo que no había ninguno del arco político... que hubiera pensado que podía hacerse
+     un ajuste del tamaño que se hizo.”
+
+
+� Panelista 2 (financiero confrontativo)
+Sobre efectos técnicos del ajuste:
+     “Si vos subís los encajes… tenés menos capacidad de préstamo.”
+     “Entonces eso va a afectar el crédito. Y también... si ese aumento del dólar también va
+     hacia los precios...”
+Sobre riesgos del modelo:
+     “Hay una manta corta… ¿cómo hacer para que no se vaya al dólar, tampoco que esté
+     atrasado?”
+
+
+� Panelista 3 (narrativo político-subjetivo)
+Sobre subjetividad política y estilo de gobierno:
+     “Hay una dimensión que no estamos poniendo sobre la mesa: la dimensión humana de
+     la política. Son personas… tienen ego, tienen vehemencia…”
+     “El grito de Federal tal vez es una reacción a esa manera de levantarse del Gobierno de
+     las provincias.”
+Sobre Milei y la identidad política:
+
+[[6]]
+“Milei es un tipo muy confrontativo… ya es su personalidad, o sea, que eso no lo vas a
+     cambiar.”
+     “¿Qué gana Milei ahora en mostrar que hace alianzas o acuerdos y desdibuja su
+     identidad inicial de que ‘yo no soy la casta’?”
+
+
+� Panelista 4 (Camilo, cuantitativo)
+Sobre inflación e intervención monetaria:
+     “Nosotros que medimos la inflación en julio tenemos 1,9%.”
+     “Hay un factor allí para contener los aumentos de precios.”
+     “Vamos a ver cómo sigue la película definitivamente…”
+
+
+� El mercado (entidad invocada)
+Sobre expectativas y límites:
+     “El mercado plantea que el gobierno... no ha sido muy fructífero.”
+     “El mercado espera reformas estructurales.”
+     “¿Qué espera el mercado del gobierno en esta etapa?”
+     (Fragmentos repetidos por varios interlocutores, sin cuerpo ni voz propia.
+     Representado como Otro estructurante.)
+
+
+4. Análisis temático transversal
+Esta sección aborda los cinco ejes estructurantes del debate, extrayendo las posiciones
+argumentativas, recursos retóricos y operaciones semióticas desplegadas por los distintos
+personajes en torno a cada uno. El objetivo es analizar cómo se construye sentido, autoridad y
+subjetividad en torno a los temas centrales del discurso económico-mediático.
+
+
+� 1. ¿Hay equilibrio fiscal?
+Posiciones diferenciadas:
+    • Cachanosky: lo niega con vehemencia. Plantea que el supuesto equilibrio es contable,
+      aparente y se sostiene por deterioro del capital estatal (rutas, hospitales, jubilaciones).
+    • Panelista 1: lo valida parcialmente. Reconoce que el ajuste fue mayor al previsto, y que
+      logró resultados macroeconómicos relevantes.
+    • Conductor: no se pronuncia, pero dramatiza la división, posicionando al espectador entre
+      “broche en la nariz o pollo con pasta”.
+    • Panelista 3: evade el dato, pero critica el trasfondo político que lo sostiene.
+Recursos retóricos:
+    • Cachanosky: ironía técnica ("agujeros de la gran siete", “te comiste el capital”).
+    • Panelista 1: lenguaje técnico moderado, apelación a la sorpresa racional (“nadie lo preveía”).
+
+[[7]]
+Operaciones semióticas:
+    • El “equilibrio fiscal” funciona como significante amo que organiza el campo de debate.
+    • Hay una disputa por su definición: si se trata de un dato económico, una construcción
+      política o un efecto ideológico.
+
+
+� 2. ¿Es sostenible el ajuste?
+Posiciones diferenciadas:
+    • Cachanosky: no. Plantea que el modelo es destructivo del capital social y no puede
+      mantenerse sin consecuencias estructurales.
+    • Panelista 2: coincide parcialmente. Advierte sobre los límites financieros (crédito, tasa,
+      inflación) aunque no lo cuestiona éticamente.
+    • Panelista 1: tiende a sostenerlo como medida necesaria, aunque sugiere que necesita
+      acompañamiento político.
+Recursos retóricos:
+    • Panelista 2: metáfora de “la manta corta” para ilustrar el conflicto de intereses entre
+      inflación, dólar y tasas.
+    • Panelista 3: desplaza el eje hacia la subjetividad del poder (“egos, vehemencia”),
+      desdramatizando la técnica.
+Operaciones semióticas:
+    • El “ajuste” se presenta como rito sacrificial: doloroso pero inevitable.
+    • Se moviliza una narrativa religiosa del sacrificio a futuro: el padecimiento hoy, el orden
+      mañana.
+
+
+� 3. ¿Cómo se construye poder?
+Posiciones diferenciadas:
+    • Conductor y Panelista 3: sostienen que el gobierno adopta una estrategia de “confrontación
+      sin negociación”, para acumular poder de cara al futuro.
+    • Panelista 1: considera que el poder debe articularse con mediación institucional.
+    • Panelista 2: no interviene directamente en lo político, pero legitima un liderazgo fuerte y
+      decidido.
+Recursos retóricos:
+    • Panelista 3: introducción de la categoría “deseo político”.
+    • Conductor: uso de imágenes teatrales (“plantar bandera”, “no se negocia nada”).
+Operaciones semióticas:
+
+[[8]]
+• Se evidencia un conflicto entre dos formas de autoridad:
+
+           • Poder basado en representación democrática.
+           • Poder basado en imposición técnica del orden.
+    • El debate hace emerger el goce de la confrontación: Milei es valorado por su capacidad de
+      decir “no”.
+
+
+� 4. ¿Qué lugar ocupa el mercado?
+Posiciones diferenciadas:
+    • Todos lo invocan, ninguno lo representa.
+    • Cachanosky: se alinea con sus expectativas (“lo que el mercado ve…”).
+    • Conductor: menciona su decepción frente a la falta de negociaciones.
+    • Panelistas: lo usan como argumento externo que legitima o invalida políticas.
+Recursos retóricos:
+    • Lenguaje oracular: “el mercado espera”, “el mercado castiga”, “el mercado reacciona”.
+Operaciones semióticas:
+    • El mercado opera como amo espectral: no enuncia, pero estructura todos los enunciados.
+    • Funciona como un Otro absoluto, incuestionable, que distribuye sentido sin
+      responsabilizarse de él.
+    • Es fetichizado: no tiene cuerpo, pero todos lo obedecen.
+
+
+� 5. ¿Qué se dice (o no) sobre inflación y dólar?
+Posiciones diferenciadas:
+    • Panelista 4 (Camilo): informa un dato “positivo” de inflación (1,9% en julio), y suaviza las
+      proyecciones.
+    • Panelista 2: advierte que el atraso cambiario y la suba del dólar puede presionar los precios.
+    • Cachanosky: no lo aborda directamente, pero sugiere efectos secundarios graves por falta
+      de inversión y presión sobre los salarios.
+Recursos retóricos:
+    • Panelista 4: discurso cuantitativo, neutro, busca despolitizar el dato.
+    • Panelista 2: metáforas (“sube el dólar, se traslada”), discurso proyectivo y anticipatorio.
+Operaciones semióticas:
+    • La inflación aparece como síntoma silencioso: se mide pero no se interpreta.
+    • Lo no dicho: el padecimiento cotidiano, el cuerpo del pueblo, está excluido del debate.
+
+[[9]]
+5. Mapa de tensiones simbólicas
+En esta sección examinamos el debate no solo como una disputa temática o ideológica, sino como
+una escena estructurada por tensiones simbólicas que se inscriben en el lenguaje, el deseo y el
+goce. Estas tensiones se organizan en tres niveles: vertical, horizontal y estructural.
+
+
+� A. TENSIONES VERTICALES
+(Saber técnico vs. Subjetividad política | Racionalidad vs. Deseo)
+
+          Eje                               Descripción                         Actores en tensión
+                        El saber económico intenta estructurar el sentido      Panelistas 1, 2 y 4 vs.
+Saber técnico vs.
+                        desde indicadores y cifras; la política introduce lo   Panelista 3 y
+política subjetiva
+                        incontrolable del deseo, el ego, la vehemencia.        Conductor
+                                                                               Panelista 4 vs.
+Economía objetiva vs. El dato y la proyección son desbordados por la
+                                                                               Cachanosky y
+política performativa escena, la metáfora, la dramatización.
+                                                                               Conductor
+Ajuste necesario vs.
+                         Se habla de déficit, tasas y mercado, pero no de      Todos vs. el síntoma
+sufrimiento social no
+                         hambre, dolor o precariedad.                          silenciado
+dicho
+� Efecto: El saber técnico aparece como insuficiente frente a lo político real. Pero lo político
+también se desinfla al no poder simbolizar el malestar social que subyace al orden económico.
+
+
+� B. TENSIONES HORIZONTALES
+(Conflictos explícitos entre los sujetos del discurso)
+
+   Enfrentamiento             Núcleo de tensión                         Observación
+Cachanosky vs.          ¿Hay o no hay equilibrio       Debate entre contabilidad “pura” y
+Panelistas 1 y 2        fiscal?                        sostenibilidad material.
+Panelista 2 vs.         ¿Es viable seguir sin          Uno privilegia racionalidad financiera; el
+Panelista 3             negociar políticamente?        otro deseo político.
+                                                       El conductor representa al espectador
+                       ¿Qué papel tiene el público?
+Conductor vs. todos                                    irónico, que goza del espectáculo más que de
+                       ¿Qué goce se escenifica?
+                                                       la verdad.
+� Efecto: La escena funciona como un juego de máscaras: todos se confrontan, pero ningún
+antagonismo se cierra del todo. La tensión se recicla.
+
+
+� C. TENSIONES ESTRUCTURALES
+(Lo no dicho, el síntoma, el sujeto barrado)
+
+   Elemento omitido               Efecto simbólico                            Ejemplo
+Cuerpo social (pobreza, El ajuste es narrado sin cuerpo. Se    Ningún panelista describe cómo vive
+hambre, dolor)          oculta el sufrimiento concreto.        el pueblo el ajuste.
+Lo femenino y lo        No hay lugar para lo emocional         No hay mujeres, ni apelaciones al
+afectivo                fuera de lo irónico.                   cuidado o lo común.
+                        Se invoca, pero no se sabe qué         “El mercado espera…” sin definir
+Deseo del mercado
+                        quiere.                                qué desea ni a quién representa.
+
+[[10]]
+� Efecto: Lo estructural no está en lo dicho, sino en lo silenciado. Lo que no se puede nombrar (el
+sufrimiento, la angustia, la pérdida) constituye el núcleo sintomático del debate.
+
+
+� Tablas de codificación estructural
+� Discurso lacaniano por personaje:
+
+ Personaje    Discurso Lacaniano
+Conductor Histérico performativo
+Panelista 1 Universitario institucional
+Panelista 2 Amo técnico
+Panelista 3 Histérico reflexivo
+Panelista 4 Universitario neutral
+Cachanosky Histérico disruptivo
+El mercado Amo espectral
+
+� Modo de goce predominante:
+
+ Personaje                        Modo de gozar
+Conductor Gozar del espectáculo del desacuerdo
+Panelista 1 Gozar del saber que ordena
+Panelista 2 Gozar del límite, de la advertencia técnica
+Panelista 3 Gozar del relato, de leer lo no dicho
+Panelista 4 Gozar del dato como defensa frente al caos
+Cachanosky Gozar en desenmascarar al Otro
+El mercado Gozar desde el silencio, sin aparecer como responsable
+
+� Conclusión del mapa de tensiones
+Este mapa revela que el debate no puede ser leído como un simple intercambio racional. Es una
+escena en la que lo real del goce se filtra en cada grieta, desde el silencio del mercado hasta las
+metáforas del conductor. El síntoma, como resto no metabolizado del discurso económico, aparece
+como lo que no puede decirse pero insiste: la angustia social, la imposibilidad de nombrar al
+sujeto dañado por el ajuste.
+
+6. Análisis estructural: los cuatro discursos de Lacan en juego
+Lacan, en su Seminario XVII (El reverso del psicoanálisis), define cuatro estructuras de discurso
+que organizan la producción de sentido, el lazo social y las posiciones subjetivas: el discurso del
+Amo, el Universitario, el Histérico y el del Analista. Cada uno establece una relación entre cuatro
+elementos fundamentales:
+    • S1 (Significante Amo): lo que ordena y manda.
+    • S2 (Saber): el conjunto de conocimientos o datos.
+    • $ (Sujeto dividido): el sujeto del inconsciente, barrado, dividido por el lenguaje.
+    • a (Objeto a): resto de goce, aquello que no se simboliza.
+
+[[11]]
+A continuación aplicamos esta matriz teórica al corpus analizado, mostrando cómo cada personaje
+ocupa una posición estructural en uno o más discursos. También examinamos movimientos
+discursivos, contradicciones y desplazamientos.
+
+
+� A. Ubicación de cada personaje en los discursos
+                   Discurso
+ Personaje                                                Posición estructural
+                  dominante
+                                $ → S1. Denuncia al Otro (el Estado, el gasto) como
+           Histérico
+Cachanosky                      inconsistente. Interpela desde el saber pero goza en el
+           combativo
+                                desmentido.
+            Universitario       S2 → a. Ofrece saber para ordenar. Busca reabsorber el goce con
+Panelista 1
+            moderado            técnica.
+                                S1 → S2. Emite decisiones, alerta límites. Su palabra manda, con
+Panelista 2 Amo técnico
+                                fundamentos.
+                                $ → S1. Interroga el deseo político. No busca solución sino
+Panelista 3 Histérico reflexivo
+                                apertura del sentido.
+            Universitario       S2 → a. El dato reemplaza al sujeto. Calcula, predice, sin hablar
+Panelista 4
+            neutral             del goce.
+            Histérico           $ → S1. Provoca, pero no responde. Escenifica el conflicto como
+Conductor
+            performativo        valor en sí mismo.
+                                S1 silencioso. Ordena sin hablar. Es el Otro absoluto: todos le
+El mercado Amo espectral
+                                responden, él a nadie.
+
+� B. Movimientos entre discursos
+    1. Cachanosky se presenta como técnico, pero rápidamente deriva en el histérico que goza en
+       señalar el “engaño” del equilibrio fiscal. Su goce está en desautorizar a quienes sostienen el
+       sistema.
+    2. El conductor, si bien parece mediador, organiza la escena desde la histeria: mantiene el
+       conflicto vivo, no busca síntesis.
+    3. Panelistas técnicos (1 y 4) oscilan entre el discurso universitario puro y una defensa
+       implícita del Amo (la estructura como garante de orden).
+    4. El mercado es el gran desplazado estructural: en apariencia es exterior, pero en la lógica del
+       discurso capitalista, ocupa el lugar del goce imposible.
+
+
+� C. El metadiscurso dominante: el discurso capitalista (en clave lacaniana)
+Lacan advierte que, a diferencia de los otros discursos, el discurso capitalista invierte las
+posiciones del saber y del goce, produciendo un lazo social que borra el límite simbólico. En él:
+    • El sujeto se pone directamente al servicio del objeto a (goce, mercancía).
+    • El saber no media ni ordena: se pone al servicio de la acumulación.
+    • Se evita la falta: se promete satisfacción plena.
+
+[[12]]
+En el debate, este discurso aparece como marco invisible que sostiene todos los otros. Aun cuando
+hay crítica, la estructura de base —la economía como totalidad técnica, el mercado como medida
+última— no se cuestiona verdaderamente.
+
+
+� D. Ilustración esquemática (texto)
+Discurso del Amo (Panelista 2 / Mercado):
+
+
+S1 → S2
+$    a
+
+“El orden económico se impone con autoridad técnica.”
+
+Discurso del Universitario (Panelistas 1 y 4):
+
+
+S2 → a
+$   S1
+
+“El saber organiza el caos. El dato es la verdad.”
+
+Discurso del Histérico (Cachanosky / Panelista 3 / Conductor):
+
+
+$ → S1
+a    S2
+
+“Algo no anda. ¿Quién es el responsable? ¿Qué desea el poder?”
+
+Discurso del Capitalista (Estructura total del panel):
+
+
+$ → a
+S1    S2 revisar
+
+“El sujeto se conecta directo al objeto: sin límite, sin mediación.”
+
+
+� Conclusión: El goce organiza más que el argumento
+Este análisis muestra que lo que organiza la escena no es un conflicto de ideas sino una
+estructura de discurso, donde el goce circula como operador central. Algunos gozan en saber,
+otros en desmentir, otros en representar el conflicto, y el mercado goza en no responder.
+Lejos de ser irracional, este juego responde a una lógica precisa. El sujeto del discurso
+contemporáneo no busca la verdad, sino el modo más efectivo de sostener su goce —incluso
+cuando ese goce sea sufriente, sacrificial o cínico.
+
+7. Conclusión: el espectáculo del síntoma contemporáneo
+A lo largo de este análisis hemos examinado un dispositivo mediático de debate económico no solo
+como una escena de intercambio de ideas, sino como un campo estructurado por discursos, goce
+y poder. El caso analizado —una confrontación entre Roberto Cachanosky y varios panelistas— no
+
+[[13]]
+se limita a un desacuerdo técnico sobre el equilibrio fiscal o el modelo de ajuste: se trata, más bien,
+de una lucha simbólica por el sentido y la legitimación de un nuevo orden subjetivo.
+
+
+� La escena mediática como forma de subjetivación política
+El programa no es un simple reflejo de lo político; es en sí mismo una máquina de producción de
+subjetividades. A través del espectáculo, los sujetos se posicionan en relación con el saber, el deseo
+y la autoridad. El conductor, con su dramatización, encarna al sujeto histérico que goza del conflicto.
+Los panelistas técnicos, desde el discurso universitario, buscan restituir un orden racional frente a la
+descomposición simbólica. Cachanosky, como histérico disruptivo, denuncia el engaño estructural
+del sistema. Pero todos, incluso desde posiciones opuestas, forman parte de una misma
+estructura: la del discurso capitalista.
+
+
+� El mercado como fetiche simbólico
+“El mercado” opera como un significante absoluto: todos lo invocan, nadie lo encarna. Se habla en
+su nombre, se teme su juicio, se lo presenta como el sujeto del deseo económico, pero no se le
+puede preguntar qué quiere. El mercado es, en este sentido, el Amo espectral de nuestro tiempo: no
+necesita hablar para ordenar los discursos. Su poder radica en su silenciosa omnipresencia.
+Este funcionamiento lo convierte en un fetiche simbólico en el sentido marxista-lacaniano: un
+objeto investido de poder trascendente que oculta las relaciones reales de producción y goce. La
+sujeción a “lo que el mercado espera” reemplaza la deliberación democrática por una lógica casi
+religiosa de obediencia.
+
+
+� El saber técnico como escudo del malestar
+El discurso universitario —representado por los panelistas técnicos— intenta restituir sentido
+mediante cifras, proyecciones y explicaciones. Pero ese saber, lejos de curar el malestar, lo
+encapsula. La inflación, el dólar, el déficit, la deuda, se convierten en objetos de cálculo, sin cuerpo
+ni historia. El pueblo aparece solo como “gasto”, “pasivo”, “costo laboral”. El sufrimiento social es
+recodificado como variable técnica. Así, el saber funciona como un escudo contra la angustia:
+permite hablar sin decir, escuchar sin oír.
+
+
+� El goce como motor del debate, más que la verdad
+El debate no está orientado por la búsqueda de verdad, sino por la producción de goce. Cada sujeto
+encuentra allí un modo de sostener su posición libidinal: el que goza en denunciar, el que goza en
+explicar, el que goza en interrumpir, el que goza en representar el juicio invisible del mercado. Este
+goce no es un exceso accidental: es el motor estructural de la escena.
+Este goce no es libre ni inocente. Está ordenado por una lógica política: quien define qué se goza,
+cómo se goza y a costa de quién, controla la producción simbólica del mundo.
+
+[[14]]
+� Posibilidades para pensar el lazo social desde esta escena
+El análisis del dispositivo mediático nos devuelve una pregunta central para la teoría crítica y el
+psicoanálisis político: ¿cómo pensar un lazo social que no esté estructurado por el goce obsceno del
+sacrificio o del sometimiento al mercado?
+Una vía posible —inspirada en Lacan, Marx y el proyecto Kairos— consiste en asumir el síntoma
+como núcleo del lazo: no como falla a corregir, sino como verdad que insiste. El síntoma del
+discurso del capital no es la pobreza ni la desigualdad: es el hecho de que todo eso no puede ser
+dicho sin provocar angustia o cinismo.
+Tal vez, entonces, el punto no sea eliminar el síntoma, sino construir una escena donde pueda ser
+escuchado.
+
+[[15]]
+

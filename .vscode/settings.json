@@ -1,0 +1,10 @@
+{
+    "geminicodechat.env.windows": {
+        "PATH": "D:\\Escritorio\\Poyecto Tesis\\poppler-24.08.0\\Library\\bin"
+    },
+    "powershell.analysis.enable": true,
+    "powershell.analysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black"
+}

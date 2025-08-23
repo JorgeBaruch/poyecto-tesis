@@ -1,0 +1,1155 @@
+﻿[[1]]
+Investigación sobre la Concentración y Dis-
+tribución de la Tierra en Argentina, su Im-
+pacto y el Debate sobre la Renta No Ganada
+y su Gravamen
+Introducción: La Cuestión de la Tierra en Argentina: Un
+Desafío Estructural
+La distribución de la tierra en Argentina no es meramente una cuestión económica; constituye un
+desafío estructural con profundas implicaciones para el desarrollo económico, la equidad social,
+la sostenibilidad ambiental y la estabilidad política del país. Desde la época colonial, la tenencia
+de la tierra ha sido un foco de debate constante, una problemática que se ha perpetuado y trans-
+formado a lo largo de la historia, especialmente con la consolidación del modelo agroexportador
+alrededor de 1880 (Bandieri & Blanco, n.d.; Revistas USP, 2010). Este modelo, basado en la ex-
+plotación de recursos primarios, sentó las bases para la hegemonía de una oligarquía terrateniente
+que ha mantenido una influencia considerable en la configuración socioeconómica nacional (Re-
+vistas USP, 2010).
+En la actualidad, la concentración de la tierra no solo se mantiene, sino que se agudiza, manifes-
+tándose en la desaparición de pequeñas y medianas explotaciones agropecuarias y en una cre-
+ciente "extranjerización" de vastas extensiones de territorio. Este fenómeno tiene consecuencias
+directas sobre la producción de alimentos, el vaciamiento rural, la precarización laboral y los
+conflictos por el acceso a recursos naturales (Aranda, 2020; Argentina.gob.ar, 2023; Revistas
+USP, 2010; Kaos en la Red, n.d.; INIBIOMA CONICET, 2020).
+El presente informe tiene como objetivo principal proporcionar un análisis exhaustivo de estas
+dinámicas. Se profundizará en las tendencias actuales de concentración y extranjerización, sus
+causas y sus múltiples impactos. Asimismo, se explorará el concepto económico de la "renta no
+ganada de la tierra", su relevancia en el contexto argentino y las diversas propuestas para su gra-
+vamen. La estructura del informe guiará al lector a través de un diagnóstico detallado, un análisis
+de los impactos, una discusión teórica y práctica sobre la renta de la tierra, y finalmente, una eva-
+luación de las propuestas de política pública.
+
+I. Concentración y Distribución de la Tierra en Argentina:
+Diagnóstico y Tendencias
+1.1. Panorama Actual de la Concentración (Censo Agropecuario 2018 y Re-
+NaZEPA)
+El panorama de la concentración de la tierra en Argentina revela una tendencia sostenida y acele-
+rada hacia la consolidación de grandes propiedades en detrimento de las pequeñas y medianas
+explotaciones. Los datos del Censo Agropecuario de 2018 son elocuentes: el 1% de las explota-
+ciones agropecuarias (EAPs) concentra el 36% de la tierra productiva del país (Aranda, 2020).
+
+[[2]]
+Esta desproporción subraya una estructura agraria altamente desigual, donde una minoría contro-
+la una parte sustancial del recurso más vital.
+Esta concentración se ha manifestado en una drástica reducción del número de EAPs. Entre 2002
+y 2018, el país experimentó la desaparición del 25.5% de sus explotaciones agropecuarias, lo que
+se traduce en 83.870 explotaciones menos (Melo, 2021). Si se extiende la comparación al censo
+de 1988, la contracción es aún más pronunciada, con una disminución del 41.5% de las "chacras"
+en solo treinta años (Aranda, 2020; Melo, 2021). Esta disminución no es un fenómeno aislado,
+sino que se correlaciona con un aumento del 16% en la superficie media de las explotaciones res-
+tantes, que pasó de 587 a 681 hectáreas, una búsqueda de economías de escala que favorece a los
+actores de mayor tamaño (Melo, 2021).
+La transformación de la estructura agraria se observa también en la creciente participación de
+personas jurídicas. Si bien el 84% de las EAPs aún pertenecen a personas físicas, el 11% contro-
+lado por sociedades anónimas gestiona un "fenomenal" 39% de la superficie productiva total, un
+incremento significativo desde 2002 (Melo, 2021). Esta evolución indica una profundización del
+modelo de producción capitalista en el sector agropecuario. Las explotaciones de menor escala, a
+menudo de base familiar, son sistemáticamente desplazadas por operaciones más grandes y capi-
+tal-intensivas, que priorizan la eficiencia corporativa sobre la equidad social y las formas tradi-
+cionales de producción. Esta dinámica conduce a una proletarización rural y a la migración, con
+la consecuente pérdida de conocimientos agrícolas tradicionales, patrimonio cultural y diversidad
+en los sistemas alimentarios locales.
+El Relevamiento Nacional de Zonas Estratégicas de Producción de Alimentos (ReNaZEPA) de
+2023 complementa estos datos, identificando 48.242 parcelas en 15 zonas estratégicas, con un
+estimado de 30.000 unidades productivas (Argentina.gob.ar, 2023). Un aspecto preocupante de
+este relevamiento es que el 57.3% de las unidades productivas encuestadas acceden a la tierra
+mediante arrendamiento, y de estos, un 39.3% se realiza sin ningún tipo de contrato formal (Ar-
+gentina.gob.ar, 2023). Esta alta prevalencia de arrendamientos precarios y la falta de formaliza-
+ción contractual generan una considerable inestabilidad y vulnerabilidad para los productores
+directos. Esta precarización de la tenencia desincentiva las inversiones a largo plazo en mejoras
+del suelo, la adopción de prácticas agrícolas sostenibles y el desarrollo de comunidades rurales
+robustas. Además, pone de manifiesto cómo la propiedad de la tierra puede generar ingresos sus-
+tanciales (renta) para los grandes propietarios sin que estos realicen un esfuerzo productivo di-
+recto o asuman riesgos operativos, alimentando así el debate sobre la renta no ganada y la nece-
+sidad de su gravamen.
+Otro indicador de esta desconexión entre propiedad y producción es que solo el 46% de los pro-
+ductores viven en el campo, y el censo de 2018 reportó 75.193 viviendas deshabitadas en las ex-
+plotaciones (Aranda, 2020; Argentina.gob.ar, 2023). Esta situación no solo refleja el vaciamiento
+de las zonas rurales, sino también la creciente tendencia a considerar la tierra como un activo fi-
+nanciero o una inversión especulativa, más que como un medio de vida y un espacio para el
+desarrollo comunitario.
+La siguiente tabla sintetiza las principales tendencias de concentración de la tierra en Argentina:
+Tabla 1: Concentración de la Tierra en Argentina (1988-2018)
+
+[[3]]
+% Super-
+                                                                   ficie Pro-
+     Total de Ex- Disminución               % Tierra    Superficie             % EAPs      % UP con Arren-
+                                Disminución                        ductiva
+     plotaciones % (respecto                Concentrada Media                  con         damiento Precario
+Año                             % (respecto                        Controlada
+     Agropecuarias a censo an-              por el 1% por EAP                  Productores (ReNaZEPA
+                                a 1988)                            por Perso-
+     (EAPs)        terior)                  de EAPs     (ha)                   Residentes 2023)
+                                                                   nas Jurídi-
+                                                                   cas
+1988 N/A           N/A          0%          N/A         N/A        N/A         N/A         N/A
+                   20% (vs
+                                20% (IADE,              587 (Me-
+2002 N/A           1988)                    N/A                    N/A         N/A         N/A
+                                n.d.)                   lo, 2021)
+                   (IADE, n.d.)
+                   25.5% (vs
+                                41.5% (vs
+                   2002) (Ar-               36% (Aran- 681 (Me- 39% (Me- 46% (Ar- 57.3% (Argenti-
+2018 N/A                        1988) (Ar-
+                   anda, 2020;              da, 2020) lo, 2021) lo, 2021) anda, 2020) na.gob.ar, 2023)
+                                anda, 2020)
+                   Melo, 2021)
+Exportar a Hojas de cálculo
+1.2. Evolución Histórica del Latifundio y la Propiedad de la Tierra
+La concentración de la tierra en Argentina tiene sus raíces en el proceso de formación del Estado
+nacional tras la disolución del Virreinato del Río de la Plata, y ha sido un tema de debate cons-
+tante desde entonces (Bandieri & Blanco, n.d.). La estructura agraria del país se forjó sobre la
+base del latifundio, un sistema de grandes propiedades que se consolidó alrededor de 1880 (Re-
+vistas USP, 2010). En este período, la "oligarquía terrateniente argentina" afianzó su poder y he-
+gemonía, sentando las bases de un modelo agroexportador que se convertiría en el principal mo-
+tor de acumulación capitalista del país (Bandieri & Blanco, n.d.; Revistas USP, 2010).
+Durante gran parte de los siglos XIX y XX, la producción agraria fue el sostén fundamental de la
+economía argentina, con un peso preponderante en la provisión de divisas, incluso durante las
+etapas de industrialización por sustitución de importaciones. Esta centralidad del sector agrope-
+cuario en la economía nacional, sin embargo, estuvo intrínsecamente ligada a una estructura de
+propiedad de la tierra altamente concentrada.
+Los debates académicos y políticos de las décadas de 1960 y 1970, por ejemplo, se centraron en
+la relación entre el "terrateniente rentista" y el "chacarero arrendatario" en la Pampa Húmeda,
+evidenciando las dinámicas de poder y las tensiones inherentes a este modelo. Las interpretacio-
+nes tradicionales, aunque hoy superadas, sostenían que el arrendamiento como forma de tenencia
+no estimulaba la inversión tecnológica, lo que se consideraba un obstáculo para el crecimiento
+agrícola sostenido (Bandieri & Blanco, n.d.).
+La persistencia de este modelo a lo largo de la historia ha generado una profunda dependencia en
+la estructura agraria argentina. La consolidación de la oligarquía terrateniente y la centralidad del
+agro-exportador han creado un camino de desarrollo económico que, si bien ha generado riqueza,
+también ha perpetuado la desigualdad en la distribución de la tierra y sus beneficios. Esta trayec-
+toria histórica implica que la concentración actual no es un mero resultado de fuerzas de mercado
+recientes, sino una manifestación de un problema estructural profundamente arraigado. Las polí-
+ticas agrarias y las reformas han enfrentado, y continúan enfrentando, la inercia histórica y los
+intereses arraigados de los grandes propietarios, que han demostrado una notable capacidad de
+resistencia a cambios sustanciales. El "terrateniente rentista" no es solo un actor económico;
+
+[[4]]
+representa una clase histórica poderosa que ha moldeado la trayectoria del desarrollo nacional y
+sigue influyendo en las decisiones políticas.
+1.3. Extranjerización de la Tierra: Alcance y Casos Emblemáticos
+La extranjerización de la tierra en Argentina es un tema de alta sensibilidad, directamente vincu-
+lado a la soberanía nacional y al control de recursos estratégicos. En 2011, la Ley de Tierras (Ley
+26.737) fue promulgada con el objetivo de establecer un límite del 15% a la titularidad de domi-
+nio o posesión de tierras rurales por parte de extranjeros a nivel nacional, provincial y municipal
+(Diario Chaco, 2024; Argentina.gob.ar, 2022). Según datos oficiales de abril de 2022, ninguna
+provincia superaba dicho porcentaje (Argentina.gob.ar, 2022). Sin embargo, la reciente deroga-
+ción de esta ley mediante un Decreto de Necesidad y Urgencia (DNU) por parte del actual go-
+bierno en diciembre de 2023 ha "abierto las puertas" a una mayor "extranjerización" de la tierra
+(Diario Chaco, 2024; Kaos en la Red, n.d.).
+Una perspectiva más amplia indica que aproximadamente el 40% del territorio argentino, equiva-
+lente a 65 millones de hectáreas, se encuentra en manos de solo 1.200 terratenientes, una porción
+significativa de la cual es de propiedad extranjera (Landportal, 2021). Esta cifra global contrasta
+con los límites provinciales reportados, sugiriendo una posible subestimación de la extranjeriza-
+ción real debido a la opacidad de las estructuras de propiedad.
+Entre los casos más emblemáticos de grandes terratenientes extranjeros se destacan:
+      High Luck Group Argentina: Una compañía de origen chino, subsidiaria de New Ti-
+       mes Energy Corporation Limited (Hong Kong), dedicada a la extracción de petróleo cru-
+       do y gas natural, que posee 1.148.000 hectáreas (Diario Chaco, 2024).
+      Grupo Benetton (Edizione S.r.l.): Liderado por el empresario italiano Luciano Benet-
+       ton, es el mayor terrateniente extranjero en Argentina, controlando 920.000 hectáreas en
+       Chubut, Santa Cruz, Río Negro y Buenos Aires, destinadas principalmente a la cría de
+       ovejas (Diario Chaco, 2024). Este grupo adquirió la Compañía Tierras del Sud en 1991
+       (Agencia Tierra Viva, 2025) y ha sido objeto de acusaciones por conflictos con comuni-
+       dades Mapuche que reclaman la restitución de sus territorios ancestrales (Agencia Tierra
+       Viva, 2025).
+      Arauco: Una empresa forestal chilena que opera 264.334 hectáreas en Misiones, Buenos
+       Aires, Entre Ríos y Santa Fe (Diario Chaco, 2024). Ha sido denunciada por deforestación
+       de bosques nativos para el monocultivo de pino y eucalipto, y por vulneración de dere-
+       chos del pueblo indígena Mbya Guaraní (Agencia Tierra Viva, 2025).
+      Joe Lewis: Magnate inglés, propietario del club Tottenham, que posee más de 11.000
+       hectáreas alrededor del Lago Escondido en Río Negro (Kaos en la Red, n.d.; Kaos en la
+       Red, n.d.). Ha estado involucrado en una prolongada disputa legal por restringir el acceso
+       público al lago (Kaos en la Red, n.d.).
+      Abdulhadi Mana Al-Hajri: Nacional catarí, propietario del exclusivo complejo de esquí
+       Baguales, cercano al lago Guillelmo (Kaos en la Red, n.d.).
+La derogación de la Ley de Tierras en diciembre de 2023 representa un cambio de política que
+podría acelerar la extranjerización, con potenciales consecuencias en el control de recursos natu-
+rales estratégicos como el agua, los minerales y los bosques, así como en la producción agrícola
+a gran escala (Diario Chaco, 2024). Esto plantea serias interrogantes sobre la soberanía nacional
+y la gestión sostenible de los recursos a largo plazo.
+
+[[5]]
+Una contradicción significativa se observa entre los datos oficiales agregados, que indican que
+    ninguna provincia supera el 15% de extranjerización en abril de 2022 (Argentina.gob.ar, 2022), y
+    los datos específicos de algunos departamentos, que muestran porcentajes muy superiores al 50%
+    (por ejemplo, General Lamadrid en La Rioja con 57%, Lácar en Neuquén con 53%, y Campana
+    en Buenos Aires con 50.7% en 2021) (Landportal, 2021). Esta discrepancia se explica, en parte,
+    por el uso de "maniobras fraudulentas" como la triangulación de fideicomisos y "hombres de pa-
+    ja" para ocultar la verdadera identidad de los inversores y eludir las leyes nacionales (Kaos en la
+    Red, n.d.). La opacidad en las estructuras de propiedad y el uso de paraísos fiscales, como se
+    menciona en relación con los fondos de inversión (Agencia Tierra Viva, 2025), dificultan la eva-
+    luación precisa de la extranjerización y la aplicación efectiva de políticas regulatorias.
+    Además, la adquisición de tierras por parte de capitales extranjeros, especialmente aquellos vin-
+    culados a industrias extractivistas o agronegocios a gran escala, a menudo se asocia con impor-
+    tantes costos sociales y ambientales. Los casos de Benetton y Arauco ilustran cómo estas exten-
+    sas propiedades pueden generar acusaciones de violaciones de derechos humanos, deforestación
+    masiva y conflictos persistentes con comunidades indígenas y campesinas, que a menudo resul-
+    tan en desplazamiento y criminalización (Kaos en la Red, n.d.; Agencia Tierra Viva, 2025). La
+    presencia de "fuerzas represoras contratadas por los nuevos propietarios" y una "creciente milita-
+    rización" en algunas regiones (Kaos en la Red, n.d.) evidencian la dimensión coercitiva de estos
+    conflictos, donde los intereses privados de capitales concentrados prevalecen sobre los derechos
+    locales, la protección ambiental y el bienestar social.
+    Los fondos de inversión agrícola se han multiplicado por 10 entre 2005 y 2018, y los inversores
+    han duplicado sus participaciones en tierras agrícolas desde la pandemia (IPS Noticias, 2024).
+    Casi el 45% de todas las inversiones en tierras agrícolas en 2018, por un valor aproximado de
+    15.000 millones de dólares, provinieron de fondos de pensiones y compañías de seguros (IPS
+    Noticias, 2024). Para 2023, se contaban 960 fondos activos especializados en activos alimenta-
+    rios y agrícolas, gestionando más de 150.000 millones de dólares (Agencia Tierra Viva, 2025).
+    Las siguientes tablas ilustran la magnitud de la concentración y extranjerización de la tierra en
+    Argentina:
+    Tabla 2: Principales Terratenientes y Corporaciones con Tierras en Argentina (Hectáreas)
+                                                                      Provin-
+                                           Hectáreas
+        Nombre del Pro-                               Actividad Prin- cias de Controver-
+Ranking                 Origen             (en Argen-
+        pietario/Grupo                                cipal/Sector    Operaci sias/Acusaciones Clave
+                                           tina)
+                                                                      ón
+                                           1.148.000                  Salta
+                                                      Extracción de
+         High Luck Group                   (Diario                    (Diario
+1                        China                        petróleo y gas          N/A
+         Argentina                         Chaco,                     Chaco,
+                                                      natural
+                                           2024)                      2024)
+                                                                      Chubut,
+                                                                      Santa
+                                           920.000                            Conflictos con comuni-
+                                                      Agropecuaria Cruz,
+         Grupo Benetton                    (Diario                            dades Mapuche por tie-
+2                            Italia                   (cría de ovejas Río Ne-
+         (Edizione S.r.l.)                 Chaco,                             rras ancestrales (Agen-
+                                                      para lana)      gro,
+                                           2024)                              cia Tierra Viva, 2025)
+                                                                      Buenos
+                                                                      Aires
+
+[[6]]
+Provin-
+                                      Hectáreas
+        Nombre del Pro-                          Actividad Prin- cias de Controver-
+Ranking                 Origen        (en Argen-
+        pietario/Grupo                           cipal/Sector     Operaci sias/Acusaciones Clave
+                                      tina)
+                                                                  ón
+                                                                  (Diario
+                                                                  Chaco,
+                                                                  2024;
+                                                                  Agencia
+                                                                  Tierra
+                                                                  Viva,
+                                                                  2025)
+                                      573.000                     N/A
+        Integra Lithium                          Energía, medios
+                                      (Diario                     (Diario
+3       (José Luis Man-   Argentina              de comunica-              N/A
+                                      Chaco,                      Chaco,
+        zano)                                    ción, litio
+                                      2024)                       2024)
+                                                                  Santa
+                                                                  Cruz, La
+                                                                  Pampa,
+                                                                  Entre
+                                                                  Ríos,
+                                                                  Santa
+                                                                  Fe, Cór-
+                                                                           Acusaciones de super-
+                                      538.822                     doba,
+                                                                           posición con territorios
+        Cresud S.A. (Ed-              (Diario    Agroindustrial e San
+4                        Argentina                                         Wichí en Gran Chaco
+        uardo Elsztain)               Chaco,     inmobiliaria     Luis,
+                                                                           (Agencia Tierra Viva,
+                                      2024)                       Mendo-
+                                                                           2025)
+                                                                  za, Cha-
+                                                                  co, Ca-
+                                                                  tamarca,
+                                                                  Salta
+                                                                  (Diario
+                                                                  Chaco,
+                                                                  2024)
+                                      404.098                     San Juan
+                                                 N/A (propiedad            Proceso judicial por ac-
+        Estomonte                     (Diario                     (Diario
+5                         Suiza                  en proceso judi-          ción de deslinde (Diario
+        A.G.S.A.                      Chaco,                      Chaco,
+                                                 cial)                     Chaco, 2024)
+                                      2024)                       2024)
+                                                                  Mendo-
+                                      328.400
+                                                                  za (Dia-
+                                      (Diario    N/A (Estancia
+6       Sominar S.A.      Argentina                               rio Cha- N/A
+                                      Chaco,     El Sosneado)
+                                                                  co,
+                                      2024)
+                                                                  2024)
+                                      320.000                     Neu-
+                                                 Petróleo, gas y
+7       Pluspetrol        Argentina   (Diario                     quén,    N/A
+                                                 litio
+                                      Chaco,                      Norte de
+
+[[7]]
+Provin-
+                                   Hectáreas
+        Nombre del Pro-                       Actividad Prin- cias de Controver-
+Ranking                 Origen     (en Argen-
+        pietario/Grupo                        cipal/Sector     Operaci sias/Acusaciones Clave
+                                   tina)
+                                                               ón
+                                   2024)                       Argenti-
+                                                               na (Dia-
+                                                               rio Cha-
+                                                               co,
+                                                               2024)
+                                                               Patago-
+                                                               nia,
+                                   293.000
+                                              Agroganadera Buenos
+        Grupo Pérez-               (Diario
+8                       Argentina             (ovino, vacuno), Aires     N/A
+        Companc                    Chaco,
+                                              alimentos        (Diario
+                                   2024)
+                                                               Chaco,
+                                                               2024)
+                                                               Misio-
+                                                               nes,
+                                                               Buenos
+                                                               Aires,
+                                                               Entre
+                                   264.334                     Ríos,     Deforestación, conflic-
+                                   (Diario                     Santa Fe tos con pueblo Mbya
+9       Arauco S.A.     Chile                 Forestal
+                                   Chaco,                      (Diario Guaraní (Agencia Tierra
+                                   2024)                       Chaco, Viva, 2025)
+                                                               2024;
+                                                               Agencia
+                                                               Tierra
+                                                               Viva,
+                                                               2025)
+                                                               Buenos
+                                                               Aires,
+                                                               La Pam-
+                                                               pa, Entre
+                                   260.000
+                                              Agropecuaria Ríos,
+                                   (Diario
+10      Grupo Los Grobo Argentina             (producción      Santa     N/A
+                                   Chaco,
+                                              agrícola)        Fe, Cór-
+                                   2024)
+                                                               doba
+                                                               (Diario
+                                                               Chaco,
+                                                               2024)
+                                                               Buenos
+                                   217.810
+                                                               Aires,
+                                   (Diario    Agrícola y ali-
+11      Adecoagro       Luxemburgo                             Corrien- N/A
+                                   Chaco,     mentario
+                                                               tes,
+                                   2024)
+                                                               Formo-
+
+[[8]]
+Provin-
+                                     Hectáreas
+        Nombre del Pro-                         Actividad Prin- cias de Controver-
+Ranking                 Origen       (en Argen-
+        pietario/Grupo                          cipal/Sector     Operaci sias/Acusaciones Clave
+                                     tina)
+                                                                 ón
+                                                                 sa, Salta,
+                                                                 Santa
+                                                                 Fe, San-
+                                                                 tiago del
+                                                                 Estero
+                                                                 (Diario
+                                                                 Chaco,
+                                                                 2024)
+                                     212.429                     Jujuy
+                                     (Diario    Caña de azúcar, (Diario
+12      Ledesma S.A.A.I. Argentina                                          N/A
+                                     Chaco,     papel            Chaco,
+                                     2024)                       2024)
+                                                                 Córdo-
+                                                                 ba, San-
+                                     200.000
+                                                Producción de ta Fe,
+                                     (Diario
+13      Grupo AGD        Argentina              aceites, cerea- San Luis N/A
+                                     Chaco,
+                                                les, oleaginosas (Diario
+                                     2024)
+                                                                 Chaco,
+                                                                 2024)
+                                                                 La Pam-
+                                                                 pa, Bue-
+                                                                 nos Ai-
+                                                                 res, En-
+                                     150.000-
+                                                                 tre Ríos,
+                                     180.000 Agropecuario
+        Lartirigoyen y                                           Santa
+14                       Argentina   (Diario    (cereales, ga-              N/A
+        CÍA                                                      Fe, Cór-
+                                     Chaco,     nadería)
+                                                                 doba,
+                                     2024)
+                                                                 Salta
+                                                                 (Diario
+                                                                 Chaco,
+                                                                 2024)
+                                     176.000                     Chubut
+        Familia Ochoa-               (Diario    N/A (Estancia (Diario
+15                       N/A                                                N/A
+        Paz                          Chaco,     Tecka Lodge) Chaco,
+                                     2024)                       2024)
+                                                Agropecuario
+                                     172.195                     N/A
+                                                (trigo, maíz,
+                                     (Diario                     (Diario
+16      Grupo MSU        Argentina              soja, girasol,              N/A
+                                     Chaco,                      Chaco,
+                                                cebada, maní),
+                                     2024)                       2024)
+                                                energía
+17      El Palauco       N/A         170.000 N/A (condomin- Mendo- N/A
+
+[[9]]
+Provin-
+                                         Hectáreas
+        Nombre del Pro-                             Actividad Prin- cias de Controver-
+Ranking                 Origen           (en Argen-
+        pietario/Grupo                              cipal/Sector    Operaci sias/Acusaciones Clave
+                                         tina)
+                                                                    ón
+                                         (Diario    io indiviso)    za (Dia-
+                                         Chaco,                     rio Cha-
+                                         2024)                      co,
+                                                                    2024)
+                                                                    Mendo-
+                                         145.460
+                                                                    za (Dia-
+          Nieves de Men-                 (Diario    Centro de esquí
+18                           N/A                                    rio Cha- N/A
+          doza S.A.                      Chaco,     (Las Leñas)
+                                                                    co,
+                                         2024)
+                                                                    2024)
+                                                                    Buenos
+                                                                    Aires,
+                                                                    Santa
+                                         130.000                    Fe, San-
+                                         (Diario                    tiago del
+19        Grupo Duhau        Argentina              Agroganadera              N/A
+                                         Chaco,                     Estero,
+                                         2024)                      Chaco
+                                                                    (Diario
+                                                                    Chaco,
+                                                                    2024)
+                                                                    Chaco,
+                                                                    Formo-
+                                         105.397
+          Corporación                                               sa, Neu-
+                                         (Diario    Agroindustria,
+20        América (Eduardo Argentina                                quén      N/A
+                                         Chaco,     viñedos
+          Eurnekian)                                                (Diario
+                                         2024)
+                                                                    Chaco,
+                                                                    2024)
+     Exportar a Hojas de cálculo
+     Tabla 3: Porcentaje de Extranjerización de la Tierra por Provincia (2022) y Departamen-
+     tos Clave
+                % de Tierra en Manos Ex-      Departamentos con Alta    % de Extranjerización en
+     Provincia  tranjeras (Abril 2022) (Ar-   Extranjerización (2021)   Departamentos Clave
+                gentina.gob.ar, 2022)         (Landportal, 2021)        (Landportal, 2021)
+     Salta      11.56%                        N/A                       N/A
+     Misiones   11.07%                        N/A                       N/A
+     San Juan   10.48%                        N/A                       N/A
+     Catamarca 8.64%                          N/A                       N/A
+     Santa Cruz 8.11%                         N/A                       N/A
+     La Rioja   N/A                           General Lamadrid          57%
+     Neuquén    N/A                           Lácar                     53%
+     Buenos     N/A                           Campana                   50.7%
+
+[[10]]
+% de Tierra en Manos Ex-       Departamentos con Alta       % de Extranjerización en
+Provincia    tranjeras (Abril 2022) (Ar-    Extranjerización (2021)      Departamentos Clave
+             gentina.gob.ar, 2022)          (Landportal, 2021)           (Landportal, 2021)
+Aires
+Resto de
+            < 9.7%                          N/A                          N/A
+Provincias
+Exportar a Hojas de cálculo
+Nota: La discrepancia entre los porcentajes provinciales agregados y los de departamentos es-
+pecíficos puede deberse a la opacidad en las estructuras de propiedad y a métodos de recolec-
+ción de datos que no siempre capturan la totalidad del control extranjero.
+1.4. Desaparición de Pequeñas y Medianas Explotaciones Agropecuarias: Causas
+y Consecuencias
+La marcada disminución en el número de explotaciones agropecuarias en Argentina es un fenó-
+meno que refleja profundas transformaciones estructurales en el sector. Entre 2002 y 2018, el
+país perdió el 25.5% de sus EAPs, lo que se traduce en la desaparición de 83.870 explotaciones
+(Melo, 2021). Esta tendencia se acentúa al observar que, en un período de treinta años (desde
+1988), la pérdida asciende al 41.5% del total de chacras (Aranda, 2020; Melo, 2021). El Censo
+Nacional Agropecuario (CNA) de 2002 ya había dado cuenta de la desaparición de aproximada-
+mente el 20% de las explotaciones totales del país en relación al CNA de 1988 (IADE, n.d.).
+Las causas de esta contracción son múltiples y se entrelazan con políticas económicas y dinámi-
+cas de mercado. Una de las razones principales es la persistente falta de rentabilidad para los
+productores de menor escala, lo que los obliga a abandonar la actividad Este factor se ve exacer-
+bado por el aumento en la escala media de las explotaciones y una creciente concentración de la
+producción en manos de grandes productores y sociedades anónimas (Melo, 2021). La búsqueda
+de economías de escala, un fenómeno global, ha marginado a los actores más pequeños que no
+pueden competir en términos de eficiencia o acceso a capital.
+Históricamente, las políticas económicas han desempeñado un papel crucial en este proceso. Du-
+rante la dictadura militar (1976 en adelante), se desmantelaron las iniciativas destinadas a facili-
+tar el acceso a la tierra y a fortalecer la producción agropecuaria de pequeña y mediana escala.
+La interrupción de la asistencia financiera y el desmantelamiento de programas de colonización
+agraria debilitaron severamente la capacidad de los pequeños productores para mantenerse en
+operación (IADE, n.d.). Aunque los gobiernos democráticos posteriores (a partir de 1983) inten-
+taron revertir esta tendencia con instrumentos de crédito y tecnología, su impacto fue limitado en
+intensidad y duración (IADE, n.d.).
+La política económica de "Convertibilidad" en la década de 1990 intensificó la desregulación, lo
+que llevó a la disolución de organismos reguladores clave para las cadenas agropecuarias. Esta
+disolución subordinó aún más la producción de pequeña y mediana escala a los agentes econó-
+micos concentrados que dominan cada cadena (IADE, n.d.). Para mediados de los años 90, la
+desinversión, el endeudamiento financiero y la necesidad de cubrir gastos de consumo llevaron a
+la desaparición de una proporción significativa de estas explotaciones en todas las regiones (IA-
+DE, n.d.).
+La incapacidad de muchos pequeños y medianos agricultores para adoptar innovaciones tecnoló-
+gicas (como semillas transgénicas, siembra directa y uso intensivo de agroquímicos) debido a la
+
+[[11]]
+dificultad para obtener financiamiento de bancos comerciales y la ausencia de instrumentos de
+apoyo específicos, también contribuyó a su salida del sistema (IADE, n.d.). La disolución de la
+Junta Nacional de Granos, por ejemplo, eliminó políticas públicas como los "precios de sostén"
+que protegían a los pequeños productores de las grandes corporaciones comerciales y les garanti-
+zaban acceso a almacenamiento y transporte estatales (IADE, n.d.).
+Las consecuencias de la desaparición de estas explotaciones son profundas y multifacéticas. Se
+observa un vaciamiento rural, con menos habitantes viviendo en el campo y un aumento de vi-
+viendas deshabitadas en las explotaciones (Aranda, 2020; Argentina.gob.ar, 2023). Esto lleva a
+la migración campo-ciudad de la población joven en busca de educación y empleo, resultando en
+un envejecimiento de la población rural y procesos de desarticulación territorial y socioeconómi-
+ca (SciELO, n.d.; OPPAD, n.d.). La pérdida de pequeños productores también impacta directa-
+mente en la seguridad alimentaria, ya que el modelo productivo predominante se orienta hacia el
+monocultivo de exportación (como la soja), en detrimento de la producción de alimentos para el
+consumo interno (Aranda, 2020; Mengo, 2008; CLACSO, 2008). La expansión de la soja, en
+particular, ha desplazado otros cultivos y ha debilitado economías regionales que generaban em-
+pleo rural y producían una variedad de alimentos (Zeolla, n.d.).
+Este proceso de "agriculturización" o "sojización" de la producción agraria ha intensificado los
+conflictos sociales y ambientales en las zonas rurales       +
+Se ha observado un aumento de las disputas por la apropiación y uso de recursos como la tierra,
+el agua, los minerales y los bosques, así como por las consecuencias ambientales de la acción
+humana, como la contaminación y la deforestación (Revistas USP, 2010). Los despidos de técni-
+cos y extensionistas de la Secretaría de Agricultura Familiar, que acompañaban a las comunida-
+des campesinas e indígenas, iniciados en 2016 con más de 160 despidos y sumando 330 despidos
+actuales, consolidan un modelo productivo basado en la concentración económica y el acapara-
+miento de tierras, con un menosprecio reiterado hacia estos sectores.
+
+II. Impactos de la Concentración de la Tierra
+La concentración de la tierra en Argentina, lejos de ser un mero dato estadístico, genera una serie
+de impactos interconectados que afectan la estructura socioeconómica, el medio ambiente y la
+estabilidad política del país.
+2.1. Impacto Socioeconómico
+La concentración de la propiedad rural y la consecuente desaparición de pequeñas y medianas
+explotaciones han provocado un marcado vaciamiento de las zonas rurales. Los datos indican
+que solo el 46% de los productores viven en el campo, con 75.193 viviendas deshabitadas en las
+explotaciones, según el Censo Agropecuario 2018 (Aranda, 2020; Argentina.gob.ar, 2023). Este
+éxodo rural se traduce en una migración de la población joven hacia los centros urbanos en busca
+de educación y empleo, lo que a su vez genera un envejecimiento de la población remanente en
+el campo (SciELO, n.d.; OPPAD, n.d.). Este proceso de desarticulación territorial y socioeconó-
+mica afecta la vitalidad de las comunidades rurales y la transmisión de saberes tradicionales.
+Además, la concentración de la tierra está intrínsecamente ligada a un aumento de la desigualdad
+social y la exclusión (Revistas USP, 2010; CELS, 2018). Los pequeños productores que no pue-
+den competir en escala o rentabilidad son expulsados del sistema, lo que agrava la pobreza rural
+y la precarización laboral. La predominancia del arrendamiento, a menudo sin contratos formales
+(39.3% de los arriendos en 2023), deja a los productores en una posición de vulnerabilidad, limi-
+
+[[12]]
+tando su capacidad de inversión a largo plazo y su acceso a financiamiento o programas de apo-
+yo gubernamentales (Argentina.gob.ar, 2023; IADE, n.d.).
+Un efecto directo de esta dinámica es la pérdida de soberanía alimentaria. El modelo productivo
+dominante, impulsado por la concentración, se ha orientado hacia el monocultivo de exportación,
+principalmente soja, en detrimento de la producción de alimentos para el consumo interno
+(Aranda, 2020; Mengo, 2008; CLACSO, 2008). La expansión sojera, que vio un aumento siste-
+mático del PBI agro entre 1993 y 2010, multiplicándose 7 veces (Gras, n.d.), ha desplazado otros
+cultivos y ha debilitado las economías regionales que tradicionalmente generaban empleo y di-
+versificaban la oferta de alimentos. Esto no solo compromete la disponibilidad de alimentos va-
+riados y asequibles para la población local, sino que también genera una dependencia de los mer-
+cados internacionales y de un número reducido de corporaciones que controlan la cadena de va-
+lor (Zeolla, n.d.).
+2.2. Impacto Ambiental
+Las consecuencias ambientales de la concentración de la tierra son igualmente severas. La ex-
+pansión de los monocultivos a gran escala, como la soja, a menudo implica la deforestación de
+bosques nativos para ganar superficie cultivable (Revistas USP, 2010; Agencia Tierra Viva,
+2025). Esta práctica conlleva la pérdida irrecuperable de biodiversidad, la degradación del suelo
+y la alteración de los ciclos hídricos, lo que puede provocar inundaciones y desertificación (Re-
+vistas USP, 2010).
+El uso intensivo de agroquímicos asociado a los monocultivos genera contaminación de suelos y
+fuentes de agua, afectando tanto los ecosistemas como la salud de las comunidades rurales (Re-
+vistas USP, 2010). Un estudio específico, publicado en noviembre de 2020, señala cómo la ex-
+pansión del monocultivo de soja amenaza directamente la producción de miel en Argentina, un
+indicador de la afectación a la biodiversidad y los servicios ecosistémicos (INIBIOMA CONI-
+CET, 2020).
+Un fenómeno emergente es el denominado "acaparamiento verde" (green grabbing), impulsado
+por los mercados de carbono. Grandes corporaciones y fondos de inversión adquieren tierras, a
+menudo con bosques nativos, para proyectos de compensación de carbono, lo que, si bien se jus-
+tifica bajo una agenda ambiental, puede desplazar a comunidades locales y no necesariamente
+revertir la degradación ambiental, sino reconfigurarla bajo una lógica de mercado (Agencia Tie-
+rra Viva, 2025; IPS Noticias, 2024). Empresas como Arauco, por ejemplo, han sido señaladas
+por la deforestación de bosques nativos para plantaciones de pino y eucalipto, mientras emiten
+bonos "sostenibles" y gestionan proyectos de compensación de carbono (Agencia Tierra Viva,
+2025).
+2.3. Impacto Político y Geopolítico
+La concentración de la tierra y su extranjerización tienen profundas implicaciones políticas y
+geopolíticas. La derogación de la Ley de Tierras N° 26.737 en diciembre de 2023, que establecía
+límites a la propiedad extranjera, representa un debilitamiento de la capacidad regulatoria del Es-
+tado sobre un recurso estratégico (Diario Chaco, 2024; Argentina.gob.ar, n.d.). Esta medida, jun-
+to con la presencia de grandes corporaciones y fondos de inversión que controlan vastas exten-
+siones de tierra, incrementa el poder de estos actores económicos sobre las decisiones políticas y
+la agenda de desarrollo nacional (Agencia Tierra Viva, 2025; Melo, 2021).
+
+[[13]]
+Los conflictos por la tierra y los recursos son una manifestación recurrente de esta dinámica.
+Comunidades campesinas e indígenas, como los Mapuche y Mbya Guaraní, enfrentan el despla-
+zamiento y la criminalización en su lucha por la recuperación y defensa de sus territorios ances-
+trales, que a menudo se superponen con las propiedades de grandes terratenientes nacionales y
+extranjeros (Revistas USP, 2010; Kaos en la Red, n.d.; Agencia Tierra Viva, 2025). La presencia
+de "fuerzas represoras contratadas por los nuevos propietarios" y una "creciente militarización"
+en algunas regiones rurales (Kaos en la Red, n.d.) ilustra la dimensión de poder y coerción que
+acompaña la defensa de estos intereses privados.
+A nivel geopolítico, la extranjerización de la tierra plantea interrogantes sobre la soberanía na-
+cional, especialmente cuando el control de vastas extensiones de tierra, que incluyen recursos
+hídricos, minerales y forestales, pasa a manos de capitales externos (Diario Chaco, 2024; Kaos
+en la Red, n.d.). La opacidad en las estructuras de propiedad, con el uso de fideicomisos y "hom-
+bres de paja" para eludir las regulaciones (Kaos en la Red, n.d.), agrava este problema, dificul-
+tando la supervisión estatal y la rendición de cuentas. Esto puede llevar a que las decisiones so-
+bre el uso de la tierra y sus recursos se tomen en función de intereses globales, no necesariamen-
+te alineados con las necesidades y prioridades de desarrollo sostenible del país.
+
+III. La Renta No Ganada de la Tierra y su Gravamen
+El debate sobre la renta no ganada de la tierra y la posibilidad de su gravamen constituye un pilar
+fundamental en la discusión sobre la equidad y la eficiencia en la gestión de los recursos natura-
+les.
+3.1. Concepto y Fundamentos Teóricos de la Renta No Ganada
+En la teoría económica, la renta de la tierra se define como el pago por el uso de la tierra, un fac-
+tor de producción pasivo y fijo que no conlleva riesgos ni innovación, a diferencia del beneficio
+empresarial que surge del éxito de las operaciones. Esta distinción es crucial para comprender la
+naturaleza de la "renta no ganada", que se refiere a la parte de la renta bruta total atribuible a las
+condiciones naturales de fertilidad y localización de la tierra, o a mejoras comunitarias no reali-
+zadas por el propietario individual (Conesa, 2014; FasterCapital, n.d.).
+Los fundamentos teóricos de la renta de la tierra se remontan a los economistas clásicos como
+David Ricardo (principios del siglo XIX) y Karl Marx (siglo XIX) (Romero & Benchimol, n.d.;
+Caligaris, 2014).
+      Renta Diferencial (Ricardo y Marx): Surge de las diferencias en la productividad de la
+       tierra. La Renta Diferencial de Tipo I se explica por la variación en la fertilidad o ubi-
+       cación de las parcelas. Las tierras más fértiles o mejor ubicadas generan un plus de pro-
+       ductividad que se traduce en una ganancia extraordinaria, la cual, bajo la propiedad pri-
+       vada, se convierte en renta para el terrateniente (Romero & Benchimol, n.d.; Caligaris,
+       2017). El precio de los productos agrícolas se determina por el costo de producción en las
+       tierras menos fértiles o peor ubicadas, lo que permite a las tierras superiores obtener una
+       renta diferencial (Romero & Benchimol, n.d.; Caligaris, 2014). La Renta Diferencial de
+       Tipo II se asocia con las mejoras productivas resultantes de inversiones sucesivas de ca-
+       pital en una misma tierra. Aunque estas inversiones aumentan la productividad, la renta
+       generada sigue siendo una apropiación de la plusvalía derivada de la productividad supe-
+       rior de la tierra, no del capital invertido en sí mismo (Caligaris, 2014).
+
+[[14]]
+   Renta Absoluta (Marx): Se refiere a la renta que puede obtenerse incluso en las tierras
+       de peor calidad, debido al monopolio de la propiedad privada sobre la tierra (Caligaris,
+       2014; Caligaris, 2017; Astarita, 2014). Este monopolio permite al terrateniente exigir un
+       pago por el uso de la tierra, impidiendo la entrada de capitales al sector hasta que el pre-
+       cio de mercado sea lo suficientemente alto como para generar una renta, incluso en la tie-
+       rra marginal (Caligaris, 2014; Caligaris, 2017). En Argentina, la persistencia del latifun-
+       dio de origen feudal ha mantenido la importancia de la renta absoluta, permitiendo a los
+       grandes propietarios apropiarse de los beneficios de los cambios tecnológicos (PCR,
+       n.d.). Sin embargo, algunos análisis contemporáneos, como el de Rolando Astarita en
+       2014, sugieren que la renta absoluta podría estar disminuyendo en significancia debido al
+       desarrollo capitalista (Astarita, 2014).
+Desde una perspectiva marxista, el plusvalor que constituye la renta de la tierra, especialmente la
+renta diferencial, no proviene directamente del trabajo de los obreros agrarios, sino del conjunto
+de las ramas de la producción social. Esto ocurre porque el precio de mercado de los productos
+agrícolas se fija por el trabajo realizado en las peores condiciones, lo que implica que el trabajo
+más productivo en el sector se expresa a un "valor social falso" que no corresponde a su valor
+real. Los consumidores, mayoritariamente trabajadores, pagan precios inflados, lo que reduce el
+plusvalor que podrían producir en sus propias ramas, transfiriendo así riqueza a los terratenientes
+(Caligaris, 2014). Esta particularidad es central para entender el proceso de acumulación de capi-
+tal en Argentina.
+3.2. El Debate sobre su Gravamen en Argentina
+El gravamen de la renta de la tierra ha sido un conflicto estructural y centenario en la política ar-
+gentina. Las retenciones a las exportaciones, aplicadas por diferentes gobiernos, han sido una
+forma de capturar parte de esta renta, generando confrontación con los dueños de la tierra (Vega,
+2023). Un ejemplo notorio fue el conflicto agrario de marzo de 2008, originado por la Resolu-
+ción 125 que aplicaba retenciones móviles a la exportación de productos agropecuarios (Revistas
+USP, 2010).
+Actualmente, la presión impositiva sobre el sector agropecuario es significativa. Un análisis de
+junio de 2025 indica que, de cada $100 generados por una hectárea, el 63.6% se destina a im-
+puestos, el 26.6% a alquiler de la tierra y solo el 9.8% queda como ganancia para el productor
+(Agrofy News, 2025). Esta alta carga impositiva, aunque ha disminuido levemente en medicio-
+nes recientes (del 64.3% al 58% en la renta agrícola, según un informe trimestral de FADA de
+abril de 2025), sigue siendo un punto de tensión (Todo El Campo, 2025).
+En este contexto, el Impuesto al Valor de la Tierra Libre de Mejoras (LVT) ha sido una pro-
+puesta recurrente en Argentina. Su fundamento teórico radica en la baja elasticidad de la oferta
+de tierra: al ser un recurso fijo, el impuesto es absorbido por el propietario y no puede trasladarse
+a los precios de los productos o a los arrendatarios (Conesa, 2014; FasterCapital, n.d.; Wikipedia,
+2025). Esto lo convierte en un impuesto eficiente que no distorsiona las decisiones económicas
+ni desincentiva la producción (Conesa, 2014; FasterCapital, n.d.; Wikipedia, 2025).
+Las justificaciones económicas para el LVT incluyen:
+      Eficiencia en la asignación de recursos: Fomenta el uso óptimo de la tierra, desincenti-
+       vando la especulación y el mantenimiento de terrenos baldíos o subutilizados (FasterCa-
+       pital, n.d.; FasterCapital, n.d.).
+
+[[15]]
+   Progresividad: Grava a los propietarios de tierras valiosas, que tienden a ser los más ri-
+       cos, y no puede trasladarse a consumidores o trabajadores, contribuyendo a una distribu-
+       ción más justa de la carga fiscal (FasterCapital, n.d.; FasterCapital, n.d.; Wikipedia,
+       2025).
+      Financiamiento de infraestructura pública: Proporciona una fuente de ingresos esta-
+       ble, capturando el aumento de valor de la tierra derivado de inversiones públicas (Faster-
+       Capital, n.d.; FasterCapital, n.d.).
+      Reducción de la especulación: Desincentiva la retención de tierras ociosas con fines es-
+       peculativos, lo que puede estabilizar los mercados inmobiliarios (FasterCapital, n.d.; Fas-
+       terCapital, n.d.; Wikipedia, 2025).
+A nivel internacional, el LVT ha sido implementado con éxito en lugares como Singapur, Esto-
+nia y algunas ciudades de Australia y Estados Unidos (como Harrisburg, Pensilvania, desde
+1975), donde se le atribuye la revitalización urbana y la reducción de la especulación (FasterCa-
+pital, n.d.; Wikipedia, 2025; City of Detroit, n.d.). Otros ejemplos incluyen Dinamarca (con el
+grundstigningskyld de 1933 a 1964) (IMF, n.d.) y, más recientemente, el estado de Baden-
+Württemberg en Alemania, que acordó una versión modificada del LVT en 2020, con implemen-
+tación a partir de 2025 (Wikipedia, 2025). Pittsburgh, EE.UU., tuvo un sistema de tasa dividida
+de 1913 a 2001 (Lincoln Institute, n.d.; Lincoln Institute, n.d.).
+Sin embargo, la implementación del LVT también enfrenta desafíos significativos:
+      Complejidad administrativa: La valoración precisa y actualizada de la tierra libre de
+       mejoras es difícil y requiere recursos burocráticos importantes
+      Impacto en propietarios de renta fija: Puede ser oneroso para jubilados o personas con
+       ingresos fijos, que son ricos en activos pero pobres en
+      Resistencia política: Los propietarios de grandes extensiones de tierra valiosa pueden
+       oponerse, dificultando su adopción
+      Disputas de valoración: La determinación del valor exacto de la tierra puede generar li-
+       tigios (FasterCapital, n.d.).
+En Argentina, se han presentado proyectos de ley para establecer un impuesto a la tierra libre de
+mejoras. Un proyecto de 2016 (expediente 4765-D-2016), presentado por Eduardo Raúl Conesa,
+Carlos Gastón Roma y Héctor María Gutiérrez el 5 de agosto de 2016, proponía un impuesto del
+1% sobre la base imponible de los lotes de terrenos (excluyendo mejoras), con una tasa del 2%
+para propiedades de extranjeros, buscando reducir la evasión fiscal y fortalecer la autonomía
+provincial (Conesa, Roma & Gutierrez, 2016; Diputados, n.d.). Este proyecto también planteaba
+la derogación de impuestos distorsivos como Ingresos Brutos y el Impuesto Inmobiliario provin-
+cial (Conesa, 2014; Conesa, Roma & Gutierrez, 2016).
+En cuanto a iniciativas legislativas más recientes (2023-2025), se observan diferentes enfoques a
+nivel provincial. La provincia de Buenos Aires ha establecido aumentos en el impuesto inmobi-
+liario rural para 2024, con alícuotas progresivas según la base imponible (Normas GBA, 2024).
+En Chaco, se han propuesto reducciones y exenciones del impuesto inmobiliario rural para pro-
+ductores de hasta 1.000 hectáreas para el año 2025, buscando aliviar la carga impositiva y atraer
+inversiones (Chaco.gob.ar, n.d.). A nivel nacional, el gobierno de Javier Milei anunció una re-
+ducción de las retenciones a las exportaciones agropecuarias el 26 de julio de 2025, cediendo a
+los reclamos del sector (Lorca, 2025). Estas medidas recientes reflejan la constante tensión entre
+
+[[16]]
+la necesidad de recaudación estatal y la presión del sector agropecuario por una menor carga im-
+positiva.
+
+IV. Propuesta de Guillermo Moreno: Impuesto al Alquiler
+de la Tierra Compensado con un Bono
+En el marco del debate sobre la renta no ganada y la distribución de la riqueza agraria, Guillermo
+Moreno, ex secretario de Comercio, ha presentado una propuesta particular: un impuesto al al-
+quiler de la tierra compensado con un bono.
+4.1. Descripción de la Propuesta
+La idea central de Guillermo Moreno es establecer un impuesto sobre el alquiler de la tierra, di-
+rigido específicamente a los grandes propietarios rurales, a quienes se refiere como "los socios de
+la sociedad rural". Moreno sostiene que los dueños de la tierra se apropian de una parte despro-
+porcionada de la producción, estimando que "se llevan el 50% de la producción". Su propuesta
+busca que estos grandes terratenientes contribuyan a la financiación de la deuda pública, propo-
+niendo un "bono compensador" como parte del mecanismo.
+Esta iniciativa se enmarca en una visión económica más amplia, el "Plan Económico Justicialis-
+ta", que Moreno ha promovido. Este plan busca superar la crisis impulsando la productividad y el
+empleo registrado, fomentando el crecimiento sostenido y la generación de valor agregado (Prin-
+cipios y Valores, n.d.). La propuesta del impuesto al alquiler de la tierra, aunque no es una re-
+forma agraria en el sentido tradicional, se plantea como una medida que cumple parte de sus co-
+metidos al abordar la problemática de la renta y la financiarización de la economía (Docs Goo-
+gle, n.d.).
+En este contexto, la propuesta de Moreno se alinea con la crítica a la estructura agraria argentina,
+que aún hoy presenta "ré moras del latifundio de origen feudal" y perpetúa "relaciones semiservi-
+les" para los trabajadores rurales, lo que contribuye a "engordar" la renta terrateniente (PCR,
+n.d.). Esta perspectiva sugiere que el sistema actual de tenencia y explotación de la tierra en Ar-
+gentina mantiene características que recuerdan a un sistema feudal, donde la gran propiedad te-
+rritorial permite la apropiación de beneficios sin una contraparte productiva equitativa.
+4.2. Mecanismo y Objetivos
+El mecanismo del "bono compensador" propuesto por Moreno implica que, a cambio del pago
+del impuesto al alquiler de la tierra, los terratenientes recibirían un bono. Aunque los detalles
+precisos del funcionamiento de este bono no están completamente explicitados en los materiales
+disponibles, se menciona la posibilidad de que estos bonos puedan ser "cambiados por dólares en
+el mercado". Esto sugiere un intento de ofrecer una alternativa de inversión o liquidez a los pro-
+pietarios, posiblemente para mitigar la resistencia a la imposición.
+El objetivo principal de esta propuesta es la redistribución de la riqueza generada por el sector
+agrario, capturando una parte de la renta no ganada de la tierra para fines públicos, como el pago
+de la deuda. Al dirigir el impuesto a los grandes propietarios, la propuesta busca una mayor
+equidad en la distribución de los beneficios de la producción agrícola, que en gran medida se de-
+rivan de la fertilidad natural y la ubicación de la tierra, y no de la inversión o el trabajo directo
+del propietario. Además, al gravar la renta del alquiler, se podría desincentivar la especulación
+inmobiliaria y fomentar un uso más productivo de la tierra.
+
+[[17]]
+4.3. Análisis Crítico y Viabilidad
+La propuesta de Moreno, al igual que otras iniciativas de gravamen a la renta de la tierra, presen-
+ta potenciales beneficios y desafíos.
+Potenciales Beneficios:
+      Generación de ingresos: Podría proporcionar una fuente significativa de ingresos para el
+       Estado, contribuyendo a la sostenibilidad fiscal y al financiamiento de la deuda.
+      Desincentivo a la especulación: Al gravar el alquiler, se podría reducir el atractivo de
+       mantener tierras ociosas o subutilizadas con fines puramente especulativos, incentivando
+       su puesta en producción.
+      Promoción del uso productivo: Un impuesto sobre el alquiler podría fomentar que los
+       propietarios arrienden sus tierras a productores que las utilicen de manera más eficiente, o
+       que ellos mismos inviertan en su productividad.
+      Equidad distributiva: Al dirigirse a la renta no ganada y a los grandes propietarios, la
+       medida buscaría una distribución más justa de la riqueza generada por el recurso natural.
+Desafíos y Consideraciones:
+      Viabilidad política: La propuesta de gravar a los "socios de la sociedad rural" enfrenta-
+       ría una considerable resistencia política por parte de los grandes terratenientes y los sec-
+       tores agroexportadores, como ya se ha visto en debates anteriores sobre retenciones y le-
+       yes de tierras (Vega, 2023; Abram, n.d.). La experiencia histórica argentina demuestra
+       que los intereses de los grandes propietarios son poderosos y han logrado resistir cambios
+       estructurales (Bandieri & Blanco, n.d.; Lincoln Institute, n.d.).
+      Complejidad administrativa: La implementación de un impuesto al alquiler de la tierra,
+       especialmente si se vincula a un sistema de bonos compensatorios, requeriría un sistema
+       de valoración de la tierra y de los alquileres muy preciso y transparente para evitar dispu-
+       tas y elusión (FasterCapital, n.d.). La gestión y el control de los bonos compensatorios
+       también añadirían una capa de complejidad administrativa y financiera.
+      Impacto económico: Si bien la teoría del LVT sugiere que el impuesto es absorbido por
+       el propietario, la magnitud y el diseño del bono compensatorio podrían influir en el mer-
+       cado de alquileres y en las decisiones de inversión. Existe el riesgo de que, si el meca-
+       nismo no es bien calibrado, pueda generar distorsiones o desincentivos no deseados.
+      Marco legal: La implementación de un impuesto de esta naturaleza podría enfrentar
+       desafíos legales, especialmente en lo que respecta a la autonomía provincial en materia
+       tributaria y las garantías constitucionales sobre la propiedad (Conesa, 2014; Conesa, Ro-
+       ma & Gutierrez, 2016).
+      Efecto sobre el mercado de bonos: La emisión de bonos compensatorios y su potencial
+       canje por dólares en el mercado podrían tener implicaciones para la política monetaria y
+       cambiaria, especialmente en un contexto de inestabilidad económica (YouTube, n.d.).
+En comparación con los principios del Impuesto al Valor de la Tierra Libre de Mejoras (LVT), la
+propuesta de Moreno comparte el objetivo de gravar la renta no ganada. Sin embargo, el meca-
+nismo del bono compensatorio introduce una particularidad que la diferencia de un LVT puro,
+que se enfoca en la eficiencia y la progresividad sin un componente de compensación directa. La
+viabilidad de la propuesta de Moreno dependería en gran medida de su diseño específico, la ca-
+
+[[18]]
+pacidad del Estado para implementarla y la voluntad política para superar la resistencia de los
+sectores afectados.
+
+V. Conclusiones y Recomendaciones
+5.1. Síntesis de Hallazgos Clave
+La investigación realizada subraya que la concentración y distribución de la tierra en Argentina
+es una problemática estructural y persistente, con profundas raíces históricas y consecuencias
+multifacéticas. El diagnóstico actual revela una intensificación de la concentración, donde una
+porción mínima de explotaciones agropecuarias controla una parte desproporcionada del territo-
+rio productivo, lo que ha llevado a la desaparición masiva de pequeñas y medianas explotaciones
+entre 2002 y 2018 (Aranda, 2020; Melo, 2021). Esta tendencia se ve exacerbada por la creciente
+influencia de personas jurídicas y fondos de inversión, así como por la extranjerización de vastas
+extensiones de tierra, a menudo mediante estructuras de propiedad opacas que dificultan la trans-
+parencia y el control (Diario Chaco, 2024; Kaos en la Red, n.d.; Agencia Tierra Viva, 2025).
+Los impactos de esta concentración son amplios y negativos: desde el vaciamiento rural, el enve-
+jecimiento de la población campesina y la precarización en el acceso a la tierra, hasta la pérdida
+de soberanía alimentaria debido al predominio del monocultivo de exportación (Aranda, 2020;
+Argentina.gob.ar, 2023; SciELO, n.d.; CLACSO, 2008). A nivel ambiental, se observa una ace-
+lerada deforestación, contaminación por agroquímicos y la emergencia de fenómenos como el
+"acaparamiento verde" (Revistas USP, 2010; Agencia Tierra Viva, 2025). Políticamente, la con-
+centración de la tierra fortalece el poder de grandes grupos económicos y genera conflictos so-
+cioambientales, a menudo con comunidades indígenas, que son reprimidos para proteger intere-
+ses privados (Kaos en la Red, n.d.).
+El debate sobre la renta no ganada de la tierra se posiciona como un eje central para abordar estas
+desigualdades. La teoría económica clásica y contemporánea reconoce que la tierra genera una
+renta por su fertilidad y ubicación, independientemente del esfuerzo productivo del propietario
+(StudySmarter, n.d.; Romero & Benchimol, n.d.). Gravar esta renta, a través de mecanismos co-
+mo el impuesto al valor de la tierra libre de mejoras (LVT), se considera una medida eficiente y
+progresiva, capaz de desincentivar la especulación y fomentar un uso más productivo del suelo
+(Conesa, 2014; FasterCapital, n.d.). Sin embargo, su implementación enfrenta desafíos adminis-
+trativos y una fuerte resistencia política (FasterCapital, n.d.; Lincoln Institute, n.d.).
+La propuesta de Guillermo Moreno de un impuesto al alquiler de la tierra con un bono compen-
+satorio representa una iniciativa concreta para capturar parte de esta renta y destinarla a fines pú-
+blicos, como el pago de la deuda (YouTube, 2023). Esta idea, que busca que los grandes propie-
+tarios rurales asuman una mayor carga, es un reflejo de la persistente búsqueda de mecanismos
+para lograr una distribución más equitativa de la riqueza generada por el sector agrario.
+5.2. Recomendaciones de Política
+Ante la complejidad y la magnitud de la concentración de la tierra en Argentina, se proponen las
+siguientes recomendaciones de política, orientadas a promover un modelo de desarrollo más
+equitativo, productivo y sostenible:
+   1. Fortalecer la Transparencia y el Registro de la Propiedad Rural:
+           o   Implementar un sistema integral de catastro y valoración de la tierra que sea
+               transparente, preciso y actualizado. Esto es fundamental para superar las discre-
+
+[[19]]
+pancias en los datos de extranjerización (como los de 2021 y 2022) y para identi-
+          ficar las estructuras de propiedad opacas, permitiendo una fiscalización efectiva y
+          un conocimiento real de la tenencia de la tierra.
+      o   Establecer mecanismos de monitoreo continuo sobre la extranjerización de la tie-
+          rra, con especial atención a las zonas estratégicas y a los recursos naturales aso-
+          ciados (agua, minerales, bosques).
+2. Reevaluar y Regular la Extranjerización de la Tierra:
+      o   Analizar críticamente los efectos de la derogación de la Ley de Tierras N° 26.737
+          en diciembre de 2023 y considerar la necesidad de reestablecer regulaciones que
+          limiten la adquisición de tierras rurales por parte de extranjeros, aprendiendo de
+          las experiencias previas y cerrando las lagunas legales que permiten la elusión.
+      o   Priorizar la soberanía sobre los recursos naturales y las tierras estratégicas para el
+          desarrollo nacional y la seguridad alimentaria.
+3. Explorar Mecanismos Progresivos de Gravamen a la Renta de la Tierra:
+      o   Estudiar en profundidad la viabilidad de implementar un Impuesto al Valor de la
+          Tierra Libre de Mejoras (LVT) a nivel nacional o provincial. Un diseño cuidadoso
+          de este impuesto, que excluya las mejoras y se base en una valoración científica
+          del suelo, podría generar ingresos significativos, desincentivar la especulación y
+          promover el uso productivo de la tierra.
+      o   Considerar la propuesta de Guillermo Moreno de un impuesto al alquiler de la tie-
+          rra con bonos compensatorios como una alternativa o complemento, evaluando
+          rigurosamente su impacto económico, su viabilidad administrativa y su aceptación
+          política. Cualquier mecanismo de compensación debe ser diseñado para evitar
+          distorsiones en el mercado y garantizar la estabilidad financiera.
+      o   Asegurar que cualquier gravamen a la renta de la tierra sea progresivo, es decir,
+          que la carga recaiga principalmente sobre los grandes propietarios y aquellos que
+          se benefician de la renta no ganada, contribuyendo a la equidad distributiva.
+4. Apoyar a Pequeños y Medianos Productores y la Agricultura Familiar:
+      o   Desarrollar políticas públicas diferenciadas que brinden herramientas y financia-
+          miento adecuado a los pequeños y medianos productores para mejorar su rentabi-
+          lidad y competitividad.
+      o   Regularizar y formalizar el acceso a la tierra para los productores que operan bajo
+          arrendamientos precarios, ofreciendo seguridad jurídica y estabilidad para la in-
+          versión a largo plazo.
+      o   Impulsar la creación de un Banco de Tierras para la Agricultura Familiar, consti-
+          tuido principalmente por tierras públicas o que puedan ingresar al patrimonio na-
+          cional, como lo prevé la Ley de Agricultura Familiar (IADE, n.d.).
+      o   Fomentar la diversificación productiva y la producción de alimentos para el con-
+          sumo interno, contrarrestando la tendencia al monocultivo y fortaleciendo la sobe-
+          ranía alimentaria.
+5. Fomentar el Diálogo y la Participación:
+
+[[20]]
+o   Establecer espacios de diálogo y consenso entre todos los actores involucrados
+               (gobierno, grandes productores, pequeños agricultores, comunidades indígenas,
+               organizaciones de la sociedad civil) para construir políticas de tierra que sean so-
+               cialmente justas, económicamente viables y ambientalmente sostenibles.
+           o   Reconocer y respetar los derechos territoriales de los pueblos indígenas y las co-
+               munidades campesinas, promoviendo la resolución pacífica de conflictos y garan-
+               tizando su participación en las decisiones sobre el uso de la tierra.
+La implementación de estas recomendaciones requiere un compromiso político firme y una vi-
+sión a largo plazo para transformar la estructura agraria argentina, superando las inercias históri-
+cas y construyendo un modelo de desarrollo que beneficie a la sociedad en su conjunto.
+
+VI. El Recurso Finito, el Deseo Infinito y la Voluntad de Po-
+der: Una Reflexión Filosófica y Económica
+El debate sobre la concentración de la tierra en Argentina, un recurso inherentemente finito, nos
+invita a una reflexión más profunda sobre la naturaleza de las necesidades y los deseos humanos,
+y cómo estos se entrelazan con la acumulación de recursos y la "voluntad de poder".
+6.1. Recursos Finitos y Deseos Infinitos: Una Tensión Fundamental
+En economía, una frase recurrente es que "los deseos son infinitos, pero los recursos son finitos"
+(Dyke, n.d.; YouTube, n.d.). Esta afirmación no se refiere a que un deseo individual sea ilimitado
+(de hecho, la utilidad marginal decreciente sugiere lo contrario, como el deseo de pizza que dis-
+minuye con cada porción (Dyke, n.d.)), sino a que el ser humano, en su conjunto, nunca deja de
+tener deseos. Nuestra mente consciente se encuentra en un estado perpetuo de búsqueda de un
+"mejor estado de cosas" (Dyke, n.d.). Una vez que un deseo es satisfecho, es rápidamente reem-
+plazado por otro, creando un ciclo continuo de querer (Dyke, n.d.).
+Esta escasez de recursos, tanto externos (bienes materiales) como internos (tiempo, energía,
+atención), es una condición fundamental de la existencia humana y la base de la necesidad de la
+justicia (Bognar, n.d.). Los recursos son, por definición, finitos y deben ser asignados para servir
+a nuestros intereses (Dyke, n.d.). David Hume, en el siglo XVIII, ya distinguía entre abundancia,
+escasez moderada y escasez extrema, argumentando que la justicia solo es necesaria y posible
+bajo condiciones de escasez moderada (Bognar, n.d.).
+6.2. Necesidades vs. Deseos: Una Distinción Crucial
+La distinción entre "necesidades" y "deseos" es central en la filosofía y la economía. Las necesi-
+dades se consideran esenciales para nuestra supervivencia y bienestar, mientras que los deseos
+son vistos como superfluos (Berkeley Wellbeing, n.d.). Aunque esta distinción parece simple,
+puede volverse difusa más allá de las necesidades básicas como alimento, agua y refugio (Berke-
+ley Wellbeing, n.d.).
+Algunos académicos sugieren que una forma de diferenciar una necesidad de un deseo es consi-
+derar si su ausencia causaría daño (Berkeley Wellbeing, n.d.). Por ejemplo, la falta de un hogar
+causaría daño, pero la ausencia de una obra de arte en el hogar no lo haría, aunque pueda generar
+tristeza (Berkeley Wellbeing, n.d.). Las necesidades básicas son objetivas y universales, funda-
+mentales para el bienestar humano o para evitar el sufrimiento. Los deseos, en cambio, suelen ser
+bienes materiales o experiencias que, si bien pueden mejorar la calidad de vida, no son indispen-
+sables para la supervivencia (Berkeley Wellbeing, n.d.).
+
+[[21]]
+En la práctica, a menudo perseguimos nuestros deseos y descuidamos nuestras necesidades (Mo-
+rris, 2015). Sin embargo, satisfacer las necesidades básicas debe tener prioridad, y una vez cu-
+biertas, podemos enfocarnos en los deseos para maximizar el disfrute y la calidad de vida (Ber-
+keley Wellbeing, n.d.).
+6.3. La Voluntad de Poder de Nietzsche y la Acumulación
+En este contexto de recursos finitos y deseos humanos, la filosofía de Friedrich Nietzsche (siglo
+XIX) introduce el concepto de la "voluntad de poder" (der Wille zur Macht). Para Nietzsche, esta
+no es una simple ansia de dominación, sino una fuerza fundamental que impulsa la vida y el uni-
+verso, una estructura que "define la realidad misma" (El Confidencial, 2025; Herder Editorial,
+n.d.). Es una expresión de auto-superación, un esfuerzo por llegar a ser quien realmente se es,
+una tendencia a expandir la fuerza y la energía creativa (YouTube, n.d.; Bodo, n.d.).
+La voluntad de poder se manifiesta de diversas maneras, y la acumulación de riqueza y recursos
+es una de ellas (Reddit, n.d.; Superfuture Academy, n.d.). Los filósofos y científicos la canalizan
+hacia la "voluntad de verdad", los artistas hacia la creación, y los empresarios la satisfacen al en-
+riquecerse (ThoughtCo, n.d.). La búsqueda de riqueza, estatus y control sobre el entorno son ex-
+presiones de esta voluntad de poder, ya que estas posesiones influyen en cómo los demás nos
+perciben y tratan, otorgando más control y oportunidades (Reddit, n.d.).
+Nietzsche distingue entre una voluntad de poder afirmativa, que crea, transforma y acepta el
+conflicto como parte de la vida, y una voluntad de poder reactiva, que reprime, niega y se refu-
+gia en ilusiones para evitar la realidad (El Confidencial, 2025). La acumulación de riqueza, vista
+desde esta perspectiva, puede ser una manifestación de la voluntad de poder para trascender las
+necesidades básicas de supervivencia y lograr un sentido de empoderamiento y maestría (Super-
+future Academy, n.d.). Sin embargo, Nietzsche también advierte que la búsqueda de poder puede
+ser una fuerza corruptora si se usa mal, y que la obsesión por la acumulación puede volverse des-
+tructiva (Superfuture Academy, n.d.).
+6.4. Implicaciones Filosóficas de la Acumulación Ilimitada en un Mundo Finito
+La tensión entre los deseos ilimitados (impulsados por la voluntad de poder) y los recursos fini-
+tos (como la tierra) plantea profundas implicaciones filosóficas y éticas. Pensadores como John
+Locke (siglo XVII), en su teoría del trabajo y la propiedad, argumentaron que la propiedad se
+origina al mezclar el trabajo con los recursos naturales (Wikipedia, n.d.). Sin embargo, Locke
+también impuso una "cláusula" o "proviso": uno solo puede apropiarse de recursos si "queda su-
+ficiente y de igual calidad para los demás" (Wikipedia, n.d.; EduBirdie, n.d.).
+La invención del dinero, según Locke, permitió superar la limitación del "deterioro" (no acumu-
+lar más de lo que se puede usar antes de que se eche a perder), haciendo posible la acumulación
+de cantidades potencialmente ilimitadas de propiedad sin violar esta restricción (EduBirdie, n.d.).
+Esto, sin embargo, abre la puerta a la acumulación desproporcionada de recursos finitos, como la
+tierra, que no se basa en la necesidad sino en el deseo o la voluntad de poder.
+En el contexto argentino, la concentración de la tierra y su extranjerización reflejan esta dinámi-
+ca. La tierra, al ser un recurso fijo y no reproducible, genera una renta que puede ser apropiada
+por los terratenientes sin un esfuerzo productivo directo (StudySmarter, n.d.; Zeolla, n.d.). Esta
+apropiación, impulsada por la búsqueda de ganancias y la expansión de la influencia (manifesta-
+ciones de la voluntad de poder), puede llevar a que la tierra sea vista más como un activo finan-
+
+[[22]]
+ciero o especulativo que como un medio para satisfacer necesidades básicas o para el desarrollo
+productivo y social (StudySmarter, n.d.; Zeolla, n.d.).
+La discusión sobre el gravamen a la renta no ganada de la tierra, y propuestas como la de Gui-
+llermo Moreno, buscan precisamente reequilibrar esta balanza, reconociendo que la riqueza ge-
+nerada por un recurso finito y no producido por el trabajo individual debe tener una función so-
+cial que vaya más allá del deseo ilimitado de acumulación de unos pocos. Se trata de un debate
+sobre cómo gestionar la escasez de manera justa, asegurando que las necesidades de la comuni-
+dad prevalezcan sobre los deseos ilimitados de acumulación, y que la voluntad de poder se cana-
+lice hacia la creación de valor social y no solo hacia la dominación o la especulación.
+
+Referencias
+Abram, A. (n.d.). El proyecto de ley de tierras atenta contra el crecimiento económico y la
+Constitución. Libertad y Progreso. Recuperado de
+https://www.libertadyprogreso.org/index.php/es/?view=article&id=350:el-proyecto-de-ley-de-
+tierras-atenta-contra-el-crecimiento-economico-y-la-constitucion&catid=18
+Agencia Tierra Viva. (2025, junio 26). Demasiada tierra en pocas manos: las diez multinaciona-
+les que controlan millones de hectáreas. Recuperado de
+https://agenciatierraviva.com.ar/demasiada-tierra-en-pocas-manos-las-diez-multinacionales-que-
+controlan-millones-de-hectareas/
+Agrofy News. (2025, junio 25). Subió la presión impositiva sobre el campo y cada $100 que ge-
+nera una hectárea $63,6 se los lleva el Estado: en qué provincia conviene producir. Recuperado
+de https://news.agrofy.com.ar/noticia/213362/subio-presion-impositiva-campo-y-cada-100-que-
+genera-hectarea-636-se-lleva-estado-que
+Argentina.gob.ar. (2022, abril). Extranjerización por provincia. Ministerio de Justicia. Recupe-
+rado de https://www.argentina.gob.ar/justicia/tierrasrurales/datos/extranjerizacion-provincia
+Argentina.gob.ar. (2023, diciembre). Informe General ReNaZEPA. Ministerio de Agricultura,
+Ganadería y Pesca. Recuperado de
+https://www.argentina.gob.ar/sites/default/files/informe_general_renazepa_dic_2023.pdf
+Argentina.gob.ar. (n.d.). Tierras Rurales. Ministerio de Justicia. Recuperado de
+https://www.argentina.gob.ar/justicia/tierrasrurales
+Aranda, D. (2020, enero 21). El campo cada vez está más concentrado: De acuerdo con el Censo
+Agropecuario, hay menos chacras. Página/12. Recuperado de
+https://www.pagina12.com.ar/242871-el-campo-cada-vez-esta-mas-concentrado
+Astarita, R. (2014, mayo 9). Renta absoluta de la tierra. Recuperado de
+https://rolandoastarita.blog/2014/05/09/renta-absoluta-de-la-tierra/
+Bandieri, S., & Blanco, G. (n.d.). La historia agraria argentina en los siglos XIX y XX: Una sín-
+tesis pendiente. Historia Agraria. Recuperado de
+https://www.historiaagraria.com/FILE/articulos/HA11_bandieri.pdf
+Berkeley Wellbeing. (n.d.). Needs and Wants. Recuperado de
+https://www.berkeleywellbeing.com/needs-and-wants.html
+
+[[23]]
+Bodo, V. (n.d.). The Will to Power and How Decadence Erodes It. Medium. Recuperado de
+https://medium.com/@dr.victor.bodo/the-will-to-power-and-how-decadence-erodes-it-
+60958ec1cf69
+Bognar, G. (n.d.). Scarcity. Recuperado de https://gregbognar.net/files/Bognar-Scarcity-IEE-
+online.pdf
+Caligaris, G. (2014). Dos debates en torno a la renta de la tierra. CICP. Recuperado de
+https://cicpint.org/wp-content/uploads/2017/03/2014_Caligaris_Dos-debates-en-torno-a-la-renta-
+de-la-tierra.pdf
+Caligaris, G. (2017, agosto 12). La propiedad de la tierra: renta y tamaño de la tierra. Te-
+seoPress. Recuperado de https://www.teseopress.com/produccionagraria/chapter/la-propiedad-
+de-la-tierra-renta-y-tamano-de-la-tierra-3/
+CELS. (2018, mayo). Vaciamiento de las políticas para la agricultura familiar. Recuperado de
+https://www.cels.org.ar/web/2018/05/vaciamiento-de-las-politicas-para-la-agricultura-familiar/
+Chaco.gob.ar. (n.d.). Día histórico: Chaco baja impuestos. Recuperado de
+https://chaco.gob.ar/noticia-dia-historico-chaco-baja-impuestos-2025-03-17-11-56
+City of Detroit. (n.d.). Preguntas frecuentes sobre el plan de impuesto sobre el valor de la tierra.
+Recuperado de https://detroitmi.gov/es/node/67556
+CLACSO. (2008). Lavboratorio• Año 10 Nº 22 • Invierno 2008. Recuperado de
+https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/1019/3/lavbo22.pdf
+Conesa, E. (2014, diciembre 2). El impuesto al valor de la tierra libre de mejoras y la reforma
+integral del sistema impositivo argentino. Recuperado de https://eduardoconesa.com.ar/pdf/a-
+2014i.pdf
+Conesa, E. R., Roma, C. G., & Gutierrez, H. M. (2016, agosto 5). IMPUESTO A LA TIERRA LI-
+BRE DE MEJORAS. CREACION. Proyecto de Ley. Recuperado de
+https://www.diputados.gob.ar/comisiones/permanentes/clgeneral/proyecto.html?exp=4765-D-
+2016
+De Cesare, C. (2016). El valor del suelo tiene un gran potencial para mejorar la autonomía fis-
+cal y el financiamiento local.. Recuperado de
+https://events.iadb.org/events/handler/geteventdocument.ashx?AFCF784DCD0CBF43BE2C686
+2BF334401689DE509A316B42F6A1B94198EE5BCEDB81EC152B7FA32A11AD042A3AE62
+AF9207CCF9FDE71BF84E6830B330E5F06C5DC937153B2A778204
+Del Puerto, G. A. (2024, noviembre 13). En 2025: un impuesto de Kicillof al campo tendría un
+aumento efectivo del 34,4% y alertan por “artículos escondidos” en una ley. La Nación. Recu-
+perado de https://carbap.org/en-2025-un-impuesto-de-kicillof-al-campo-tendria-un-aumento-
+efectivo-del-344-y-alertan-por-articulos-escondidos-en-una-ley-la-nacion/
+Diario Chaco. (2024, febrero 14). Dueños de la tierra argentina: quiénes son los 20 mayores te-
+rratenientes del país. Recuperado de https://www.diariochaco.com/650834-duenos-de-la-tierra-
+argentina-quienes-son-los-20-mayores-terratenientes-del-pais
+Diputados. (n.d.). Proyecto de Ley IMPUESTO A LA TIERRA LIBRE DE MEJORAS. Recupera-
+do de https://www.diputados.gob.ar/comisiones/permanentes/clgeneral/proyecto.html?exp=4765-
+D-2016
+
+[[24]]
+Docs Google. (n.d.). Guillermo Moreno, les. Recuperado de
+https://docs.google.com/document/d/1q8bvcdslIE-
+vwWBlrljDmAC04nedpOSFji0CUZkJ6Tg/edit
+Dyke, J. (n.d.). Infinite Desire vs. Finite Resources. Jeremiah Dyke. Recuperado de
+https://www.jeremiahdyke.com/single-post/infinite-desire-vs-finite-resources
+EduBirdie. (n.d.). Locke: Defence for a Right to Private Property and the Unlimited Accumula-
+tion of Goods. Recuperado de https://hub.edubirdie.com/examples/locke-defence-for-a-right-to-
+private-property-and-the-unlimited-accumulation-of-goods/
+El Confidencial. (2025, junio 19). Friedrich Nietzsche, filósofo: "La voluntad de poder es la
+fuerza fundamental que impulsa la vida y el universo". Recuperado de
+https://www.elconfidencial.com/alma-corazon-vida/2025-06-19/friedrich-nietzsche-voluntad-de-
+poder-filosofia-1qrt_4154839/
+FasterCapital. (n.d.). El papel de la renta de la tierra en el impuesto sobre el valor de la tierra.
+Recuperado de https://fastercapital.com/es/contenido/El-papel-de-la-renta-de-la-tierra-en-el-
+impuesto-sobre-el-valor-de-la-tierra.html
+FasterCapital. (n.d.). Ejemplos históricos de impuestos sobre el valor de la tierra. Recuperado de
+https://fastercapital.com/es/tema/ejemplos-hist%C3%B3ricos-de-impuestos-sobre-el-valor-de-la-
+tierra.html/1
+Frente Amplio. (n.d.). Bases Programáticas 2020-2025. Recuperado de
+https://www.frenteamplio.uy/wp-content/uploads/890_basesprogramaticas2020-
+2025yreglamento.pdf
+Gras, C. (n.d.). EXPANSIÓN SOJERA Y ACAPARAMIENTO DE TIERRAS EN ARGENTINA.
+CONICET. Recuperado de
+https://ri.conicet.gov.ar/bitstream/handle/11336/54398/CONICET_Digital_Nro.395ed734-1e35-
+42e4-aa9f-33aba86c6451_A.pdf?sequence=2&isAllowed=n
+Herder Editorial. (n.d.). Voluntad de poder. Encyclopaedia Herder. Recuperado de
+https://encyclopaedia.herdereditorial.com/wiki/Voluntad_de_poder
+IADE. (n.d.). La problemática agraria argentina en la actualidad. Recuperado de
+https://www.iade.org.ar/noticias/la-problematica-agraria-argentina-en-la-actualidad
+IMF. (n.d.). A Tax on Site Value. Recuperado de
+https://www.elibrary.imf.org/view/journals/024/1967/001/article-A004-en.xml
+INDEC. (2025, junio 26). Evolución de la distribución del ingreso (EPH), primer trimestre de
+2025. Recuperado de https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-31-60
+INE. (2022, octubre 28). Liberados los resultados finales de CAF 2021. Censo Agropecuario y
+Forestal. Recuperado de https://www.ine.gob.cl/censoagropecuario
+INIBIOMA CONICET. (2020, noviembre 2). La expansión del monocultivo de soja amenaza la
+producción de miel en Argentina. Recuperado de https://inibioma.conicet.gov.ar/la-expansion-
+del-monocultivo-de-soja-amenaza-la-produccion-de-miel-en-argentina/
+
+[[25]]
+
