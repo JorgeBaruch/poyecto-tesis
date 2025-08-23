@@ -1,4 +1,5 @@
 {
+  "pdftotextPath": "C:/ruta/a/poppler/bin/pdftotext.exe",
   "stopWords": [
     "de", "la", "que", "el", "en", "y", "a", "los", "del", "se", "las", "por", "un", "para", "con", "no", "una",
     "su", "al", "lo", "como", "más", "pero", "sus", "le", "ya", "o", "este", "ha", "me", "si", "sin", "sobre",

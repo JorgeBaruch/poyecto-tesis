@@ -13,87 +13,46 @@ Este repositorio contiene las herramientas y el flujo de trabajo para la extracc
 - `99_META/`: Metadocumentación del proyecto (arquitectura, decisiones, vocabulario).
 - `tools/`: Scripts y utilidades para automatizar el flujo de trabajo.
 
-## Dependencias
+## Dependencias y Configuración
 
-Para el correcto funcionamiento de los scripts, es necesario tener instalada la herramienta `pdftotext` de la suite Poppler y las dependencias de Python.
+### 1. Poppler (pdftotext)
 
-### Instalación de Poppler (Windows)
+La herramienta `pdftotext` es esencial para convertir los documentos PDF a texto. El sistema es flexible y puede encontrar el ejecutable de varias maneras, en el siguiente orden de prioridad:
 
-Se recomienda instalar Poppler a través de un gestor de paquetes como `winget` o descargarlo directamente.
+#### Opción 1: Configuración Central (Recomendado)
 
-#### Opción 1: Usando `winget` (Recomendado)
+Es el método más robusto y portable.
+1.  Abra el archivo `config/analysis.json`.
+2.  Modifique la clave `pdftotextPath` para que apunte a la ubicación de su ejecutable `pdftotext.exe`. Use barras inclinadas hacia adelante (`/`).
 
-Abre una terminal de PowerShell o Símbolo del Sistema y ejecuta el siguiente comando:
-
-```bash
-winget install Poppler.Poppler
-```
-
-#### Opción 2: Descarga Manual
-
-1.  Visita la página oficial de Poppler o un repositorio de binarios confiable (por ejemplo, [https://poppler.freedesktop.org/](https://poppler.freedesktop.org/) o buscar "Poppler for Windows").
-2.  Descarga la versión más reciente de los binarios para Windows.
-3.  Descomprime el archivo ZIP en una ubicación de tu elección (ej. `C:\Program Files\poppler`).
-4.  Añade la ruta a la carpeta `bin` de Poppler a la variable de entorno `Path` de tu sistema. Esto permitirá que `pdftotext` sea accesible desde cualquier terminal.
-
-    *   **Pasos para añadir al Path:**
-        1.  Busca "Editar las variables de entorno del sistema" en el menú de inicio de Windows.
-        2.  Haz clic en "Variables de entorno...".
-        3.  En la sección "Variables del sistema", selecciona `Path` y haz clic en "Editar...".
-        4.  Haz clic en "Nuevo" y añade la ruta completa a la carpeta `bin` de Poppler (ej. `C:\Program Files\poppler\bin`).
-        5.  Haz clic en "Aceptar" en todas las ventanas para guardar los cambios.
-
-Después de la instalación, puedes verificar que `pdftotext` está disponible abriendo una nueva terminal y ejecutando:
-
-```bash
-pdftotext -v
-```
-
-Deberías ver la información de la versión de Poppler.
-
-### Dependencias de Python
-
-Algunos scripts en la carpeta `tools/` (ej. `analizar_temas.py`) requieren librerías de Python. Se recomienda usar un entorno virtual para gestionar estas dependencias.
-
-1.  **Crear un entorno virtual (si no tienes uno):**
-    ```bash
-    python -m venv .venv
+    ```json
+    {
+      "pdftotextPath": "C:/ruta/a/poppler/bin/pdftotext.exe",
+      "stopWords": [...],
+      "conceptMapping": {...}
+    }
     ```
-2.  **Activar el entorno virtual:**
-    *   **Windows:**
-        ```bash
-        \ .\.venv\Scripts\activate
-        ```
-    *   **macOS/Linux:**
-        ```bash
-        source ./.venv/bin/activate
-        ```
-3.  **Instalar las dependencias:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+#### Opción 2: Parámetro de Script
+
+Puede pasar la ruta al ejecutable directamente al script `Convert-PdfToText.ps1` usando el parámetro `-PdftotextExecutablePath`. Esto sobrescribirá la ruta del archivo de configuración.
+
+#### Opción 3: Variable de Entorno (PATH)
+
+Si las opciones anteriores no se utilizan, el script buscará `pdftotext.exe` en el `PATH` de su sistema. Para que esto funcione, debe añadir la carpeta `bin` de su instalación de Poppler a las variables de entorno de Windows.
+
+**Instalación de Poppler:** Si no tiene Poppler, puede instalarlo usando `winget install Poppler.Poppler` o descargándolo manually.
+
+### 2. Python
+
+Algunos scripts de análisis requieren Python. Se recomienda usar un entorno virtual.
+
+1.  **Crear un entorno virtual:** `python -m venv .venv`
+2.  **Activar el entorno:** `.\.venv\Scripts\activate` (en Windows)
+3.  **Instalar dependencias:** `pip install -r requirements.txt`
 
 ## Git Hooks
 
-El proyecto utiliza Git hooks para automatizar ciertas tareas de versionado. Específicamente, el script `tools/Version-Draft.ps1` está diseñado para ejecutarse como un hook `pre-commit` para asegurar que los borradores en `03_BORRADORES/` sigan una convención de nombrado consistente (`YYYY-MM-DD_nombre.md`).
+El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio (`.git/hooks/pre-commit`) y debería funcionar sin necesidad de configuración manual.
 
-Para configurar el hook `pre-commit`:
-
-1.  Abre tu terminal en la raíz del repositorio.
-2.  Crea o edita el archivo `pre-commit` dentro de la carpeta `.git/hooks/`.
-    *   **Windows (PowerShell):**
-        ```powershell
-        Set-Content -Path .\.git\hooks\pre-commit -Value @'
-        #!/usr/bin/env pwsh
-        .\tools\Version-Draft.ps1
-        '@
-        ```
-    *   **macOS/Linux (Bash:
-        ```bash
-        echo '#!/bin/bash' > .git/hooks/pre-commit
-        echo 'pwsh ./tools/Version-Draft.ps1' >> .git/hooks/pre-commit
-        chmod +x .git/hooks/pre-commit
-        ```
-3.  Asegúrate de que el archivo `pre-commit` sea ejecutable (en macOS/Linux, usa `chmod +x .git/hooks/pre-commit`).
-
-Ahora, cada vez que intentes hacer un `git commit`, el script `Version-Draft.ps1` se ejecutará automáticamente para versionar tus borradores.
+Cada vez que realice un `git commit` de un archivo en `03_BORRADORES/`, el hook se ejecutará para asegurar que el archivo sigue la convención de nombrado de versiones (ej. `nombre_v1.md`).

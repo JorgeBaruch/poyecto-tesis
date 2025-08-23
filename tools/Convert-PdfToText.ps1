@@ -50,16 +50,37 @@ function Write-Log {
 
 # --- Configuración ---
 $scriptRoot = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
-# Try to find pdftotext.exe in common locations or rely on PATH
-$pdftotextPath = $PdftotextExecutablePath # Use provided path if available
+$configPath = Join-Path -Path $scriptRoot -ChildPath "..\config\analysis.json"
+$pdftotextPath = $null
 
+# 1. Leer la ruta desde config.json como primera opción
+if (Test-Path -Path $configPath -PathType Leaf) {
+    try {
+        $config = Get-Content -Path $configPath -Raw | ConvertFrom-Json
+        if ($config.PSObject.Properties.Match('pdftotextPath') -and -not ([string]::IsNullOrEmpty($config.pdftotextPath))) {
+            $pdftotextPath = $config.pdftotextPath
+            Write-Log "Ruta de pdftotext cargada desde el archivo de configuración: $pdftotextPath" "INFO"
+        }
+    } catch {
+        Write-Warning "No se pudo leer o parsear el archivo de configuración en '$configPath'. Se continuará sin él."
+        Write-Log "No se pudo leer o parsear el archivo de configuración en '$configPath'. Error: $($_.Exception.Message)" "WARN"
+    }
+}
+
+# 2. Luego, verificar el parámetro opcional (sobrescribe la configuración)
+if ($PdftotextExecutablePath) {
+    $pdftotextPath = $PdftotextExecutablePath
+    Write-Log "Ruta de pdftotext establecida por parámetro: $pdftotextPath" "INFO"
+}
+
+# 3. Si aún no se encuentra, buscar en el PATH y en la carpeta relativa
 if (-not $pdftotextPath) {
-    # Check if pdftotext is in PATH first
+    # Verificar si pdftotext está en el PATH
     if ((Get-Command pdftotext -ErrorAction SilentlyContinue)) {
         $pdftotextPath = (Get-Command pdftotext).Source
     } else {
-        # Fallback to a more generic path within the project if not in PATH
-    $genericPopplerPath = Join-Path -Path $scriptRoot -ChildPath "..\poppler\Library\bin\pdftotext.exe"
+        # Como último recurso, buscar en una ruta genérica dentro del proyecto
+        $genericPopplerPath = Join-Path -Path $scriptRoot -ChildPath "..\poppler\Library\bin\pdftotext.exe"
         if (Test-Path -Path $genericPopplerPath -PathType Leaf) {
             $pdftotextPath = $genericPopplerPath
         }
@@ -68,7 +89,7 @@ if (-not $pdftotextPath) {
 
 # --- Validación ---
 if (-not (Test-Path -Path $pdftotextPath -PathType Leaf)) {
-    Write-Error "Error: No se encontró 'pdftotext.exe' en la ruta esperada: $pdftotextPath"
+    Write-Error "Error: No se encontró 'pdftotext.exe'. Verifique la configuración en 'config/analysis.json' o asegúrese de que esté en el PATH."
     exit 1 # Para un script de nivel superior, 'exit 1' es una forma aceptable de terminar en errores críticos.
 }
 
@@ -76,7 +97,7 @@ try {
     $absInputDir = (Resolve-Path -Path $InputDir).Path
     $absOutDir = (Resolve-Path -Path $OutDir).Path
 } catch {
-    Write-Error "Error: No se pudo resolver una de las rutas: InputDir ('$InputDir') u OutDir ('$OutDir')."
+    Write-Error "Error: No se pudo resolver una de las rutas: InputDir ('$InputDir') u OutDir ('$OutDir'.)."
     exit 1 # Para un script de nivel superior, 'exit 1' es una forma aceptable de terminar en errores críticos.
 }
 
@@ -104,8 +125,8 @@ Write-Verbose "Iniciando la conversión de PDFs a TXT..."
 # Esto es una solución temporal para nombres de archivo que pdftotext no puede procesar correctamente.
 # Se recomienda investigar la causa raíz de este problema (ej. codificación) para una solución permanente.
 $allPdfFiles = Get-ChildItem -Path $absInputDir -Filter *.pdf -Recurse
-$pdfFiles = $allPdfFiles | Where-Object { $_.Name -notmatch '^[\?\?]' }
-$ignoredFiles = $allPdfFiles | Where-Object { $_.Name -match '^[\?\?]' }
+$pdfFiles = $allPdfFiles | Where-Object { $_.Name -notmatch '^[??]' }
+$ignoredFiles = $allPdfFiles | Where-Object { $_.Name -match '^[??]' }
 if ($ignoredFiles.Count -gt 0) {
     Write-Warning "Se ignoraron $($ignoredFiles.Count) archivos PDF con nombres problemáticos (comienzan con '??'). Revise el log para detalles."
     foreach ($file in $ignoredFiles) {
@@ -118,6 +139,7 @@ if ($pdfFiles.Count -eq 0) {
     exit 0
 }
 
+$failedFiles = @()
 foreach ($pdfFile in $pdfFiles) {
     Write-Verbose "Convirtiendo: $($pdfFile.FullName)"
     Write-Log "Procesando archivo: $($pdfFile.FullName)" "INFO"
