@@ -13,6 +13,19 @@ Este repositorio contiene las herramientas y el flujo de trabajo para la extracc
 - `99_META/`: Metadocumentación del proyecto (arquitectura, decisiones, vocabulario).
 - `tools/`: Scripts y utilidades para automatizar el flujo de trabajo.
 
+## Flujo de Trabajo Automatizado
+
+Para procesar todos los documentos del proyecto, simplemente ejecute el script orquestador principal desde la raíz del repositorio:
+
+```powershell
+.\tools\Start-FullProcess.ps1
+```
+
+Este comando se encargará de todo el proceso de forma automática:
+1.  **Convertirá** los PDFs nuevos a texto.
+2.  **Extraerá** las citas de los textos procesados.
+3.  **Generará** las fichas de lectura para los documentos que no la tengan.
+
 ## Dependencias y Configuración
 
 ### 1. Poppler (pdftotext)
@@ -41,7 +54,7 @@ Puede pasar la ruta al ejecutable directamente al script `Convert-PdfToText.ps1`
 
 Si las opciones anteriores no se utilizan, el script buscará `pdftotext.exe` en el `PATH` de su sistema. Para que esto funcione, debe añadir la carpeta `bin` de su instalación de Poppler a las variables de entorno de Windows.
 
-**Instalación de Poppler:** Si no tiene Poppler, puede instalarlo usando `winget install Poppler.Poppler` o descargándolo manually.
+**Instalación de Poppler:** Si no tiene Poppler, puede instalarlo usando `winget install Poppler.Poppler` o descargándolo manualmente.
 
 ### 2. Python
 
