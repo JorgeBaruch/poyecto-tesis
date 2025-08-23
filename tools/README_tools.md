@@ -8,7 +8,7 @@ This folder contains scripts and utilities to automate various tasks related to 
 tools/
 ├── Analyze-Frequency.ps1
 ├── Convert-PdfToText.ps1
-├── Extract-QuotesFromText.ps1
+
 ├── Generate-ConceptIndex.ps1
 ├── Generate-ReadingCard.ps1
 ├── Generate-StrategicSynthesis.ps1
