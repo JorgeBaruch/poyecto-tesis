@@ -67,3 +67,21 @@ Algunos scripts de análisis requieren Python. Se recomienda usar un entorno vir
 ## Git Hooks
 
 El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio y funciona sin necesidad de configuración manual.
+
+## Interfaz de Usuario y API (En Desarrollo)
+
+Para facilitar la interacción con el proyecto, se está desarrollando una interfaz de usuario web. Esta interfaz se comunica con una API de backend local.
+
+### Cómo ejecutar la API
+
+1.  **Asegúrese de tener las dependencias de Python instaladas.** Si es la primera vez o si el archivo `requirements.txt` ha cambiado, ejecute:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2.  **Inicie el servidor de la API.** Desde la carpeta raíz del proyecto, ejecute el siguiente comando:
+    ```bash
+    uvicorn api.main:app --reload
+    ```
+
+3.  **Abra la interfaz.** Una vez que el servidor esté en funcionamiento, podrá acceder a la interfaz de usuario desde su navegador en la dirección `http://127.0.0.1:8000`.
