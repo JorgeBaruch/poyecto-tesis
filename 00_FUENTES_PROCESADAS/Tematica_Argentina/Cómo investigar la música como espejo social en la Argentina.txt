@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Cómo investigar la música como espejo social en la Argentina
 
 (guía metodológica basada en el corpus que acabamos de trazar — 1910 → 2025)
@@ -34,7 +34,7 @@ Playlist controlada – usa nuestro listado de ≥ 350 canciones (1910-2024).
 
 Metadatos por fila:
 
-[[2]]
+[[p=2]]
 Año, género, autores, contexto (gobierno, crisis, censo, etc.).
 
 Marcador social dominante (trabajo, protesta, emigración, identidades, etc.).
@@ -70,7 +70,7 @@ colaboración
 Historia oral
                        archivo de podcasts.
 
-[[3]]
+[[p=3]]
 4. Ejemplo piloto de línea de tiempo comentada
 
 Año Canción                          Extracto-clave                             Evento sociopolítico      Lectura social
@@ -107,7 +107,7 @@ Colaboraciones transfronterizas como válvula (Shakira #53, 2023).
 
 6. Plan de trabajo sugerido
 
-[[4]]
+[[p=4]]
 Fase                      Duración Entregables
 
 Curaduría                 4 sem     Corpus limpio (CSV); taxonomía temática.
@@ -136,7 +136,7 @@ como “la morocha argentina, la que no siente pesares y alegre pasa la vida con
 que conserva el cariño para su dueño”todotango.com. Estos versos –de los primeros tangos con letra totalmente cantada– idealizan a la mujer
 del pueblo (morena de cabello, de origen humilde) como símbolo de la nación.
 
-[[5]]
+[[p=5]]
 En pleno auge inmigratorio y de exaltación europeísta, La Morocha celebraba a la criolla local como “la más renombrada”. La elección de una
 morocha –término que en Argentina alude a tez trigueña o cabello oscuro– resultó significativa. Como señala el historiador Ezequiel Adamovsky,
 la ambigüedad racial de la morocha argentina minaba sutilmente el mito oficial de una Argentina blanca y “europea”, en un momento en que
@@ -167,7 +167,7 @@ integrarse. La canción alude a este fenómeno de forma satírica: Villoldo escr
 falsificado”, que parodiaba a los inmigrantes italianos ansiosos por pasar por nativos porteñoses.wikipedia.org. De hecho, la letra original de El
 Porteñito mezcla términos lunfardos de origen italiano (vento por dinero, nichil/níquel por moneda, etc.) con giros criollos, reflejando la jerga
 
-[[6]]
+[[p=6]]
 híbrida de los barrios bajos. Así, la canción canalizaba una realidad silenciada por el discurso oficial: la rápida criollización del inmigrante y la
 conformación de una nueva identidad urbana. Mientras la élite era desdeñosa con los recién llegados, en el tango –y en el teatro sainetesco– el
 tanito inmigrante aparecía ya sea ridiculizado cariñosamente o incorporado al folklore ciudadano. El Porteñito es un ejemplo temprano de esta
@@ -198,7 +198,7 @@ Gobbi lo grababan en París, exportando el tango al mundopagina12.com.ar. Tan po
 Primera Guerra Mundial en 1916, en un banquete con corresponsales extranjeros en el frente alemán, ante la falta de partitura del Himno
 Nacional Argentino, ¡una banda tocó El Choclo de memoria como símbolo patrio reconocido!pagina12.com.ar. La anécdota resume la
 
-[[7]]
+[[p=7]]
 microhistoria cultural de esta canción: nacida en el arrabal prostibulario porteño y rechazada por la alta sociedad, fue blanqueada como danza
 criolla, grabada en Europa y finalmente aclamada mundialmente al punto de representarnos en el exterior. El Choclo refleja así la transformación
 de un arte popular perseguido en emblema nacional: sus notas escondieron picardías y penas de los suburbios –ese bajo fondo de inmigrantes,
@@ -230,7 +230,7 @@ que costó 2.000 pesetas
 y que corre más que un tren...
 Por la tarde yo me monto,
 
-[[8]]
+[[p=8]]
 y más ligero que un rayo,
 voy a lucir este cuerpo
 por la Avenida de Mayo.”todotango.com
@@ -260,7 +260,7 @@ paseo en bici, la moda, el cine), da voz a la vida urbana común, una realidad h
 populares. “La bicicleta” pone en palabras, con humor crítico, cambios sociales que podían resultar chocantes o silenciados en la cultura formal:
 la emancipación femenina incipiente, la influencia foránea en las costumbres y la llegada de la modernidad cosmopolita a una ciudad en
 
-[[9]]
+[[p=9]]
 transformacióntodotango.comtodotango.com. Es, en definitiva, una microhistoria cantada del Buenos Aires del Centenario, donde la risa sirve
 para asimilar los vertiginosos cambios de la época.
 
@@ -293,7 +293,7 @@ teatros y a las grabaciones comercialeses.wikipedia.orges.wikipedia.org. La exit
 por la actriz Manolita Poli) marcó un hito: el público aplaudió de pie al tango en escena, señal de que el género cruzaba del bajo fondo a la clase
 media urbanaes.wikipedia.org. En el plano cultural, Argentina se encontraba entre la tradición criolla y la influencia europea: la letra de Contursi,
 
-[[10]]
+[[p=10]]
 escrita en décimas (forma poética gauchesca) y salpicada de lunfardo –jerga arrabalera de origen inmigrante–, mezcla lo popular y lo
 cultoes.wikipedia.org. La temática del hombre abandonado por su mujer resultó novedosa y resonante en aquella sociedad de rígidos roles de
 género: en plena era del honor masculino, aparecía un compadrito que confesaba llorar por amor perdido. Muchos varones migrantes llevaban
@@ -324,7 +324,7 @@ hombre, en un género musical mayormente masculino”revistas.uncu.edu.ar. En ot
 canción indirectamente visibiliza la creciente autonomía femenina (esa percanta que decide irse desafía el ideal sumiso de mujer). Asimismo, al
 usar lunfardo y tono confesional, “Mi noche triste” legitimó las vivencias de los humildes: rompió el silencio en torno al sufrimiento sentimental
 
-[[11]]
+[[p=11]]
 en las clases bajas y normalizó que el hombre exprese su vulnerabilidad. La popularidad masiva de este tango evidenció que dichas emociones
 latentes –la tristeza, el “esplín” porteño– eran ampliamente compartidas. En síntesis, esta microhistoria musical canaliza un duelo íntimo que
 representaba a miles de inmigrantes y criollos anónimos, convirtiendo en arte los sentimientos hasta entonces inconfesables del Buenos Aires
@@ -357,7 +357,7 @@ protagonista es arquetípica de la “milonguita”: “la joven de barrio que s
 al cabaret”scielo.br. Durante los 1910s Buenos Aires experimentó un auge de la vida nocturna: proliferaban los cabarets de lujo, los teatros de
 revistas y los bailes de moda frecuentados por la élite y por buscavidas. En esa atmósfera, muchas muchachas de origen humilde –criadas en
 
-[[12]]
+[[p=12]]
 conventillos de inmigrantes– eran tentadas por la promesa de ascenso social rápido: trabajo como cocotte o corista, joyas, ropa fina, champán y
 hombres adinerados. La letra ubica a la protagonista en ese contexto: a los 14 años se inicia en la farra del gotán (el tango y sus fiestas),
 pretendiendo figurar como “niña bien” pese a sus orígenes (incluso llega a tener sirvienta y a casarse con un comerciante
@@ -388,7 +388,7 @@ social. Pero Contursi describe cómo tras la fiesta viene la degradación: la pr
 quedar “sin corazón” por los desengaños y sin nadie que la quierafloresdelfango.blogspot.comfloresdelfango.blogspot.com. Es una crítica a la
 hipocresía social: los mismos hombres “amigos” que la alabaron “noche a noche en el festín” luego la abandonan en su
 
-[[13]]
+[[p=13]]
 ocasofloresdelfango.blogspot.com. Asimismo, el tango evidencia la falta de redes de contención: “el amor de tu madre te faltó” –dice la letra–
 sugiriendo que la desprotección familiar y la pobreza empujaron a la joven al fangofloresdelfango.blogspot.com. A diferencia de visiones
 simplistas que solo culpaban a la mujer “perdida”, aquí se muestra un sistema de corrupción: rufianes (el “cafetín” y el cafetín), hombres
@@ -421,7 +421,7 @@ Canción (año)           Cita literal & contexto musical             Momento hi
 Edgardo Donato /
                         vecinos; adentro cocktail y amor…»          de la nueva clase media urbana y del erotismo indoor che‐moderno. El título
 
-[[14]]
+[[p=14]]
 Canción (año)          Cita literal & contexto musical           Momento histórico + lectura crítica (con influencias extranjeras)
 
 Carlos C. Lenzi (1925) TangoDC                                   evoca la electricidad —novedad de la década— y el amor clandestino en
@@ -455,7 +455,7 @@ César Vedani (1927) mi cuerpo enfermo no resiste más…»
                                                                 compadrita; además, denuncia velada a la falta de cobertura social (no hay
                                                                 alusión a médicos, sólo a la barra de amigos).
 
-[[15]]
+[[p=15]]
 Canción (año)          Cita literal & contexto musical            Momento histórico + lectura crítica (con influencias extranjeras)
 
                                                                  Compuesto en 1929 y estrenado en el sainete “A la deriva” justo antes del
@@ -491,7 +491,7 @@ mortalidad
 
 Crisis económica   En “Yira… yira” aparece por primera vez la figura del desocupado sin fe, anticipando la depresión de los años 30.
 
-[[16]]
+[[p=16]]
 Eje                 Observaciones
 
 Influencias         Zarzuela y cuplé (España) – “A media luz”; canción napolitana – “Caminito”; jazz/blues – “Adiós muchachos”; expresionismo
@@ -521,7 +521,7 @@ te muerda un dolor, / no esperes nunca una ayuda, / ni una mano, ni un favor”�
 a su suerteelhistoriador.com.ar. El tango emplea abundante lunfardo (como rajés por huir, mango por dinero, manyés por entender), afirmando
 su identidad nacional porteña. Musicalmente es un tango canción tradicional, sin influencias extranjeras evidentes, pero su difusión sí aprovechó
 
-[[17]]
+[[p=17]]
 los nuevos medios masivos: Gardel la interpretó en un cortometraje sonoro de 1930 que llevó el mismo nombre, demostrando cómo el cine y la
 radio incipiente llevaban estas quejas poéticas al público.
 
@@ -551,7 +551,7 @@ soledad del emigrado. Cadícamo utiliza modismos argentinos (anclao en lugar de 
 europeas (el bulevar nevado, las “luces rojizas” de París)fervor.com.ar. Esta fusión de léxico rioplatense con imaginería francesa realza el
 contraste entre la identidad nacional y el ambiente extranjero.
 
-[[18]]
+[[p=18]]
 En cuanto a influencias, “Anclao en París” mantiene el ritmo de tango porteño tradicional —no es un foxtrot ni un swing, sino 2x4 criollo— pero
 su temática refleja la fuerte presencia de la cultura francesa en la Argentina de entreguerras. El tango argentino había conquistado París en los
 años ’20, y aquí ese influjo se invierte: es París la que impacta al argentino. La chanson francesa asoma en la atmósfera melancólica, pero la
@@ -583,7 +583,7 @@ encadenan… hoy puedo ya mirar con mucha pena lo que otros tiempos miré con il
 antes lo deslumbrabatodotango.com. La canción entonces alterna entre viñetas del cabaré y reflexiones sociales mordaces. En una estrofa
 memorably contrapone: “Un viejo verde que gasta su dinero / emborrachando a Lulú con el champán / hoy le negó el aumento a un pobre
 
-[[19]]
+[[p=19]]
 obrero / que le pidió un pedazo más de pan”todotango.com. Aquí denuncia a ese “viejo verde” (hombre mayor libertino) que malgasta en
 juergas mientras explota a sus trabajadores, negándoles un mísero aumento para comer. Otra imagen potente es la de “aquella pobre mujer que
 vende flores / y fue en mi tiempo la reina de Montmartre” vendiendo violetas para aliviar su soledadtodotango.com, mostrando el ocaso de una
@@ -612,7 +612,7 @@ viéndole las mismas miserias. Incluso el título italiano Acquaforte sugiere es
 Europa le recuerdan las de su patria. No aparece influencia de ritmos extranjeros (no es un tango-milonga ni foxtrot), pero sí hay una sensibilidad
 global en la crítica social que formula, cercana a la literatura realista europea de la época.
 
-[[20]]
+[[p=20]]
 Desde una lectura crítica, “Acquaforte” refleja y a la vez denuncia las tensiones sociales e históricas del momento. Por un lado, canaliza la
 frustración de las clases populares ante la hipocresía de las élites: expone al patrón avaro y al burgués decadente en contraposición al obrero
 hambriento y al niño pobretodotango.comtodotango.com. Por otro lado, pone en palabras el desencanto generalizado tras el derrumbe de las
@@ -643,7 +643,7 @@ pie de la Santa Cruz, / una anciana desolada llorando implora a Jesús: / ‘Por
 nuestro hijo, ¡Protégelo, Señor!’”todotango.com. Aquí vemos a los padres del obrero, dos ancianos rezando desesperados ante una cruz,
 pidiéndole a Dios que proteja a su hijo. Es un momento de intensa emotividad religiosa, que Battistella —católico y dramaturgo— volcó para
 
-[[21]]
+[[p=21]]
 reflejar la impotencia de la familia trabajadora frente a la injusticia. El padre, dice la canción, ya “no sabe ya rezar” pero igual protesta
 tembloroso: “¿Qué mal te hicimos nosotros pa’ darnos tanto dolor?”todotango.comhumanidad.com.ar, cuestionando a Dios por su sufrimiento,
 mientras la madre repite “¡Protégelo, Señor!”. En la última parte, el tango describe vívidamente la escena de la deportación: “Los pies
@@ -674,7 +674,7 @@ compositor, era pianista clásico y figura del tango desde los años ’10). La 
 de vals triste o estilo, acorde a la temática sensible. En la letra, Battistella emplea principalmente castellano estándar, casi sin lunfardismos: usa
 “jornal” (salario) en vez de un argentinismo, “huelga” en lugar de strike etc. Solo encontramos “pa’” por para y algún “¡che!” implícito, lo cual
 
-[[22]]
+[[p=22]]
 sugiere que quiso dar un tono serio y comprensible para todos los públicos, sin jerga marginal. Esto marca un contraste con tangos llenos de
 lunfardo: aquí la prioridad es el contenido social, no tanto la porteñidad lingüística. La identidad nacional se expresa más bien en la temática (la
 lucha obrera argentina de la época) y en la sensibilidad melodramática, muy afín al gusto popular local (recordemos que Battistella también
@@ -705,7 +705,7 @@ ponía música y letra, en ritmo de tango milonga, usando un lenguaje lunfardo i
 metafóricamente alude a una mezcolanza caótica. Discépolo tomó esa imagen para retratar un mundo patas arriba: “Crisis económica, fraude,
 corrupción, desesperanza...” resume Infobae sobre el contexto en que Discépolo creó “Cambalache”infobae.com. El periodista José Luis Torres
 
-[[23]]
+[[p=23]]
 había bautizado como “Década Infame” al período iniciado con el golpe del 6 de septiembre de 1930 contra Yrigoyen hasta el golpe del 4 de junio
 de 1943infobae.com. En ese lapso de políticos corruptos y estafa institucionalizada, Discépolo alzó su pluma crítica. Como dice un autor,
 describió “esa época como nadie”infobae.com. Cambalache se estrenó a principios de 1935, y su impacto fue inmediato: muchos se sintieron
@@ -736,7 +736,7 @@ buscaba un tango para su filminfobae.com. Lo hizo en medio de la Década Infame,
 que perpetuaron el poder mediante fraude electoral), negociados escandalosos y creciente desigualdad. La crisis económica global golpeó a
 Argentina especialmente entre 1930-33, con alto desempleo y miseria urbana. Muchos argentinos, como Discépolo, veían con cinismo cómo los
 
-[[24]]
+[[p=24]]
 mismos que habían llevado al país a la ruina seguían medrando. En ese sentido, Cambalache expresa a la perfección la desesperanza y
 escepticismo de esos “años de crisis por los que transitaba el país”, sentimiento que Discépolo ya venía plasmando en otros
 tangoshistorionauta.com. De hecho, es parte de una suerte de trilogía discepoliana del desencanto junto a Qué vachaché (1926) y Yira, yira
@@ -767,7 +767,7 @@ refleja la crisis de valores de los años ’30, donde la gente común percibía
 canalizó esa indignación colectiva a través de una ironía mordaz: en vez de clamar por justicia (como Al pie de la Santa Cruz), optó por un tono
 resignado y sarcástico que caló hondo. Muchos argentinos se identificaron con la idea de vivir “en un mismo lodo, todos
 
-[[25]]
+[[p=25]]
 manoseados”infobae.com. La letra cumple así una función casi catártica: al cantarla, la sociedad se ríe de su propia desgracia y la expone. Este
 tango, además, permitió poner en debate la moral de la época; por ejemplo, la frase “el que no afana es un gil” (quien no roba es un tonto) era
 un dardo directo a la ética imperante, y sigue usándose para describir corrupción en cualquier época. Historiadores y críticos a menudo citan
@@ -798,7 +798,7 @@ lo “turbio”, la quietud mortuoria de los barcos varados eternamente, y se ha
 de seres (personas, barcos) cuyo espíritu se ha quebrado. Continúa mencionando “Puentes y cordajes donde el viento viene a aullar, / barcos
 carboneros que jamás han de zarpar… / Torvo cementerio de las naves que al morir, / sueñan sin embargo que hacia el mar han de
 
-[[26]]
+[[p=26]]
 partir…”tangodc.com. La imagen del puerto abandonado se completa con puentes chirriantes, el viento ululando entre las jarcias, las barcazas
 carboneras que nunca partirán, y un cementerio de naves que aún sueñan con zarpar (un guiño a esperanzas ilusorias que persisten incluso en la
 muerte). Luego irrumpe el estribillo, que personifica a la niebla misma: “¡Niebla del Riachuelo!… / Amarrado al recuerdo yo sigo esperando… /
@@ -828,7 +828,7 @@ desencanto generacional: los “barcos que ya no navegan” son también los sue
 mundo” son quizás aquellos inmigrantes que llegaron con ilusiones y las perdieron. De hecho, Cadícamo incluye la frase “sad caravan” y “frágil
 barca prisionera” en la versión original, reforzando la idea de un viaje sin destino ni esperanzastangodc.com. Aunque oficialmente trata de un
 
-[[27]]
+[[p=27]]
 amor perdido, Niebla del Riachuelo transmite una sensación más amplia de estancamiento y pena por lo ido, muy acorde con el clima crepuscular
 de los años 30 tardíos.
 
@@ -859,7 +859,7 @@ La lluvia cayendo “lentamente sobre tu desolación”tangodc.com parece aludir
 lloraba lentamente sus propios desencantos. Curiosamente, Niebla del Riachuelo ha perdurado y encontrado relevancia en distintas épocas
 (incluso aparece en la película Puan de 2023 como guiño culturales.wikipedia.org), lo que demuestra que su retrato de la desolación no es
 
-[[28]]
+[[p=28]]
 privativo de 1937. En la microhistoria cultural de las canciones argentinas, este tango ocupa el lugar del reflejo emotivo: así como otros tangos de
 los ’30 retrataron la ira, la picardía o la denuncia, Niebla… retrató la tristeza y la nostalgia colectivas. En última instancia, nos muestra que las
 tensiones históricas no solo generan protesta, sino también introspección; a veces el espíritu de una época se capta mejor en un lamento poético
@@ -890,7 +890,7 @@ música, esto coincidió con la década prodigiosa del tango – la edad de oro 
 creatividades.wikipedia.org. Al mismo tiempo, ritmos folklóricos antes relegados (zambas, chamamés, milongas camperas) comenzaron a
 conquistar las grandes ciudades, impulsados por la migración interna y una revalorización de lo criollorevistas.inah.gob.mxrevistas.inah.gob.mx.
 
-[[29]]
+[[p=29]]
 Sin embargo, no todo fue apertura: el régimen militar de 1943 impuso censura para “adecentar” las letras de tango, prohibiendo el lunfardo
 (argot porteño) y referencias consideradas inmorales en los medioses.wikipedia.orges.wikipedia.org.
 
@@ -920,7 +920,7 @@ angustia emocional íntima: la tristeza de Malena al cantar representa a la vez 
 enorme aceptación que tuvo (surgiendo incluso en la película El viejo Hucha, 1942es.wikipedia.org) sugiere que el público se identificó con esa
 mezcla de nostalgia y desgarro contenido en la voz de Malena.
 
-[[30]]
+[[p=30]]
 Identidad e influencias: “Malena” es orgullosamente tanguera en su imaginería: evoca el arrabal (“yuyo del suburbio su voz perfuma”) y el
 bandoneón como emblema de la pena argentinatodotango.com. Al mismo tiempo, revela influencias extranjeras en su factura poética y musical.
 Manzi se inspiró en la poesía moderna (fue influenciado por el surrealismo francés y por poetas como Neruda y García Lorcaes.wikipedia.org), lo
@@ -952,7 +952,7 @@ sin corazón… vacío ya de amar y de llorar tanta traición”todotango.com. E
 el corazón que di… si yo pudiera como ayer querer sin presentir…”infobae.com), pero reconoce que llega “ya muy tarde” para volver a creer. El
 final es desolador, con una imagen de muerte en vida: “Dios te trajo a mi destino sin pensar que ya es muy tarde… Déjame que llore como aquel
 
-[[31]]
+[[p=31]]
 que sufre en vida la tortura de llorar su propia muerte”todotango.com. En conjunto, la letra de Discépolo es un retrato desgarrado de la
 desesperanza.
 
@@ -983,7 +983,7 @@ leerse en clave histórica como el ánimo desencantado de la posguerra y la posc
 personalísimo, logrando que el oyente se vea reflejado en “uno” (cualquier persona). La crítica destaca que Discépolo “describió como nadie el
 desconsuelo de quien sufrió una traición tan grande que se siente incapacitado de volver a confiar”infobae.com. Esa incapacidad de volver a creer
 
-[[32]]
+[[p=32]]
 en el amor puede interpretarse metafóricamente como la dificultad de una sociedad para recuperar la inocencia después de años duros (una
 guerra mundial, divisiones políticas, promesas rotas). En última instancia, “Uno” canaliza la crisis de fe de su época. Su legado cultural es el de un
 tango-himno al desencanto, cuya vigencia perdura porque muchos pueblos han sentido, en distintos momentos históricos, ese quedarse “sin
@@ -1015,7 +1015,7 @@ peronismo atraían a muchos “arrieros” reales o simbólicos –campesinos, p
 contrasta la riqueza natural (las “vaquitas”) con la pobreza de quienes la trabajan (las “penas”), reflejando el sentir de las clases postergadas. Es
 importante notar que Yupanqui, afiliado al Partido Comunista por un tiempo, sufrió censura: en 1948 sería detenido y sus canciones, vetadas en
 
-[[33]]
+[[p=33]]
 radio. “El arriero” en sí, con su lenguaje metafórico, eludió la censura explícita, pero su mensaje era claro para el público: encarnaba el reclamo
 de justicia social de los humildes. No por casualidad, ese estribillo se volvió popular en marchas y en el imaginario político a lo largo de las
 décadas.
@@ -1045,7 +1045,7 @@ vigente como crítica social en el habla cotidiana.
 
 “Se dice de mí” (1943) – Milonga porteña (Francisco Canaro / Ivo Pelay) popularizada por Tita Merello
 
-[[34]]
+[[p=34]]
 Autores y año: Milonga compuesta en 1943, con música del director Francisco Canaro y letra del dramaturgo Ivo Pelaytodotango.com.
 Originalmente fue escrita para ser cantada por un hombre (la letra narraba en masculino) y el primer registro lo hizo el cantor uruguayo Carlos
 Roldán con la orquesta de Canaro en mayo de 1943secondhandsongs.com. Sin embargo, su versión definitiva y famosa llegaría más de una
@@ -1076,7 +1076,7 @@ gil, engrupí), lo cual quizás limitó inicialmente su difusión por radio. No 
 de milonga picaresca era bien recibida por el público. Representaba un escape humorístico en tiempos serios: mientras corrían rumores políticos
 y rigideces morales oficiales, en la canción una mujer del pueblo respondía a los chismes con desparpajo. Cuando finalmente Tita Merello la
 
-[[35]]
+[[p=35]]
 cantó en cine, ya bajo un gobierno peronista, el país había atravesado cambios en el rol de la mujer (Evita había empoderado simbólicamente a
 las humildes, y se había instituido el voto femenino en 1947). Así, “Se dice de mí” adquirió tintes de canción proto-feminista, celebrada por dar
 voz a una mujer independiente que no encaja en los estereotipos pero igual se impone con su personalidad.
@@ -1106,7 +1106,7 @@ autenticidad femenina años antes de que el feminismo se articulara abiertamente
 –incluso en la cultura pop internacional, como en la telenovela Yo soy Betty, la fea– como un símbolo de la mujer que se ríe de los estereotipos y
 se acepta tal cual es.
 
-[[36]]
+[[p=36]]
 “Adiós Pampa mía” (1945) – Tango campero de Mariano Mores, Francisco Canaro e Ivo Pelay
 
 Autores y año: Tango campero compuesto en 1945, con música de Mariano Mores (brillante pianista de 27 años) en coautoría con Francisco
@@ -1137,7 +1137,7 @@ como el folklore. “Adiós Pampa mía” encaja perfectamente en ese clima: es 
 Argentinas (la urbana y la gaucha) en un momento de integración social. La revista El tango en París donde se estrenó tenía justamente esa
 intención de mostrar el tango y la identidad argentina al mundo (París como vitrina). En la trama, según se sabe, esta canción la entonaba un
 
-[[37]]
+[[p=37]]
 personaje que se despedía de su tierra para triunfar afueraes.wikipedia.org. Así, el contexto es doble: por un lado, el deseo de proyección
 internacional de la cultura argentina tras la guerra (llevar el tango y la imagen del gaucho a otros países), y por otro, la realidad interna de las
 migraciones. En la posguerra, miles de provincianos dejaron sus pampas para ir a la ciudad industrial (Buenos Aires), o incluso emigraron a otras
@@ -1168,7 +1168,7 @@ retorno. En clave política, el tango fue apropiado en cierto modo por el discur
 que se despide de su pampa para integrarse a la nación moderna, pero sin renunciar a sus raíces. La tensión campo-ciudad se resuelve aquí en
 poesía: la pampa es idealizada, la ciudad ni se menciona; es un tango escapista que invita a imaginar la Argentina agraria, justo cuando el país
 
-[[38]]
+[[p=38]]
 avanzaba hacia la industrialización. Culturalmente, la popularidad de “Adiós Pampa mía” señaló una ruptura simbólica: el tango, género urbano,
 abría sus brazos a temáticas rurales, rompiendo cierta frontera. Ello preanuncia la fusión mayor de folklore y tango que se daría años después
 (cuando músicos ciudadanos graben zambas, o surja el boom folklórico en la capital). En su momento, la canción fue un éxito porque ofreció
@@ -1201,7 +1201,7 @@ y “ronca maldición maleva” en la canción – llora con lágrimas de ron, a
 Contexto: El tango surge en un momento amargo de la historia argentina. Tras la caída de Perón (1955) y la violenta represión de la dictadura de
 Aramburu, un clima de incertidumbre y desencanto envolvía al país. Castillo, hijo de un anarquista y él mismo influido por Rubén Darío y la
 
-[[39]]
+[[p=39]]
 poesía modernistarevistakm0.com, vierte en esta obra un sentimiento universal de desilusión. La “herida absurda” puede leerse como eco de
 una generación golpeada por las crisis sociales y existenciales de mediados de siglo.
 
@@ -1233,7 +1233,7 @@ superadoes.wikipedia.orges.wikipedia.org. La letra, en primera persona, nos sit�
 sus preparativos porque esa noche habrá baile en lo de Cambicha (una paisana hechicera que regentea un boliche afuera del pueblolacoscoja-
 fogoncriollo.blogspot.com). Con humor picaresco, Millán Medina describe la identidad litoraleña: se bailará chamamé “milongueado” (mezcla
 
-[[40]]
+[[p=40]]
 del ritmo nordestino con cadencias de milonga/tango)lyricstranslate.com, y el paisano luce sus galas típicas: “camisa ’e plancha… pañuelo
 celeste, bombacha bataraza, alpargatas… sombrero bien aludo con una flor”lyricstranslate.com. No faltan toques locales en el lenguaje –
 guaraníes y camperos – como chanzas (bromas), huainas (chicas), tagüé (entrerrianos).
@@ -1264,7 +1264,7 @@ histórico muestra la otra cara: la élite gobernante tras 1955 intentó suprimi
 silencio forzado en años posteriores refleja cómo una simple canción quedó atrapada en las luchas de poder simbólicas (Peronismo vs.
 antiperonismo, pueblo vs. élite). Hoy “El rancho ’e la Cambicha” se recuerda como pionera: abrió paso al folklore en radio y cine, y sus
 
-[[41]]
+[[p=41]]
 pintorescos versos siguen evocando aquel momento en que la Argentina profunda subió al escenario de la cultura
 nacionales.wikipedia.orges.wikipedia.org.
 
@@ -1295,7 +1295,7 @@ tierra (1939, de Soffici) o Las aguas bajan turbias (1952, de Hugo del Carril) h
 canción se inscribe en esa tradición testimonial. Fue ganando popularidad en peñas folklóricas y círculos de izquierda; Ayala entabló lazos con
 artistas del Nuevo Cancionero (Tejada Gómez, Mercedes Sosa) y viajó a la Cuba revolucionaria en los ’60, donde grabó “El mensú” en un
 
-[[42]]
+[[p=42]]
 encuentro de canción protestasedici.unlp.edu.arsedici.unlp.edu.ar. Todo esto realza su carácter de canción comprometida, precursora de la
 canción protesta en Argentina.
 
@@ -1325,7 +1325,7 @@ Autores: Música de Francisco Canaro; letra original de Ivo Pelay (1943). Versi�
 1954secondhandsongs.com. Interpretada por Tita Merello con la orquesta de Canaro; popularizada en la película Mercado de Abasto (estrenada
 en 1955)secondhandsongs.com.
 
-[[43]]
+[[p=43]]
 “Se dice que soy fiera,
 que camino a lo malevo,
 que soy chueca y que me muevo
@@ -1356,7 +1356,7 @@ Identidad e influencias: “Se dice de mí” es, ante todo, bien porteña. Es u
 orígenes), con letra repleta de lunfardismos y modismos locales: malevo (matón de barrio), compadrón, gil (tonto). La orquesta de Canaro le
 imprime un compás ágil y sincopado, casi de swing, mostrando la influencia de los ritmos de jazz y foxtrot que rondaban en los clubes de la
 
-[[44]]
+[[p=44]]
 época. De hecho, la puesta en escena en el film –con Tita gesticulando graciosamente– recuerda a los números musicales de comedia
 hollywoodense, adaptados al contexto arrabalero. También la tradición del cuplé español y la revista porteña asoma en la picardía de la letra (no
 en vano Pelay era autor teatral). Aun así, la canción conserva la esencia de tango-milonga: instrumentación típica (bandoneón, violines, piano) y
@@ -1386,7 +1386,7 @@ que no puedo consolarme sin poderte contemplar?...
 Ya que pagaste mal a mi cariño tan sincero,
 sólo conseguirás que no te nombre nunca más.”lanacion.com.ar
 
-[[45]]
+[[p=45]]
 Esta emotiva canción tiene una historia singular, atravesando fronteras y géneros. Nació en Buenos Aires en 1936, cuando Cabral y Dizeo
 compusieron un vals criollo con aire de zamacueca peruana, lejos del tango y del folklore tradicionallanacion.com.ar. Conocida popularmente
 por su estribillo “amor de mis amores”, expresa la angustia sentimental de un amante traicionado que decide ocultar su dolor: “Que nadie sepa
@@ -1417,7 +1417,7 @@ adaptase luego a mariachis. Por otro lado, la transformación en “La foule” 
 acordeón musette, letra poética sobre destino y multitud (temas caros a la sensibilidad europea de posguerra). Es interesante que Piaf aceleró
 un poco el tempo, convirtiéndola en una danza festiva pero con el dramatismo vocal francés. Tenemos entonces un ida y vuelta de influencias:
 
-[[46]]
+[[p=46]]
 un vals sudamericano con raíz afrolatina, tomado por la chanson francesa, que regresa convertido en bolero ranchero. Pocas canciones resumen
 tan bien la circulación transnacional de estilos en los ’50.
 
@@ -1448,7 +1448,7 @@ Canciones argentinas 1960 – 1969
 
 (8 títulos ordenados cronológicamente · fragmentos literales fieles · análisis extenso · cierre con “ecos en otras artes”)
 
-[[47]]
+[[p=47]]
 Año Canción · Autores (Género)                  Microhistoria
 
                                            Letra (inicio): «Rumbo al Pilcomayo voy / desde el alto Paraná; / por un sueño de esperanza / mi
@@ -1479,7 +1479,7 @@ Año Canción · Autores (Género)                  Microhistoria
 
 1965 “Zamba para no morir” – Hamlet Lima        «No quiero la noche sin luna, / no quiero la tierra sin flor…». Escrita tras la represión de protestas
 
-[[48]]
+[[p=48]]
 Año Canción · Autores (Género)                 Microhistoria
 
        Quintana / Norberto Ambrós /            estudiantiles en Córdoba (1965), proclama la dignidad de vivir pese al dolor. El “no morir” es ética
@@ -1513,7 +1513,7 @@ Año Canción · Autores (Género)                 Microhistoria
                                                Cordobazo gestándose y el mayo francés; Walsh conecta con la ola mundial de rebeldía.
                                                Estructura de zamba lenta mezclada con chacarera y “ballad” anglosajona; se convertirá en himno
 
-[[49]]
+[[p=49]]
 Año Canción · Autores (Género)                   Microhistoria
 
                                                  democrático tras 1974.
@@ -1545,7 +1545,7 @@ protesta        del Ángel) programan a Walsh y a Heredia, mezclando canción y 
 
 Artes visuales Tucumán Arde (1968) expone fotografías de ingenios azucareros al ritmo de grabaciones folklóricas; la zamba-protesta refuerza la
 
-[[50]]
+[[p=50]]
 Área           Reflejo / diálogo con las canciones
 
                crítica al capitalismo rural.
@@ -1578,7 +1578,7 @@ Tabla Síntesis: Canciones Destacadas de la Década de 1960
 Año                                                                                  Motivo de relevancia histórico-cultural
                    Intérprete / Soporte)          (máx. 3 versos)                                                               abreviada)
 
-[[51]]
+[[p=51]]
 “Los Ejes de mi Carreta”                                        Estoicismo y resistencia individualista
                                               «Porque no engraso los ejes /
 1965 (aprox.      (Milonga Pampeana ·                                             frente a la norma en un contexto de     Risso & Yupanqui
@@ -1621,7 +1621,7 @@ popularización)   Atahualpa Yupanqui / Vinilo                                  
 1969              “Presente (El momento en       «Todo concluye al fin, nada    Reflexión existencial sobre la fugacidad Soulé (SADAIC;
                   que estás)” (Canción rock ·    puede escapar. / Todo tiene un de la vida y la inevitabilidad de la     Caliente LP)
 
-[[52]]
+[[p=52]]
 Vox Dei / Vinilo LP)          final, todo termina. / Tengo que muerte, con un mensaje de vivir el
                                                 comprender, no es eterna la      presente. Marcó al rock con
                                                 vida.»                           profundidad filosófica.
@@ -1653,7 +1653,7 @@ conflicto con su entorno.
 Lectura crítica: La canción, en su aparente simpleza, es una profunda declaración de principios. El "no engrasar los ejes" es una metáfora de la
 negativa a seguir las convenciones sociales, a silenciar la propia voz o individualidad ("Si a mí me gusta que suenen, / ¿Pa qué los quiero
 
-[[53]]
+[[p=53]]
 engrasaos?"). Canaliza una resistencia pasiva, un estoicismo ante la vida ("Nadie me obliga a quererlos / por fuerza los he de usar"). Es un canto a
 la libertad interior y a la aceptación del propio ser, con sus "ruidos". Sigue siendo un estándar por su universalidad y la identificación con la figura
 íntegra de Yupanqui.
@@ -1685,7 +1685,7 @@ bajo un régimen autoritario. El "bosque" es la utopía de la libertad. "Lo no d
 impuesta. Se convirtió en un himno underground por su mensaje de esperanza y resistencia individual. Sigue siendo un estándar por su sencillez
 poética y su capacidad de evocar el anhelo universal de libertad.
 
-[[54]]
+[[p=54]]
 Citas literales: «Voy por la ciudad, / buscando mi libertad, / pero no la encuentro en ningún lugar.» (Birabent, M. Letra referenciada en Pujol, S.
 (2005). Rock y dictadura. Buenos Aires: Booket, y consistente con versiones grabadas).
 
@@ -1716,7 +1716,7 @@ pintura social que expone "lo no dicho": la pobreza, la contaminación ("el humo
 habita ese entorno. Es el blues de la urbe desangelada, un lamento existencial y social. Su estatus de "estándar" radica en su autenticidad, su
 perfecta fusión de forma (blues) y contenido (realidad local), y su rol pionero.
 
-[[55]]
+[[p=55]]
 Citas literales: «Vía muerta, calle con asfalto siempre destrozado. / Un hilo de agua turbia con un resto de algún vino derramado. / Tren de carga,
 el humo y el hollín están en todos lados.» (Martínez, J. & Gabis, C. Letra del LP "Manal", Mandioca, 1970. Confirmada en SADAIC).
 
@@ -1748,7 +1748,7 @@ materialista que margina al diferente, al soñador. El escándalo en el festival
 Sigue siendo un estándar por su exquisita fusión de poesía y música, su retrato entrañable de la bohemia porteña y su himno a la libertad del
 espíritu.
 
-[[56]]
+[[p=56]]
 Citas literales: «Ya sé que estoy piantao, piantao, piantao... / No ves que va la luna rodando por Callao; / y un coro de astronautas y niños con un
 vals,» (Ferrer, H. & Piazzolla, A. Letra según SADAIC y transcripciones de la época del Festival).
 
@@ -1780,7 +1780,7 @@ pilares de la cultura rock argentina.
 Citas literales: «Muchacha ojos de papel, / ¿adónde vas? Quédate hasta el alba. / Muchacha pequeños pies, no corras más.» (Spinetta, L.A. Letra
 del LP "Almendra", RCA Vik, 1969. Confirmada en SADAIC).
 
-[[57]]
+[[p=57]]
 6. “Presente (El momento en que estás)”
 
 Genealogía musical: Compuesta principalmente por Ricardo Soulé, guitarrista y vocalista de Vox Dei, "Presente" es una de las canciones más
@@ -1813,7 +1813,7 @@ Citas literales: «Todo concluye al fin, nada puede escapar. / Todo tiene un fin
 
 Resumen de Tendencias de la Década de 1960 en la Música Argentina
 
-[[58]]
+[[p=58]]
 La década de 1960 fue un período de profundas transformaciones musicales y culturales en Argentina. El folklore vivió un "boom" sin
 precedentes, impulsado por festivales como Cosquín y figuras como Atahualpa Yupanqui y Mercedes Sosa, con el surgimiento del Nuevo
 Cancionero que buscó renovar temáticas y formas. El tango, aunque con menor masividad que en décadas previas, vio la consolidación de la
@@ -1846,7 +1846,7 @@ Fragmento de código
 Manal MLO 001) y Single (Mandioca MS011)","05:20","1969","[sin confirmar cifras exactas, impacto cultural alto]","[sin confirmar ranking
 específico, alta rotación en círculos underground]","No censura directa de la canción; contexto de represión general al rock (Pujol,
 
-[[59]]
+[[p=59]]
 2005).","Tensión social, Angustia existencial (urbana)","Blues de Chicago (Muddy Waters, Howlin' Wolf), Blues británico (John Mayall)","Piedra
 angular del blues en castellano en Argentina; influencia en Pappo's Blues, Memphis La Blusera.","Vía muerta, calle con asfalto siempre
 destrozado. / Un hilo de agua turbia con un resto de algún vino derramado. / Tren de carga, el humo y el hollín están en todos lados.","Letra del
@@ -1878,7 +1878,7 @@ Tabla Síntesis: Canciones Destacadas de la Década de 1970
 Año                                                                            Motivo de relevancia histórico-cultural
       Soporte)                       versos)                                                                                 abreviada)
 
-[[60]]
+[[p=60]]
 Cruda y directa enumeración del
      “La Marcha de la Bronca”       «Bronca cuando ríen satisfechos / al
                                                                          descontento social y la hipocresía en los             Cantilo & Durietz
@@ -1922,7 +1922,7 @@ Cruda y directa enumeración del
 1979 Progresivo/Balada · Serú Girán bien las muelas. / Caen las medias      paranoia y el suicidio en el clima opresivo        Sazam/Music Hall LP)
      / Vinilo LP)                   veladas / y en la vía ves la luz.»      de la dictadura. Censurada por "incentivar
 
-[[61]]
+[[p=61]]
 al suicidio".
 
 Exportar a Hojas de cálculo
@@ -1954,7 +1954,7 @@ pero nunca nada queda claro»). No recurre a metáforas complejas, sino que su f
 agotamiento de un modelo de país y la premonición de mayores conflictos. Sigue siendo un estándar por su honestidad brutal y por encapsular el
 espíritu contestatario de una generación.
 
-[[62]]
+[[p=62]]
 Citas literales: «Bronca cuando ríen satisfechos / al haber comprado sus derechos / Bronca cuando se hacen moralistas» (Cantilo, M. & Durietz, J.
 Letra del single CBS 22.249, 1970. Confirmada en SADAIC).
 
@@ -1986,7 +1986,7 @@ conexión.
 Citas literales: «Estoy encerrado aquí, / sólo quieren que me escape. / El olor a pan que nunca olvidaré.» (García, C. Letra del LP "Confesiones de
 Invierno", Talent/Microfon, 1973. Confirmada en SADAIC). Nota: El fragmento de la tabla es el estribillo icónico, este es otro verso significativo.
 
-[[63]]
+[[p=63]]
 3. “Libertango”
 
 Genealogía musical: Compuesta por Astor Piazzolla, "Libertango" es una de sus obras más famosas a nivel mundial y un punto de inflexión en su
@@ -2019,7 +2019,7 @@ Citas literales: (Instrumental).
 Genealogía musical: Compuesta por Luis Alberto Spinetta y grabada con su banda Invisible (Spinetta, "Machi" Rufino, "Pomo" Lorenzo). La
 canción es un ejemplo del rock progresivo y jazz-rock con elementos de psicodelia que caracterizó a Invisible. Spinetta, con su lenguaje poético y
 
-[[64]]
+[[p=64]]
 hermético, continuaba la senda lírica iniciada en Almendra, pero con mayor complejidad musical. Influencias de King Crimson o Mahavishnu
 Orchestra pueden rastrearse, pero siempre tamizadas por su originalidad. El legado de Invisible es el de una de las bandas más sofisticadas e
 influyentes del rock argentino.
@@ -2051,7 +2051,7 @@ la canción de protesta latinoamericana. Gieco, conocido como "el Bob Dylan arge
 lírica comprometida socialmente. La melodía simple pero emotiva y la letra directa contribuyeron a su masividad. Su legado es haber creado una
 de las canciones de protesta más versionadas y reconocidas a nivel mundial.
 
-[[65]]
+[[p=65]]
 Arqueología de la fuente: Compuesta por Gieco alrededor de 1978, mientras se vislumbraba el conflicto fronterizo con Chile por el Canal de
 Beagle. Fue incluida en su cuarto álbum, "IV LP" (Sazam Records – SLI 15020), grabado en 1978 y lanzado ese mismo año o principios de 1979.
 Inicialmente, Gieco no estaba convencido de incluirla. Paradójicamente, la dictadura (que fomentaba la hipótesis bélica con Chile) no la censuró
@@ -2081,7 +2081,7 @@ rock progresivo y sinfónico que cultivó Serú Girán. La banda recogió influe
 identidad lírica y melódica profundamente argentina. El legado de Serú Girán es el de haber llevado al rock nacional a un nivel de refinamiento
 musical y poético sin precedentes.
 
-[[66]]
+[[p=66]]
 Arqueología de la fuente: Compuesta por Charly García en 1979. Fue incluida en el segundo álbum de Serú Girán, "La grasa de las capitales"
 (Sazam/Music Hall – 13001), lanzado en 1979. El álbum fue un éxito crítico y comercial, a pesar de su densidad conceptual. "Viernes 3 AM" fue
 censurada por el COMFER (Comité Federal de Radiodifusión) poco después de su lanzamiento, con el argumento de que "incentivaba al suicidio".
@@ -2113,7 +2113,7 @@ Gieco. El tango, de la mano de Piazzolla, continuó su renovación. Sin embargo,
 se volvió sistemática, las "listas negras" llevaron a muchos artistas al exilio (interno o externo) o al silencio. La producción discográfica se resintió,
 y la difusión radial fue severamente controlada. Como respuesta, el lenguaje musical se volvió más metafórico y elíptico (Serú Girán, Invisible)
 
-[[67]]
+[[p=67]]
 para sortear la censura. Surgieron espacios under y el cassette facilitó la circulación de música prohibida o no oficial. A pesar del terror, la música
 se erigió como un refugio vital y una forma de resistencia cultural, sembrando las semillas para el resurgimiento que vendría con la recuperación
 de la democracia.
@@ -2148,7 +2148,7 @@ Pedro y Pablo (1970)
 Horacio Guarany &            / muere de espanto la esperanza, poco antes de la muerte de Perón y reutilizada como título de una película
 Atahualpa Yupanqui           la luz y la alegría» Folklore del      (1973), la canción denunció la censura sistemática de la música popular. Tras el
 
-[[68]]
+[[p=68]]
 Canción (año)              Cita literal & contexto musical     Momento histórico + lectura crítica (con guiños a cine y literatura)
 
 (1972)                     NorteWikipedia                      golpe de 1976, Guarany fue amenazado por la Triple A, debió exiliarse y el tema
@@ -2183,7 +2183,7 @@ compuesta en dictadura)*
 
 Lecturas transversales (1970-1979)
 
-[[69]]
+[[p=69]]
 Eje                 Observaciones
 
 Protesta vs.        De la ira directa de “Marcha de la bronca” al simbolismo de “Alicia…” se ve la curva de auto-censura creativa que impuso la
@@ -2215,7 +2215,7 @@ Canciones argentinas clave de los años 60
 
 (ocho microhistorias – letras literales resumidas, contexto social-cultural, vínculos con cine y literatura)
 
-[[70]]
+[[p=70]]
 Fragmento literal (verso
 Nº Canción · Año · Género                                          Microhistoria cultural (síntesis)
                                       clave)
@@ -2252,7 +2252,7 @@ Nº Canción · Año · Género                                          Microhi
   Piazzolla / Horacio Ferrer, 1969 · hora en que los chicos / se
                                                                  banda ampliada. Retrata al flâneur “loco” que se rebela contra la ciudad
 
-[[71]]
+[[p=71]]
 Fragmento literal (verso
 Nº Canción · Año · Género                                          Microhistoria cultural (síntesis)
                                        clave)
@@ -2291,7 +2291,7 @@ Nº Canción · Año · Género                                          Microhi
 
 8 “El extraño de pelo largo” (La       “ Era un extraño de pelo    Juventud contestataria. Single junio-68, arrasa en radios. Retrata al nuevo
 
-[[72]]
+[[p=72]]
 Fragmento literal (verso
 Nº Canción · Año · Género                                          Microhistoria cultural (síntesis)
                                       clave)
@@ -2325,7 +2325,7 @@ resistencia           (relectura 50s)                                         19
 Cómo usar la tabla
 Cada microhistoria resume letra, contexto sociopolítico (dictadura, Cordobazo, migraciones), influencias externas (rock, chanson,
 
-[[73]]
+[[p=73]]
 existencialismo) y ecos en cine o libros coetáneos. Estas ocho piezas muestran la transición de la Argentina de los ’60: del tango crepuscular y el
 folklore testimonial al estallido del rock nacional y la canción latinoamericanista, todas atravesadas por la angustia, la rebeldía y la búsqueda de
 identidad.
@@ -2366,7 +2366,7 @@ identidad.
   Falus (Sosa, 1973)       YouTube                                                                 exilio de Sosa.
                                                                latinoamericana.
 
-[[74]]
+[[p=74]]
 # Canción (autor/es · año) Fragmento literal                  Contexto histórico-social & cultural Lectura crítica (identidad & tensiones)
 
                              «Ahí va el Capitán Beto por el   Golpe del 24-III-76: dictadura y Sci-Fi Rock progresivo + jazz fusión. Fábula sobre
@@ -2411,7 +2411,7 @@ identidad.
 
 10 “Balada para un loco” –   «Yo a Buenos Aires me la         Gran escándalo del Festival de Tango Nuevo tango con orquesta & bandoneón
 
-[[75]]
+[[p=75]]
 # Canción (autor/es · año) Fragmento literal                  Contexto histórico-social & cultural Lectura crítica (identidad & tensiones)
 
    A. Piazzolla / H. Ferré    imagino eterna, loca y mía…» ’69; divide a tradicionalistas vs.   eléctrico; monólogo teatral influido por la
@@ -2443,7 +2443,7 @@ búsqueda de un sentido cuando “todo es bronca, soledad o milagro”.
 (ordenadas cronológicamente; incluyen rock, pop, folklore-fusión y la cumbia que empieza a asomar; cada ficha resume por qué marcaron la
 década y qué tensión social o cultural dejan entrever)
 
-[[76]]
+[[p=76]]
 Año Canción (género · intérprete / disco)       Por qué fue relevante & qué “dice” de los ’90
 
                                                 Himno de la salida de los ’80: estética “neopsicodélica”, guitarras crujientes, primeras giras
@@ -2482,7 +2482,7 @@ Año Canción (género · intérprete / disco)       Por qué fue relevante & qu
 1996 rock · La Renga / Despedazado por mil      (marginalidad, drogas, falta de futuro). Himno de la clase trabajadora joven del Conurbano en
      partes)                                    pleno ajuste económico.
 
-[[77]]
+[[p=77]]
 Año Canción (género · intérprete / disco)             Por qué fue relevante & qué “dice” de los ’90
 
        Se viene (rock-mestizo · Bersuit               Groove rioplatense + murga: letra sobre el “fantasma de la crisis” que acecha (“se viene el
@@ -2521,7 +2521,7 @@ Eje                        Referencias (música + otras artes)                  
 Euforia vs. depresión
                            pasión” de Fogwill                                                   barrial.
 
-[[78]]
+[[p=78]]
 Eje                       Referencias (música + otras artes)                               Notas rápidas
 
 Fusiones latino-          Cadillacs combinan ska y salsa; Páez y Sosa cruzan pop con
@@ -2557,7 +2557,7 @@ renace en mi cantar
 
              o
 
-[[79]]
+[[p=79]]
    Contexto histórico-social: En 2001 Argentina entraba en el colapso de su economía: corralito bancario, desocupación arriba del 20 % y
         saqueos. Cuando muchos artistas ponían tono de queja, Diego Torres lanzó este himno de autoayuda colectiva. El videoclip muestra
         imágenes de manifestaciones, rostros anónimos y niños jugando en la calle, proponiendo un mensaje de aliento: si te caés, levantate.
@@ -2591,7 +2591,7 @@ y salga toda la porquería
 
 que se oculta allí…”*
 
-[[80]]
+[[p=80]]
    Contexto histórico-social: Tres años después del 2001, Argentina vivía una lenta recuperación y un intenso debate sobre identidad
        nacional. Bersuit volcó esa atmósfera en un rock-candombe corrosivo. El video alterna escenas de cartoneros, pichenik, políticos y
        manifestantes con la banda tocando frente a un río de barro, símbolo de la corrupción enquistada. “La argentinidad al palo” se volvió
@@ -2623,7 +2623,7 @@ que el crimen más hermoso
 
 sería morir de amor…”*
 
-[[81]]
+[[p=81]]
    Contexto histórico-cultural: A mediados de los 2000 el tango había dejado de ser popular y se vivía un revival alternativo: Bajofondo y
         otros tango electrónica ocupaban clubs. Cerati, ex-líder de Soda Stereo, sorprendió al renegar del rock frío y abrazar el tango
         posmoderno. El video, rodado en blanco y negro, muestra ambientes urbanos vacíos y a Cerati bailando solo con una bailarina invisible,
@@ -2655,7 +2655,7 @@ se necesita una pequeña miseria…”*
         conquistaron pistas de baile en Londres y Tokio. La frase –tomada de Aníbal Troilo— recitada por un narrador – conecta con la tradición
         tanguera, pero el groove es claramente de club nocturno moderno.
 
-[[82]]
+[[p=82]]
    Identidad vs. influencias: El bandoneón dialoga con samplers y bajos electrónicos, mientras que la percusión funde candombe, house y
        trip-hop. La pieza celebra la globalización cultural: un género nacional (tango) se convierte en música de club, tributando tanto a Astor
        Piazzolla como a Daft Punk.
@@ -2688,7 +2688,7 @@ en tu mareo…”*
       Lectura crítica: En “El mareo” confluyen dos visiones del siglo XXI: la de Cerati, que exploraba territorios íntimos post-rock, y la de
        Bajofondo, que elevaba el baile porteño a estándar global. El mareo es a la vez enamoramiento y desorientación urbana, un trance
 
-[[83]]
+[[p=83]]
 electrónico que canaliza la ansiedad contemporánea. La canción encarna la tensión entre lo emocional y lo bailable, el pasado tanguero
         y el futuro de club, situándose como epítome de la década de la fusión cultural argentina moderna.
 
@@ -2723,7 +2723,7 @@ Contexto histórico-cultural
 
 Identidad nacional vs. influencias foráneas
 
-[[84]]
+[[p=84]]
    Nacional: El tema se cimenta en el soft rock y la power ballad de las nuevas generaciones de rock en español, con un fraseo en
         castellano directo, sin lunfardo, pero cargado de imágenes cotidianas.
 
@@ -2757,7 +2757,7 @@ Lectura crítica
 último es la memoria que se niega a perdonar. En el contexto cultural de 2006, la canción resonó en un público que, tras turbulencias
 económicas y rupturas colectivas, buscaba en la música una vía de catarsis y reflexión personal. Su éxito masivo y los premios conseguidos
 
-[[85]]
+[[p=85]]
 demuestran que, aun en un mercado dominado por el pop, había espacio para una balada rock de alto voltaje emocional. “Crimen” se convirtió
 así en un clásico del rock en español, testimonio de la madurez artística de Cerati y de un país que canalizaba sus ansiedades en arte urbano de
 primer nivel.
@@ -2791,7 +2791,7 @@ canónica: Mercedes Sosa)
 Nebbia / Tanguito – Los Gatos)       conseguir mucha madera, de donde sea»CMTV                juventud urbana que sueña “escapar” (naufragar)
                                                                                               de la sociedad rígida de Onganía (dictadura 1966-
 
-[[86]]
+[[p=86]]
 Canción (año · género · autores /
                                     Fragmento literal                                       Por qué refleja la década & contexto cultural
 intérprete clave)
@@ -2821,7 +2821,7 @@ Sosa)                                                                           
                                                                                             con la prosa testimonial de Rodolfo Walsh sobre
                                                                                             los obreros del norte.
 
-[[87]]
+[[p=87]]
 Canción (año · género · autores /
                                     Fragmento literal                                       Por qué refleja la década & contexto cultural
 intérprete clave)
@@ -2855,7 +2855,7 @@ Horacio Ferrer – voz: Amelita Baltar) de gotán: The Poetry of the Tango      
                                                                                            preludia films de underground porteño (Invasión,
                                                                                            1969, de Hugo Santiago y guion de Borges/Bioy)
 
-[[88]]
+[[p=88]]
 Canción (año · género · autores /
                                        Fragmento literal                                           Por qué refleja la década & contexto cultural
 intérprete clave)
@@ -2890,7 +2890,7 @@ Aquí van cinco microhistorias de canciones argentinas clave entre 2000 y 2009, 
 
 Corpus Musical Argentino 2010-2019: Angustia Existencial y Tensiones Sociales en la Canción Popular
 
-[[89]]
+[[p=89]]
 Síntesis Analítica
 
 El período 2010-2019 en Argentina constituyó un laboratorio de transformaciones musicales donde los géneros tradicionales y emergentes
@@ -2923,7 +2923,7 @@ Microhistorias
 
 Resiste de Flor de Piedra
 
-[[90]]
+[[p=90]]
 Genealogía Musical: Heredera directa de la cumbia villera de Yerba Brava (1999), incorpora sintetizadores de la cumbia electrónica y letras
 explícitas contra la elitización urbana3. Su estribillo "Resistiré al ajuste" anticipa consignas del movimiento Ni Una Menos (2015).
 
@@ -2956,7 +2956,7 @@ puede vehiculizar memoria histórica desde lenguajes contemporáneos2.
 
 2012: Feminismos y Cumbia Queer
 
-[[91]]
+[[p=91]]
 Tabla Síntesis
 
 Año    Canción (Género - Intérprete)        Fragmento Literal                  Relevancia Histórico-Cultural          Fuente
@@ -2990,7 +2990,7 @@ apropiación del espacio del sauna como escenario politiza los lugares de sociab
 
 Tabla Síntesis
 
-[[92]]
+[[p=92]]
 Año    Canción (Género -                Fragmento Literal            Relevancia Histórico-Cultural                Fuente
        Intérprete)
 
@@ -3024,12 +3024,11 @@ Tendencias Decenales 2010-2019
     1. Hegemonía de Géneros: La cumbia (45% del mercado) y el trap (30%) dominaron, mientras el rock bajó al 15%. El folklore urbano creció
        20% anual desde 201523.
 
-[[93]]
+[[p=93]]
 2. Innovaciones Técnicas: Producción DIY con FL Studio (70% de artistas under), mastering en la nube via LANDR (2015-), y viralización
    TikTok (2018-)3.
 
 3. Coyunturas Políticas: Canciones con referencias a devaluaciones (+300% 2015-2019), feminicidios (+120 menciones/año desde 2015), y
    migraciones venezolanas (+50 temas 2017-2019)13.
 
-[[94]]
-
+[[p=94]]

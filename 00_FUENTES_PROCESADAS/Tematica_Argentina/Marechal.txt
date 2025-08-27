@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Marechal: Epopeya Argentina y Mito Fundacional
 https://www.ambito.com/tecnologia/asi-seria-el-superheroe-argentino-segun-la-inteligencia-
 artificial-alas-y-poderes-misticos-n6168721
@@ -24,7 +24,7 @@ Los villanos del "El Centinela del Sur", el superhéroe argentino de la IA
 El Centinela del Sur enfrenta adversarios que representan amenazas para la cultura argentina. El
 Especulador simboliza la corrupción empresarial que explota recursos naturales. Doña Censura
 
-[[2]]
+[[p=2]]
 personifica la manipulación mediática y el control de la información. El Olvido encarna la
 destrucción de la memoria histórica y las raíces culturales.
 La inteligencia artificial creó un universo de personajes alrededor del superhéroe. Los aliados del
@@ -76,7 +76,7 @@ Marechal articuló explícitamente su visión de la novela como un sucedáneo le
 clásica, afirmando haber estructurado Adán Buenosayres según los cánones aristotélicos del
 género épico. Esta declaración no es meramente una formalidad, sino un posicionamiento
 
-[[3]]
+[[p=3]]
 deliberado de su obra dentro de una tradición literaria milenaria, reinterpretada para la modernidad.
 Para el autor, la novela se convierte en la epopeya de los tiempos contemporáneos, un género
 que emerge cuando los narradores literarios desplazan su atención del Olimpo de los dioses y el
@@ -127,7 +127,7 @@ prosa, lo que de por sí representa una ruptura formal con la epopeya tradiciona
 se ve reforzada por la insistencia del autor en que la novela es un poema concluido y su
 afirmación categórica: Al escribir mi Adán Buenos Aires no entendí salirme de la poesía (Marechal,
 
-[[4]]
+[[p=4]]
 1997b: 869). Esta declaración eleva la obra de un mero relato a una composición con una
 resonancia mítica y metafísica inherente.
 La influencia de Homero y Dante Alighieri es explícita y fundamental en la construcción de la
@@ -178,7 +178,7 @@ sigue a Dante en la concepción polisémica de la escritura y la profundidad met
 3. Antígona Vélez: La Tragedia Clásica en la Pampa y la Construcción de la Nación
 3.1. Reescritura del Mito y Contexto Argentino
 
-[[5]]
+[[p=5]]
 En Antígona Vélez, Marechal realiza una audaz adaptación de la Antígona de Sófocles,
 transponiendo el mito griego a un universo diegético local y toponímicamente marcado: la pampa
 argentina del siglo XIX, específicamente durante la Conquista del Desierto. Esta obra se inscribe
@@ -230,7 +230,7 @@ nuevas formas de análisis", Humanidades: revista de la Universidad de Montevide
 • Ayala, Francisco (2000), "Peripecia de un libro", Cuadernos de Proa en las letras y en las artes,
 vol. 49, pp. 55-57.
 
-[[6]]
+[[p=6]]
 • Bajtín, M.M. (1997), Hacia una filosofía del acto ético. De los borradores y otros escritos.
 Barcelona: Anthropos.
 • Bravo Herrera, Fernanda Elisa (2015), Parodias y reescrituras de tradiciones literarias en
@@ -279,7 +279,7 @@ juventud.
        Ambos fueron presidente y vicepresidente, respectivamente, del comité Yrigoyenista de
 Intelectuales Jóvenes.
 
-[[7]]
+[[p=7]]
       La relación se fracturó debido a la adhesión de Marechal al peronismo, a diferencia de
 Borges quien criticaba esta postura (aunque Borges continuó admirando a Xul Solar, otro
 peronista).
@@ -330,7 +330,7 @@ hermano, demostrando firmeza similar a la Antígona griega.
 Porteña", remitiendo a Domingo Faustino Sarmiento y Facundo Quiroga, simbolizando la lucha
 entre civilización y barbarie en la Argentina pos-independentista.
 
-[[8]]
+[[p=8]]
      La obra refleja el pensamiento político militante de Marechal y la ideología oficial peronista
 de mediados del siglo XX.
       La muerte de Antígona y Lisandro en la pampa siembra el germen de un "nuevo mito
@@ -383,7 +383,7 @@ para construir una identidad nacional argentina, cruzando fronteras históricas 
 •      Reescritura: Transforma mitos y relatos preexistentes, adaptándolos a contextos
 argentinos específicos (pampa, Buenos Aires).
 
-[[9]]
+[[p=9]]
 •        Cosmovisión Simbólica: Emplea metáforas espaciales (arriba/abajo, cielo/tierra) para
 reflejar jerarquías sociales, morales y metafísicas, inspirándose en Dante y el pensamiento griego.
 
@@ -428,7 +428,7 @@ parodia.
 Faustino Sarmiento y Facundo Quiroga. Encapsula la lucha argentina entre civilización y barbarie,
 y el ejercicio de la fuerza bruta para imponer orden.
 
-[[10]]
+[[p=10]]
 5.     Marechal actualiza el mito de Antígona al reambientarla en la pampa argentina del siglo
 XIX, reflejando el conflicto entre la "civilización" y la "barbarie". A diferencia de Sófocles, infunde
 un optimismo cristiano, sugiriendo que la muerte de los amantes puede fecundar un nuevo mito
@@ -477,7 +477,7 @@ el "Ulises argentino" y una obra fundacional en la literatura hispanoamericana.
 •       Antígona Vélez: Obra dramática de Leopoldo Marechal, publicada en 1951, que reescribe
 el mito griego de Antígona en el contexto de la pampa argentina.
 
-[[11]]
+[[p=11]]
 •      Apropiación Cultural: Proceso mediante el cual Marechal toma elementos de la literatura
 clásica (como la epopeya homérica) y los adapta para la construcción de una identidad cultural
 argentina.
@@ -533,7 +533,7 @@ temática criolla con nuevas estrategias literarias y una perspectiva renovada.
 •      Nadaísmo: Movimiento literario colombiano fundado por Gonzalo Arango, caracterizado
 por su ruptura con las convenciones y su espíritu irreverente.
 
-[[12]]
+[[p=12]]
 •     Peronismo: Movimiento político argentino fundado por Juan Domingo Perón, al que
 Leopoldo Marechal adhirió, lo que le causó aislamiento en ciertos círculos intelectuales.
 
@@ -581,7 +581,7 @@ para (1:37) la recepción negativa inicial de su obra, para que lo marginaran en
 teñir la lectura de una obra. (1:50) Sin duda. (1:51) Hablemos entonces de la obra cumbre, Adam
 Buenos Aires.
 
-[[13]]
+[[p=13]]
 Esa novela de 1948. Siempre (1:58) la comparan con el Ulises de Joyce. ¿Es tan así? (2:02) Es la
 comparación casi obligada, sí.
 Pero es interesante. Algunos críticos, como Bravo (2:08) Herrera, que sigue a Jeannette,
@@ -624,7 +624,7 @@ dramaturgo.
 Gonzalo Arango, (4:57) imagínate. (4:58) ¡Qué conexión! (4:59) Y sus ensayos filosóficos, como
 Descenso y Ascenso del alma por la belleza.
 
-[[14]]
+[[p=14]]
 Otras obras (5:05) de teatro, como Don Juan. Su influencia en la música. (5:08) ¿En la música
 también? (5:09) Sí, sí.
 Hay tangos con letras suyas, como La mariposa y la muerte. Poemas musicalizados (5:14) por el
@@ -668,7 +668,7 @@ valores sociales.
 Para muchos pensadores, las narrativas son el modo fundamental en que los seres humanos dan
 sentido a su mundo, a través de las historias que se cuentan a sí mismos y a los demás. Estas
 
-[[15]]
+[[p=15]]
 historias, con un principio, un desarrollo y un fin, ayudan a las comunidades a clarificar sus
 objetivos, organizarse, planificar y orientarse hacia la consecución de proyectos a gran escala. En
 este sentido, los mitos fundacionales actúan como herramientas poderosas para la construcción
@@ -714,7 +714,7 @@ crucial para dar voz a comunidades marginadas y desafiar discursos hegemónicos.
 construir cohesión social a través de otros compromisos comunes, más allá del nacionalismo o la
 religión, como el deporte, el arte o la conservación ambiental. Sin embargo, incluso estas
 
-[[16]]
+[[p=16]]
 alternativas podrían considerarse, en un sentido amplio, como nuevas formas de "mitos" o "relatos
 compartidos" que reifican al grupo.
        Reconciliación de Raíces: El "neocriollismo" de Marechal, que busca conciliar las raíces
@@ -764,7 +764,7 @@ leyes del hombre sobre la naturaleza.
 • Justificación de Medios por el Fin: El hecho de que Facundo Galván (el equivalente de
 Creonte) justifique sus acciones "bárbaras" por un fin civilizador dota al nombre "La Postrera" de
 
-[[17]]
+[[p=17]]
 una resonancia semiótica compleja, donde el "último" esfuerzo por la civilización puede implicar la
 violencia.
 Análisis Lingüístico
@@ -805,5 +805,4 @@ donde su sencillez lingüística y etimológica contrasta con la profunda carga 
 adquiere al simbolizar el punto culminante de la expansión civilizatoria argentina, sus conflictos
 inherentes y su violenta definición de identidad.
 
-[[18]]
-
+[[p=18]]

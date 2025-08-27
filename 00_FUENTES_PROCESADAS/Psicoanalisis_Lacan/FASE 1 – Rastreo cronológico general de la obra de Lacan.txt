@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 FASE 1 – Rastreo cronológico general de la obra de Lacan
 
 Objetivo:
@@ -33,7 +33,7 @@ Si el seminario no está publicado, buscar transcripción (Staferla, École, Pon
 
 Anotar en la tabla: seminario, clase/fecha, página FR, cita breve, página ES, variantes, eje temático, nivel N1–N5.
 
-[[2]]
+[[p=2]]
 Listado cronológico de obras
 
 Año      Seminario / Texto                                              Observaciones
@@ -62,7 +62,7 @@ Año      Seminario / Texto                                              Observa
 
 1964–65 S XII – Problemas cruciales para el psicoanálisis               Objeto y discurso.
 
-[[3]]
+[[p=3]]
 Año      Seminario / Texto                                        Observaciones
 
 1965–66 S XIII – El objeto del psicoanálisis                      Objeto a, resto, plus.
@@ -91,7 +91,7 @@ Año      Seminario / Texto                                        Observaciones
 
 1977–78 S XXV – El momento de concluir                            Cierre, goce, discurso.
 
-[[4]]
+[[p=4]]
 Año      Seminario / Texto                                               Observaciones
 
 —        Écrits / Autres écrits                                          Artículos, conferencias clave (Radiophonie, Télévision, Milán 72).
@@ -122,7 +122,7 @@ Psicoanalítica, S3: Las Psicosis, S4: La Relación de Objeto, S5: Las Formacion
 Psicoanálisis, S10: La Angustia, S11: Los cuatro conceptos fundamentales del psicoanálisis, S15: El Acto Psicoanalítico (incompleto), S21: Les non-
 dupes errent, y una versión crítica de S8: Le transfert dans sa disparité subjective, sa prétendue situation, ses excursions techniques.
 
-[[5]]
+[[p=5]]
 ◦ Un video de YouTube menciona la posibilidad de descargar una compilación de seminarios basada en la edición crítica de Ricardo Rodríguez
 Ponte, además de una carpeta de Dropbox con versiones de Paidós y Piccoli para una búsqueda digital más amplia.
 
@@ -155,7 +155,7 @@ Reddit incluso recomienda buscar "Staferla" para encontrar "todos los seminarios
 
 � Tabla maestra – Seminario I completo
 
-[[6]]
+[[p=6]]
 Clase                         Página
                         Págin                                             Otra
 N        Seminari /                             ES                                      Variació                                    Nive
@@ -202,7 +202,7 @@ N        Seminari /                             ES                              
                   1954          ce qui fait              aquello que                            germen de
                                 surgir le                hace surgir el                         analogía con
 
-[[7]]
+[[p=7]]
 Clase                         Página
                         Págin                                         Otra
 N        Seminari /                             ES                                  Variació                                    Nive
@@ -246,7 +246,7 @@ N        Seminari /                             ES                              
                   1954       n est de viser             es apuntar a                         relación futura
                              ce point de                ese punto de                         con plus.
 
-[[8]]
+[[p=8]]
 Clase                       Página
                         Págin                                          Otra
 N        Seminari /                           ES                                     Variació                                    Nive
@@ -289,7 +289,7 @@ N        Seminari /                           ES                                
                   1954       constitue                 se constituye                         sujeto.
                                comme                   como
 
-[[9]]
+[[p=9]]
 Clase                             Página
                          Págin                                                Otra
 N         Seminari /                                 ES                                     Variació                                     Nive
@@ -319,7 +319,7 @@ Desde el inicio, Lacan trabaja la noción de resto irreductible en economía ps�
 Estos elementos anticipan la formalización posterior del plus-de-jouir y son fundamentales para trazar la línea cronológica en el mapa
 conceptual.
 
-[[10]]
+[[p=10]]
 Seminario II – El yo en la teoría de Freud y en la técnica psicoanalítica (1954–55).
 Aquí la atención está en la alienación (aliénation), la economía psíquica, y el modo en que el sujeto queda capturado en el campo del Otro —
 conceptos que luego se enlazan con la abstracción y valor en Marx.
@@ -359,7 +359,7 @@ N          Seminari /                                ES                       tr
      –55             1954                                                                                          ganancia
                                    psychique un               psíquica hay                            contable
 
-[[11]]
+[[p=11]]
 Clase                            Página                   Otra
                           Págin
 N          Seminari /                                ES                       traducción / Variació                            Nive
@@ -397,7 +397,7 @@ N          Seminari /                                ES                       tr
                                   noyau du désir.»
                                                              deseo.»                               de plus.
 
-[[12]]
+[[p=12]]
 Clase                        Página                  Otra
                           Págin
 N          Seminari /                            ES                      traducción / Variació                                    Nive
@@ -443,7 +443,7 @@ N          Seminari /                            ES                      traducc
                                réductible à la            no es reducible                       como
                                communication.             a la                                  excedente
 
-[[13]]
+[[p=13]]
 Clase                              Página                   Otra
                          Págin
 N         Seminari /                                  ES                       traducción / Variació                                         Nive
@@ -476,7 +476,7 @@ articula bien con la idea de materialidad bruta en Marx (trabajo vivo no absorbi
 
 � Tabla maestra – Seminario III
 
-[[14]]
+[[p=14]]
 Clase Página               Página                  Otra
 Nº Año      Seminario /     FR      Cita FR      ES       Cita ES        traducción / Variación Comentario Eje (Mapa)          Nivel
                       Fecha (Seuil)              (Paidós)                transcripción
@@ -519,7 +519,7 @@ Nº Año      Seminario /     FR      Cita FR      ES       Cita ES        tradu
                       1956          jouissance            goce que no    articulado en        simbolizado”
                                     qui n’est pas         está           lo                   varía el matiz
 
-[[15]]
+[[p=15]]
 Clase Página                Página                  Otra
 Nº Año      Seminario /     FR      Cita FR       ES       Cita ES        traducción / Variación Comentario Eje (Mapa)                Nivel
                       Fecha (Seuil)               (Paidós)                transcripción
@@ -557,7 +557,7 @@ Nº Año      Seminario /     FR      Cita FR       ES       Cita ES        trad
 23 1955– S III        21     p. 210 «Le Réel n’a p. 227    «Lo Real no —               —       Declaración   Real/valor               N4
                       jun           pas de                 tiene valor de                      fuerte: lo
 
-[[16]]
+[[p=16]]
 Clase Página                    Página                    Otra
 Nº Año     Seminario /     FR      Cita FR           ES       Cita ES          traducción / Variación Comentario Eje (Mapa)                         Nivel
                      Fecha (Seuil)                   (Paidós)                  transcripción
@@ -586,7 +586,7 @@ Seminario IV – La relación de objeto (1956–57).
 Aquí el foco está en la constitución del objeto a partir de la pérdida (perte), la separación, y los restos (reste, déchet). Es un paso crucial hacia la
 formalización posterior del objet petit a como resto estructural del deseo y punto de anclaje del goce.
 
-[[17]]
+[[p=17]]
 � Tabla maestra – Seminario IV
 
                      Clase Página                Página                Otra
@@ -628,7 +628,7 @@ Nº Año     Seminario /     FR      Cita FR       ES       Cita ES      traducc
                                    structure la           estructura la                         falta; puente
                                    relation               relación de                           con economía
 
-[[18]]
+[[p=18]]
 Clase Página                 Página                 Otra
 Nº Año     Seminario /     FR      Cita FR        ES       Cita ES       traducción /    Variación Comentario     Eje (Mapa)      Nivel
                      Fecha (Seuil)                (Paidós)               transcripción
@@ -669,7 +669,7 @@ Nº Año     Seminario /     FR      Cita FR        ES       Cita ES       tradu
 
 30 1956– S IV        19     p. 202 «L’objet a     p. 216   «El objeto    —               —        Relación        Objeto/valor    N4
 
-[[19]]
+[[p=19]]
 Clase Página                    Página                  Otra
 Nº Año    Seminario /     FR      Cita FR           ES       Cita ES        traducción /     Variación Comentario        Eje (Mapa)          Nivel
                     Fecha (Seuil)                   (Paidós)                transcripción
@@ -700,7 +700,7 @@ En este seminario, Lacan desarrolla su teoría de la metáfora y la metonimia en
 significación, y refuerza la idea del resto como excedente que no se integra al sentido. Esto es un paso fundamental hacia la noción de plus-de-
 jouir.
 
-[[20]]
+[[p=20]]
 � Tabla maestra – Seminario V
 
                    Clase                         Página                Otra
@@ -740,7 +740,7 @@ N                  /                             ES                    traducci�
      –58             1958
                                  motive le               motiva el                          movimiento
 
-[[21]]
+[[p=21]]
 Clase                        Página                   Otra
                          Págin
 N                  /                            ES                       traducción / Variació                                        Nive
@@ -784,7 +784,7 @@ N                  /                            ES                       traducc
                                 qu’il ne dit
                                                                                                  dependiente
 
-[[22]]
+[[p=22]]
 Clase                             Página                   Otra
                           Págin
 N                   /                                 ES                       traducción / Variació                                      Nive
@@ -823,7 +823,7 @@ Se utiliza una metáfora económica explícita (“mercado de significantes”),
 
 El resto es motor de desplazamiento y está vinculado a la pérdida necesaria.
 
-[[23]]
+[[p=23]]
 Seminario VI – El deseo y su interpretación (1958–59).
 Este seminario es clave porque consolida la noción de objeto como causa del deseo, comienza a perfilarse el objet petit a y se afianza la relación
 entre economía libidinal, falta y valor. El resto deja de ser solo un excedente lingüístico y pasa a tener una función causal más definida.
@@ -861,7 +861,7 @@ N                      /     a FR                     ES                        
                                    l’image ni au               se reduce ni a                            objet petit a.
                                    besoin.»                    la imagen ni a
 
-[[24]]
+[[p=24]]
 Clase Págin                  Página
                                                                         Otra
 N                 /     a FR                   ES                                       Variació                                   Nive
@@ -904,7 +904,7 @@ N                 /     a FR                   ES                               
                   1959       distance qui le           distancia que                            fuerte analogía
                               sépare de la             lo separa de la                          con teoría del
 
-[[25]]
+[[p=25]]
 Clase Págin                  Página
                                                                            Otra
 N                    /     a FR                   ES                                       Variació                                  Nive
@@ -946,7 +946,7 @@ N                    /     a FR                   ES                            
 
  Conclusión del Seminario VI
 
-[[26]]
+[[p=26]]
 El objeto empieza a definirse como resto post-satisfacción, núcleo del futuro objet petit a.
 
 Se explicita la economía del deseo diferenciada de la necesidad (Bedürfnis).
@@ -980,7 +980,7 @@ Nº Año    Seminario       /     FR      Cita FR           ES       Cita ES    
          psychanalyse
                                          qui limite la             lo que limita                         placer (plaisir).
 
-[[27]]
+[[p=27]]
 Clase Página                    Página               Otra
 Nº Año     Seminario   /     FR      Cita FR           ES       Cita ES     traducción / Variación Comentario    Eje (Mapa)      Nivel
                        Fecha (Seuil)                   (Paidós)             transcripción
@@ -1019,7 +1019,7 @@ Nº Año     Seminario   /     FR      Cita FR           ES       Cita ES     tr
 
 49 1959– S VII         13     p. 132 «La valeur de     p. 144   «El valor de —           —        Relaciona valor Valor/goce     N4
 
-[[28]]
+[[p=28]]
 Clase Página                    Página                   Otra
 Nº Año     Seminario   /     FR      Cita FR           ES       Cita ES         traducción / Variación Comentario     Eje (Mapa)     Nivel
                        Fecha (Seuil)                   (Paidós)                 transcripción
@@ -1054,7 +1054,7 @@ Nº Año     Seminario   /     FR      Cita FR           ES       Cita ES       
                                    perte.»                      pérdida.»                             para plus-de-
                                                                                                       jouir.
 
-[[29]]
+[[p=29]]
 Conclusión del Seminario VII
 
 El goce es conceptualizado como más allá del principio del placer, con una economía propia.
@@ -1089,7 +1089,7 @@ N         Seminari /                                 ES                        t
                     1960
                                    hors de la                 queda fuera de                           y el resto:
 
-[[30]]
+[[p=30]]
 Clase                          Página                   Otra
                         Págin
 N        Seminari /                              ES                       traducción / Variació                                   Nive
@@ -1134,7 +1134,7 @@ N        Seminari /                              ES                       traduc
                   8 fév p. 78                     p. 88                   —          —                      Valor/posición        N3
                                 l’analyste réside         analista reside                     vinculado a
 
-[[31]]
+[[p=31]]
 Clase                          Página                   Otra
                           Págin
 N          Seminari /                              ES                       traducción / Variació                                    Nive
@@ -1175,7 +1175,7 @@ N          Seminari /                              ES                       trad
                                dans l’amour.»              el amor.»                            análogo al
                                                                                                 plus en
 
-[[32]]
+[[p=32]]
 Clase                              Página                     Otra
                           Págin
 N          Seminari /                                  ES                         traducción / Variació                                    Nive
@@ -1211,7 +1211,7 @@ Aparece la idea de un objeto sin valor de uso dentro de la relación analítica,
 
 Se introduce la noción de excedente en la relación amorosa, que será clave para el plus-de-jouir.
 
-[[33]]
+[[p=33]]
 Seminario IX – La identificación (1961–62).
 En este seminario, Lacan trabaja la lógica de la serie significante, el lugar del Uno y la noción de valor diferencial del significante. Esto introduce
 de forma más explícita una “economía” del significante que puede ponerse en paralelo con la teoría del valor en economía política.
@@ -1250,7 +1250,7 @@ N                          /                               ES                   
                                           série.»                                                             analogía con
                                                                                                               sistema de
 
-[[34]]
+[[p=34]]
 Clase                          Página                Otra
                             Págin
 N                     /                              ES                    traducción / Variació                                  Nive
@@ -1293,7 +1293,7 @@ N                     /                              ES                    tradu
                       mar
                                    constitue le              de la serie                        como núcleo
 
-[[35]]
+[[p=35]]
 Clase                         Página                  Otra
                             Págin
 N                     /                             ES                      traducción / Variació                                  Nive
@@ -1333,7 +1333,7 @@ N                     /                             ES                      trad
                                                                                                  fetichizada.
                                                             uso.»
 
-[[36]]
+[[p=36]]
 Conclusión del Seminario IX
 
 Se desarrolla una noción de valor puramente diferencial, sin referencia a uso, idéntica en estructura a la de la mercancía en Marx.
@@ -1368,7 +1368,7 @@ transcripción (Ponte)
 
 Variantes léxicas             Seuil omite la segunda parte (“de l’opération même…”) que sí figura en la transcripción. Paidós sigue la omisión de
 
-[[37]]
+[[p=37]]
 Campo                       Contenido
 
                             Seuil. Ponte conserva la frase completa.
@@ -1404,7 +1404,7 @@ ES Paidós Arg. (pág. 34)     “Ese resto es la causa del deseo.”
 
 FR Transcripción oral        «Ce reste, c’est la cause du désir, et c’est ce qui, de la jouissance, ne peut pas être absorbé par le signifiant.»
 
-[[38]]
+[[p=38]]
 Campo                           Contenido
 
 (Staferla)
@@ -1437,7 +1437,7 @@ Campo                           Contenido
 
 Fecha de clase (transcripción) 9 janvier 1963 – París, Facultad de Derecho (Staferla / ELP)
 
-[[39]]
+[[p=39]]
 Campo                         Contenido
 
 FR Seuil (pág. 48)            «L’objet a est sans valeur d’usage.»
@@ -1472,7 +1472,7 @@ Seminario X – La angustia
 
 Sesión 4 – 6 de febrero de 1963
 
-[[40]]
+[[p=40]]
 Campo                           Contenido
 
 Fecha de clase (transcripción) 6 février 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -1505,7 +1505,7 @@ Términos clave                  angoisse (FR) / angustia (ES) / manque (FR) / f
 
 Seminario X – La angustia
 
-[[41]]
+[[p=41]]
 Sesión 5 – 20 de marzo de 1963
 
 Campo                              Contenido
@@ -1541,7 +1541,7 @@ Términos clave                     économie (FR) / economía (ES) / angoisse (
 
 � Seminario X – La angustia (1962–63) – Bloque 1 (Sesiones 1–5)
 
-[[42]]
+[[p=42]]
 FR
    Fecha           FR Seuil      ES Paidós                   ES Traducción Variantes                            Referencia           Términos
 Nº                                             Transcripción                                 Nota crítica
@@ -1586,7 +1586,7 @@ Nº                                             Transcripción                  
 3 09/01/1963       est sans      no tiene     sans valeur tiene valor de omiten            paralelismo con directa con               valor de uso
                    valeur        valor de     d’usage, et    uso, y es       segunda parte mercancía: valor mercancía en El          /
 
-[[43]]
+[[p=43]]
 FR
    Fecha           FR Seuil     ES Paidós                   ES Traducción Variantes                         Referencia           Términos
 Nº                                            Transcripción                                Nota crítica
@@ -1628,7 +1628,7 @@ Nº                                            Transcripción                   
                                                             de la falta.”
                                             du manque.»
 
-[[44]]
+[[p=44]]
 FR
    Fecha           FR Seuil      ES Paidós                   ES Traducción Variantes                              Referencia         Términos
 Nº                                             Transcripción                                    Nota crítica
@@ -1670,7 +1670,7 @@ simbólico en la versión oral/Ponte.
 
 El paralelismo con categorías marxistas (valor, plusvalía, separación) es más evidente en la versión completa.
 
-[[45]]
+[[p=45]]
 Seminario X – La angustia
 
 Sesión 6 – 13 de marzo de 1963
@@ -1704,7 +1704,7 @@ Referencia cruzada con Marx
 
 Términos clave                     plus-de-jouir (FR) / plus-de-gozar (ES) / reste (FR) / resto (ES) / circuit pulsionnel (FR) / circuito pulsional (ES)
 
-[[46]]
+[[p=46]]
 Seminario X – La angustia
 
 Sesión 7 – 27 de marzo de 1963
@@ -1740,7 +1740,7 @@ Referencia cruzada con Marx
 Términos clave
                                    plus-de-jouir (FR) / plusvalía (Mehrwert – DE)
 
-[[47]]
+[[p=47]]
 Seminario X – La angustia
 
 Sesión 8 – 3 de abril de 1963
@@ -1772,7 +1772,7 @@ Nota crítica
 Referencia cruzada con Marx
                                    producto de un sistema estructurado (mercancías, discurso capitalista).
 
-[[48]]
+[[p=48]]
 Campo                              Contenido
 
                                    plus-de-jouir (FR) / plus-de-gozar (ES) / discours (FR) / discurso (ES) / logique d’échange (FR) / lógica de
@@ -1806,7 +1806,7 @@ Variantes léxicas
 
 Nota crítica                       La adición ubica el plus-de-jouir no solo como modelo del objeto a, sino como efecto de la pérdida, lo que
 
-[[49]]
+[[p=49]]
 Campo                              Contenido
 
                                    refuerza la idea de que el excedente es inseparable de una sustracción previa.
@@ -1840,7 +1840,7 @@ FR Transcripción oral (Staferla)
 ES Traducción directa de la        “Lo que queda fuera del intercambio simbólico produce un excedente de goce, y ese excedente, en el
 transcripción (Ponte)              discurso, funciona como la plusvalía en la economía.”
 
-[[50]]
+[[p=50]]
 Campo                               Contenido
 
                                     Seuil/Paidós presentan solo la primera proposición; transcripción/Ponte añaden explícitamente la analogía
@@ -1883,7 +1883,7 @@ Nº                                              Transcripción directa       Va
                                  pulsional.”
                     pulsionnel.»                qui veut dire    que quiere
 
-[[51]]
+[[p=51]]
 FR            ES Traducción                                              Referencia
    Fecha           FR Seuil     ES Paidós                                                                                         Términos
 Nº                                            Transcripción directa       Variantes léxicas        Nota crítica        cruzada
@@ -1928,7 +1928,7 @@ Nº                                            Transcripción directa       Vari
                                                                                                                        mercancías.
                    dans le      del
 
-[[52]]
+[[p=52]]
 FR            ES Traducción                                             Referencia
    Fecha           FR Seuil     ES Paidós                                                                                         Términos
 Nº                                             Transcripción directa       Variantes léxicas       Nota crítica        cruzada
@@ -1973,7 +1973,7 @@ Nº                                             Transcripción directa       Var
                    (p. 202)
                                 217)          l’économie.»
 
-[[53]]
+[[p=53]]
 � Observaciones del Bloque 2
 
 Patrón de omisión
@@ -2006,7 +2006,7 @@ Campo                              Contenido
 
 Fecha de clase (transcripción)     2 octobre 1963 – París, Facultad de Derecho (Staferla / ELP)
 
-[[54]]
+[[p=54]]
 Campo                              Contenido
 
 FR Seuil (pág. 230)                «L’objet a est ce qui, du manque, prend valeur dans le circuit du désir.»
@@ -2040,7 +2040,7 @@ Sesión 11 – 2 de octubre de 1963
 
 Campo                              Contenido
 
-[[55]]
+[[p=55]]
 Campo                               Contenido
 
 Fecha de clase (transcripción)      2 octobre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2074,7 +2074,7 @@ Seminario X – La angustia
 
 Sesión 13 – 16 de octubre de 1963
 
-[[56]]
+[[p=56]]
 Campo                               Contenido
 
 Fecha de clase (transcripción)      16 octobre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2108,7 +2108,7 @@ Seminario X – La angustia
 
 Sesión 14 – 23 de octubre de 1963
 
-[[57]]
+[[p=57]]
 Campo                               Contenido
 
 Fecha de clase (transcripción)      23 octobre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2144,7 +2144,7 @@ Seminario X – La angustia
 
 Sesión 15 – 30 de octubre de 1963
 
-[[58]]
+[[p=58]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     30 octobre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2178,7 +2178,7 @@ Términos clave                     plus-de-jouir / consommer / renouveler / rep
 
 � Seminario X – La angustia (1962–63) – Bloque 3 (Sesiones 11–15)
 
-[[59]]
+[[p=59]]
 FR
    Fecha           FR Seuil       ES Paidós                       ES Traducción Variantes                           Referencia     Términos
 Nº                                               Transcripción                                       Nota crítica
@@ -2227,7 +2227,7 @@ Nº                                               Transcripción                
                                                                   ciclo del                          acumulación
                    capitalise.»    se
 
-[[60]]
+[[p=60]]
 FR
    Fecha           FR Seuil        ES Paidós                       ES Traducción Variantes                         Referencia     Términos
 Nº                                                Transcripción                                     Nota crítica
@@ -2273,7 +2273,7 @@ Nº                                                Transcripción               
 
 � Observaciones del Bloque 3
 
-[[61]]
+[[p=61]]
 Refuerzo del vínculo Lacan–Marx
 
 Este bloque es el más explícito hasta ahora en las analogías estructurales y funcionales entre plus-de-jouir y plusvalía.
@@ -2306,7 +2306,7 @@ Fecha de clase (transcripción)       6 novembre 1963 – París, Facultad de De
 
 FR Seuil (pág. 310)                  «La fonction du plus-de-jouir dans le discours est de soutenir la structure du désir.»
 
-[[62]]
+[[p=62]]
 Campo                                 Contenido
 
 ES Paidós Arg. (pág. 325)             “La función del plus-de-gozar en el discurso es sostener la estructura del deseo.”
@@ -2340,7 +2340,7 @@ Campo                              Contenido
 
 Fecha de clase (transcripción)     13 novembre 1963 – París, Facultad de Derecho (Staferla / ELP)
 
-[[63]]
+[[p=63]]
 Campo                              Contenido
 
 FR Seuil (pág. 326)                «Le reste de jouissance ne se résorbe pas dans l’échange symbolique.»
@@ -2374,7 +2374,7 @@ Sesión 18 – 20 de noviembre de 1963
 
 Campo                                 Contenido
 
-[[64]]
+[[p=64]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     20 novembre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2408,7 +2408,7 @@ Seminario X – La angustia
 
 Sesión 19 – 27 de noviembre de 1963
 
-[[65]]
+[[p=65]]
 Campo                                Contenido
 
 Fecha de clase (transcripción)       27 novembre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2442,7 +2442,7 @@ Seminario X – La angustia
 
 Sesión 20 – 4 de diciembre de 1963
 
-[[66]]
+[[p=66]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     4 décembre 1963 – París, Facultad de Derecho (Staferla / ELP)
@@ -2474,7 +2474,7 @@ Términos clave                     plus-de-jouir / saturation / accumulation / 
 
 � Seminario X – La angustia (1962–63) – Bloque 4 (Sesiones 16–20)
 
-[[67]]
+[[p=67]]
 ES Traducción                                 Referencia
    Fecha                           ES Paidós Arg. FR Transcripción               Variantes                                      Términos
 Nº                 FR Seuil (pág.)                                 directa                        Nota crítica   cruzada
@@ -2519,7 +2519,7 @@ Nº                 FR Seuil (pág.)                                 directa    
                                                                                                                mercantil en
                   dans le         el discurso      celles de la     a las de la    circulación  explícito para              d’échange /
 
-[[68]]
+[[p=68]]
 ES Traducción                                     Referencia
    Fecha                           ES Paidós Arg. FR Transcripción               Variantes                                            Términos
 Nº                 FR Seuil (pág.)                                 directa                            Nota crítica   cruzada
@@ -2559,7 +2559,7 @@ Patrón de omisiones
 
 En todas las sesiones, Seuil y Paidós eliminan las comparaciones directas con Marx que sí están presentes en la transcripción oral.
 
-[[69]]
+[[p=69]]
 Aporte conceptual
 
 El plus-de-jouir aparece como soporte estructural del discurso, excedente acumulable, forma homóloga a la ganancia y al capital circulante, y
@@ -2594,7 +2594,7 @@ Nº Fecha      Concepto central        FR Seuil / ES Paidós                    
 5 09/01/63 Objeto a parcial           “Fragmentos�corporales”                                  Plus-de-jouir parcial       objet partiel / pulsion
                                                                      angustia
 
-[[70]]
+[[p=70]]
 Aporte clave de la
 Nº Fecha    Concepto central      FR Seuil / ES Paidós                                   Articulación con Marx      Términos clave
                                                                  transcripción oral
@@ -2631,7 +2631,7 @@ Nº Fecha    Concepto central      FR Seuil / ES Paidós                        
 14 13/03/63 Angustia y ley        “La�ley�provoca�angustia”                              Regulación capitalista     loi / angoisse
                                                                  productivo
 
-[[71]]
+[[p=71]]
 Aporte clave de la
 Nº Fecha      Concepto central       FR Seuil / ES Paidós                                       Articulación con Marx      Términos clave
                                                                      transcripción oral
@@ -2669,7 +2669,7 @@ Seminario XI.
 
 Funciona como puente entre la clínica (angustia, fantasma, pulsión) y la teoría del excedente, clave para articular con Marx.
 
-[[72]]
+[[p=72]]
 � Resumen global – Seminario X
 
 La angustia (1962–1963)
@@ -2704,7 +2704,7 @@ posibilidad.
 
 Rodeo�pulsional�↔�ciclo�productivo:�El�rodeo�en�torno�al�objeto�a�produce�goce�excedente�igual�que�el�ciclo�M–C–M′�produce�plusvalía.
 
-[[73]]
+[[p=73]]
 Angustia�↔�crisis:�La�irrupción�de�la�angustia�es�homóloga�a�la�irrupción�de�crisis�económicas,�que�desestabilizan�pero�también reactivan la
 estructura.
 
@@ -2739,7 +2739,7 @@ Introducir la lógica del excedente libidinal antes de su formalización como pl
 � Valor para el Proyecto Kairos: Permite una articulación clínica y estructural de la noción de excedente, sirviendo como base para la lectura
 cruzada con Marx y para trazar la genealogía conceptual que va del objeto a en la angustia al plus-de-jouir en la economía del goce.
 
-[[74]]
+[[p=74]]
 Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis
 
 Sesión 1 – 15 de enero de 1964
@@ -2769,7 +2769,7 @@ Nota crítica
 Referencia cruzada con Marx
                                    acción en una clase específica, el analista se autoriza en un colectivo selecto, no universal.
 
-[[75]]
+[[p=75]]
 Campo                              Contenido
 
 Términos clave                     psychanalyste / s’autoriser / quelques autres
@@ -2803,7 +2803,7 @@ Variantes léxicas
 Nota crítica
                                    inconsciente. Esto es clave para mantener la autonomía del campo psicoanalítico.
 
-[[76]]
+[[p=76]]
 Campo                               Contenido
 
                                     Analogía con la relación entre el modelo formal de la economía política y el capital real: el modelo no es la
@@ -2837,7 +2837,7 @@ transcripción (Ponte)              por la anticipación y la retroacción.”
 Variantes léxicas
                                    estructurantes.
 
-[[77]]
+[[p=77]]
 Campo                             Contenido
 
                                   La ampliación es clave para articular el tiempo lógico con la dialéctica del sujeto: la anticipación y retroacción
@@ -2871,7 +2871,7 @@ FR Transcripción oral         «L’automaton, c’est la rencontre insistante 
 
 ES Traducción directa de la   “El autómata es el encuentro insistente del significante, lo que no es lo mismo que la tyché, que designa el
 
-[[78]]
+[[p=78]]
 Campo                            Contenido
 
 transcripción (Ponte)            encuentro con lo real.”
@@ -2901,7 +2901,7 @@ FR Seuil (pág. 69)                     «La tuché, c’est la rencontre avec l
 
 ES Paidós Arg. (pág. 73)               “La tyché es el encuentro con lo real, lo real en tanto está siempre en el mismo lugar.”
 
-[[79]]
+[[p=79]]
 Campo                              Contenido
 
                                    «La tuché, c’est la rencontre avec le réel, le réel en tant qu’il est toujours au même endroit, et qui revient,
@@ -2935,7 +2935,7 @@ Campo                               Contenido
 
 Fecha de clase (transcripción)      19 février 1964 – París, Facultad de Derecho (Staferla / ELP)
 
-[[80]]
+[[p=80]]
 Campo                               Contenido
 
 FR Seuil (pág. 85)                  «La répétition est liée à la pulsion.»
@@ -2968,7 +2968,7 @@ Términos clave                      répétition / pulsion (Trieb) / retour au 
 Sesiones 1–6 del Seminario XI en una sola tabla con el mismo formato que usamos para los bloques del Seminario X.
 Así queda todo ordenado y listo para seguir con la Sesión 7 después.
 
-[[81]]
+[[p=81]]
 � Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis (1964) – Sesiones 1–6
 
                                                  FR             ES
@@ -3013,7 +3013,7 @@ N                                ES Paidós       Transcripció   Traducción Va
                   pas le temps      el tiempo    l’anticipation o por la     operacional estructura       anticipación/retroacción certitude /
                   chronologique.    cronológico. et la          anticipación .           dialéctica.      .                        anticipation /
 
-[[82]]
+[[p=82]]
 FR             ES
   Fecha
 N                                ES Paidós        Transcripció   Traducción Variantes                        Referencia cruzada     Términos
@@ -3056,7 +3056,7 @@ N                                ES Paidós        Transcripció   Traducción V
                   pulsion.» (p.      está ligada a autour d’un   de un objeto del rodeo genera               capital ↔ plusvalía.   (Trieb) /
                   85)                la pulsión.” objet qui se   que se       pulsional. excedente.                                 objet
 
-[[83]]
+[[p=83]]
 FR             ES
   Fecha
 N                                ES Paidós          Transcripció   Traducción Variantes                        Referencia cruzada        Términos
@@ -3092,7 +3092,7 @@ Lectura crítica: Evita el reduccionismo lingüístico; sostiene la especificida
 
 Puente con Marx: El modelo formal (lingüística/economía política) no es la realidad (inconsciente/capital), sino su formalización.
 
-[[84]]
+[[p=84]]
 3. Tiempo lógico y estructura dialéctica
 
 Diferencia clave entre tiempo cronológico y tiempo lógico (anticipación y retroacción).
@@ -3124,7 +3124,7 @@ Lectura crítica: Define lo real como imposible estructural, no como mera ausenc
 
 Puente con Marx: Las crisis capitalistas son inevitables por estructura, aunque su forma concreta sea contingente.
 
-[[85]]
+[[p=85]]
 6. Repetición y pulsión
 
 La repetición está ligada a la pulsión, que opera como un rodeo en torno a un objeto que se sustrae.
@@ -3155,7 +3155,7 @@ FR Seuil (pág. 101)                  «La pulsion se définit par son circuit.�
 
 ES Paidós Arg. (pág. 105)            “La pulsión se define por su circuito.”
 
-[[86]]
+[[p=86]]
 Campo                              Contenido
 
                                    «La pulsion se définit par son circuit, qui est toujours un détour autour de l’objet a, et dont la satisfaction
@@ -3188,7 +3188,7 @@ Sesión 8 – 4 de marzo de 1964
 
 Campo                              Contenido
 
-[[87]]
+[[p=87]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     4 mars 1964 – París, Facultad de Derecho (Staferla / ELP)
@@ -3224,7 +3224,7 @@ Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis
 
 Sesión 9 – 11 de marzo de 1964
 
-[[88]]
+[[p=88]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     11 mars 1964 – París, Facultad de Derecho (Staferla / ELP)
@@ -3260,7 +3260,7 @@ Seminario XI – Los cuatro conceptos fundamentales du psicoanálisis
 
 Sesión 10 – 18 de marzo de 1964
 
-[[89]]
+[[p=89]]
 Campo                               Contenido
 
 Fecha de clase (transcripción)      18 mars 1964 – París, Facultad de Derecho (Staferla / ELP)
@@ -3295,7 +3295,7 @@ Términos clave                      objet a / perte / satisfaction / répétiti
 tabla unificada de las Sesiones 7–10 del Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis (1964), siguiendo el mismo formato
 que en los bloques anteriores.
 
-[[90]]
+[[p=90]]
 � Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis (1964) – Sesiones 7–10
 
                                                               ES
@@ -3342,7 +3342,7 @@ Nº                                              Transcripción                 
                                                                           en el rodeo.      la pulsión.
                     temps.» (p. tiempos.” (p.                                                                                     retour
 
-[[91]]
+[[p=91]]
 ES
                                                    FR
      Fecha           FR Seuil      ES Paidós                     Traducción     Variantes                       Referencia cruzada      Términos
@@ -3383,7 +3383,7 @@ Lectura crítica: El objeto a no es meta a alcanzar, sino eje estructurante del 
 Puente con Marx: Como en el capital, donde el circuito M–C–M′ se orienta no al consumo final sino a la valorización, el valor excedente
 (plusvalía) se produce en el proceso mismo.
 
-[[92]]
+[[p=92]]
 8. El campo de la pulsión en el borde del cuerpo
 
 Aporte oral: El borde es la frontera entre el adentro y el afuera, y ahí se sitúa el objeto a.
@@ -3413,7 +3413,7 @@ Lectura crítica: La pérdida no es un accidente, sino condición estructural de
 
 Puente con Marx: Equivalente a la pérdida de trabajo vivo como condición de la plusvalía: sin pérdida, no hay excedente.
 
-[[93]]
+[[p=93]]
 Eje general (Sesiones 7–10):
 Este bloque profundiza la economía interna de la pulsión: define su estructura (circuito, borde, tiempos) y sitúa la pérdida como motor de
 repetición y producción de excedente. Las analogías con Marx se vuelven más consistentes: el objeto a funciona como mercancía-fuerza de
@@ -3446,7 +3446,7 @@ Variantes léxicas                    Seuil/Paidós presentan la definición sin
 Nota crítica
                                      efecto colateral sino el producto central del circuito pulsional.
 
-[[94]]
+[[p=94]]
 Campo                                 Contenido
 
                                       En Marx, la reproducción de la pérdida (trabajo no remunerado) es la condición para la producción
@@ -3480,7 +3480,7 @@ transcripción (Ponte)              del plus-de-gozar.”
 Variantes léxicas
                                    jouir.
 
-[[95]]
+[[p=95]]
 Campo                              Contenido
 
                                    La versión oral integra deseo, pérdida, pulsión y plus-de-jouir en un solo mecanismo estructural. Esto refuerza
@@ -3514,7 +3514,7 @@ FR Transcripción oral (Staferla)
 ES Traducción directa de la            “La pulsión es lo que, en la demanda, apunta más allá de lo que se puede demandar, y es ese ‘más allá’ lo
 transcripción (Ponte)                  que constituye el plus-de-gozar.”
 
-[[96]]
+[[p=96]]
 Campo                                Contenido
 
 Variantes léxicas                    Seuil/Paidós omiten la identificación del “más allá” con el plus-de-jouir.
@@ -3549,7 +3549,7 @@ FR Transcripción oral (Staferla)
 
 ES Traducción directa de la         “El Otro es el lugar donde se sitúa la demanda y donde se mide la falta, y es con relación a esa falta que se
 
-[[97]]
+[[p=97]]
 Campo                                 Contenido
 
 transcripción (Ponte)                 produce el plus-de-gozar.”
@@ -3582,7 +3582,7 @@ ES Paidós Arg. (pág. 233)          “La transferencia pone en juego al sujeto
 
 FR Transcripción oral (Staferla)   «La transfert met en jeu le sujet supposé savoir, et ce savoir supposé, en tant qu’il est situé dans l’Autre, est
 
-[[98]]
+[[p=98]]
 Campo                            Contenido
 
                                  aussi ce qui déclenche la production du plus-de-jouir.»
@@ -3613,7 +3613,7 @@ conceptual.
 
 � Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis (1964) – Sesiones 11–15
 
-[[99]]
+[[p=99]]
 FR            ES Traducción
    Fecha           FR Seuil      ES Paidós Arg.                             Variantes                          Referencia     Términos
 Nº                                              Transcripción directa                          Nota crítica
@@ -3657,7 +3657,7 @@ Nº                                              Transcripción directa         
                    213)          217)          plus-de-jouir.» falta… se      jouir.           producción de extracción de manque /
                                                                produce el
 
-[[100]]
+[[p=100]]
 FR            ES Traducción
    Fecha           FR Seuil        ES Paidós Arg.                             Variantes                            Referencia     Términos
 Nº                                                Transcripción directa                            Nota crítica
@@ -3697,7 +3697,7 @@ Marx: La acumulación capitalista se apoya en la reposición constante de trabaj
 
 Excedente�como�“más�allá”�de�la�demanda
 
-[[101]]
+[[p=101]]
 La pulsión apunta más allá de lo que puede ser demandado, y ese exceso es plus-de-jouir.
 
 Marx: Homología con la plusvalía como producción más allá del valor necesario para la reproducción.
@@ -3730,7 +3730,7 @@ ES Paidós Arg. (pág. 249)             “El acto analítico apunta a producir 
 
 FR Transcripción oral (Staferla)      «L’acte analytique vise à produire un changement dans la position du sujet par rapport au savoir, et ce
 
-[[102]]
+[[p=102]]
 Campo                               Contenido
 
                                     changement modifie aussi la production du plus-de-jouir.»
@@ -3762,7 +3762,7 @@ Fecha de clase (transcripción)       6 mai 1964 – París, Facultad de Derecho
 
 FR Seuil (pág. 261)                  «Le coupure est ce par quoi le signifiant introduit la division dans le sujet.»
 
-[[103]]
+[[p=103]]
 Campo                                  Contenido
 
 ES Paidós Arg. (pág. 265)              “El corte es aquello por lo que el significante introduce la división en el sujeto.”
@@ -3796,7 +3796,7 @@ Campo                              Contenido
 
 Fecha de clase (transcripción)     13 mai 1964 – París, Facultad de Derecho (Staferla / ELP)
 
-[[104]]
+[[p=104]]
 Campo                              Contenido
 
 FR Seuil (pág. 277)                «L’acte analytique est une intervention qui modifie la répartition du jouir.»
@@ -3830,7 +3830,7 @@ Sesión 19 – 20 de mayo de 1964
 
 Campo                              Contenido
 
-[[105]]
+[[p=105]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     20 mai 1964 – París, Facultad de Derecho (Staferla / ELP)
@@ -3864,7 +3864,7 @@ Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis
 
 Sesión 20 – 27 de mayo de 1964
 
-[[106]]
+[[p=106]]
 Campo                              Contenido
 
 Fecha de clase (transcripción)     27 mai 1964 – París, Facultad de Derecho (Staferla / ELP)
@@ -3892,7 +3892,7 @@ Referencia cruzada con Marx
 
 Términos clave                     fin de l’analyse / position du sujet / réel / plus-de-jouir / aliénation
 
-[[107]]
+[[p=107]]
 � Seminario XI – Los cuatro conceptos fundamentales del psicoanálisis (1964) – Sesiones 16–20
 
                                                                 ES
@@ -3941,7 +3941,7 @@ Nº                 FR Seuil (pág.)                Transcripción              
                                                                 gozar.”
                                                                                                                                  aliénation
 
-[[108]]
+[[p=108]]
 ES
                                                   FR
    Fecha                           ES Paidós Arg.               Traducción         Variantes                  Referencia cruzada Términos
@@ -3986,7 +3986,7 @@ El cambio de posición del sujeto respecto al saber modifica la producción del 
 
 Marx: Innovación técnica/organizativa que altera la extracción de plusvalía.
 
-[[109]]
+[[p=109]]
 Corte y división como condición estructural del excedente
 
 La división introducida por el significante es condición para el plus-de-jouir.
@@ -4021,7 +4021,7 @@ Los cuatro conceptos fundamentales del psicoanálisis (1964)
 
 El Seminario XI desarrolla y articula cuatro nociones clave:
 
-[[110]]
+[[p=110]]
 Inconsciente: estructurado como un lenguaje, no reducible a la lingüística, sino formalizado por ella.
 
 Repetición: diferenciada en automaton (regularidad significante) y tyché (encuentro contingente con lo real).
@@ -4056,7 +4056,7 @@ Marx condicionan la extracción del excedente.
 Fin de análisis / reorganización post-explotación: La separación del plus-de-jouir de su parte alienante es comparable a una reorganización
 social que mantenga el excedente pero elimine la explotación.
 
-[[111]]
+[[p=111]]
 3. Notas sobre variantes y diferencias entre fuentes
 
 Edición Seuil / Paidós Argentina: Presentan los enunciados centrales pero omiten frecuentemente desarrollos que vinculan pulsión, pérdida y
@@ -4090,7 +4090,7 @@ Cómo se produce y reproduce un excedente (libidinal o económico).
 
 Cómo la pérdida no es un déficit sino la condición de posibilidad del excedente.
 
-[[112]]
+[[p=112]]
 Cómo la estructura simbólica y las relaciones de producción son marcos homólogos para el goce y el capital.
 
   Valor para el Proyecto Kairos: Este seminario es el puente perfecto entre categorías lacanianas y marxistas, permitiendo un análisis fino del
@@ -4125,7 +4125,7 @@ Nº Fecha Concepto central       FR Seuil / ES Paidós                          
 
 7 26/02 Circuito pulsional      “Se define por su circuito”   Satisfacción en el rodeo     Ciclo M–C–M′                     circuit / objet a
 
-[[113]]
+[[p=113]]
 Aporte clave de la
 Nº Fecha Concepto central   FR Seuil / ES Paidós                                      Articulación con Marx          Términos clave
                                                        transcripción oral
@@ -4162,7 +4162,7 @@ Nº Fecha Concepto central   FR Seuil / ES Paidós                              
 
 17 06/05 Corte              “Introduce división”       División → plus-de-jouir       Separación trabajo/medios      coupure / division
 
-[[114]]
+[[p=114]]
 Aporte clave de la
 Nº Fecha Concepto central         FR Seuil / ES Paidós                                      Articulación con Marx            Términos clave
                                                                transcripción oral
@@ -4198,7 +4198,7 @@ Jacques Lacan con la obra de Karl Marx. La tesis central que guía esta explorac
 analogía superficial. Se propone, en cambio, una homología estructural profunda donde la lógica del capital se reproduce y se manifiesta en el
 plano de la subjetividad, la ideología y el goce. El análisis demuestra que conceptos lacanianos clave, como el objet petit a, el plus-de-jouir y el
 
-[[115]]
+[[p=115]]
 discurso del capitalista, no solo resuenan con la plusvalía de Marx, sino que ofrecen un marco para comprender cómo la explotación económica
 se inscribe en la psique humana. Esta convergencia teórica es de suma relevancia para la teoría crítica contemporánea, ya que renueva la
 capacidad de análisis del capitalismo al integrar la dimensión libidinal y subjetiva. La denominación "Kairos" se invoca para señalar la búsqueda
@@ -4230,7 +4230,7 @@ El Seminario XI, Los cuatro conceptos fundamentales del psicoanálisis (1964), m
 estableciendo la segunda etapa de su obra tras su ruptura con la International Psychoanalytical Association (IPA). En este seminario, Lacan
 redefine los pilares del psicoanálisis, introduciendo la noción del
 
-[[116]]
+[[p=116]]
 objet petit a como el objeto inalcanzable del deseo, no su meta. Este objeto es el "remanente" o "resto" que se pierde tras la introducción del
 orden simbólico en lo real, una pérdida constitutiva para la emergencia del sujeto. El
 
@@ -4263,7 +4263,7 @@ clase y una lucha contra el sistema. El sujeto
 barrado ($) de Lacan, que se constituye en la falta, encuentra una correspondencia formal con el sujeto alienado de Marx. El Seminario XII, a
 través de esta crítica, muestra cómo la dimensión de la subjetividad es inseparable del análisis de las estructuras de poder y explotación.
 
-[[117]]
+[[p=117]]
 III. La Lógica de la Fantasía y la Producción de la Falta: Los Seminarios XIII y XIV
 
 El objet petit a como Objeto de la Psicoanálisis (Seminario XIII)
@@ -4296,7 +4296,7 @@ que se obtiene de una pérdida o una sustracción. La noción se articula con la
 plusvalía de Marx, que Lacan traduce como "valor de goce". La subversión que opera Lacan consiste en tomar la teoría marxista del valor y
 reinsertarla en el campo de la subjetividad y el goce, mostrando que la producción de
 
-[[118]]
+[[p=118]]
 plusvalía no es solo un fenómeno económico, sino también libidinal. Lacan explora la lógica del fantasma en su relación con el fin del análisis,
 planteando la pregunta de cómo vivir la pulsión después de la "travesía del fantasma".
 
@@ -4337,7 +4337,7 @@ XIV                                                                  de goce"; l
 
 IV. La Articulación Formal: plus-de-jouir vs. plusvalía
 
-[[119]]
+[[p=119]]
 La articulación entre Lacan y Marx alcanza su formalización más explícita en los seminarios tardíos, particularmente en el Seminario XVII, El envés
 del psicoanálisis (1969-1970). En este punto, Lacan establece una correspondencia directa entre la plusvalía de Marx y su concepto de plus-de-
 jouir. La conexión no es una mera metáfora, sino una homología estructural. Lacan lo afirma directamente en la lección del 21 de enero de 1970
@@ -4369,7 +4369,7 @@ discurso del capitalista opera un cortocircuito. En su fórmula, el sujeto barra
 $) no produce un significante, sino que se dirige directamente a un S1 para producir un objet petit a ($ -> a), prometiendo un acceso ilimitado al
 goce. Esta promesa ilusoria ("todo es posible, todo está permitido") es lo que mantiene la máquina en movimiento, produciendo objetos de
 
-[[120]]
+[[p=120]]
 consumo que nunca satisfacen por completo, lo que perpetúa la demanda y la reproducción del sistema. Este discurso rompe el lazo social
 tradicional, transformando al sujeto en un mero agente del sistema, consumido por el misma máquina que él mismo produce.
 
@@ -4404,7 +4404,7 @@ El rastreo cronológico de los seminarios de Lacan y la articulación con Marx r
 complejidades de su transmisión. La discrepancia entre las transcripciones no editadas y las ediciones oficiales de Seuil es un punto crítico.
 Pasajes como la crítica a la psicología en el Seminario XII o la articulación directa con la
 
-[[121]]
+[[p=121]]
 plusvalía en el Seminario XVII a menudo se encuentran en versiones no oficiales. Esta "omisión" de ciertos pasajes puede interpretarse como un
 intento de domesticar la radicalidad política de Lacan o de alejarlo de una articulación explícita con el marxismo. En este sentido, la labor de
 escudriñar estas sutilezas léxicas y omisiones textuales no es solo una tarea filológica, sino una crítica de la canonización del pensamiento
@@ -4435,7 +4435,7 @@ Articulación Lacan-Marx: Un Rastreo Exhaustivo de los Seminarios (XI-XX) y la L
 
 I. Introducción y Marco Teórico
 
-[[122]]
+[[p=122]]
 El presente informe se enmarca en el Proyecto Kairos, una iniciativa de investigación profunda cuyo objetivo es trazar y articular la enseñanza de
 Jacques Lacan con la obra de Karl Marx. La tesis central que guía esta exploración es que la relación entre ambos pensadores trasciende la mera
 analogía superficial. Se propone, en cambio, una homología estructural profunda donde la lógica del capital se reproduce y se manifiesta en el
@@ -4467,7 +4467,7 @@ II. De los Fundamentos a los Problemas Cruciales: Los Seminarios XI y XII
 
 El Sujeto Barrado y el objet petit a como Causa del Deseo (Seminario XI)
 
-[[123]]
+[[p=123]]
 El Seminario XI, Los cuatro conceptos fundamentales de la psicoanálisis (1964), marca un punto de inflexión en la enseñanza de Lacan,
 estableciendo la segunda etapa de su obra tras su ruptura con la International Psychoanalytical Association (IPA). En este seminario, Lacan
 redefine los pilares del psicoanálisis, introduciendo la noción del
@@ -4499,7 +4499,7 @@ de un acto político que sitúa al psicoanálisis en una posición inherentement
 adaptación del sujeto al sistema, tratando al capitalismo como una realidad "cerrada" e inmutable. Por el contrario, el psicoanálisis se enfoca en
 el síntoma, que Lacan interpreta como la "verdad revoltante" que subyace al sistema capitalista y que Marx revela en su análisis. El sujeto, en
 
-[[124]]
+[[p=124]]
 esta lectura, es un sujeto proletarizado, reducido a la "fuerza de trabajo" y alienado, cuyo síntoma es el punto de partida para una conciencia de
 clase y una lucha contra el sistema. El sujeto
 
@@ -4532,7 +4532,7 @@ profundiza en la noción de jouissance. Es en este seminario donde se introduce 
 
 plus-de-jouir, que más tarde será desarrollado en el Seminario XVII. El
 
-[[125]]
+[[p=125]]
 plus-de-jouir se define con una sutilidad léxica esencial: no es simplemente "más goce" (plus de jouissance), sino un "goce-extra" o "goce-plus",
 que se obtiene de una pérdida o una sustracción. La noción se articula con la de la
 
@@ -4569,7 +4569,7 @@ XIII                                  petit a como objeto            estructura 
            (1965-1966)
                                       "caído"; topología             plusvalía como resto del proceso
 
-[[126]]
+[[p=126]]
 Referencias de Ediciones y
 Seminario Título y Fechas               Conceptos Principales           Relación Conceptual con Marx
                                                                                                                  Transcripciones
@@ -4605,7 +4605,7 @@ plus-de-jouir como un resto producido por el sistema.
 
 La Experiencia en la Fábrica Fiat y el Valor de Cambio (Seminario XVI: D'un Autre à l'autre, 1968-1969)
 
-[[127]]
+[[p=127]]
 En este seminario, Lacan introduce una dimensión política y económica de manera directa y personal. En una lección, relata su experiencia en
 una fábrica de la Fiat, donde se sintió avergonzado al ver a los trabajadores y no saber lo que estaban haciendo. Lacan concluye que el
 capitalismo cambió las relaciones de poder y que su "fuerza" se basa en "cosas que no sirven para nada". Es aquí, en las transcripciones, donde
@@ -4638,7 +4638,7 @@ non-rapport (la no-relación). En este nuevo matema, el sujeto barrado (
 $) se dirige directamente al S1 para producir un objet petit a, el plus-de-jouir, prometiendo un goce ilimitado bajo el lema del mayo del 68 "Todo
 es posible, todo está permitido". El
 
-[[128]]
+[[p=128]]
 objet petit a en esta fórmula se convierte en la "unidad de valor" (unité de valeur), y el sujeto es transformado en una "valor de mercado" (valeur
 marchande), evaluado y cuantificado por el mercado.
 
@@ -4674,7 +4674,7 @@ XV                                     (desecho); el acto como ruptura          
            (1967-1968)                                                 homologa al producto del plus-de-jouir.
                                        del cogito                                                                     Gallagher, Staferla
 
-[[129]]
+[[p=129]]
 Referencias de Ediciones
 Seminario Título y Fechas              Conceptos Principales              Relación Conceptual con Marx
                                                                                                                             y Transcripciones
@@ -4714,7 +4714,7 @@ o la afirmación directa de la homología
 
 plus-de-jouir/plusvalía en el Seminario XVII se encuentran en estas versiones, lo que refuerza la radicalidad política del pensamiento de Lacan.
 
-[[130]]
+[[p=130]]
 Para el Proyecto Kairos, estos hallazgos son esenciales. La noción del inconsciente como un "trabajador ideal" para el capitalismo y el sujeto
 como un "valor de mercado" demuestran que la explotación no se limita al plano económico, sino que se inscribe en la psique. El
 
@@ -4746,7 +4746,7 @@ propia enseñanza de Lacan. El Seminario XVII, L'envers de la psychanalyse (El r
 ya que allí Lacan establece la base de la compatibilidad entre Freud y Marx, a quien califica como el "inventor del síntoma". Esta afirmación, lejos
 de ser una analogía superficial, inaugura una homología estructural que permite una lectura cruzada de ambos discursos. La noción de que Marx
 
-[[131]]
+[[p=131]]
 descubre algo análogo al síntoma psicoanalítico abre el camino para comprender cómo la economía política y el inconsciente están
 intrínsecamente entrelazados en la producción del sujeto.
 
@@ -4779,7 +4779,7 @@ estructuras del lazo social, y en este marco, Lacan introduce la posibilidad de 
 uno más, sino una "mutación" del discurso del amo , una inversión de sus términos que rompe con la estructura y las disyunciones inherentes a
 los otros discursos. Si en el discurso del amo el
 
-[[132]]
+[[p=132]]
 plus-de-goce se produce como una pérdida que el sistema intenta metabolizar, en el del capitalista se presenta como una promesa de
 satisfacción total e inmediata.
 
@@ -4812,7 +4812,7 @@ Tabla 1: Matema del Discurso del Amo y del Capitalista.
 
 II. Las Mutaciones del Sujeto en la Última Enseñanza
 
-[[133]]
+[[p=133]]
 Los últimos seminarios de Lacan marcan un giro hacia la formalización topológica, en un intento de abordar el real de la experiencia
 psicoanalítica de una manera que la lógica del significante se revela insuficiente. Sin embargo, este movimiento no representa una huida de la
 realidad social, sino una intensificación de su abordaje, ofreciendo un modelo para comprender al sujeto en un mundo donde el discurso
@@ -4845,7 +4845,7 @@ En el Seminario XXIII (Le sinthome), Lacan introduce el sinthome a través de su
 sinthome se conceptualiza como un cuarto elemento que anuda los tres registros (R.S.I.) cuando la función del Nombre-del-Padre ha fallado. A
 diferencia del síntoma clásico, que es una formación del inconsciente a ser descifrada, el sinthome es una "consistencia", un modo singular en el
 
-[[134]]
+[[p=134]]
 que el sujeto se anuda a su goce. Esta conceptualización ofrece un modelo para entender cómo el sujeto logra sostenerse en un mundo sin la ley
 simbólica que, en teoría, debería haberle dado una identidad estable.
 
@@ -4883,7 +4883,7 @@ sinthome         Joyce, savoir-faire.    aro que anuda los tres registros en aus
                                                                                       la respuesta del sujeto a una sociedad que produce plus-
                                          del Nombre-del-Padre, una respuesta
 
-[[135]]
+[[p=135]]
 Seminario        Conceptos Clave         Desarrollo Teórico                             Articulación con la Crítica Marxiana
 
                                          singular al goce.                              de-goce y carece de un marco simbólico para regularlo.
@@ -4922,7 +4922,7 @@ En el Seminario XXIV, L'insu que sait de l'une-bévue, Lacan retoma su redefinic
 título, una una-equivocación (l'une-bévue), es su "traducción" del término freudiano Unbewusste (inconsciente). Esta nueva formulación define
 el inconsciente como un "todo falso" (
 
-[[136]]
+[[p=136]]
 tout faux) que se intercambia a pesar de no valer la unidad en cuestión. La noción de un "todo falso" es clave para articular el concepto con la
 crítica marxiana, en particular con la teoría del fetichismo de la mercancía.
 
@@ -4954,7 +4954,7 @@ la "verdad" del capital que la ideología intenta ocultar. Freud, al descubrir l
 subjetividad humana. Ambos discursos, por lo tanto, tienen una función subversiva, poética, ya que articulan una verdad del real que
 desestabiliza los semblantes y las fantasías sobre las que se construyen los órdenes social y psíquico.
 
-[[137]]
+[[p=137]]
 IV. Conclusiones y Proyecciones del Proyecto Kairos
 
 El análisis de los últimos seminarios de Lacan, del XXI al XXV, confirma la hipótesis fundamental del "Proyecto Kairos": la enseñanza lacaniana no
@@ -4983,7 +4983,7 @@ amplía la investigación sobre los seminarios de Lacan, destacando la evolució
 du capitaliste, y su homología con la plusvalía y la crítica del fetichismo de la mercancía. Cada entrada documenta el rastreo en las fuentes (Seuil,
 Paidós y transcripciones) y ofrece un análisis crítico de las conexiones con el pensamiento de Marx.
 
-[[138]]
+[[p=138]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5021,7 +5021,7 @@ N       Semin    /                                              Variac          
                              minús           minús                       del      de la
                              cula,           cula,                       dese     plusvalí
 
-[[139]]
+[[p=139]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                      Referen
@@ -5057,7 +5057,7 @@ N       Semin   /                                              Variac           
                                                                         subje
                                                                         tiva.3
 
-[[140]]
+[[p=140]]
 Pá              Pá              Otra
                   Cla
                         gi              gin             tradu                      Referen
@@ -5098,7 +5098,7 @@ N       Semin     /                                              Variac         
                               compo           rtarse             capita   ógica
                               rter            en la              lismo,   que
 
-[[141]]
+[[p=141]]
 Pá              Pá               Otra
                   Cla
                         gi              gin              tradu                       Referen
@@ -5143,7 +5143,7 @@ N       Semin     /                                               Variac        
     6                                                                      petit     estructu
                                                                            a         ra
 
-[[142]]
+[[p=142]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                      Referen
@@ -5178,7 +5178,7 @@ N       Semin   /                                              Variac           
                                                                         de       ta.8
                                                                         castr
 
-[[143]]
+[[p=143]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5223,7 +5223,7 @@ N       Semin    /                                              Variac          
                                                                          sino     de
                                                                          una      goce),
 
-[[144]]
+[[p=144]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                      Referen
@@ -5258,7 +5258,7 @@ N       Semin   /                                              Variac           
                                                                                  libidinal.
                                                                                  14
 
-[[145]]
+[[p=145]]
 Pá              Pá              Otra
                   Cla
                         gi              gin             tradu                      Referen
@@ -5299,7 +5299,7 @@ N       Semin     /                                              Variac         
                                                                           analít   a que se
                                                                           ico,     extrae
 
-[[146]]
+[[p=146]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5340,7 +5340,7 @@ N       Semin    /                                              Variac          
                                                                                              proceso.    cam
     6                  il)   d'écha          de                 " de     o        directa
 
-[[147]]
+[[p=147]]
 Pá              Pá               Otra
                  Cla
                        gi              gin              tradu                      Referen
@@ -5383,7 +5383,7 @@ N       Semin    /                                               Variac         
         psicoa
     7                        reconn          allí, es            forma    lece
 
-[[148]]
+[[p=148]]
 Pá              Pá               Otra
                   Cla
                         gi              gin              tradu                      Referen
@@ -5418,7 +5418,7 @@ N       Semin     /                                               Variac        
                               passe           nte                 de-      cuant
                               véritab         pasa a              goce     itativ
 
-[[149]]
+[[p=149]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5460,7 +5460,7 @@ N       Semin    /                                              Variac          
         psicoa                                         (1991
     7                                                           lación   del
 
-[[150]]
+[[p=150]]
 Pá              Pá              Otra
                   Cla
                         gi              gin             tradu                      Referen
@@ -5495,7 +5495,7 @@ N       Semin     /                                              Variac         
                                                                           de-
                                                                           jouir
 
-[[151]]
+[[p=151]]
 Pá              Pá              Otra
                   Cla
                         gi              gin             tradu                      Referen
@@ -5531,7 +5531,7 @@ N       Semin     /                                              Variac         
 9   1   S XVIII   —     —     «le       —     «el       Trans    El       Lacan    Discurso    N4
     9   – De                  plus-           plus-     cripci   disco    reiter   capitalis
 
-[[152]]
+[[p=152]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5566,7 +5566,7 @@ N       Semin    /                                              Variac          
                              ppé             está               que      comp
                              dont il         en                 gira)    rende
 
-[[153]]
+[[p=153]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                       Referen
@@ -5599,7 +5599,7 @@ N       Semin   /                                              Variac           
                             capital
                             iste.»
 
-[[154]]
+[[p=154]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5644,7 +5644,7 @@ N       Semin    /                                              Variac          
                                                        (1975
     7                        nce             es lo              Encor    de-
 
-[[155]]
+[[p=155]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                        Referen
@@ -5681,7 +5681,7 @@ N       Semin   /                                              Variac           
                                                                goce.     alista.
                                                                          El
 
-[[156]]
+[[p=156]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                      Referen
@@ -5715,7 +5715,7 @@ N       Semin   /                                              Variac           
                                                                         ómic
                                                                         a.25
 
-[[157]]
+[[p=157]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5752,7 +5752,7 @@ N       Semin    /                                              Variac          
                                                                 pater    deja
                                                                 na       al
 
-[[158]]
+[[p=158]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                      Referen
@@ -5790,7 +5790,7 @@ N       Semin    /                                              Variac          
         –
     7                                                  ones:    uce el   borro
 
-[[159]]
+[[p=159]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                       Referen
@@ -5825,7 +5825,7 @@ N       Semin    /                                              Variac          
                                                                 Imagi    goce
                                                                 nario.   pued
 
-[[160]]
+[[p=160]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                       Referen
@@ -5861,7 +5861,7 @@ N       Semin   /                                              Variac           
                                                                         alista.
                                                                         30
 
-[[161]]
+[[p=161]]
 Pá              Pá              Otra
                   Cla
                         gi              gin             tradu                      Referen
@@ -5904,7 +5904,7 @@ N       Semin     /                                              Variac         
                                                                  meo               mo.35
                                                                  que
 
-[[162]]
+[[p=162]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                       Referen
@@ -5941,7 +5941,7 @@ N       Semin    /                                              Variac          
 1
     9   – Lo                 -bévue          una-      cripci   una-      idea     ocultan   ente/feti
 
-[[163]]
+[[p=163]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                       Referen
@@ -5978,7 +5978,7 @@ N       Semin    /                                              Variac          
                                                                 wusst     merc
                                                                 e         ancía
 
-[[164]]
+[[p=164]]
 Pá              Pá              Otra
                 Cla
                       gi              gin             tradu                       Referen
@@ -6016,7 +6016,7 @@ N       Semin   /                                              Variac           
 1
     9   – El                                          cripci   descri    y        a),        eud/poe
 
-[[165]]
+[[p=165]]
 Pá              Pá              Otra
                  Cla
                        gi              gin             tradu                       Referen
@@ -6051,7 +6051,7 @@ N       Semin    /                                              Variac          
                                                                          sibilid
                                                                          ad.47
 
-[[166]]
+[[p=166]]
 Pá                  Pá                 Otra
                         Cla
                                gi                  gin                tradu                            Referen
@@ -6089,7 +6089,7 @@ Introducción: El Momento Crucial de la Enseñanza de Lacan y la Metodología Ka
 El presente informe técnico tiene como objetivo principal analizar en detalle el Seminario XII de Jacques Lacan, Problèmes cruciaux pour la
 psychanalyse (1964-1965), y articular sus conceptos con la obra de Karl Marx. El análisis se realiza aplicando la metodología del "Proyecto
 
-[[167]]
+[[p=167]]
 Kairos," la cual se centra en la identificación de los momentos lógicos y conceptuales donde la verdad de un discurso ilumina las fallas del otro,
 trascendiendo las analogías superficiales. El Seminario XII es un punto de inflexión fundamental en la enseñanza de Lacan. Se sitúa como el cierre
 de una primera fase, sintetizada en el Seminario XI,
@@ -6124,7 +6124,7 @@ diciembre de
 1964)
               (sens)                      sentido poético.                    excedente poético del sentido prefigura la noción de excedente
 
-[[168]]
+[[p=168]]
 Conceptos Centrales de
 Sesión y Fecha                              Temas Clave                            Kairos: Vínculo con el Pensamiento de Marx
                  Lacan
@@ -6159,7 +6159,7 @@ furiously". La tesis de Chomsky era que esta oración, aunque gramaticalmente co
 cuestiona esta distinción. Él argumenta que, incluso en la ausencia de una significación obvia, el lenguaje produce un "sentido poético". Un
 ejemplo similar que utiliza es el verso de Jean Racine "Songe, songe, Céphise, à cette nuit cruelle, qui fut pour tout un peuple une nuit éternelle".
 
-[[169]]
+[[p=169]]
 A pesar de la "contradicción en los términos" , el valor conmovedor de la frase reside en la repetición de los sonidos y las consonantes, lo que
 Lacan denomina el "sentido poético".
 
@@ -6191,7 +6191,7 @@ completo. Esto es una homología conceptual con la posición del proletario en l
 la producción capitalista, aunque no la comprenda. Lacan, al igual que Marx, rechaza el "sentido común" de la psicología para insistir en que el
 sujeto es un producto de su estructura, no su causa.
 
-[[170]]
+[[p=170]]
 2.3. Clases 5 y 6 (13 y 20 de enero de 1965): La Dialéctica del Deseo y la Interrogación del Amo
 
 Lacan profundiza en la estructura del sujeto a través de un análisis de la figura de Sócrates. La "atopia" de Sócrates, su posición "fuera de lugar" ,
@@ -6224,7 +6224,7 @@ Lacan retoma el cogito cartesiano ("pienso, luego soy") para deconstruirlo y vin
 Entzweinung. El sujeto del que se trata en el análisis no es el sujeto de la conciencia, sino un ser "aún separado del dudar" , que encuentra su
 estatuto no en la certeza del pensamiento, sino en los "tropiezos, en los intervalos de ese discurso". Este sujeto, el correlato de la ciencia , es un
 
-[[171]]
+[[p=171]]
 sujeto dividido por el lenguaje, una realidad que la psicología moderna busca disimular. La crítica marxista a la economía política se encuentra
 con la crítica lacaniana a la "economía libidinal" que la sostiene. La "verdad" de la que habla Marx, la explotación, es lo que la psicología moderna
 encubre a nivel subjetivo, prometiendo una adaptación que no es más que una forma de alienación. Así, el Seminario XII demuestra cómo Lacan
@@ -6257,7 +6257,7 @@ y del deseo.
 En seminarios posteriores, especialmente en el Seminario XVII, El reverso del psicoanálisis, Lacan formaliza el "discurso del capitalista" como una
 "inversión" o "mutación" del discurso del amo. La diferencia crucial reside en que el
 
-[[172]]
+[[p=172]]
 sujeto barrado ($) ocupa el lugar del agente, lo que rompe la matriz que define los otros discursos. Esta inversión produce un "corto-circuito" del
 lazo social, ya que el sujeto ya no se relaciona con el Gran Otro a través de una falta, sino que se le promete un acceso directo a un objeto de
 consumo. El sujeto es, al mismo tiempo, el capitalista y el proletario, "radicalmente a merced del sistema que él produce y que lo produce".
@@ -6288,7 +6288,7 @@ explotación; para Lacan, era la división del sujeto como la verdad de la alien
 "inventor del síntoma" es el reconocimiento de que la verdad no se encuentra en un saber transparente, sino en la falla del saber, en aquello que
 insiste y se repite como un síntoma.
 
-[[173]]
+[[p=173]]
 La relevancia de este análisis para el pensamiento contemporáneo es clara: la crítica del capitalismo debe ir más allá de los análisis económicos y
 políticos para integrar la dimensión del goce y el deseo. El "discurso del capitalista," que promete un goce sin límites a través del consumo,
 disuelve el lazo social y crea una forma de dominación más perversa, donde el sujeto se convierte en el agente de su propia explotación. La
@@ -6306,7 +6306,7 @@ elementos que serán centrales en seminarios posteriores:
        discursos como estructuras que determinan relaciones de saber y goce; esbozo
        inicial del discurso del capitalista como bypass de la castración.
 
-[[174]]
+[[p=174]]
 3. Objeto a y plus-de-jouir: Consolidación del objeto a como causa del deseo y como
      resto excedentario que estructura la economía libidinal.
   4. Ley y deseo: La ley no solo prohíbe, sino que produce el deseo, modulando su
@@ -6322,7 +6322,7 @@ Este seminario es especialmente fértil para la lectura cruzada con Marx:
       simbólica en Lacan refleja el modo en que las relaciones de producción organizan
       la extracción de plusvalía.
 
-[[175]]
+[[p=175]]
    Discurso del�capitalista�↔�acumulación�sin�límite:�Variante�discursiva�que�
       suprime el límite de la castración, análoga a la dinámica del capital en su fase de
       expansión ilimitada.
@@ -6338,7 +6338,7 @@ Este seminario es especialmente fértil para la lectura cruzada con Marx:
 
 3. Notas sobre variantes y diferencias entre fuentes
 
-[[176]]
+[[p=176]]
    Paidós: Tiende a simplificar formulaciones sobre el discurso del capitalista y a
       neutralizar pasajes con implicaciones políticas.
      Transcripciones orales (Staferla / École): Contienen desarrollos más explícitos
@@ -6354,7 +6354,7 @@ El Seminario XII es un punto de inflexión:
      Vincula explícitamente el saber, el goce y las estructuras de poder, abriendo el
       campo para un análisis político del psicoanálisis.
 
-[[177]]
+[[p=177]]
 � Resumen global – Seminario XII
 
 Problemas cruciales para el psicoanálisis (1964–1965)
@@ -6387,7 +6387,7 @@ Este seminario es especialmente fértil para la lectura cruzada con Marx:
       Plus-de-jouir ↔ plusvalía: En el XII se consolida el paralelismo como resto producido estructuralmente, con independencia
        del valor de uso.
 
-[[178]]
+[[p=178]]
    Saber técnico ↔ capital fijo: El saber inconsciente funciona como capital fijo, determinando la forma y el ritmo de
         producción del excedente.
        Ley ↔ regulación del mercado: La ley organiza y modula el deseo como la regulación organiza la demanda y el consumo.
@@ -6421,7 +6421,7 @@ Problemas cruciales para el psicoanálisis (1964–1965)
 
 El Seminario XII desarrolla la relación entre saber, discurso y goce, introduciendo elementos que serán centrales en seminarios posteriores:
 
-[[179]]
+[[p=179]]
 1. Saber como producción: El inconsciente no es depósito de saber reprimido, sino máquina productora de saber, en relación con el
       goce.
 
@@ -6454,7 +6454,7 @@ Este seminario es especialmente fértil para la lectura cruzada con Marx:
       Saber�técnico�↔�capital�fijo:�El�saber�inconsciente�funciona�como�capital�fijo,�determinando�la�forma�y�el�ritmo�de�producción del
        excedente.
 
-[[180]]
+[[p=180]]
    Ley�↔�regulación�del�mercado:�La�ley�organiza y modula el deseo como la regulación organiza la demanda y el consumo.
 
        Fragmentación�del�objeto�↔�división�del�trabajo:�Los�objetos�parciales�(voz,�mirada)�como�productos�diferenciados�de�un�mismo
@@ -6489,7 +6489,7 @@ Problemas cruciales para el psicoanálisis (1964–1965)
 
 1. Ejes conceptuales principales
 
-[[181]]
+[[p=181]]
 El Seminario XII desarrolla la relación entre saber, discurso y goce, introduciendo elementos que serán centrales en seminarios posteriores:
 
     1. Saber como producción: El inconsciente no es depósito de saber reprimido, sino máquina productora de saber, en relación con el goce.
@@ -6523,7 +6523,7 @@ Este seminario es especialmente fértil para la lectura cruzada con Marx:
        Saber�técnico�↔�capital�fijo: El saber inconsciente funciona como capital fijo, determinando la forma y el ritmo de producción del
         excedente.
 
-[[182]]
+[[p=182]]
    Ley�↔�regulación�del�mercado: La ley organiza y modula el deseo como la regulación organiza la demanda y el consumo.
 
        Fragmentación�del�objeto�↔�división�del�trabajo: Los objetos parciales (voz, mirada) como productos diferenciados de un mismo
@@ -6558,7 +6558,7 @@ El Seminario XII es un punto de inflexión:
 Seminario XIII de Lacan
 1. Introducción: De los Problemas Cruciales a la Cuestión del Objeto
 
-[[183]]
+[[p=183]]
 1.1. Contexto Teórico e Histórico: El Viraje de la Enseñanza Lacaniana
 
 La labor de Jacques Lacan en el Seminario XIII, L'objet de la psychanalyse (1965-1966), se enmarca en un punto de inflexión significativo de su
@@ -6590,7 +6590,7 @@ La tarea de este enfoque es la de realizar una "lectura sintomática" de Marx, s
 "mezcla" de teorías, sino un trabajo de lectura que permite identificar los "puntos radicales de cruce" entre ambos discursos. Al hacerlo, se
 puede demostrar cómo las nociones marxistas de valor, trabajo y excedente se iluminan a través de las elaboraciones lacanianas sobre la falta, el
 
-[[184]]
+[[p=184]]
 deseo y la pérdida. El objetivo es revelar un materialismo que subyace en ambos campos, evidenciando que ciertos fenómenos descubiertos por
 Marx en el ámbito de la economía política tienen un correlato preciso en la metapsicología lacaniana.
 
@@ -6622,7 +6622,7 @@ anécdota, sino un punto de partida fundamental para entender el posterior desar
 opera bajo la premisa de una "ciencia del hombre" que, a su vez, asume la estructura capitalista como una "realidad dada" e inmutable. Su
 función es, por lo tanto, la de adaptar al sujeto a un sistema de producción y consumo, convirtiéndolo en un "sujeto disponible para la
 
-[[185]]
+[[p=185]]
 explotación" y la reproducción de las relaciones sociales de explotación. Este rol de la psicología, que Lacan considera una "servidumbre," lo
 diferencia radicalmente del psicoanálisis, cuya ética se basa en la subversión de estas lógicas.
 
@@ -6655,7 +6655,7 @@ función es, en última instancia, enmascarar la falta estructural del sujeto.
 La topología es la herramienta conceptual que Lacan introduce para pensar la relación paradójica entre el sujeto y el objet a. Figuras como la
 banda de Möbius o la botella de Klein no son meras ilustraciones, sino un "protocolo" riguroso para dar cuenta de la estructura del inconsciente.
 
-[[186]]
+[[p=186]]
 El uso de estas figuras permite formalizar la idea de que el sujeto está en "exclusión interna" con respecto a su objeto, es decir, el objeto no es
 algo externo que se pueda poseer, sino que es un borde constitutivo del sujeto, que a la vez está dentro y fuera de él.
 
@@ -6687,7 +6687,7 @@ la sustracción de un excedente.
 La crítica de Marx al fetichismo de la mercancía encuentra un eco directo en la teoría del objet a. Marx explica que el valor social del trabajo, que
 es la base real del valor de las mercancías, se oculta detrás de la apariencia de una propiedad inherente del objeto. De manera similar, el
 
-[[187]]
+[[p=187]]
 objet a funciona como un velo ideológico que confiere a los objetos de consumo un valor aparente, ocultando la falta estructural del sujeto y la
 relación de goce que lo causa. El objeto-gadget de la sociedad de consumo promete una satisfacción total y un goce sin límites, negando así la
 falta constitutiva y la castración.
@@ -6721,7 +6721,7 @@ Fuerza de trabajo                                La fuerza que, al entrar en una
 Plusvalía (Mehrwert)
                             (Plus-de-jouir)      se convierte en el motor del sistema.
 
-[[188]]
+[[p=188]]
 Concepto en Marx            Concepto en Lacan Lógica Homológica
 
 Fetichismo de la            La función del        El velo ideológico que confiere al objeto un valor aparente, ocultando la relación de
@@ -6754,7 +6754,7 @@ un modo inédito," no basado en la identificación con objetos de consumo, sino 
 El informe concluye con la afirmación de Lacan de que Marx y Freud son "poetas". Esta "poética" no se refiere a un uso lírico del lenguaje, sino a
 la capacidad de usar el lenguaje de una manera que crea un "agujero" o un "vacío" en la realidad discursiva. Es la capacidad de formalizar lo
 
-[[189]]
+[[p=189]]
 inarticulable, de dar cuenta de la pérdida y el excedente que sostienen al sistema. En este sentido, el proyecto Kairos no es solo un plan de
 investigación, sino un intento de seguir esa poética, de desanudar la lógica del capital para revelar el objeto que se encuentra en su núcleo y, de
 este modo, abrir un camino para una praxis de la verdad que subvierta los discursos dominantes.
@@ -6784,7 +6784,7 @@ La siguiente tabla maestra documentará el rastreo cronológico de los conceptos
 editadas de Staferla y Cormac Gallagher, ya que las ediciones de Seuil y Paidós, publicadas recientemente, a menudo condensan y editan los
 desarrollos originales de Lacan.
 
-[[190]]
+[[p=190]]
 Otra
                      Págin                                                                                                   Niv
   Año                                                        traducción                           Referencia
@@ -6820,7 +6820,7 @@ N          Clase /   a FR             Página ES                                
           diciembr                                e ilusorio.»                       como una      es una de las
           e de                                                                       formación constantes en
 
-[[191]]
+[[p=191]]
 Otra
                      Págin                                                                                                      Niv
   Año                                                       traducción                           Referencia
@@ -6855,7 +6855,7 @@ N          Clase /   a FR             Página ES                                
                                                                                     al igual que la búsqueda
                                                                                     había hecho de Marx de un
 
-[[192]]
+[[p=192]]
 Otra
                      Págin                                                                                                       Niv
   Año                                                       traducción                           Referencia
@@ -6899,7 +6899,7 @@ N          Clase /   a FR             Página ES                                
                                                                                     inherente
                                       significación                                               ilusoria que se
 
-[[193]]
+[[p=193]]
 Otra
                      Págin                                                                                                          Niv
   Año                                                        traducción                           Referencia
@@ -6946,7 +6946,7 @@ N          Clase /   a FR             Página ES                                
           marzo de
                                                   no hacer                           dialéctica   explotación
 
-[[194]]
+[[p=194]]
 Otra
                      Págin                                                                                                           Niv
   Año                                                           traducción                           Referencia
@@ -6983,7 +6983,7 @@ N          Clase /   a FR             Página ES                                
                                                                                         desvía hacia semblante,
                                                                                         la topología que oculta el
 
-[[195]]
+[[p=195]]
 Otra
                      Págin                                                                                                     Niv
   Año                                                       traducción                           Referencia
@@ -7018,7 +7018,7 @@ N          Clase /   a FR             Página ES                                
                                                                         esclavo es fuerza de
                                                                         lo que       trabajo de
 
-[[196]]
+[[p=196]]
 Otra
                      Págin                                                                                                        Niv
   Año                                                       traducción                            Referencia
@@ -7064,7 +7064,7 @@ N          Clase /   a FR             Página ES                                
                                                                                                   experiencia y
                                                                                      La
 
-[[197]]
+[[p=197]]
 Otra
                      Págin                                                                                                     Niv
   Año                                                       traducción                           Referencia
@@ -7109,7 +7109,7 @@ N          Clase /   a FR             Página ES                                
                                                                                     cuantificabl
                                                                                     e.
 
-[[198]]
+[[p=198]]
 Tabla Maestra Detallada: Seminario XIV, La lógica del fantasma (1966-1967)
 
 El Seminario XIV de Jacques Lacan, La lógica del fantasma, es un punto de inflexión crucial en su enseñanza, donde la lógica adquiere una
@@ -7143,7 +7143,7 @@ N         e / a FR                   ES                               Variaci
                                                                                 al sujeto                   excedente
                                                                                 dividido ($)                producido por
 
-[[199]]
+[[p=199]]
 Otra
           Clas Págin            Página
   Año                                               traducción                       Referencia
@@ -7187,7 +7187,7 @@ N         e / a FR              ES                              Variaci
                                        doblement
             (14                                                         ilusoria que, alinea con la
 
-[[200]]
+[[p=200]]
 Otra
           Clas Págin            Página
   Año                                                 traducción                       Referencia
@@ -7227,7 +7227,7 @@ N         e / a FR              ES                                Variaci
                       jouissance
             1967                                                          goce, sino   homología de
 
-[[201]]
+[[p=201]]
 Otra
           Clas Págin            Página
   Año                                              traducción                       Referencia
@@ -7262,7 +7262,7 @@ N         e / a FR              ES                             Variaci
                                        el amo de                       trabajo para el plus-de-
                                        turno                           obtener una goce es la
 
-[[202]]
+[[p=202]]
 Otra
           Clas Págin            Página
   Año                                               traducción                       Referencia
@@ -7299,7 +7299,7 @@ N         e / a FR              ES                              Variaci
                                                                         no como       agujero en la
                                                                         una mera      economía
 
-[[203]]
+[[p=203]]
 Otra
           Clas Págin                Página
   Año                                                    traducción                       Referencia
@@ -7340,7 +7340,7 @@ N         e / a FR                  ES                               Variaci
 
 Seminario XIII: L'objet de la psychanalyse (1965-1966)
 
-[[204]]
+[[p=204]]
 Este seminario se sitúa en un punto crucial de la enseñanza de Lacan, sirviendo como una profundización de las elaboraciones sobre el sujeto
 dividido ($) y el objet petit a introducidas en el Seminario XI y XII. Lacan se aleja del comentario freudiano para desarrollar sus propios conceptos
 de manera explícita, buscando darle al objeto del psicoanálisis un estatus lógico y estructural, más allá de la psicología o la biología.
@@ -7377,7 +7377,7 @@ N          Clase /      a FR                ES
                                                                                                              "calculable"
                                                                                                              para el
 
-[[205]]
+[[p=205]]
 Págin            Página
   Año                                                   Otra                                    Referencia                        Nivel
 N          Clase /   a FR             ES
@@ -7423,7 +7423,7 @@ N          Clase /   a FR             ES
                                                                                  el sujeto está lazo social
                                                                                  en una         que
 
-[[206]]
+[[p=206]]
 Págin            Página
   Año                                                   Otra                                     Referencia                 Nivel
 N          Clase /   a FR             ES
@@ -7459,7 +7459,7 @@ N          Clase /   a FR             ES
                                                                                  asistencia de psicoanálisis
                                                                                  Michel         en un
 
-[[207]]
+[[p=207]]
 Págin             Página
   Año                                                    Otra                                     Referencia               Nivel
 N          Clase /   a FR              ES
@@ -7498,7 +7498,7 @@ N          Clase /   a FR              ES
                                                                          pérdida en de una
                                                                          la entrada operación de
 
-[[208]]
+[[p=208]]
 Págin              Página
   Año                                                          Otra                                       Referencia                      Nivel
 N          Clase /      a FR               ES
@@ -7529,7 +7529,7 @@ El concepto griego de kairos denota un momento oportuno y cualitativo, un punto 
 cuantitativo del chronos. En el contexto de la teoría, el kairos no es simplemente un evento cronológico, sino una coyuntura en la que una verdad
 o una estructura se revela, subvirtiendo el orden establecido. La investigación adopta esta noción para trascender una simple cronología de la
 
-[[209]]
+[[p=209]]
 enseñanza de Lacan y, en su lugar, localizar y analizar los momentos en que sus conceptos emergen con una fuerza transformadora. El Seminario
 XIV, por su énfasis en la formalización lógica y el estatuto del objeto, es concebido aquí como un kairos que permite la relectura de sus
 predecesores y la anticipación de sus desarrollos posteriores.
@@ -7562,7 +7562,7 @@ inaugura el "sujeto de la ciencia". El método de la duda radical de Descartes b
 ego, pero Lacan argumenta que esto confunde el pensamiento del sujeto con la actividad del yo, una rivalidad imaginaria con un Otro engañador.
 Para Lacan, el verdadero significado del
 
-[[210]]
+[[p=210]]
 cogito no es la afirmación de un yo sustancial, sino la revelación de un sujeto evanescente que se divide entre el pensamiento y el ser. Freud, al
 someter el yo mismo a la duda a través de la autoanálisis, lleva esta subversión a su extremo lógico y descubre el verdadero sujeto: el "sujeto del
 inconsciente".
@@ -7595,7 +7595,7 @@ superficie del discurso, un corte que hace caer el objeto a. Este objeto, aunque
 
 3. La Lógica del Fantasma como Dispositivo Articulatorio
 
-[[211]]
+[[p=211]]
 3.1.�Formalización�del�Fantasma:�El�matema�S◊a
 
 El Seminario XIV se presenta como un taller de elaboración teórica, donde la expresión "lógica del fantasma" funciona como un leitmotiv que
@@ -7626,7 +7626,7 @@ excedente es ser la causa del deseo, y el matema que lo representa es el
 
 objet a.
 
-[[212]]
+[[p=212]]
 La relación entre la plusvalía y el plus-de-jouir es una homología profunda. Ambos son un "plus" ineliminable que escapa a la cuantificación y a la
 simbolización total, pero que, sin embargo, es el motor del funcionamiento de sus respectivos sistemas. Marx intentó simbolizar este excedente
 en la forma de plusvalor, pero Lacan señala que su esencia resiste a esta operación, siendo un "objeto perdido y sin sentido" que, al igual que el
@@ -7657,7 +7657,7 @@ naturaleza, es un acto de subversión ética y política que se opone al discurs
 A pesar de la importancia del Seminario XIV, la lógica del fantasma no es la última palabra en la enseñanza de Lacan. En el Seminario XXIII, Le
 sinthome, Lacan desarrolla una nueva formalización que va más allá de la lógica del fantasma, a través de la topología del nudo borromeo. El
 
-[[213]]
+[[p=213]]
 sinthome no es el plus-de-jouir en el sentido de un excedente que cae, sino un "saber hacer" del sujeto con ese goce, un anudamiento que ya no
 está mediado por el fantasma. Este es el punto final del
 
@@ -7691,7 +7691,7 @@ relación con un excedente ineliminable. Al trazar una homología entre el plus-
 que ambos conceptos no son meras coincidencias, sino la expresión de una misma verdad estructural: la existencia de un excedente que se
 produce a partir de una pérdida y que, sin embargo, se convierte en el motor de un sistema, ya sea la economía libidinal o el capitalismo.
 
-[[214]]
+[[p=214]]
 Esta lectura revela la dimensión profundamente política del psicoanálisis lacaniano, que se opone a la misión adaptativa de la psicología moderna
 y se sitúa como una praxis ética de subversión. El analista, lejos de buscar una "cura" en el sentido de la supresión del síntoma, opera para que el
 sujeto pueda "saber hacer con su síntoma," es decir, para que pueda leer la verdad que el excedente de goce revela y, con ello, forjar una nueva
@@ -7726,7 +7726,7 @@ N          Clase /      a FR       Página ES                    Otra traducció
                                                                                               transgresión sistema
                                                                                               que va "hors la feudal por la
 
-[[215]]
+[[p=215]]
 Págin                                                                                                         Nive
   Año                       Cit                                                                    Referencia
 N          Clase /   a FR       Página ES             Otra traducción /                                                            l
@@ -7760,7 +7760,7 @@ N          Clase /   a FR       Página ES             Otra traducción /       
                                                                                   que su          de adaptación
                                                                                   discurso se     a lo social, a la
 
-[[216]]
+[[p=216]]
 Págin                                                                                                        Nive
   Año                       Cit                                                                   Referencia
 N          Clase /   a FR       Página ES             Otra traducción /                                                           l
@@ -7797,7 +7797,7 @@ N          Clase /   a FR       Página ES             Otra traducción /       
                                                                                   soportar la    del discurso
                                                                                   posición del   del capitalista,
 
-[[217]]
+[[p=217]]
 Págin                                                                                                        Nive
   Año                       Cit                                                                     Referencia
 N          Clase /   a FR       Página ES               Otra traducción /                                                         l
@@ -7830,7 +7830,7 @@ N          Clase /   a FR       Página ES               Otra traducción /     
                                                                                     como una cosa sujeto natural
                                                                                     a ser poseída, es una
 
-[[218]]
+[[p=218]]
 Págin                                                                                                  Nive
   Año                       Cit                                                                  Referencia
 N          Clase /   a FR       Página ES             Otra traducción /                                                     l
@@ -7865,7 +7865,7 @@ N          Clase /   a FR       Página ES             Otra traducción /       
                                                                         permite
                                                                         el pasaje
 
-[[219]]
+[[p=219]]
 Págin                                                                                                             Nive
   Año                        Cit                                                                        Referencia
 N          Clase /    a FR       Página ES                 Otra traducción /                                                            l
@@ -7907,7 +7907,7 @@ N          Clase /    a FR       Página ES                 Otra traducción /  
 
 Tabla Maestra Detallada: Seminario XIV, La lógica del fantasma (1966-1967)
 
-[[220]]
+[[p=220]]
 El Seminario XIV de Jacques Lacan, La logique du fantasme, es un punto de inflexión crucial en su enseñanza, donde la lógica adquiere una
 importancia fundamental. Este informe, como parte del Proyecto Kairos, se centra en desglosar las elaboraciones de este seminario a nivel de
 cada sesión. A través de una rigurosa lectura de las transcripciones y ediciones disponibles, esta tabla maestra busca identificar los momentos
@@ -7942,7 +7942,7 @@ N          /     a FR                    ES                    Otra traducción 
                                                                                  "ventana realidad
                                                                                  " a través parezca
 
-[[221]]
+[[p=221]]
 Clase Págin               Página                                                                                        Nive
   Año                                                                                                Referencia
 N          /     a FR                ES                     Otra traducción                                                        l
@@ -7992,7 +7992,7 @@ N          /     a FR                ES                     Otra traducción    
                                                                                                     libidinal que el
                                                                                       motor de la
 
-[[222]]
+[[p=222]]
 Clase Págin           Página                                                                                          Nive
   Año                                                                                          Referencia
 N          /     a FR            ES                   Otra traducción                                                            l
@@ -8042,7 +8042,7 @@ N          /     a FR            ES                   Otra traducción          
                                                       Cormac
           (10                                                                   como un      cuenta de un
 
-[[223]]
+[[p=223]]
 Clase Págin           Página                                                                                      Nive
   Año                                                                                          Referencia
 N          /     a FR            ES                Otra traducción                                                           l
@@ -8076,7 +8076,7 @@ N          /     a FR            ES                Otra traducción             
           de                                                        dialéctic   trabajo, es el
           may.                                                      a           objet a que el
 
-[[224]]
+[[p=224]]
 Clase Págin           Página                                                                                     Nive
   Año                                                                                          Referencia
 N          /     a FR            ES                Otra traducción                                                          l
@@ -8111,7 +8111,7 @@ N          /     a FR            ES                Otra traducción             
           jun.                                                               sobre la       praxis en
           de                                                                 interpretación Marx, la idea
 
-[[225]]
+[[p=225]]
 Clase Págin                   Página                                                                                               Nive
   Año                                                                                                      Referencia
 N          /     a FR                    ES                    Otra traducción                                                                l
@@ -8140,7 +8140,7 @@ clave y las sutilezas conceptuales que permiten trazar una homología profunda e
 economía política. La noción de que la lógica de la fantasía se basa en un excedente, el plus-de-goce, que es análogo a la plusvalía de Marx, es un
 hilo conductor central de esta investigación.
 
-[[226]]
+[[p=226]]
 Clase Págin              Página                                                                                     Nive
   Año                                                                                              Referencia
 N          /     a FR               ES                    Otra traducción                                                      l
@@ -8191,7 +8191,7 @@ N          /     a FR               ES                    Otra traducción      
                                                                                                                   Plus-de-     N5
           11           jouir, qui est        goce, que es                           el plus-de-    las
 
-[[227]]
+[[p=227]]
 Clase Págin                Página                                                                                        Nive
   Año                                                                                                Referencia
 N          /     a FR                 ES                    Otra traducción                                                         l
@@ -8225,7 +8225,7 @@ N          /     a FR                 ES                    Otra traducción    
 0         (15                                 en vez de no                            neurótico que explícita con   o
           de                                  hacer nada y                            se somete al Marx, ya que
 
-[[228]]
+[[p=228]]
 Clase Págin           Página                                                                                       Nive
   Año                                                                                            Referencia
 N          /     a FR            ES                     Otra traducción                                                       l
@@ -8261,7 +8261,7 @@ N          /     a FR            ES                     Otra traducción        
           )                                                                       más allá del análogo a la
                                                                                   discurso del forma en que
 
-[[229]]
+[[p=229]]
 Clase Págin           Página                                                                                   Nive
   Año                                                                                       Referencia
 N          /     a FR            ES                Otra traducción                                                        l
@@ -8295,7 +8295,7 @@ N          /     a FR            ES                Otra traducción             
                                                                     r el goce la fuente de la
                                                                     al lado plusvalía. La
 
-[[230]]
+[[p=230]]
 Clase Págin           Página                                                                                    Nive
   Año                                                                                        Referencia
 N          /     a FR            ES                Otra traducción                                                         l
@@ -8340,7 +8340,7 @@ N          /     a FR            ES                Otra traducción             
                                                                              una verdad en
                                                                                             explotación
 
-[[231]]
+[[p=231]]
 Clase Págin                   Página                                                                                                 Nive
   Año                                                                                                      Referencia
 N          /     a FR                    ES                    Otra traducción                                                                  l
@@ -8378,7 +8378,7 @@ N          Clase /      a FR                 ES                   Otra traducci�
                               mets hors la                                         transgresión,   Marx, al
                               loi, ce jour-                                        algo que se     describir la
 
-[[232]]
+[[p=232]]
 Págin                Página                                                                                     Nive
   Año                                                                                                                          Eje
 N          Clase /   a FR                 ES                 Otra traducción                                  Referencia             l
@@ -8412,7 +8412,7 @@ N          Clase /   a FR                 ES                 Otra traducción   
           1967)                                   hablo,                      reafirma que que considera
                                                   testimonia                  su discurso se un
 
-[[233]]
+[[p=233]]
 Págin             Página                                                                                        Nive
   Año                                                                                                                          Eje
 N          Clase /   a FR              ES                    Otra traducción                                  Referencia             l
@@ -8449,7 +8449,7 @@ N          Clase /   a FR              ES                    Otra traducción   
                            analítico».                                        soportar esta creencia del
                                                                               posición para consumidor en
 
-[[234]]
+[[p=234]]
 Págin            Página                                                                                     Nive
   Año                                                                                                                      Eje
 N          Clase /   a FR             ES                 Otra traducción                                  Referencia             l
@@ -8482,7 +8482,7 @@ N          Clase /   a FR             ES                 Otra traducción       
                                                                          padre.         objetos para
                                                                                         una necesidad
 
-[[235]]
+[[p=235]]
 Págin             Página                                                                                      Nive
   Año                                                                                                                        Eje
 N          Clase /   a FR              ES                Otra traducción                                    Referencia             l
@@ -8529,7 +8529,7 @@ N          Clase /   a FR              ES                Otra traducción       
                                                                           analista.
                             análisis».                                                    produjo.
 
-[[236]]
+[[p=236]]
 Págin                Página                                                                                       Nive
   Año                                                                                                                               Eje
 N          Clase /      a FR                 ES                   Otra traducción                                  Referencia             l
@@ -8566,7 +8566,7 @@ El Seminario XIV de Jacques Lacan, La logique du fantasme, es un punto de inflex
 importancia fundamental. Este informe, como parte del Proyecto Kairos, se centra en desglosar las elaboraciones de este seminario a nivel de
 cada sesión. A través de una rigurosa lectura de las transcripciones y ediciones disponibles, esta tabla maestra busca identificar los momentos
 
-[[237]]
+[[p=237]]
 clave y las sutilezas conceptuales que permiten trazar una homología profunda entre la teoría lacaniana del sujeto y la crítica marxista de la
 economía política. La noción de que la lógica de la fantasía se basa en un excedente, el plus-de-goce, que es análogo a la plusvalía de Marx, es un
 hilo conductor central de esta investigación.
@@ -8601,7 +8601,7 @@ N          /     a FR                    ES                    Otra traducción 
                                                                                  la cual el coherente.
                                                                                  sujeto ve
 
-[[238]]
+[[p=238]]
 Clase Págin               Página                                                                                              Nive
   Año                                                                                                  Referencia
 N          /     a FR                ES                     Otra traducción Variació                                                     l
@@ -8638,7 +8638,7 @@ N          /     a FR                ES                     Otra traducción Var
                                                                                         motor de la   sistema extrae.
                                                                                         economía
 
-[[239]]
+[[p=239]]
 Clase Págin           Página                                                                                       Nive
   Año                                                                                         Referencia
 N          /     a FR            ES                   Otra traducción Variació                                                l
@@ -8688,7 +8688,7 @@ N          /     a FR            ES                   Otra traducción Variació
                                                       Gallagher
           de                                                                    protocolo    real que no
 
-[[240]]
+[[p=240]]
 Clase Págin           Página                                                                                       Nive
   Año                                                                                        Referencia
 N          /     a FR            ES                Otra traducción Variació                                                   l
@@ -8722,7 +8722,7 @@ N          /     a FR            ES                Otra traducción Variació   
           may.                                                               subvierte al    objet a que el
           de                                                                 desplazar el    amo no puede
 
-[[241]]
+[[p=241]]
 Clase Págin           Página                                                                                     Nive
   Año                                                                                        Referencia
 N          /     a FR            ES                Otra traducción Variació                                                 l
@@ -8758,7 +8758,7 @@ N          /     a FR            ES                Otra traducción Variació   
           )                                                                  forma de       teoría debe
                                                                              tocar el real intervenir y
 
-[[242]]
+[[p=242]]
 Clase Págin                   Página                                                                                               Nive
   Año                                                                                                      Referencia
 N          /     a FR                    ES                    Otra traducción Variació                                                       l
@@ -8787,7 +8787,7 @@ economía política. La noción de que la lógica de la fantasía se basa en un 
 
 plus-de-goce, que es análogo a la plusvalía de Marx, es un hilo conductor central de esta investigación.
 
-[[243]]
+[[p=243]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -8835,7 +8835,7 @@ N       e/                a ES                          Variaci Nota
                                                                                                       enmarca
                                                                                                       una realidad
 
-[[244]]
+[[p=244]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -8883,7 +8883,7 @@ N       e/                a ES                          Variaci Nota
         196
                                                                 esta
 
-[[245]]
+[[p=245]]
 Pági
         Clas              Págin
   Año        na                            Otra                              Referencia
@@ -8926,7 +8926,7 @@ N       e/                a ES                           Variaci Nota
         6)                                                       división del La ideología
                                                                  sujeto. La capitalista
 
-[[246]]
+[[p=246]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -8961,7 +8961,7 @@ N       e/                a ES                          Variaci Nota
                                                                 dialéctica y lenguaje. La
                                                                 los dogmas crítica de
 
-[[247]]
+[[p=247]]
 Pági
         Clas              Págin
   Año        na                           Otra                                Referencia
@@ -8996,7 +8996,7 @@ N       e/                a ES                          Variaci Nota
         . de                                                    al sentido    ligado a una
         196                                                     en su         correspond
 
-[[248]]
+[[p=248]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -9031,7 +9031,7 @@ N       e/                a ES                          Variaci Nota
         ene      le désir       el deseo                soport que
         . de     en tant        en tanto                e del sostiene el
 
-[[249]]
+[[p=249]]
 Pági
         Clas                   Págin
   Año        na                                    Otra                                Referencia
@@ -9064,7 +9064,7 @@ N       e/                     a ES                              Variaci Nota
                                                                  realida
                                                                  d.
 
-[[250]]
+[[p=250]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9108,7 +9108,7 @@ N       e/                a ES                          Variaci Nota
                                                                 define      capitalista.
                                                                 como la     La
 
-[[251]]
+[[p=251]]
 Pági
         Clas                 Págin
   Año        na                                Otra                              Referencia
@@ -9148,7 +9148,7 @@ N       e/                   a ES                            Variaci Nota
                                                                      pérdida o excedente
                                                                      una        extraído del
 
-[[252]]
+[[p=252]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -9184,7 +9184,7 @@ N       e/                a ES                          Variaci Nota
                                                                 con la      del trabajo
                                                                 topología en la
 
-[[253]]
+[[p=253]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -9219,7 +9219,7 @@ N       e/                a ES                          Variaci Nota
         196                                                     esta
         7)                                                      sesión.
 
-[[254]]
+[[p=254]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9254,7 +9254,7 @@ N       e/                a ES                          Variaci Nota
                                 que                                          libidinal.
                                 posee su
 
-[[255]]
+[[p=255]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9291,7 +9291,7 @@ N       e/                a ES                          Variaci Nota
         196                                                     esta
         7)                                                      sesión.
 
-[[256]]
+[[p=256]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9329,7 +9329,7 @@ N       e/                a ES                          Variaci Nota
                                                                 yendo más Esto es
                                                                 allá del    análogo a la
 
-[[257]]
+[[p=257]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9364,7 +9364,7 @@ N       e/                a ES                          Variaci Nota
         . de                                                    tema en
         196                                                     esta
 
-[[258]]
+[[p=258]]
 Pági
         Clas              Págin
   Año        na                           Otra                              Referencia
@@ -9400,7 +9400,7 @@ N       e/                a ES                          Variaci Nota
                                                                             es un paso
                                                                             clave para
 
-[[259]]
+[[p=259]]
 Pági
         Clas              Págin
   Año        na                           Otra                             Referencia
@@ -9437,7 +9437,7 @@ N       e/                a ES                          Variaci Nota
         de                                                      tema en
         196                                                     esta
 
-[[260]]
+[[p=260]]
 Pági
         Clas              Págin
   Año        na                           Otra                            Referencia
@@ -9462,5 +9462,4 @@ N       e/                a ES                          Variaci Nota
         196
         7)
 
-[[261]]
-
+[[p=261]]

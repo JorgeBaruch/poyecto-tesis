@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 "EL POBRE DE DERECHA" - Jessé Souza
 El Pobre de Derecha, bajo el subtítulo La Venganza de los Bastardos, es un libro del
 sociólogo brasileño Jessé Sousa, publicado en su idioma original en 2024, y todavía no
@@ -47,7 +47,7 @@ forma económica posible, que no está dispuesta a someterse a la crítica. Como
 Hegel, nuestro comportamiento está determinado por la más básica de todas las
 necesidades, el reconocimiento social de nuestra dignidad y singularidad.
 
-[[2]]
+[[p=2]]
 El motivo último es siempre moral, lo sepamos o no, y esto implica que los pobres votan por
 los candidatos de la derecha por causas morales, no económicas. Y estas causas morales no
 suelen ser las que suponemos, como que los pobres se caracterizan por su conservadurismo
@@ -98,7 +98,7 @@ Cuando la realidad se vuelve insoportable, la huida a la fantasía resulta inevi
 no sea para hacer la vida mínimamente soportable. El Joker siente soledad y aislamiento
 extremos.
 
-[[3]]
+[[p=3]]
 Al igual que los nuevos oprimidos que se encuentran solos e indefensos, que ya no cuentan
 con la protección de sindicatos o partidos políticos, instituciones que protegían a la clase
 obrera y que fueron arrasados por el poder neoliberal que les declaró la guerra en los 80. El
@@ -147,7 +147,7 @@ misma entre verdad y mentira, preparando el terreno para la difusión masiva de 
 falsas hacia un público que ya no logra saber qué es real y qué no. La mentira es un arma de
 guerra que se utiliza no solamente contra los enemigos, sino con el objetivo de enfermar la
 
-[[4]]
+[[p=4]]
 sociedad llevándola a un estado de guerra latente, rompiendo todos los acuerdos implícitos
 en los que descansa la vida social.
 
@@ -198,7 +198,7 @@ El mundo privatizado de los individuos se ve expuesto a una segunda desposesión
 reduce a una mercancía vendible con fines de manipulación. En lugar de un espacio de
 interacción, encuentro e intercambio de experiencias del mundo, ahora tenemos un
 
-[[5]]
+[[p=5]]
 solipsismo virtual que nos aprisiona en burbujas de odio. Las calles ahora pertenecen a la
 extrema derecha.
 
@@ -249,7 +249,7 @@ Esa es una de las funciones de los medios de comunicación blindar cualquier ref
 ricos y poderosos como la verdadera causa de la pobreza. Cuando se culpa a la víctima, el
 poder se vuelve invisible y no hay nada mejor para la reproducción de cualquier privilegio
 
-[[6]]
+[[p=6]]
 que volverse invisible. Y cuando el camino de la indignación contra la injusticia está cerrado,
 el camino que queda es dirigir la ira hacia los más débiles, hacia los únicos incapaces de
 defenderse.
@@ -300,7 +300,7 @@ fantasía de creer que forma parte de la élite, cree pertenecer al grupo de los
 En verdad, ni la élite ni la clase media tienen ningún problema con la corrupción, siempre y
 cuando sea cometida por los ricos del mercado. No les preocupa la corrupción, sino
 
-[[7]]
+[[p=7]]
 cualquier forma de inclusión popular que pueda perjudicar su reproducción como clase.
 Pero como la combinación élite-clase media es minoritaria en Latinoamérica, no gana
 elecciones.
@@ -327,5 +327,4 @@ importa la época. Ya lo decía Max Weber, la búsqueda de un sentido a la vida 
 necesaria que en su ausencia cualquier cosa, incluso la idea más insólita, puede ser
 aceptada y llegar a ser verdad. Y la segunda década del siglo XXI le está dando la razón.
 
-[[8]]
-
+[[p=8]]

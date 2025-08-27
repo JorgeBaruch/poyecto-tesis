@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 ACELERAR para TERMINAR con el CAPITALISMO |
 Nick Land y el Aceleracionismo
 El tema con el capitalismo es que provee cosas que no le gustan a nadie. Nick Land es un
@@ -46,7 +46,7 @@ como medio para acelerar el colapso del sistema, mientras que el materialismo hi
 centra en la lucha de clases como el motor que impulsará el cambio hacia una sociedad
 postcapitalista.
 
-[[2]]
+[[p=2]]
 Esta diferencia se hace todavía más grande a medida que se fue escribiendo más sobre el
 aceleracionismo. En términos generales, esta teoría se divide en dos corrientes, de izquierda
 y de derecha. El aceleracionismo de izquierda sostiene que la aceleración del capitalismo
@@ -96,7 +96,7 @@ Land también sostiene que el aceleracionismo de derecha no debe ser entendido c
 ideología política, sino como una forma de pensamiento radical que cuestiona las categorías
 y los valores de la modernidad. Para él, el aceleracionismo de derecha debe ser entendido
 
-[[3]]
+[[p=3]]
 como una forma de nihilismo que abraza la destrucción y el caos como elementos esenciales
 de la vida. Según Land, la aceleración tecnológica debe ser impulsada con el fin de provocar
 una ruptura con el status quo y generar nuevas posibilidades de existencia.
@@ -144,7 +144,7 @@ del proceso de intensificación, enfatizando en particular la inestabilidad que 
 produce dentro del sistema capitalista. Contra esta hipótesis, no obstante, mi respuesta a la
 pregunta de si la aceleración marca el colapso final del poder es muy simple.
 
-[[4]]
+[[p=4]]
 No, porque el poder del capitalista no está fundado en la estabilidad. En el aceleracionismo,
 más que nada, en los escritos de Land, nos vamos a topar con un recalcitrante desprecio por
 la política en favor de la tecnología, lo cual no solo es equivoco, sino que también peligroso.
@@ -195,7 +195,7 @@ Aunque el pensamiento de Nick Gland y el CCRU y el aceleracionismo tengan puntos
 interesantes o hayan sido influyentes en la filosofía y la teoría crítica, su enaltecimiento y
 reflexión sobre el uso de la tecnología y su desprecio por la política los ha empujado hasta el
 
-[[5]]
+[[p=5]]
 rincón marginal que hoy ocupan en la filosofía política. A pesar de los párrafos de crítica que
 se le dedicaron, el pensamiento de Nick Gland y el aceleracionismo siguen siendo objeto de
 debate y reflexión en el ámbito filosófico. Tal vez no específicamente por la controversial
@@ -224,5 +224,4 @@ capitalismo.
 
 Muy buenas noches.
 
-[[6]]
-
+[[p=6]]

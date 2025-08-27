@@ -1,0 +1,12 @@
+﻿
+--- RESULTADOS DEL PROFILING ---
+
+Step                              TimeSeconds
+----                              -----------
+1. Importar y Convertir Fuentes      3,322578
+2. Extraer Citas                    3,1439067
+3. Generar Fichas de Lectura        0,0108961
+4. Generar Ãndice de Conceptos     4,4715148
+5. Generar SÃ­ntesis EstratÃ©gica   0,8727644
+
+

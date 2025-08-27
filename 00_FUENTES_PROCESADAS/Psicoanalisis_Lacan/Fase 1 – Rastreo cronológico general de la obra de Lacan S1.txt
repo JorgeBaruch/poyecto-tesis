@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Fase 1 – Rastreo cronológico general de la obra de Lacan
 Introducción general
 Propósito del documento
@@ -32,7 +32,7 @@ Para garantizar uniformidad y claridad:
         clave.
      Los resúmenes conceptuales cerrarán cada seminario, seguidos por un apartado de observaciones sobre fuentes.
 
-[[2]]
+[[p=2]]
 Alcance y proyecciones
 Este documento es la Fase 1 del rastreo, que sienta las bases para fases posteriores:
      Fase 2: Análisis temático transversal (por conceptos, décadas, relaciones con Marx, etc.).
@@ -73,7 +73,7 @@ crítica/bilingüe paraphraser parafrasear a ↔                 ELP base       
                  Freud, mais de Freud, sino de “paraphraser”                               que borra matices con la distinción
                  le lire.»      leerlo.”                                                   del texto.         marxista entre
 
-[[3]]
+[[p=3]]
 Términos
 Fuente          Texto original Traducción     Variantes      Contexto   Oralidad Nota crítica       Ref. Marx
                                                                                                                           clave
@@ -118,7 +118,7 @@ directa)                                      ELP crítica                      
 
 Tabla de variantes léxicas
 
-[[4]]
+[[p=4]]
 Variante                Tipo Observación
 commenter ↔ paraphraser VL El cambio modifica el blanco de la crítica: generalidad del comentario vs. simplificación de la paráfrasis.
 
@@ -152,7 +152,7 @@ Fecha: 25/11/1953
 Título de la sesión: El inconsciente y la estructura del lenguaje.
 Fuente base: ELP estenotipia.
 
-[[5]]
+[[p=5]]
 Tabla principal – Registro de cita clave
                                                                                                                                    Términos
 Fuente          Texto original    Traducción     Variantes     Contexto         Oralidad     Nota crítica        Ref. Marx
@@ -205,7 +205,7 @@ Paidós                                                         Igual           
                 está              base          pas une                                      abierta la                            estructurado
                 estructurado                    métaphore”                                   interpretación                        / lenguaje
 
-[[6]]
+[[p=6]]
 Términos
 Fuente          Texto original   Traducción     Variantes     Contexto         Oralidad      Nota crítica        Ref. Marx
                                                                                                                                 clave
@@ -253,7 +253,7 @@ Tabla de variantes
 Variante                             Tipo Observación
 + “et cela n’est pas une métaphore” VO Añadido explicativo que cierra la interpretación metafórica. Paidós y Seuil lo omiten.
 
-[[7]]
+[[p=7]]
 Análisis de matiz léxico
 1. Versión sin añadido
      Presenta la frase como una proposición fuerte, pero deja un margen para interpretarla como metáfora conceptual.
@@ -291,7 +291,7 @@ estenotipia      sens, mais à faire   no apunta al                   discusión
                                                                                                                                       signifiant
                  surgir un            sentido, sino a                la tentación de               significante, no   valor no busca
 
-[[8]]
+[[p=8]]
 Términos
 Fuente          Texto original      Traducción         Variantes   Contexto          Oralidad    Nota crítica     Ref. Marx
                                                                                                                                   clave
@@ -340,7 +340,7 @@ Seuil           sens, mais à faire —                               Igual     
                 surgir un                                                                                                         signifiant
                 signifiant.»
 
-[[9]]
+[[p=9]]
 Términos
 Fuente         Texto original       Traducción      Variantes     Contexto         Oralidad     Nota crítica       Ref. Marx
                                                                                                                                clave
@@ -383,7 +383,7 @@ Análisis de matiz léxico
 2.�“Produire�du sens”�(producir�sentido)
      Señala la acción de generar sentido en el marco de la sesión.
 
-[[10]]
+[[p=10]]
    El matiz es más dinámico: critica la producción ad hoc de significado.
 3.�Añadido�“nouveau”�(nuevo)
      Indica que el significante que emerge debe ser inédito para el sujeto.
@@ -422,7 +422,7 @@ estenotipia      affectif, mais un afectivo, sino un                   naturalez
                  d’adresse.»         de dirección.”                    analítico.                 hacia su      sino un modo
                                                                        Antes: On dit              carácter      específico de
 
-[[11]]
+[[p=11]]
 Fuente          Texto original      Traducción           Variantes   Contexto       Oralidad    Nota crítica     Ref. Marx        Términos clave
                                                                      souvent                    estructural en relación social.
                                                                      que...                     el discurso.
@@ -466,7 +466,7 @@ Seuil                               —                                Igual    
                 mode spécifique
                 d’adresse.»
 
-[[12]]
+[[p=12]]
 Fuente          Texto original     Traducción          Variantes   Contexto      Oralidad      Nota crítica    Ref. Marx    Términos clave
                 «Le transfert n’est “La transferencia
                                                                                                Confirma
@@ -509,7 +509,7 @@ Análisis de matiz léxico
      Sin el añadido: la transferencia parece un mecanismo objetivo, independiente del agente.
      Con el añadido: el agente (analista) y su deseo forman parte de la estructura.
 
-[[13]]
+[[p=13]]
 4. Relación con Marx
      Análogo a reconocer que la forma-mercancía no existe sin la posición del productor y del capitalista en la relación de producción.
      El modo de relación social incluye al agente y su función.
@@ -553,7 +553,7 @@ crítica/bilingüe définit par une define por un      “qui                   
                                                                                      añadido]
                  coupure dans la corte en la        modifie                                       corte: no es solo   productiva altera ordre établi
 
-[[14]]
+[[p=14]]
 Términos
 Fuente         Texto original     Traducción      Variantes Contexto   Oralidad    Nota crítica         Ref. Marx
                                                                                                                          clave
@@ -605,7 +605,7 @@ Ponte (trad.                      “El acto        Igual que                   
                —                                              Igual    —                                —
 directa)                          analítico se    ELP crítica                      coincide con                          analítico /
 
-[[15]]
+[[p=15]]
 Términos
 Fuente          Texto original   Traducción        Variantes Contexto            Oralidad    Nota crítica        Ref. Marx
                                                                                                                                  clave
@@ -638,7 +638,7 @@ Análisis de matiz léxico
 
 Nota crítica global
 
-[[16]]
+[[p=16]]
 El añadido presente en la oralidad y en la versión crítica (pero ausente en Paidós y Seuil) revela que Lacan piensa el acto analítico como un
 cambio estructural, no como un mero gesto disruptivo. Esto lo acerca a la noción marxista de intervención que transforma la estructura social y
 productiva, más que un simple corte momentáneo.
@@ -682,7 +682,7 @@ crítica/bilingüe du discours        no es el del   “signifiante”          
                  continu, mais      discurso                                                        cadena           función
                  celui de la        continuo, sino                                                  significante, no estructural.
 
-[[17]]
+[[p=17]]
 Términos
 Fuente         Texto original     Traducción       Variantes     Contexto   Oralidad         Nota crítica   Ref. Marx
                                                                                                                         clave
@@ -728,7 +728,7 @@ Ponte (trad.                      “El tiempo de    Igual que                  
                —                                                 Igual      —                               —
 directa)                          la               ELP crítica                               coincide con               / tiempo /
 
-[[18]]
+[[p=18]]
 Términos
 Fuente          Texto original     Traducción       Variantes    Contexto        Oralidad        Nota crítica       Ref. Marx
                                                                                                                                   clave
@@ -760,7 +760,7 @@ Análisis de matiz léxico
 
 Nota crítica global
 
-[[19]]
+[[p=19]]
 La inclusión de “significante” en la versión crítica y Staferla (omitida en Paidós y Seuil) es decisiva para entender la puntuación como acto técnico
 sobre la cadena significante, no como simple pausa. Esto se alinea con la idea marxista de que no toda interrupción en el proceso productivo es
 significativa; solo lo es aquella que altera la estructura de valor.
@@ -801,7 +801,7 @@ Sesión Fecha          Concepto central                Variante clave         Ti
        El cruce con Marx es consistente: en todos los casos se refuerza la idea de estructura objetiva, precisión conceptual y efecto
           transformador.
 
-[[20]]
+[[p=20]]
 � Sesión 7 – Seminario I
 ID base: [S01-N07-Oral-ELP-23]
 Fecha: 13/01/1954
@@ -847,7 +847,7 @@ crítica/biling                                                      Igual      
 üe                                                                               “pas”]
                    retour au        al                sens”                                    el sentido,     a El capital es   sens
 
-[[21]]
+[[p=21]]
 Texto                        Variant                                                          Términos
 Fuente                        Traducción              Contexto   Oralidad    Nota crítica   Ref. Marx
                original                     es                                                               clave
@@ -896,7 +896,7 @@ Ponte (trad.
 directa)
                               el retorno    crítica                          versión                         sentido
 
-[[22]]
+[[p=22]]
 Texto                             Variant                                                                            Términos
     Fuente                             Traducción                     Contexto       Oralidad        Nota crítica      Ref. Marx
                       original                          es                                                                                 clave
@@ -930,7 +930,7 @@ Texto                             Variant                                       
 
 � Sesión 8 – Seminario I
 
-[[23]]
+[[p=23]]
 ID base: [S01-N08-Oral-ELP-27]
 Fecha: 20/01/1954
 Título de la sesión: La interpretación y el equívoco significante.
@@ -975,7 +975,7 @@ crítica/bilingüe signifiante pour                    VO: añadido
                  sens établi.»
                                    vacilar el                                                     vacilar es el      establecidas de
 
-[[24]]
+[[p=24]]
 Términos
 Fuente         Texto original     Traducción      Variantes    Contexto   Oralidad      Nota crítica       Ref. Marx
                                                                                                                          clave
@@ -1024,7 +1024,7 @@ directa)                          equívoco       crítica
                                                                                                                          establecido
                                   para hacer
 
-[[25]]
+[[p=25]]
 Términos
 Fuente          Texto original     Traducción       Variantes     Contexto        Oralidad      Nota crítica     Ref. Marx
                                                                                                                                    clave
@@ -1058,7 +1058,7 @@ ideológicos fijados.
 
 � Sesión 9 – Seminario I
 
-[[26]]
+[[p=26]]
 ID base: [S01-N09-Oral-ELP-31]
 Fecha: 27/01/1954
 Título de la sesión: El síntoma como formación del inconsciente.
@@ -1107,7 +1107,7 @@ Paidós                                             —               Igual     
                 inconsciente.”                                                                    lenguaje.
 Seuil           «Le symptôme      —                Igual que       Igual            —             Igual que         —               symptôme /
 
-[[27]]
+[[p=27]]
 Términos
 Fuente          Texto original    Traducción       Variantes     Contexto       Oralidad       Nota crítica       Ref. Marx
                                                                                                                               clave
@@ -1148,7 +1148,7 @@ Análisis de matiz léxico
 2. Versión con añadido
      Especifica que el síntoma comparte la estructura del lenguaje.
 
-[[28]]
+[[p=28]]
    Refuerza la coherencia interna de la teoría lacaniana.
 3. Comparación y matiz
      Sin añadido: puede interpretarse de forma más clínica o fenomenológica.
@@ -1183,7 +1183,7 @@ estenotipia      synchronie de la en la sincronía               de la lengua.  
                                                                 C’est dans cette                                      simultánea de
                                                                 simultanéité...                                       relaciones.
 
-[[29]]
+[[p=29]]
 Términos
 Fuente         Texto original   Traducción      Variantes Contexto   Oralidad      Nota crítica      Ref. Marx
                                                                                                                   clave
@@ -1231,7 +1231,7 @@ Staferla       synchronie et   en la sincronía             Igual               
                signifiante.»   significante.”
 Ponte (trad.   —                “El             Igual que Igual      —             Traducción        —            sincronía /
 
-[[30]]
+[[p=30]]
 Términos
 Fuente          Texto original    Traducción      Variantes Contexto              Oralidad       Nota crítica       Ref. Marx
                                                                                                                                     clave
@@ -1265,7 +1265,7 @@ La adición “y en el corte” amplía la comprensión del lugar donde se manif
 en la irrupción. En clave marxista, recuerda que las crisis económicas son momentos privilegiados para revelar la estructura subyacente del
 capital.
 
-[[31]]
+[[p=31]]
 � Sesión 11 – Seminario I
 ID base: [S01-N11-Oral-ELP-39]
 Fecha: 10/02/1954
@@ -1316,7 +1316,7 @@ e               , ce qui est sa                término                         
                                 propia.”                                                                               capital.
 Paidós          “El             Igual que ELP —                Igual              —              Omite término         —            inconsciente
 
-[[32]]
+[[p=32]]
 Términos
 Fuente         Texto original Traducción     Variantes      Contexto   Oralidad       Nota crítica        Ref. Marx
                                                                                                                       clave
@@ -1364,7 +1364,7 @@ directa)                      (nachträglich) crítica                          
 
 Tabla de variantes
 
-[[33]]
+[[p=33]]
 Variante                              Tipo Observación
 + “(nachträglich)”                    VO Introduce el término freudiano original en alemán.
 + “ce qui est sa temporalité propre” VO Explicita que esta es la temporalidad específica del inconsciente.
@@ -1398,7 +1398,7 @@ Tabla principal – Registro de cita clave
 Fuente           Texto original    Traducción         Variantes     Contexto        Oralidad Nota crítica         Ref. Marx
                                                                                                                                     clave
 
-[[34]]
+[[p=34]]
 Términos
 Fuente          Texto original   Traducción         Variantes     Contexto           Oralidad Nota crítica          Ref. Marx
                                                                                                                                       clave
@@ -1448,7 +1448,7 @@ Staferla        constitue dans constituye en el                   Igual         
                                                   ELP crítica
                 le lieu de     lugar del Otro, es                                    “trésor”] subraya el                             significantes
 
-[[35]]
+[[p=35]]
 Términos
 Fuente          Texto original   Traducción         Variantes     Contexto           Oralidad Nota crítica         Ref. Marx
                                                                                                                                      clave
@@ -1484,7 +1484,7 @@ Análisis de matiz léxico
 
 Nota crítica global
 
-[[36]]
+[[p=36]]
 El añadido explicativo presente en la versión oral y crítica refuerza la lectura estructuralista del lugar del Otro, conectándolo directamente con el
 sistema de significantes. Paidós y Seuil, al omitirlo, dejan abierta la posibilidad de interpretaciones más difusas o idealistas.
 
@@ -1526,7 +1526,7 @@ Sesión Fecha          Concepto central          Variante clave            Tipo 
 
 � Tabla Maestra – Seminario I (Sesiones 1 a 12)
 
-[[37]]
+[[p=37]]
 Sesión Fecha       Concepto central              Variante clave            Tipo Impacto conceptual                  Ref. Marx
                                                                                  Precisa la crítica de Lacan a la
                    Método: leer a Freud “a la    commenter ↔                                                        Lectura materialista frente
@@ -1571,7 +1571,7 @@ Sesión Fecha       Concepto central              Variante clave            Tipo
                                                  “temporalité propre”            temporalidad específica.           temporalidad propia.
 12    17/02/1954 Sujeto en el lugar del Otro     + “c’est-à-dire dans le   VO    Concreta el lugar del Otro como    Trabajador constituido en
 
-[[38]]
+[[p=38]]
 Sesión Fecha        Concepto central                 Variante clave            Tipo Impacto conceptual                  Ref. Marx
                                                      trésor des signifiants”         depósito de significantes.         categorías históricas dadas.
 
@@ -1612,7 +1612,7 @@ estenotipia     la chaîne                                                     �
                                                                 là que...
                                                                 Después: On
 
-[[39]]
+[[p=39]]
 Fuente          Texto original Traducción        Variantes     Contexto        Oralidad      Nota crítica         Ref. Marx       Términos clave
                                                                voit ainsi...
                  «La                                                                                              En Marx: como
@@ -1660,7 +1660,7 @@ Staferla                                                       Igual            
                                                                                                                                   reestructurar
                 ce qui arrête     reestructura la                                             reorganización.
 
-[[40]]
+[[p=40]]
 Fuente          Texto original Traducción          Variantes   Contexto   Oralidad        Nota crítica       Ref. Marx   Términos clave
                 et restructure   cadena
                 la chaîne        significante en
@@ -1696,7 +1696,7 @@ Análisis de matiz léxico
 4. Relación con Marx
      Análogo a reformas estructurales que surgen de una crisis: detienen el colapso y reorganizan el sistema.
 
-[[41]]
+[[p=41]]
 Nota crítica global
 El añadido “y reestructura” presente en oralidad y versión crítica cambia el enfoque: la metáfora paterna no solo detiene la deriva angustiante,
 sino que reorganiza el sistema significante. En clave marxista, el equivalente serían las medidas que, en crisis, transforman la organización de la
@@ -1742,7 +1742,7 @@ crítica/bilingüe                 que regula y      “et                      
                                                                                                  del deseo.
 Paidós           “El              Igual que ELP —              Igual               —             Omite la función —                    significante
 
-[[42]]
+[[p=42]]
 Términos
 Fuente          Texto original Traducción      Variantes Contexto               Oralidad    Nota crítica       Ref. Marx
                                                                                                                            clave
@@ -1786,7 +1786,7 @@ Análisis de matiz léxico
 1. Versión sin añadido
      Define el falo solo como regulador simbólico del deseo.
 
-[[43]]
+[[p=43]]
    Enfoque más cualitativo.
 2. Versión con añadido (et mesure)
      Introduce la función de medida, cuantificando la posición del deseo.
@@ -1829,7 +1829,7 @@ ELP estenotipia               sostiene la    —            en la organización 
                                                                                                                 económica.
                                                           que...
 
-[[44]]
+[[p=44]]
 Texto                                                                                                  Términos
 Fuente                         Traducción      Variantes Contexto   Oralidad    Nota crítica        Ref. Marx
                 original                                                                                               clave
@@ -1879,7 +1879,7 @@ directa)                       articula la    ELP crítica                      
                                estructura del                                                                          estructura
                                sujeto.”
 
-[[45]]
+[[p=45]]
 Tabla de variantes
 Variante       Tipo Observación
 + “et articule” VO Pasa de una función pasiva (soporte) a activa (articulación interna de la estructura).
@@ -1912,7 +1912,7 @@ Tabla principal – Registro de cita clave
 Fuente                         Traducción     Variantes Contexto                Oralidad       Nota crítica      Ref. Marx       Términos clave
                  original
 
-[[46]]
+[[p=46]]
 Texto
 Fuente                      Traducción    Variantes Contexto              Oralidad      Nota crítica       Ref. Marx       Términos clave
                original
@@ -1961,7 +1961,7 @@ Seuil                       —                       Igual                 — 
                désir du
                sujet.»
 
-[[47]]
+[[p=47]]
 Texto
 Fuente                        Traducción    Variantes Contexto               Oralidad       Nota crítica       Ref. Marx      Términos clave
                 original
@@ -2004,7 +2004,7 @@ Análisis de matiz léxico
      Con añadido: concepción más dinámica, con mediación y orientación.
 4. Relación con Marx
 
-[[48]]
+[[p=48]]
     Similar a cómo la demanda social (deseo del Otro) orienta qué se produce y en qué cantidad, antes de determinar el valor final.
 
 Nota crítica global
@@ -2049,7 +2049,7 @@ crítica/bilingüe                                  “signifiante”           
                                                                                                                                         désir
                  besoin et du     la necesidad y                                                    no como simple forma-
 
-[[49]]
+[[p=49]]
 Términos
 Fuente          Texto original Traducción        Variantes     Contexto   Oralidad         Nota crítica       Ref. Marx
                                                                                                                                clave
@@ -2094,7 +2094,7 @@ directa)                         significante de ELP crítica                   
 
 Tabla de variantes
 
-[[50]]
+[[p=50]]
 Variante       Tipo Observación
 + “signifiante” VL   Define que la articulación se da en el plano lingüístico, evitando lecturas funcionalistas o psicologistas.
 
@@ -2128,7 +2128,7 @@ ELP             «L’amour est une “El amor es una                  Inicio de
                                                  —
 estenotipia     demande          demanda                          reflexión       “inconditionnelle”] amor como       como una      demande /
 
-[[51]]
+[[p=51]]
 Fuente          Texto original       Traducción      Variantes Contexto         Oralidad            Nota crítica Ref. Marx        Términos clave
                 inconditionnelle.» incondicional.”             sobre la                             demanda        demanda que inconditionnelle
                                                                estructura del                       absoluta,      excede la
@@ -2172,7 +2172,7 @@ Seuil           demande            —                           Igual          
 Staferla                                                     Igual                                                 —
                 demande          demanda         ELP crítica                    de désir”]          versión                       deseo
 
-[[52]]
+[[p=52]]
 Fuente          Texto original       Traducción        Variantes Contexto     Oralidad            Nota crítica Ref. Marx   Términos clave
                 inconditionnelle     incondicional                                                crítica;
                 qui cache un plus    que oculta un                                                oralidad
@@ -2208,7 +2208,7 @@ Análisis de matiz léxico
 
 Nota crítica global
 
-[[53]]
+[[p=53]]
 La inclusión del “plus de deseo” en las versiones oral y crítica conecta directamente la noción de amor con la teoría del excedente libidinal,
 abriendo el puente con el concepto marxista de plusvalía. Paidós y Seuil, al omitirlo, reducen el alcance económico del concepto.
 
@@ -2246,7 +2246,7 @@ Fecha: 07/04/1954
 Título de la sesión: El deseo inconsciente y su interpretación.
 Fuente base: ELP estenotipia.
 
-[[54]]
+[[p=54]]
 Tabla principal – Registro de cita clave
                                                                                                                                    Términos
 Fuente           Texto original Traducción          Variantes   Contexto              Oralidad   Nota crítica     Ref. Marx
@@ -2298,7 +2298,7 @@ Seuil                           —                               Igual         
                                                                                                                                    demi-mot
                  demi-mot.»
 
-[[55]]
+[[p=55]]
 Términos
 Fuente          Texto original Traducción          Variantes     Contexto             Oralidad    Nota crítica    Ref. Marx
                                                                                                                                     clave
@@ -2342,7 +2342,7 @@ Análisis de matiz léxico
      Refuerza lectura estructuralista y lingüística.
 3. Comparación y matiz
 
-[[56]]
+[[p=56]]
  Sin añadido: podría interpretarse como imprecisión meramente pragmática.
        Con añadido: enfatiza que la mediación es estructural y necesaria.
 4. Relación con Marx
@@ -2382,7 +2382,7 @@ estenotipia                            hace surgir un                           
                                                                      Cela suppose...
 ELP              «L’interprétation     “La               VO:         Igual              [pausa antes Precisa que el      En Marx:      réorganiser /
 
-[[57]]
+[[p=57]]
 Términos
 Fuente           Texto original        Traducción        Variantes    Contexto   Oralidad       Nota crítica      Ref. Marx
                                                                                                                               clave
@@ -2425,7 +2425,7 @@ Staferla         signifiant          significante                    Igual      
                                      sujeto.”
 Ponte (trad.     —                     “La               Igual que    Igual      —              Traducción        —           interpretación
 
-[[58]]
+[[p=58]]
 Términos
 Fuente          Texto original      Traducción        Variantes     Contexto        Oralidad       Nota crítica       Ref. Marx
                                                                                                                                     clave
@@ -2459,7 +2459,7 @@ Nota crítica global
 El añadido “que reorganiza el campo del sujeto” en las versiones oral y crítica subraya que la interpretación no es un evento aislado, sino que
 transforma la estructura subjetiva. Esto potencia el cruce con Marx, donde ciertas innovaciones reorganizan la totalidad del sistema.
 
-[[59]]
+[[p=59]]
 � Sesión 21 – Seminario I
 ID base: [S01-N21-Oral-ELP-79]
 Fecha: 28/04/1954
@@ -2508,7 +2508,7 @@ Paidós           es la                               —                  Igual
                                  base                                                                                                    significante
                  insistencia del                                                                        no-identidad.
 
-[[60]]
+[[p=60]]
 Términos
 Fuente          Texto original Traducción           Variantes      Contexto          Oralidad       Nota crítica   Ref. Marx
                                                                                                                                       clave
@@ -2546,7 +2546,7 @@ Análisis de matiz léxico
 2. Versión con añadido (et non pas la reproduction de l’identique)
      Introduce distinción clave: la repetición es retorno estructural, no duplicación exacta.
 
-[[61]]
+[[p=61]]
    Refuerza carácter transformador del retorno.
 3. Comparación y matiz
      Sin añadido: definición más general.
@@ -2587,7 +2587,7 @@ ELP              «Le transfert     “La              VO:                      
                                                                     Igual
 crítica/bilingüe repose sur le     transferencia se añadido                            antes de    sujeto supuesto valor como          sujet supposé
 
-[[62]]
+[[p=62]]
 Términos
 Fuente         Texto original   Traducción       Variantes    Contexto   Oralidad     Nota crítica       Ref. Marx
                                                                                                                        clave
@@ -2637,7 +2637,7 @@ directa)                                         ELP crítica                   
                                 existe en el
                                 discurso.”
 
-[[63]]
+[[p=63]]
 Tabla de variantes
 Variante                                Tipo Observación
 + “qui n’existe que dans le discours” VO Limita ontológicamente al sujeto supuesto saber: efecto discursivo, no entidad real.
@@ -2670,7 +2670,7 @@ Tabla principal – Registro de cita clave
 Fuente            Texto original Traducción         Variantes      Contexto        Oralidad      Nota crítica       Ref. Marx
                                                                                                                                            clave
 
-[[64]]
+[[p=64]]
 Términos
 Fuente           Texto original Traducción          Variantes   Contexto           Oralidad      Nota crítica       Ref. Marx
                                                                                                                                           clave
@@ -2722,7 +2722,7 @@ Staferla                                                        Igual           
                  sans vouloir     colmar ese                                                   renuncia activa.
                  combler ce       vacío.”
 
-[[65]]
+[[p=65]]
 Términos
 Fuente           Texto original Traducción        Variantes     Contexto            Oralidad      Nota crítica       Ref. Marx
                                                                                                                                            clave
@@ -2758,7 +2758,7 @@ Nota crítica global
 La inclusión de “sin querer colmar ese vacío” en la versión oral y crítica añade la dimensión ética esencial a la posición del analista. Esto refuerza
 la analogía con ciertas mediaciones económicas que preservan contradicciones estructurales en lugar de suprimirlas.
 
-[[66]]
+[[p=66]]
 � Sesión 24 – Seminario I
 ID base: [S01-N24-Oral-ELP-91]
 Fecha: 19/05/1954
@@ -2805,7 +2805,7 @@ crítica/bilingüe                     discurso, que                            
 Paidós                                                 —            Igual            —                          —
                  es un acto de      base                                                        de                               / corte
 
-[[67]]
+[[p=67]]
 Términos
 Fuente          Texto original      Traducción     Variantes     Contexto        Oralidad    Nota crítica       Ref. Marx
                                                                                                                               clave
@@ -2849,7 +2849,7 @@ Variante                                     Tipo Observación
 
 Análisis de matiz léxico
 
-[[68]]
+[[p=68]]
 1. Versión sin añadido
      La interpretación se presenta como ruptura.
      No explicita consecuencias posteriores.
@@ -2890,7 +2890,7 @@ ELP estenotipia qui ordonne le    ordena el        —            elemento      
                                                                                                                        mercado.
                                                                 discursiva. Antes: Il
 
-[[69]]
+[[p=69]]
 Términos
 Fuente          Texto original Traducción        Variantes   Contexto            Oralidad     Nota crítica        Ref. Marx
                                                                                                                                    clave
@@ -2936,7 +2936,7 @@ directa)                        ordena y         ELP crítica
                                                                                               versión crítica.                     / estructura
                                 bloquea el
 
-[[70]]
+[[p=70]]
 Términos
 Fuente            Texto original Traducción           Variantes   Contexto         Oralidad       Nota crítica        Ref. Marx
                                                                                                                                        clave
@@ -2970,7 +2970,7 @@ Fecha: 02/06/1954
 Título de la sesión: El final de análisis y la identificación.
 Fuente base: ELP estenotipia.
 
-[[71]]
+[[p=71]]
 Tabla principal – Registro de cita clave
                                                                                                                                  Términos
 Fuente          Texto original     Traducción    Variantes Contexto         Oralidad         Nota crítica      Ref. Marx
@@ -3020,7 +3020,7 @@ Paidós          momento de la                    —           Igual          �
                 con el síntoma.”
 Seuil           «La fin de         —             Igual que   Igual          —                Igual que         —                 fin de
 
-[[72]]
+[[p=72]]
 Términos
 Fuente          Texto original     Traducción        Variantes Contexto        Oralidad         Nota crítica       Ref. Marx
                                                                                                                                    clave
@@ -3057,7 +3057,7 @@ Tabla de variantes
 Variante                                        Tipo Observación
 + “qui devient alors le signe propre du sujet” VO El síntoma se resignifica como rasgo singular del sujeto, no como simple patología.
 
-[[73]]
+[[p=73]]
 Análisis de matiz léxico
 1. Versión sin añadido
      Ve el final del análisis como identificación con el síntoma.
@@ -3093,7 +3093,7 @@ Sesión Fecha         Concepto central                Variante clave            
                      supuesto saber                  discours”                      discursivo.                         sustancia.
 23     12/05/1954 Lugar del analista y ética de la + “sans vouloir combler ce VO Introduce dimensión ética de Mediación que no suprime
 
-[[74]]
+[[p=74]]
 Sesión Fecha          Concepto central               Variante clave              Tipo Impacto conceptual               Ref. Marx
                       falta                          vide”                             no colmar la falta.             contradicciones.
                                                      + “qui ouvre à un autre           El corte habilita               Crisis que permite
@@ -3132,7 +3132,7 @@ Sesión Fecha          Concepto central                 Variante clave          
 6        06/01/1954 Inconsciente y deseo               + “articulé”               VL
                                                                                         lenguaje.                     y demanda.
 
-[[75]]
+[[p=75]]
 Sesión Fecha       Concepto central                   Variante clave            Tipo Impacto conceptual         Ref. Marx
                                                                                      Diferencia Otro            Grandes estructuras del
 7     13/01/1954 El Otro y el sujeto                  + “grand”                 VL
@@ -3175,7 +3175,7 @@ Sesión Fecha       Concepto central                   Variante clave           
                    significante                   détour du signifiant”              invariable.                mercancía.
 20    14/04/1954 Interpretación y significante        + “qui réorganise le      VO Reorganiza estructura        Innovación reconfigura
 
-[[76]]
+[[p=76]]
 Sesión Fecha        Concepto central                   Variante clave            Tipo Impacto conceptual         Ref. Marx
                     nuevo                              champ du sujet”                subjetiva.                 producción.
                                                        + “et non pas la
@@ -3214,7 +3214,7 @@ Título: Introducción al inconsciente como estructurado como un lenguaje
 Lugar: Sainte-Anne, París.
 Fuente base: ELP estenotipia (pág. 3).
 
-[[77]]
+[[p=77]]
 1. Cita clave y variantes
 Fuente              Página/Línea Texto original                                  Traducción                                     Variantes Código
                                   «L’inconscient est structuré comme un          “El inconsciente está estructurado como un
@@ -3247,7 +3247,7 @@ Ponte               —             Igual + frase contextual                    
      Implicación: Este punto de partida abre la posibilidad de pensar en paralelo la “lectura” del inconsciente y la “lectura” de la forma-
         mercancía.
 
-[[78]]
+[[p=78]]
 5. Contexto y oralidad
      Antes: Rechazo de modelos energéticos/biológicos del inconsciente.
      Después: Introducción de la lingüística (Saussure/Jakobson) como marco de análisis.
@@ -3259,5 +3259,4 @@ verificar, sino como un axioma fundacional. Esto marca un corte con la tradició
 psicoanálisis de lleno en un paradigma estructural. Desde aquí, la posibilidad de diálogo con Marx no es accidental: ambos parten de la premisa
 de que el objeto de estudio no se presenta en la experiencia inmediata, sino que está mediado por una estructura que debe ser leída.
 
-[[79]]
-
+[[p=79]]

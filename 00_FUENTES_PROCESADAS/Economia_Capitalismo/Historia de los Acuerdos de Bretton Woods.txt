@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Historia de los Acuerdos de Bretton Woods: Perspectiva Económica Mundial
 
 Los Acuerdos de Bretton Woods , firmados en julio de 1944, representan uno de los momentos
@@ -47,7 +47,7 @@ internacional estable.
 
 Se fundaron dos pilares del sistema económico global:
 
-[[2]]
+[[p=2]]
    El Fondo Monetario Internacional (FMI): Diseñado para monitorear la estabilidad de los
         tipos de cambio y proporcionar apoyo financiero temporal a los países con déficits en su
         balanza de pagos.
@@ -96,7 +96,7 @@ que la economía global crecía, las tensiones estructurales comenzaron a manife
             o   Durante la década de 1960, Estados Unidos comenzó a acumular déficits
                 comerciales y presupuestarios debido a políticas expansivas (como la Guerra de
 
-[[3]]
+[[p=3]]
 Vietnam y el gasto en programas sociales). Esto erosionó la confianza en la
                  convertibilidad del dólar en oro.
 
@@ -145,7 +145,7 @@ Conclusión
 Desde un punto de vista económico global, Bretton Woods representó un intento audaz de
 construir un sistema financiero internacional estable en un momento de profunda incertidumbre.
 
-[[4]]
+[[p=4]]
 Aunque el sistema en sí colapsó, sus principios y las instituciones que crearon moldearon la
 economía global durante décadas. Hoy, la búsqueda de un equilibrio entre la estabilidad
 financiera, el crecimiento económico y la soberanía nacional sigue siendo un desafío central, un
@@ -194,7 +194,7 @@ Elementos principales:
                 naciones, evitando que las economías deficitarias se hundieran bajo el peso de sus
                 deudas.
 
-[[5]]
+[[p=5]]
 2. Responsabilidad compartida entre deudores y acreedores
 
             o   Keynes abogó por un sistema que penalizara tanto a los países con déficits
@@ -243,7 +243,7 @@ Elementos principales:
                 estrictas que reflejarían los intereses de los principales acreedores (como Estados
                 Unidos).
 
-[[6]]
+[[p=6]]
 3. Enfoque en la disciplina fiscal y la estabilidad
 
             o   White creía que los países debían ser responsables de mantener el equilibrio en
@@ -290,7 +290,7 @@ Concesiones y resultados:
                 imponía una mayor carga de ajuste a los países con déficits comerciales,
                 reflejando la visión de White.
 
-[[7]]
+[[p=7]]
 Impacto de las propuestas
 
 El sistema resultante de Bretton Woods fue un triunfo para la visión de White y Estados Unidos,
@@ -339,7 +339,7 @@ Los Siglos XVI-XVIII: El Surgimiento del Capitalismo y el Comercio Global
 
 2. El surgimiento de la banca y las primeras monedas globales
 
-[[8]]
+[[p=8]]
    Las casas bancarias, como las de los Médici en Florencia o los Fugger en Alemania,
         introdujeron formas primitivas de financiación global.
 
@@ -389,7 +389,7 @@ El Siglo XIX: La Era del Oro y el Capitalismo Industrial
 
 El Siglo XX: Crisis Globales y la Necesidad de Cooperación
 
-[[9]]
+[[p=9]]
 1. La Primera Guerra Mundial y el colapso del patrón oro
 
        La Primera Guerra Mundial (1914-1918) desestabilizó las economías globales, y muchos
@@ -438,7 +438,7 @@ necesidades del presente.
         economía industrializada y diversificada era crucial para el poder económico. Bretton
         Woods debía apoyar el desarrollo industrial en todo el mundo.
 
-[[10]]
+[[p=10]]
 3. La necesidad de instituciones globales
 
        El fracaso de los intentos de cooperación en el período entre guerras (como la Sociedad de
@@ -485,7 +485,7 @@ transformación.
 
 El Acuerdo de Washington: Reagan, Thatcher y la Era del Neoliberalismo
 
-[[11]]
+[[p=11]]
 El llamado Acuerdo de Washington , que no es un acuerdo formal firmado como Bretton Woods,
 se refiere al consenso político y económico desarrollado en las décadas de 1980 y 1990, liderado
 por los Estados Unidos bajo Ronald Reagan y el Reino Unido bajo Margaret Thatcher. Este
@@ -534,7 +534,7 @@ occidentales. Entre sus principales pilares se encuentran:
        Esto benefició principalmente a los países industrializados, que podían exportar bienes
         manufacturados a economías en desarrollo.
 
-[[12]]
+[[p=12]]
 3. Desregulación
 
        Eliminación de regulaciones gubernamentales en sectores clave como finanzas, transporte
@@ -584,7 +584,7 @@ Reagan: "Economía del suministro"
         hacia el resto de la sociedad. Este enfoque se conoce como la teoría del goteo ( trickle-
         down economics ).
 
-[[13]]
+[[p=13]]
 Thatcher: La "revolución conservadora"
 
        Thatcher aplicó políticas neoliberales agresivas en el Reino Unido, privatizando empresas
@@ -632,7 +632,7 @@ Impacto Global del "Acuerdo de Washington"
        En muchas regiones, el desmantelamiento de los servicios públicos y las redes de
         seguridad social exacerba las desigualdades.
 
-[[14]]
+[[p=14]]
 El Declive del "Acuerdo de Washington" (2000-presente)
 
 Desde principios del siglo XXI, las críticas al modelo neoliberal han llevado a un replanteamiento
@@ -679,7 +679,7 @@ política internacional, enfocándose en cómo sus intereses nacionales y de gra
 han prevalecido sobre los ideales de libertad y democracia que pregonan. A continuación,
 realizaré un análisis profundo, conectando los elementos del texto con aspectos estructurales y
 
-[[15]]
+[[p=15]]
 contextuales relacionados con los temas que venimos desarrollando, como la hegemonía del
 dólar, los Acuerdos de Bretton Woods, y las dinámicas de poder económico global.
 
@@ -726,7 +726,7 @@ Ejes principales del análisis estructural.
 
     4. Alternativas estructurales: los BRICS y las monedas nacionales
 
-[[16]]
+[[p=16]]
 o   El documento resalta los esfuerzos de los BRICS por crear sistemas alternativos,
                como una moneda conjunta o el uso de monedas nacionales para el comercio.
                Estas iniciativas son una reacción estructural al desequilibrio de poder creado por
@@ -772,7 +772,7 @@ Aspectos estructurales clave para profundizar
 
    4. El cambio hacia un orden multipolar
 
-[[17]]
+[[p=17]]
 o   Los esfuerzos de los BRICS y otras economías emergentes apuntan hacia un
                 sistema financiero menos centrado en Estados Unidos. Analizar los desafíos y
                 oportunidades de este cambio estructural es clave para entender el futuro de la
@@ -818,7 +818,7 @@ A continuación, se desarrolla en profundidad cada uno de los puntos propuestos,
 nombres, fechas y eventos claves para aclarar el análisis estructural en eventos históricos y figuras
 relevantes.
 
-[[18]]
+[[p=18]]
 1. Comparación entre Bretton Woods y los desafíos actuales del dólar como moneda
 hegemónica
 
@@ -867,7 +867,7 @@ Rol histórico de las multinacionales
             o   Derrocamiento de Jacobo Árbenz en Guatemala (1954), liderado por la CIA y
                 apoyado por intereses de la United Fruit.
 
-[[19]]
+[[p=19]]
 o   La Masacre de las Bananeras (1928) en Colombia, donde el ejército reprimió a
                trabajadores que protestaban contra las condiciones laborales impuestas por esta
                multinacional.
@@ -916,7 +916,7 @@ Proteccionismo reciente
 
 4. Cambios estructurales hacia un mundo multipolar
 
-[[20]]
+[[p=20]]
 Dominio unipolar tras la Guerra Fría
 
        Evento: Colapso de la Unión Soviética (1991).
@@ -965,7 +965,7 @@ Crisis financiera de 2008
 
        Causa: Colapso del mercado hipotecario en EE.UU. UU., con repercusiones globales.
 
-[[21]]
+[[p=21]]
    Impacto: Reforzó el poder de los bancos centrales y marcó el inicio de un debate sobre la
         regulación financiera y la sostenibilidad del sistema capitalista.
 
@@ -1013,7 +1013,7 @@ Profundidad alcanzada
 
             o   Creación de instituciones como el FMI y el Banco Mundial.
 
-[[22]]
+[[p=22]]
 o   Dominio del dólar como moneda de reserva internacional.
 
       Hemos integrado las visiones contrapuestas de Keynes (Bancor) y White (hegemonía del
@@ -1063,7 +1063,7 @@ Profundidad alcanzada
       Hemos analizado cómo el sistema de Bretton Woods evolucionó hacia el sistema de tipos
        de cambio flotantes tras 1971 y cómo el dólar mantuvo su hegemonía.
 
-[[23]]
+[[p=23]]
    La narrativa actual incluye:
 
            o   Uso del dólar como herramienta de sanción y control geopolítico.
@@ -1113,7 +1113,7 @@ Interconexiones planteadas
 
 Profundidad alcanzada
 
-[[24]]
+[[p=24]]
    Hemos destacado cómo las multinacionales, como la United Fruit Company, han operado
         como extensiones de poder económico en América Latina.
 
@@ -1163,7 +1163,7 @@ Para mejorar aún más la articulación y profundidad, sugiero:
             o   2014 y 2022: Sanciones contra Rusia como puntos de inflexión en la diversificación
                 de reservas internacionales.
 
-[[25]]
+[[p=25]]
 2. Fortalecer las conexiones estructurales:
 
              o   Explorar más a fondo la relación entre las multinacionales y el sistema político
@@ -1211,7 +1211,7 @@ Estas tensiones son inherentes a cualquier sistema económico global, ya que est
 
        Relaciones desiguales de poder económico y político entre naciones.
 
-[[26]]
+[[p=26]]
    Conflictos entre intereses nacionales e internacionales.
 
        Desequilibrios en la distribución de los beneficios del comercio y la inversión.
@@ -1259,7 +1259,7 @@ Bretton Woods (1944)
 
 Consenso de Washington (década de 1980)
 
-[[27]]
+[[p=27]]
    Tensiones renovadas: Las políticas neoliberales exacerbaron las desigualdades globales,
         afectando desproporcionadamente a los países en desarrollo.
 
@@ -1307,7 +1307,7 @@ Consenso de Washington (década de 1980)
        BRICS: Plantean una crítica explícita a las tensiones estructurales del sistema dominado
         por el dólar, buscando alternativas para redistribuir el poder financiero.
 
-[[28]]
+[[p=28]]
    Economías regionales: Países como Argentina y México han utilizado alianzas como el
         MERCOSUR para abordar desequilibrios comerciales y financieros.
 
@@ -1357,7 +1357,7 @@ Consenso de Washington (década de 1980)
        Los países en desarrollo denuncian estas tensiones como mecanismos de explotación,
         utilizando foros como la UNCTAD o el G77 para proponer reformas estructurales.
 
-[[29]]
+[[p=29]]
 3. Movimientos sociales y académicos
 
        Narrativas críticas de movimientos como ATTAC o académicos como Vandana Shiva, que
@@ -1403,7 +1403,7 @@ Acciones concretas
                  en 1954) para proteger los intereses de sus multinacionales, contradiciendo su
                  retórica de defensa de la democracia.
 
-[[30]]
+[[p=30]]
 o   Las sanciones económicas impuestas a países que desafiaban el orden establecido,
                 como Irán o Rusia, se justifican bajo el pretexto de defender la libertad, pero en
                 realidad buscan mantener la hegemonía económica y política.
@@ -1449,7 +1449,7 @@ Ejemplo destacado:
 
        Acuerdos de Libre Comercio (TLC):
 
-[[31]]
+[[p=31]]
 o   Diseñados para favorecer a las grandes potencias al permitirles acceder a
                 mercados periféricos, pero restringiendo la capacidad de estos últimos para
                 proteger sus industrias emergentes.
@@ -1498,7 +1498,7 @@ Principios declarados
        El sistema financiero global basado en el dólar fue presentado en Bretton Woods como un
         medio para facilitar el comercio y la cooperación internacional.
 
-[[32]]
+[[p=32]]
 Acciones concretas
 
        Uso del dólar como arma geopolítica:
@@ -1548,7 +1548,7 @@ Acciones concretas
             o   Las inversiones extranjeras directas en el Sur Global suelen generar beneficios que
                 regresan al Norte Global en lugar de fortalecer las economías locales.
 
-[[33]]
+[[p=33]]
 Ejemplo destacado:
 
        Deuda externa de África:
@@ -1598,7 +1598,7 @@ el sistema económico global hacia una mayor equidad.
 
 Ejemplos Específicos de Hipocresía en las Tensiones Estructurales
 
-[[34]]
+[[p=34]]
 1. Intervenciones bajo el pretexto de la democracia
 
       Ejemplo: Golpe de Estado en Chile (1973)
@@ -1648,7 +1648,7 @@ Ejemplos Específicos de Hipocresía en las Tensiones Estructurales
            o   Hipocresía: El control financiero se usa como herramienta política bajo pretextos
                morales.
 
-[[35]]
+[[p=35]]
 3. Liberalización desigual
 
        Ejemplo: Subsidios agrícolas en la Unión Europea y Estados Unidos
@@ -1694,7 +1694,7 @@ Propuestas para Superar las Tensiones Estructurales
 
        Monedas alternativas:
 
-[[36]]
+[[p=36]]
 o   Promover el uso de monedas regionales o una moneda internacional
                descentralizada, como el Bancor propuesto por Keynes o un equivalente moderno
                adaptado por los BRICS.
@@ -1744,7 +1744,7 @@ o   Promover el uso de monedas regionales o una moneda internacional
 
       Tribunal económico internacional:
 
-[[37]]
+[[p=37]]
 o   Establecer un organismo independiente que arbitre disputas entre
                  multinacionales y estados soberanos, reduciendo el uso de tribunales privados
                  sesgados.
@@ -1793,7 +1793,7 @@ para un orden global más equitativo y sostenible.
 
 Enfoque Hegeliano y Marxista sobre las Tensiones Estructurales
 
-[[38]]
+[[p=38]]
 Integrar un análisis desde el enfoque hegeliano materialista y marxista en torno a las teorías del
 valor y conceptos clave de la economía política podría profundizar y sistematizar la comprensión
 de las tensiones estructurales. A través de este enfoque, se pueden identificar las contradicciones
@@ -1839,7 +1839,7 @@ estructurales a través de la teoría del valor.
 
 Valor de uso versus valor de cambio
 
-[[39]]
+[[p=39]]
    Contradicción: En el capitalismo, el valor de uso de un bien (su utilidad real) está
        subordinado al valor de cambio (su precio en el mercado). Esto crea tensiones
        estructurales al priorizar el beneficio económico sobre las necesidades humanas.
@@ -1889,7 +1889,7 @@ Relaciones de producción
       Ejemplo: El modelo de plantación en el Sur Global refleja relaciones de producción donde
        la riqueza fluye hacia las economías centrales.
 
-[[40]]
+[[p=40]]
 Reproducción ampliada del capital
 
        Según Marx, el capitalismo necesita expandirse constantemente para sobrevivir, lo que
@@ -1937,7 +1937,7 @@ La plusvalía global y los BRICS
        Riesgo: La acumulación por desposesión dentro del bloque podría reflejar las
         desigualdades internas entre sus miembros.
 
-[[41]]
+[[p=41]]
 5. Propuestas desde este marco teórico
 
 1. Reconstrucción de las relaciones de valor
@@ -1987,7 +1987,7 @@ estas perspectivas:
 
 1. Enfoque Liberal Clásico y Neoliberal
 
-[[42]]
+[[p=42]]
 Visión principal
 
        Liberalismo clásico:
@@ -2036,7 +2036,7 @@ Explicación de las tensiones
 
        Relaciones centro-periferia:
 
-[[43]]
+[[p=43]]
 o     Las economías periféricas exportan materias primas e importan bienes
                    manufacturados, perpetuando una estructura de dependencia y subdesarrollo.
 
@@ -2083,7 +2083,7 @@ Propuestas
        Establecer marcos regulatorios más robustos para limitar la explotación y la acumulación
         descontrolada.
 
-[[44]]
+[[p=44]]
 4. Enfoque poscolonial
 
 Visión principal
@@ -2132,7 +2132,7 @@ Explicación de las tensiones
 
 Propuestas
 
-[[45]]
+[[p=45]]
    Transición hacia una economía basada en el uso sostenible de los recursos.
 
        Reconocimiento del "capital natural" como un factor fundamental en las políticas
@@ -2183,7 +2183,7 @@ Estructuralista/Dependencia Relación centro-periferia
 Institucionalista                                                    Reformas institucionales
                                instituciones globales
 
-[[46]]
+[[p=46]]
 Enfoque                        Causa de las tensiones                Propuesta principal
 
                                Colonialismo económico y
@@ -2235,7 +2235,7 @@ comparación.
 
               o   Coherencia interna en su defensa de los mercados como sistemas eficientes.
 
-[[47]]
+[[p=47]]
 o   Énfasis en la libertad individual y la descentralización.
 
       Críticas:
@@ -2285,7 +2285,7 @@ o   Énfasis en la libertad individual y la descentralización.
 
            o   Atención a las desigualdades entre países.
 
-[[48]]
+[[p=48]]
    Críticas:
 
             o   Puede ser determinista y subestimar la capacidad de agencia de los países
@@ -2335,7 +2335,7 @@ o   Énfasis en la libertad individual y la descentralización.
 
 1.6. Enfoque Ecológico-Económico
 
-[[49]]
+[[p=49]]
    Base filosófica:
 
            o   Herman Daly y Nicholas Georgescu-Roegen: La economía como subsistema del
@@ -2385,7 +2385,7 @@ o   Énfasis en la libertad individual y la descentralización.
 
 2.2. Capacidad explicativa
 
-[[50]]
+[[p=50]]
    ¿Puede la teoría explicar fenómenos complejos como crisis económicas globales o
         desigualdades persistentes?
 
@@ -2435,7 +2435,7 @@ Paso 2: Aplicación a casos concretos
 
             o   Impacto de las multinacionales en países en desarrollo.
 
-[[51]]
+[[p=51]]
 Paso 3: Evaluación comparativa
 
       Usar los criterios mencionados (coherencia, capacidad explicativa, aplicabilidad,
@@ -2484,7 +2484,7 @@ Valoración
 
       Fortalezas:
 
-[[52]]
+[[p=52]]
 o   Ofrece un análisis claro de los incentivos distorsionados en ciertos sectores.
 
               o   Proponer soluciones basadas en simplificar la interacción entre los actores del
@@ -2532,7 +2532,7 @@ Valoración
               o   No ofrece soluciones inmediatas para mitigar los efectos de la crisis en el corto
                   plazo.
 
-[[53]]
+[[p=53]]
 3. Estructuralismo y Teoría de la Dependencia
 
 Explicación
@@ -2582,7 +2582,7 @@ Propuesta de solución
        Reformar las instituciones financieras internacionales y nacionales para establecer
         mecanismos más robustos de regulación y supervisión.
 
-[[54]]
+[[p=54]]
 Valoración
 
       Fortalezas:
@@ -2632,7 +2632,7 @@ Valoración
 
               o   Riesgo de que se convierta en un análisis más cultural que económico.
 
-[[55]]
+[[p=55]]
 6. Enfoque Ecológico-Económico
 
 Explicación
@@ -2681,7 +2681,7 @@ Propuesta de solución
 
 Valoración
 
-[[56]]
+[[p=56]]
    Fortalezas:
 
               o     Enfoca la atención en las consecuencias humanas y sociales de las crisis
@@ -2736,7 +2736,7 @@ para abordar fenómenos complejos como este.
 
 Selección de las Mejores Categorías para el Eje de Tensión en el Análisis de la Economía Global
 
-[[57]]
+[[p=57]]
 Para estructurar el eje de tensión en el análisis de las dinámicas económicas globales, es esencial
 elegir categorías que sean conceptualmente robustas, inclusivas y útiles para explicar fenómenos
 complejos. A continuación, se identifican las mejores categorías desde diversas perspectivas,
@@ -2784,7 +2784,7 @@ integrando sus fortalezas teóricas y aplicabilidades prácticas.
 
        Aplicabilidad:
 
-[[58]]
+[[p=58]]
 o   Crucial para analizar las asimetrías en los términos de intercambio y las políticas
                de ajuste estructural.
 
@@ -2834,7 +2834,7 @@ o   Crucial para analizar las asimetrías en los términos de intercambio y las 
 
 1.5. Valor de Uso versus Valor de Cambio
 
-[[59]]
+[[p=59]]
    Origen: Teoría del Valor (Marx).
 
       Descripción:
@@ -2885,7 +2885,7 @@ o   Crucial para analizar las asimetrías en los términos de intercambio y las 
 
       Importancia:
 
-[[60]]
+[[p=60]]
 o   Resalta cómo el sistema económico se sostiene gracias a trabajos no
                 remunerados.
 
@@ -2935,7 +2935,7 @@ Contradicción Capital-                          Medios de
                           Alta                                       Alta                 Muy alta
 Trabajo                                         comunicación
 
-[[61]]
+[[p=61]]
 Capacidad                                                       Impacto
 Categoría                                       Inclusividad          Fortaleza practica
                            explicativa                                                     teórico
@@ -2991,7 +2991,7 @@ Reproducción               comunicación                               comunica
 
             o    Límites globales: Recursos naturales, sostenibilidad.
 
-[[62]]
+[[p=62]]
 Conclusión
 
 Las categorías seleccionadas proporcionan una base sólida para estructurar el eje de tensión en el
@@ -3037,7 +3037,7 @@ Valoración
 
 Lo logré
 
-[[63]]
+[[p=63]]
    Retrospectiva que conectó a Bretton Woods con el mercantilismo , el patrón oro , y la
        Revolución Industrial .
 
@@ -3087,7 +3087,7 @@ Limitaciones
 
 4. Marco Filosófico: Dialéctica, Contradicciones y Tensiones
 
-[[64]]
+[[p=64]]
 Lo logré
 
       Se introdujo el enfoque hegeliano-materialista y marxista , destacando:
@@ -3137,7 +3137,7 @@ Limitaciones
       La comparación podría enriquecerse con ejemplos más detallados de cómo cada enfoque
        ha influido en políticas o movimientos globales.
 
-[[65]]
+[[p=65]]
 6. Selección y Profundización de Categorías
 
 Lo logré
@@ -3185,7 +3185,7 @@ Fortalezas
       Este enfoque permite conectar historia, filosofía y economía para ofrecer una visión
        integrada de las tensiones estructurales.
 
-[[66]]
+[[p=66]]
    Identifica tanto las causas profundas como las posibles soluciones a largo plazo.
 
 Limitaciones
@@ -3235,7 +3235,7 @@ comprender las tensiones estructurales en los sistemas globales económicos.
 
 1. Teoría del valor objetivo
 
-[[67]]
+[[p=67]]
 Definición
 
           La teoría del valor objetivo sostiene que el valor de un bien está determinado por factores
@@ -3282,7 +3282,7 @@ Críticas
 
           Ignora cómo las preferencias subjetivas influyen en el precio.
 
-[[68]]
+[[p=68]]
 2. Teoría del Valor Subjetivo
 
 Definición
@@ -3331,7 +3331,7 @@ Críticas
           Tiende a descontextualizar los procesos productivos al centrado exclusivamente en la
            percepción individual.
 
-[[69]]
+[[p=69]]
 3. Comparación entre Teorías del Valor
 
 Aspecto                 Teoría objetiva                        Teoría Subjetiva
@@ -3383,7 +3383,7 @@ Hegemonía financiera y desigualdad
        financieros, mientras que la teoría objetiva ofrece herramientas para criticar estas
        prácticas al vincularlas con las condiciones materiales de producción.
 
-[[70]]
+[[p=70]]
 5. Propuestas para integrar ambas perspectivas
 
 Teoría integrada del valor
@@ -3429,7 +3429,7 @@ Las teorías del valor son fundamentos esenciales de la economía política, ya 
 qué determina el valor de los bienes y servicios en una economía. Aunque existen múltiples
 enfoques, las dos teorías más influyentes son la teoría del valor objetiva y la teoría del valor
 
-[[71]]
+[[p=71]]
 subjetiva . Estas perspectivas no solo son conceptos teóricos, sino también marcos para
 comprender las tensiones estructurales en los sistemas globales económicos.
 
@@ -3478,7 +3478,7 @@ Aplicación contemporánea
 
 Críticas
 
-[[72]]
+[[p=72]]
       No capture las fluctuaciones del valor en función de la percepción individual o la escasez
            de un bien.
 
@@ -3528,7 +3528,7 @@ Aplicación contemporánea
 
 Críticas
 
-[[73]]
+[[p=73]]
    Subestima las dinámicas estructurales del mercado, como la explotación laboral o el poder
        monopólico.
 
@@ -3579,7 +3579,7 @@ Tensiones entre ambas teorías
 
              o   Bienes esenciales versus bienes intangibles:
 
-[[74]]
+[[p=74]]
    Bienes como alimentos tienen valor objetivo asociado a su producción.
 
                         Bienes como criptomonedas tienen un valor determinado casi
@@ -3629,7 +3629,7 @@ Conclusión
 Las teorías del valor objetivo y subjetivo son herramientas complementarias para comprender el
 sistema económico global. Si bien la teoría objetiva proporciona una base sólida para analizar las
 
-[[75]]
+[[p=75]]
 estructuras productivas y la explotación laboral, la teoría subjetiva explica dinámicas modernas
 como la volatilidad de precios y la valoración de bienes intangibles. Integrar ambas perspectivas
 permite abordar fenómenos económicos contemporáneos de manera más completa y eficaz.
@@ -3660,5 +3660,4 @@ Contemporaneidad       Globalización y      Crisis             Crecimiento-    
 (2000 en adelante)     crisis climática     financiera de      sostenibilidad y    sistema
                                             2008               capital-trabajo     interdependiente
 
-[[76]]
-
+[[p=76]]

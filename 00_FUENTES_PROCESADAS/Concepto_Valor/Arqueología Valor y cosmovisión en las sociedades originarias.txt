@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Introducción
 La presente investigación aborda el concepto de valor desde una perspectiva transdisciplinaria e
 intercultural, incorporando de manera horizontal las voces de autores y tradiciones no occidentales
@@ -43,7 +43,7 @@ valioso, a menudo muy distintos de la escritura alfabética occidental. En el Le
 ejemplo, la propia escritura china lleva inscrita una concepción histórica del valor: muchos
 caracteres que denotan objetos preciosos o transacciones comerciales incluyen el radical “concha”
 
-[[2]]
+[[p=2]]
 (貝), vestigio de que las conchas marinas (como el caurí) fueron antiguamente moneda y símbolo
 de riquezagoodlucksj.wordpress.com. Esta carga simbólica pervive en el lenguaje: el ideograma de
 bao (tesoro) o el de precio llevan el signo de la concha, reflejando cómo el valor económico se
@@ -90,7 +90,7 @@ utilitarista occidental, donde el valor económico suele primar, en los textos s
 que artha debe perseguirse sin transgredir el dharma y manteniendo el desapego necesario para
 aspirar a moksha. Esta concepción se ilustra en múltiples relatos y tratados hindúes (como el
 
-[[3]]
+[[p=3]]
 Arthashastra de Kautilia o el Bhagavad Gita), donde la riqueza es medio y no fin último,
 supeditada a valores morales y trascendentes. Análogamente, en la sabiduría clásica de China,
 Confucio distinguió con nitidez entre valor moral y beneficio material. En Los Anales (Lunyu 4:16)
@@ -137,7 +137,7 @@ forzar) y la simplicidad natural, sugiriendo que el más alto valor es fluir con
 universo) en lugar de dominarlo. Por su parte, las filosofías originarias del sur de Asia –el
 hinduismo vedántico, el budismo, el jainismo– coinciden en devaluar el apego a lo material:
 
-[[4]]
+[[p=4]]
 postulan que la ignorancia y el deseo insaciable producen sufrimiento, mientras que la sabiduría, la
 compasión hacia todos los seres y la realización espiritual representan los verdaderos valores
 liberadores. En conjunto, estas perspectivas autóctonas (africanas, amerindias, asiáticas)
@@ -183,7 +183,7 @@ Vivir plantea que el progreso no puede reducirse al crecimiento del PIB, sino qu
 como la armonía integral del ser humano con la comunidad y con la naturaleza. No hay
 “subdesarrollo” en la visión indígena, sino desequilibrio que debe corregirse recuperando los
 
-[[5]]
+[[p=5]]
 valores comunitarios y el respeto a la Pachamama (Madre Tierra)archivo.revistas.ucr.ac.cr. En 2008,
 la nueva Constitución ecuatoriana –redactada con participación indígena– elevó este ideal a norma
 jurídica, reconociendo a la naturaleza como sujeto de derechos y obligando al Estado a orientar la
@@ -230,7 +230,7 @@ indígenas, asiáticos o africanos en igualdad de condiciones con los europeos; 
 políticos, la interculturalidad exige el reconocimiento de las naciones y sistemas normativos
 originarios. De hecho, varias experiencias latinoamericanas contemporáneas materializan estos
 
-[[6]]
+[[p=6]]
 principios: la educación intercultural bilingüe en países andinos (Ecuador, Perú, Bolivia) incorpora
 lenguas indígenas y sus formas de conocimiento en la escuela, combatiendo la epistemología única;
 a nivel constitucional, como ya se mencionó, Ecuador y Bolivia se declaran Estados
@@ -276,7 +276,7 @@ criticar al colonialismo; hay que “ofrecer un lenguaje de posibilidad, una ví
 colonialismo”bookey.app. En su obra Decolonizing Methodologies (1999), Smith aboga por
 métodos de investigación respetuosos con las comunidades indígenas, donde el valor del
 
-[[7]]
+[[p=7]]
 conocimiento se mida por su relevancia y utilidad para los pueblos originarios y no solo por
 criterios occidentales. Este llamado a descolonizar las metodologías científicas ha influido en
 campos como la antropología, obligando a replantear la ética de la investigación (por ejemplo,
@@ -323,7 +323,7 @@ filosofía occidental, sino como un terreno compartido donde dialogan Ma’at y 
 y Confucio, cowries y wampum, en un rico tejido de significados. Esta aproximación pluralista no
 solo fortalece el rigor y originalidad de la tesis doctoral, sino que representa un aporte
 
-[[8]]
+[[p=8]]
 epistemológico y ético: invita a repensar qué consideramos valioso como humanidad, aprendiendo
 de todas nuestras culturas para imaginar futuros más incluyentes y sostenibles.
 Fuentes utilizadas (APA 7.ª ed.):
@@ -361,5 +361,4 @@ Fuentes utilizadas (APA 7.ª ed.):
     • Smith, L. T. (1999/2012). Decolonizing Methodologies: Research and Indigenous Peoples.
       Londres: Zed Booksbookey.app.
 
-[[9]]
-
+[[p=9]]

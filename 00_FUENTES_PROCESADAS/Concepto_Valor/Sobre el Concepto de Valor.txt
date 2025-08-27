@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 El Valor: Una Arqueología, Semiótica,
 Filología, Filosofía, Economía y
 Epistemología de su Noción a Través de
@@ -41,7 +41,7 @@ Structural Linguistics.
 Esta sección establecerá el contexto general de la investigación, justificando su relevancia y
 delineando los pilares conceptuales y metodológicos que la sustentan.
 
-[[2]]
+[[p=2]]
 1.1. Contexto y Justificación de la Investigación
 
 El concepto de "valor" es una de las nociones más fundamentales y, a la vez, más escurridizas
@@ -89,7 +89,7 @@ dinámico, moldeado por el tiempo, la cultura y las estructuras de poder.
 
 1.3. Marco Teórico General
 
-[[3]]
+[[p=3]]
 La investigación se sustentará en un marco teórico robusto y ecléctico, diseñado para abordar
 la complejidad inherente a la noción de valor desde múltiples ángulos. Este marco servirá como
 el "plano" para toda la investigación doctoral, proporcionando la estructura filosófica,
@@ -141,7 +141,7 @@ epistemológica, metodológica y analítica.
       creación de valor y plusvalía.
  ● Economía del Comportamiento y Racionalidad Limitada (Daniel Kahneman, Amos Tversky,
 
-[[4]]
+[[p=4]]
 Herbert Simon): Este marco será esencial para comprender cómo los valores influyen en la
      toma de decisiones económicas y sociales en la práctica. Se explorará la interacción entre
      el pensamiento intuitivo (Sistema 1) y el racional (Sistema 2) , y cómo los sesgos
@@ -193,7 +193,7 @@ los siguientes conceptos clave:
      cognitivas de sus mentes y el tiempo disponible para tomar decisiones. Esto implica que
      las decisiones no siempre son óptimas, sino "satisfactorias".
 
-[[5]]
+[[p=5]]
 ●  Sesgo Cognitivo: Errores sistemáticos en el pensamiento o "atajos mentales" (heurísticas)
     que el cerebro utiliza para simplificar el procesamiento de información, pero que pueden
     llevar a conclusiones incorrectas o irracionales en la percepción y asignación de valor.24
@@ -245,7 +245,7 @@ Capital Simbólico               Forma de capital                Pierre Bourdieu
 Racionalidad Limitada           Racionalidad de los             Herbert Simon
                                 individuos limitada por
 
-[[6]]
+[[p=6]]
 información, cognición y
                                   tiempo.
 
@@ -294,7 +294,7 @@ Fase                     Nombre de la Fase        Objetivo Principal       Metod
                                                   sistemas de
                                                   creencias.
 
-[[7]]
+[[p=7]]
 3                        Filología del Valor     Rastrear la              Análisis Filológico y
                          (Evolución              evolución lingüística    Etimológico, Crítica
                          Lingüística y           y semántica del          Textual, Lingüística
@@ -346,7 +346,7 @@ Fase                     Nombre de la Fase        Objetivo Principal       Metod
 La Tabla 1 proporciona una visión general de alto nivel de todo el plan de investigación. Sirve
 como una hoja de ruta, permitiendo al lector captar rápidamente la estructura, los objetivos y
 
-[[8]]
+[[p=8]]
 los enfoques metodológicos de cada fase. Esta síntesis es crucial para un proyecto de esta
 complejidad, ya que facilita la navegación y la comprensión de la interconexión de sus partes.
 
@@ -397,7 +397,7 @@ rígidamente establecidas.
      El saber mítico, cuyo contenido a menudo no puede ser "resuelto en lenguaje", siendo su
      condición el "secreto" y la "inefabilidad", subraya la naturaleza no discursiva de este
 
-[[9]]
+[[p=9]]
 conocimiento.
  ●   Aportes de Foucault: Análisis de cómo la "arqueología del saber" permite rastrear la
      emergencia de conceptos y "regímenes de saber" 32 que condicionan lo que puede ser
@@ -447,7 +447,7 @@ revelar la riqueza de formas de valoración que han sido marginadas o invisibili
  ●   Arqueología y prehistoria: Investigaciones sobre el valor de artefactos y prácticas en
      sociedades prehistóricas.
 
-[[10]]
+[[p=10]]
 2.2. Fase 2: Semiótica del Valor (Expresión y Codificación Simbólica)
 
 
@@ -498,7 +498,7 @@ han dado forma y significado a lo que consideran valioso a través de sus lengua
      espiritual, existencial) en escrituras (ej. la importancia de la justicia en la Biblia, el valor de
      la compasión en textos budistas, el valor de la armonía en el Tao Te Ching).
 
-[[11]]
+[[p=11]]
 ●   Rituales y prácticas simbólicas: Investigación de cómo los rituales (ej. ceremonias de
     iniciación, ritos de paso, festivales) actúan como "actos simbólicos que comunican
     creencias y valores" 10 y vehiculizan la asignación de valor. Las prácticas de
@@ -551,7 +551,7 @@ han dado forma y significado a lo que consideran valioso a través de sus lengua
 
 ●   ¿Qué signos, símbolos y metáforas recurrentes se utilizan para representar el valor (moral,
 
-[[12]]
+[[p=12]]
 estético, social) en diferentes culturas y tradiciones religiosas, y qué revelan sobre su
      conceptualización?
  ●   ¿Cómo los textos sagrados y los rituales codifican y transmiten sistemas de valores, y cuál
@@ -602,7 +602,7 @@ comprensión más matizada de sus limitaciones y posibilidades.
 Rastrear la evolución lingüística y semántica del término "valor" y sus cognados en diversas
 lenguas y tradiciones textuales, analizando cómo los cambios en su uso y significado reflejan
 
-[[13]]
+[[p=13]]
 transformaciones en su conceptualización a lo largo de la historia. Esta fase busca comprender
 cómo la forma en que hablamos y escribimos sobre el valor ha moldeado su comprensión y sus
 implicaciones culturales y sociales.
@@ -654,7 +654,7 @@ implicaciones culturales y sociales.
      expresión simbólica del valor sugieren que su conocimiento a menudo resiste la
      articulación directa y literal.
 
-[[14]]
+[[p=14]]
 2.3.4. Preguntas de Investigación Específicas
 
 
@@ -703,7 +703,7 @@ interpretaciones del valor estén ancladas en el uso histórico y cultural de lo
 
 2.4. Fase 4: Filosofía del Valor (Axiología y Debates Conceptuales)
 
-[[15]]
+[[p=15]]
 2.4.1. Objetivo Principal
 
 
@@ -755,7 +755,7 @@ en respuesta a diferentes proyectos filosóficos.
      ○ Kant: El valor moral como imperativo categórico, la dignidad humana como valor
          intrínseco e incondicional. El valor de la autonomía de la voluntad. La distinción entre
 
-[[16]]
+[[p=16]]
 intuición sensible (a priori del espacio y tiempo) e intuición intelectual (reservada a
         Dios) .
     ○ Arthur Schopenhauer: El valor como manifestación de la Voluntad irracional, la
@@ -808,7 +808,7 @@ intuición sensible (a priori del espacio y tiempo) e intuición intelectual (re
     aprehensión directa (ej. San Agustín, Spinoza, Husserl) y como construcción o experiencia
     (ej. Dilthey, Dewey)?
 
-[[17]]
+[[p=17]]
 ●   ¿Cómo el intuicionismo matemático, con figuras como Brouwer y Heyting, redefine el papel
      de la intuición en la construcción de la verdad matemática, y qué desafíos plantea a la
      lógica clásica?
@@ -859,7 +859,7 @@ Racionalidad)
 
 2.5.1. Objetivo Principal
 
-[[18]]
+[[p=18]]
 Investigar cómo el valor se ha conceptualizado y medido en la economía y otras ciencias
 sociales, analizando su estatus epistemológico en relación con la racionalidad, la utilidad y los
 sesgos cognitivos. Esta fase busca desmitificar la valoración como un proceso puramente
@@ -911,7 +911,7 @@ objetivo o racional, integrándola en modelos cognitivos y conductuales.
      ○ Sesgos Cognitivos en la Valoración: Cómo sesgos como el de anclaje , confirmación ,
         costo hundido , aversión a la pérdida , recencia , exceso de confianza y mentalidad de
 
-[[19]]
+[[p=19]]
 rebaño influyen en la percepción del valor en inversiones , consumo, evaluación de
           proyectos y otras decisiones.
       ○ Racionalidad Limitada (Herbert Simon): La idea de que los agentes económicos no
@@ -963,7 +963,7 @@ vida real, un objetivo clave para una investigación de nivel doctoral.
  ●   Marxismo: Karl Marx (El Capital, Contribución a la crítica de la economía política).
  ●   Economía Neoclásica: William Stanley Jevons (La teoría de la economía política), Carl
 
-[[20]]
+[[p=20]]
 Menger (Principios de economía política), Léon Walras (Elementos de economía política
      pura).
  ●   Economía del Comportamiento: Daniel Kahneman (Pensar rápido, pensar despacio),
@@ -1014,7 +1014,7 @@ particular en la captura de saberes tácitos y la promoción de la reciprocidad,
           descripción, interpretación y comprensión de fenómenos desde la experiencia
           vivencial del sujeto. Permite una "reflexión interpretativa de carácter cultural" 79 y
 
-[[21]]
+[[p=21]]
 busca "descubrir y comprender la esencia de lo que está en juego" 79 en las
          experiencias de valoración, evitando explicaciones causales o generalizaciones
          abstractas. La "epojé" (suspensión de juicios) y la "reducción" fenomenológica serán
@@ -1067,7 +1067,7 @@ visiones holísticas y relacionales del valor.
          adaptabilidad y la "Visión Taoísta" como una forma de percibir la realidad sin depender
          del pensamiento intelectual. El valor de la vaguedad y el vacío (wu) como "vacío fértil y
 
-[[22]]
+[[p=22]]
 productivo".90
      ○ Yoga: El valor de la "sabiduría intuitiva" alcanzada a través del Dhyana yoga
         (absorción meditativa) y el control de la mente. El Ajna Chakra (Tercer Ojo) como
@@ -1118,7 +1118,7 @@ valoración que han marginado las formas no occidentales de valor.
      "valoran los saberes que resistieron con éxito" 77 e "investigan las condiciones de un
      diálogo horizontal entre conocimientos".19
 
-[[23]]
+[[p=23]]
 ●   Ecología de Saberes: Para combatir el pensamiento abismal, Santos propone una
      "ecología de saberes" 19, que se basa en el reconocimiento de la "pluralidad de
      conocimientos heterogéneos" (incluida la ciencia moderna) y sus interconexiones
@@ -1168,7 +1168,7 @@ reciprocidad y el diálogo horizontal.
 Para guiar esta fase, nos planteamos las siguientes preguntas:
  ● ¿Cómo se conceptualiza y se practica el valor en filosofías orientales (Budismo, Taoísmo,
 
-[[24]]
+[[p=24]]
 Yoga) y cosmovisiones indígenas (Buen Vivir, Dreamtime, saberes africanos), y qué
        diferencias fundamentales existen con las nociones occidentales?
  ●     ¿Cómo el "pensamiento abismal" de Boaventura de Sousa Santos ha contribuido a la
@@ -1220,7 +1220,7 @@ Obras citadas
      14. El Pensamiento 1 de 2 | Letra Urbana, fecha de acceso: julio 22, 2025,
          https://letraurbana.com/articulos/el-pensamiento-1-de-2/
 
-[[25]]
+[[p=25]]
 15. The Poetics of Reverie – Michigan Quarterly Review - WordPress Websites, fecha de
     acceso: julio 22, 2025, https://sites.lsa.umich.edu/mqr/2013/09/the-poetics-of-reverie-2/
 16. Decoding Symbolism and Metaphor - Number Analytics, fecha de acceso: julio 22, 2025,
@@ -1273,7 +1273,7 @@ Obras citadas
 33. A Priorism in Moral Epistemology - Stanford Encyclopedia of Philosophy, fecha de
     acceso: julio 22, 2025, https://plato.stanford.edu/entries/moral-epistemology-a-priori/
 
-[[26]]
+[[p=26]]
 34. www.researchgate.net, fecha de acceso: julio 22, 2025,
     https://www.researchgate.net/profile/Elizabeth-
     Corrales/publication/236342941_Intuicion_como_proceso_cognitivo/links/0c960517c57a8
@@ -1326,7 +1326,7 @@ Obras citadas
 52. A priori knowledge | Definition, Theories, & Facts | Britannica, fecha de acceso: julio 22,
     2025, https://www.britannica.com/topic/a-priori-knowledge
 
-[[27]]
+[[p=27]]
 53. Conocimiento tacito aprovechar el conocimiento tacito el arma secreta de los tacs -
     FasterCapital, fecha de acceso: julio 22, 2025,
     https://fastercapital.com/es/contenido/Conocimiento-tacito--aprovechar-el-conocimiento-
@@ -1379,7 +1379,7 @@ Obras citadas
 70. OBSERVACIÓN PARTICIPANTE - Ediciones Diaz de Santos, fecha de acceso: julio 22,
     2025, https://www.editdiazdesantos.com/wwwdat/pdf/9788490525128.pdf
 
-[[28]]
+[[p=28]]
 71. “El significado es el uso” y teorías en el segundo Wittgenstein | La filosofía en sus
     problemas actuales - TeseoPress, fecha de acceso: julio 24, 2025,
     https://www.teseopress.com/filosofiayproblemas/chapter/64/
@@ -1432,7 +1432,7 @@ Obras citadas
 90. A General Introduction to the Semeiotic of Charles Sanders Peirce, fecha de acceso: julio
     22, 2025, https://www.felsemiotica.com/descargas/Liszka-James-Jak%C3%B3b-A-
 
-[[29]]
+[[p=29]]
 General-Introduction-to-the-Semeiotic-of-Charles-Sanders-Peirce.pdf
 91. La filosofía de Gaston Bachelard - ResearchGate, fecha de acceso: julio 22, 2025,
     https://www.researchgate.net/profile/Alexander-
@@ -1485,7 +1485,7 @@ General-Introduction-to-the-Semeiotic-of-Charles-Sanders-Peirce.pdf
 107. O ESPAÇO SAGRADO EM MIRCEA ELIADE - FAJE, fecha de acceso: julio 24, 2025,
     https://faculdadejesuita.edu.br/wp-content/uploads/2022/06/O-ESPACO-SAGRADO-
 
-[[30]]
+[[p=30]]
 SEGUNDO-MIRCEA-ELIADE.pdf
   108. Sobre el sentido y la referencia - Wikipedia, la enciclopedia libre, fecha de acceso: julio
      24, 2025, https://es.wikipedia.org/wiki/Sobre_el_sentido_y_la_referencia
@@ -1538,7 +1538,7 @@ Clave del Estudio del Valor 1.4.1. Axiología 1.4.2. Utilidad 1.4.3. Escasez 1.4
 Capítulo 2: Arqueología del Valor (Génesis Pre-discursiva) 2.1. Objetivo Principal 2.2.
 Metodologías Clave 2.2.1. Arqueología del Saber (Michel Foucault) 2.2.2. Antropología del
 
-[[31]]
+[[p=31]]
 Valor 2.2.3. Análisis de Mitos y Rituales 2.3. Líneas de Trabajo / Temas a Explorar 2.3.1. El
 valor en el pensamiento mítico y mágico 2.3.1.1. Sacralidad de objetos, lugares y seres 2.3.1.2.
 El valor de los sacrificios (humanos, animales, bienes) 2.3.1.3. La economía del don de Marcel
@@ -1591,7 +1591,7 @@ Scheler, G.E. Moore, John Dewey) 5.3.5. El Papel de la Intuición en la Aprehens
 la Filosofía Analítica y el Post-estructuralismo 5.3.6.1. Críticas a la intuición como evidencia
 (Herman Cappelen) 5.3.6.2. Deconstrucción de valores universales (Jacques Derrida, Roland
 
-[[32]]
+[[p=32]]
 Barthes, Jacques Lacan) 5.3.6.3. Teorías de la actitud apropiada y "buck-passing theory" (T.M.
 Scanlon) 5.3.6.4. Teorías teleológicas del valor 5.4. Preguntas de Investigación Específicas 5.5.
 Justificación de la Fase para la Tesis Doctoral
@@ -1644,7 +1644,7 @@ mercados multilaterales 8.5. Valor Ético en la Inteligencia Artificial (IA) 8.5
 clave (bienestar humano, supervisión, sesgos, transparencia, privacidad) 8.5.2. Aplicaciones de
 "línea roja" (vigilancia, discriminación, manipulación) 8.5.3. Responsabilidad en la ética de la IA
 
-[[33]]
+[[p=33]]
 8.6. Valor Ambiental en el Discurso Contemporáneo 8.6.1. Valor intrínseco vs. valor
 instrumental 8.6.2. Ética del cambio climático ("tormenta moral perfecta") 8.6.3. Evaluación
 ética en la gestión de residuos y política ambiental
@@ -1696,7 +1696,7 @@ percibe, se disputa y se transforma en los intrincados tapices de diferentes con
 y culturales.
 Existe, por tanto, un vacío significativo en la literatura académica que aborde el valor desde una
 
-[[34]]
+[[p=34]]
 perspectiva verdaderamente integral, una que logre conectar sus dimensiones ontológicas (su
 naturaleza), epistemológicas (cómo lo conocemos), culturales (cómo se manifiesta en
 sociedades) y prácticas (cómo influye en las decisiones). Este proyecto doctoral se propone
@@ -1749,7 +1749,7 @@ evolución del valor, sino que también lo contextualiza dentro de las estructur
 sistemas de significado que han definido su reconocimiento y supresión a lo largo de la
 historia.
 
-[[35]]
+[[p=35]]
 1.3.1. Epistemología Histórica
 Este enfoque es fundamental para comprender que la conceptualización del valor no es una
 entidad estática, sino que se construye y transforma activamente a lo largo del tiempo. Permite
@@ -1802,7 +1802,7 @@ y plusvalía.
 1.3.7. Economía del Comportamiento y Racionalidad Limitada (Daniel Kahneman, Amos
 Tversky, Herbert Simon)
 
-[[36]]
+[[p=36]]
 Este marco será crucial para comprender cómo los valores influyen en la toma de decisiones
 económicas y sociales en la práctica. Se explorará la interacción entre el pensamiento intuitivo
 (Sistema 1) y el racional (Sistema 2), y cómo los sesgos cognitivos y las heurísticas afectan la
@@ -1865,7 +1865,7 @@ Limitada         cognición y tiempo.
 Sesgo            Errores sistemáticos en el pensamiento que distorsionan la Daniel Kahneman,
 Cognitivo        percepción y asignación de valor.                          Amos Tversky
 
-[[37]]
+[[p=37]]
 Autor(es)
 Concepto         Definición Breve
                                                                                Asociado(s)
@@ -1919,7 +1919,7 @@ qué tipos de estudios se han realizado, con qué sujetos, cómo se han recolect
 diseños se han utilizado.
 • Amplía el horizonte del estudio y guía al investigador para que se centre en su problema,
 
-[[38]]
+[[p=38]]
 evitando desviaciones del planteamiento original.
 • Conduce al establecimiento de hipótesis o afirmaciones que serán sometidas a prueba en
 la realidad.
@@ -1972,7 +1972,7 @@ sexuales" aparecieron y fueron nombrados y analizados según nuevas reglas.
 pronuncian los enunciados y las posiciones subjetivas que pueden implicar.
 • Formación de los conceptos: Examina cómo los conceptos aparecen, se definen, aplican y
 
-[[39]]
+[[p=39]]
 transforman dentro de un campo de coordinación de enunciados. Foucault observa que los
 conceptos pueden diferir en estructura y uso, e incluso ignorarse o excluirse entre sí.
 • Formación de las elecciones estratégicas: Se refiere a los temas y teorías que surgen en
@@ -2025,7 +2025,7 @@ atribuir autoría y autenticidad a los escritos.
 1.3.5. Axiología y Filosofía del Valor
 La axiología es la rama de la filosofía que se dedica al estudio de la naturaleza de los valores.
 
-[[40]]
+[[p=40]]
 También se la conoce como teoría del valor. La filosofía, en general, se centra en el
 fundamento de los valores, su objetividad o subjetividad, y su papel en la vida humana.
 El concepto de valor se entiende como una cualidad de un sujeto o un objeto, que son
@@ -2078,7 +2078,7 @@ los individuos no siempre actúan de manera puramente racional.
 • Herbert Simon introdujo el concepto de racionalidad limitada, argumentando que la
 capacidad de los individuos para tomar decisiones racionales está constreñida por limitaciones
 
-[[41]]
+[[p=41]]
 cognitivas y de información. Simon, en su obra clásica El comportamiento administrativo
 (1946), usó el concepto de valor para estructurar su teoría, aunque la palabra "valor" dejó de
 aparecer en sus obras posteriores, lo que sugiere una evolución en la forma de conceptualizar
@@ -2131,7 +2131,7 @@ clásica y marxista.
 1.4.5. Valor de Uso
 Se refiere a la utilidad o capacidad de una mercancía para satisfacer una necesidad
 
-[[42]]
+[[p=42]]
 humana o de cualquier tipo. Es una cualidad inherente al objeto por su capacidad de servir
 para algo.
 1.4.6. Valor de Cambio
@@ -2183,7 +2183,7 @@ propósito incluyen:
         o incluso resisten la formalización lingüística, a menudo imbricadas en relaciones de
         poder inherentes a la estructura social.
 
-[[43]]
+[[p=43]]
     Antropología del Valor: Esta metodología se centró en el estudio del valor dentro de
         su matriz sociocultural. Se reconoció que, en las sociedades primitivas, la actividad
         económica nunca se disociaba de lo religioso, lo social o lo político. El valor no era una
@@ -2236,7 +2236,7 @@ o posesión.
                 tierra), o incluso como "sacrificio de séquito", donde los sirvientes y concubinas
                 acompañaban a un líder a la otra vida (registrado en Egipto, Mongolia o
 
-[[44]]
+[[p=44]]
 Mesoamérica).
        o     Función Social: Más allá de su dimensión religiosa, los sacrificios reforzaban
              las creencias individuales, moldeaban las identidades colectivas y fomentaban la
@@ -2289,7 +2289,7 @@ Mesoamérica).
                       cerdos, en este contexto, simbolizaban honor y prestigio, facilitaban
                       matrimonios y ayudaban a resolver conflictos tribales o a forjar alianzas.
 
-[[45]]
+[[p=45]]
 El famoso documental "Ongka's Big Moka" muestra la inmensa cantidad
                          de bienes (cientos de cerdos, dinero, ganado, casuarios) que Ongka
                          acumuló y dio para "atar" a otros grupos y lograr fama para su tribu.
@@ -2342,7 +2342,7 @@ concepto de "conocimiento tácito".
                          comunidades, el bienestar es una cualidad intangible, profundamente
                          vinculada a la espiritualidad, la conexión con la historia y la cultura de la
 
-[[46]]
+[[p=46]]
 tierra, la genealogía familiar y los lazos comunitarios. El valor se halla en
                         el compartir y la interconexión, más allá de la acumulación material.
                      Armonía con la Naturaleza (Yup'ik de Alaska): La cosmovisión Yup'ik
@@ -2395,7 +2395,7 @@ trascendente.
                 lo profano. Para Durkheim, lo sagrado no es intrínsecamente especial por sus
                 propiedades físicas, sino que una comunidad o sociedad lo dota de ese carácter.
 
-[[47]]
+[[p=47]]
 Ejemplos incluyen lugares espirituales (templos, mezquitas), ciertos árboles,
                rocas, animales o tótems. La religión, desde esta perspectiva sociológica, es el
                sistema unificado de creencias y prácticas relativas a las cosas sagradas, que
@@ -2448,7 +2448,7 @@ Ejemplos incluyen lugares espirituales (templos, mezquitas), ciertos árboles,
                orden cósmico y social.
 2.5. Implicaciones para la Tesis
 
-[[48]]
+[[p=48]]
 Esta fase arqueológica representa un pilar fundamental para la tesis, ya que desvela que el
 valor no es simplemente un constructo racional, una etiqueta lingüística o una categoría
 económica abstracta. En cambio, tiene profundas raíces en la experiencia humana pre-
@@ -2500,7 +2500,7 @@ desentrañar la complejidad semiótica del valor:
         permitió rastrear la evolución del valor desde una cualidad puramente sentida y
         experiencial (Primeridad), pasando por su manifestación en la interacción directa con la
 
-[[49]]
+[[p=49]]
 realidad (Segundidad), hasta su articulación, conceptualización y establecimiento social
          a través de la mediación y la interpretación (Terceridad). Esta metodología posibilitó
          comprender el proceso de semiosis, es decir, cómo el valor se convierte en un signo
@@ -2553,7 +2553,7 @@ especificidad cultural de la valoración.
               o Vajra (Dorje): Un cetro ritual y, en su origen, un arma mítica (rayo o diamante).
                   En el budismo, el vajra simboliza la indestructibilidad (como el diamante) y el
 
-[[50]]
+[[p=50]]
 poder imparable (como el rayo) de la mente iluminada y la verdad. Representa
           la firmeza del espíritu, la pureza y la capacidad de cortar a través de la
           ignorancia, la ilusión y las aflicciones. Es un valor que encarna la fuerza
@@ -2606,7 +2606,7 @@ poder imparable (como el rayo) de la mente iluminada y la verdad. Representa
           altamente venerados y simbolizan lealtad, fuertes lazos familiares, buena
           comunicación, educación, comprensión e inteligencia. Son vistos como
 
-[[51]]
+[[p=51]]
 protectores, guías intuitivos e instintivos, y seres espirituales que pueden
                  mediar entre el mundo físico y el espiritual. Su valor se basa en su conexión con
                  la comunidad, el conocimiento ancestral y su rol como maestros en el orden
@@ -2659,7 +2659,7 @@ esencial para su comprensión.
         niega a reforzarlo, buscando la liberación propia y ajena. Es un motor fundamental para
         el altruismo, el servicio a los demás y la liberación del sufrimiento (dukkha), y se cultiva
 
-[[52]]
+[[p=52]]
 a través de prácticas meditativas específicas que extienden la benevolencia a todos los
         seres.
      La Armonía en el Tao Te Ching: El Taoísmo, ejemplificado en textos como el Tao Te
@@ -2712,7 +2712,7 @@ asignación, el refuerzo y la perpetuación de lo valioso en una sociedad.
             o Pertenencia: La confirmación de la integración del individuo en el tejido social.
             o Conocimiento Tribal/Ancestral: La transmisión de saberes esotéricos o
 
-[[53]]
+[[p=53]]
 prácticos esenciales para la supervivencia y la identidad cultural.
            o    Respeto por los Ancianos: El reconocimiento de la sabiduría y la autoridad de
                 quienes guían el rito. El valor inherente no reside únicamente en el paso físico o
@@ -2765,7 +2765,7 @@ valor.
             o Primeridad (Firstness): Representa el valor en su forma más pura, inmediata y
                 no analizada. Es una cualidad sentida, una posibilidad, una sensación pura, una
 
-[[54]]
+[[p=54]]
 "chispa de idea" que precede a cualquier conceptualización o relación.
             Corresponde a la experiencia emocional, a la concepción de un ser
             independiente de cualquier otra cosa, a la totalidad, sin límites, causa o efecto, y
@@ -2818,7 +2818,7 @@ valor.
             objeto o entidad del mundo al que el término se refiere) tiene implicaciones
             cruciales para el valor. Si el valor, especialmente en sus dimensiones más
 
-[[55]]
+[[p=55]]
 abstractas, subjetivas o inefables (ej., la "dignidad humana" o la "belleza"),
              carece de una referencia clara o una articulación lingüística precisa en el sentido
              fregeano, podría ser considerado "sin sentido" o carente de una base objetiva en
@@ -2871,7 +2871,7 @@ abstractas, subjetivas o inefables (ej., la "dignidad humana" o la "belleza"),
              conceptualización. La semiótica, al analizar sistemas simbólicos no verbales
              (arte visual, performance, rituales, lenguaje corporal, arquitectura), puede
 
-[[56]]
+[[p=56]]
 acceder e interpretar significados de valor que no se articulan explícitamente o
                 que no son fácilmente reducibles a proposiciones lingüísticas o lógicas. Esta
                 capacidad permite comprender cómo "lo que no está presente puede ser tan
@@ -2924,7 +2924,7 @@ metodologías clave:
         social.
      Análisis Comparativo Cultural: Esta aproximación metodológica se utilizó para
 
-[[57]]
+[[p=57]]
 identificar similitudes y diferencias en la simbología del valor entre diversas tradiciones
         culturales. La crítica inherente a esta metodología implicó una lectura cautelosa para
         evitar la imposición de categorías eurocéntricas, reconociendo la "pluralidad de
@@ -2977,7 +2977,7 @@ vehículos para la transmisión y el refuerzo de sistemas de valores.
             o Sia: Una deidad que personificaba la percepción, el intelecto y la comprensión.
                  Su valor residía en la capacidad de otorgar discernimiento y sabiduría,
 
-[[58]]
+[[p=58]]
 esenciales para el orden cósmico y la administración de la justicia.
            o    Ojo de Horus (Udyat): Uno de los amuletos más importantes. Simbolizaba
                 bienestar, curación, protección contra el mal, restauración del orden a partir del
@@ -3030,7 +3030,7 @@ inculcados a través de estas fuentes primarias.
         cardinal, descrito como una cualidad que irradia naturalmente de una mente purificada.
         Se distingue de la mera piedad al implicar una profunda comprensión de la
 
-[[59]]
+[[p=59]]
 interconexión de todos los seres. Va más allá de las fronteras rígidas de grupo y
         requiere una práctica de no-apego a las identidades, reconociendo el sufrimiento
         universal. La compasión budista es una postura activa de amor que se niega a reforzar
@@ -3083,7 +3083,7 @@ reveló cómo diversas prácticas rituales codifican y transmiten sistemas de va
 3.5. Semiótica de Peirce y Filosofía del Lenguaje en la Conceptualización del Valor
 La semiótica de Charles Sanders Peirce proporciona un marco triádico para comprender cómo
 
-[[60]]
+[[p=60]]
 el valor se manifiesta desde una cualidad sentida hasta su codificación y comunicación.
 Complementariamente, la filosofía del lenguaje y la lingüística estructural revelan cómo el
 lenguaje mismo moldea y a veces restringe la conceptualización del valor.
@@ -3136,7 +3136,7 @@ lenguaje mismo moldea y a veces restringe la conceptualización del valor.
                articulado, limitando su estatus como conocimiento objetivo.
             o Ludwig Wittgenstein ("El significado es el uso"): Para Wittgenstein, el
 
-[[61]]
+[[p=61]]
 significado de una palabra o concepto no reside en una correspondencia con
                  una esencia preexistente, sino en su "uso" dentro de un "juego de lenguaje"
                  específico y una "forma de vida" particular. Desde esta perspectiva, el valor no
@@ -3189,7 +3189,7 @@ particular, la semiótica de Peirce, permite a la tesis analizar con rigor cómo
 "ambigüedad" intrínsecas a la expresión simbólica del valor, un rasgo que a menudo es eludido
 por enfoques más restrictivos del lenguaje. La profundización en la filosofía del lenguaje y la
 
-[[62]]
+[[p=62]]
 lingüística estructural (Saussure) añade una capa crítica al estudio, al mostrar cómo el propio
 lenguaje ha condicionado y, en ocasiones, restringido nuestra conceptualización del valor, lo
 que permite una comprensión más matizada de sus limitaciones y posibilidades. Esta fase
@@ -3242,7 +3242,7 @@ y a la búsqueda de la vida virtuosa y plena.
                   consiste en la alineación del alma con el Bien, la búsqueda de la virtud y la
                   armonía interna. Metafísicamente, el Bien fundamenta un reino trascendente de
 
-[[63]]
+[[p=63]]
 Formas eternas e inmutables.
            o    Aunque fue criticada por su generalidad, Platón consideraba la Idea del Bien
                 como una hipótesis fundamental, el principio de belleza y verdad, y la unidad
@@ -3295,7 +3295,7 @@ aproximaciones.
                 irrefutable. La "duda metódica" y la primacía de la conciencia individual (el
                 "cogito") sentaron las bases para una concepción del valor que, si bien no
 
-[[64]]
+[[p=64]]
 explícitamente subjetivista en su origen, sí lo es en su aprehensión individual.
    Baruch Spinoza: Scientia Intuitiva y el Bien como Útil
         o En su Ética demostrada según el orden geométrico, Spinoza concibe el bien y el
@@ -3348,7 +3348,7 @@ explícitamente subjetivista en su origen, sí lo es en su aprehensión individu
            nobleza y la creatividad. Esta transvaloración implicó un cambio radical de una
            ética de la trascendencia y la negación del cuerpo a una ética de la inmanencia y
 
-[[65]]
+[[p=65]]
 la afirmación plena de la existencia. Metafísicamente, la "muerte de Dios"
                 nietzscheana significó el colapso de cualquier fundamento trascendente para los
                 valores, que ahora debían ser creados por la voluntad humana, especialmente
@@ -3401,7 +3401,7 @@ conceptualización.
      G.E. Moore: El Bien como Propiedad Indefinible
             o En su obra Principia Ethica (1903), Moore argumentó que el "bien" es una
 
-[[66]]
+[[p=66]]
 propiedad moral simple e indefinible, no analizable en términos de propiedades
                 naturales o empíricas (lo que llamó la "falacia naturalista").
             o El bien es una cualidad no natural que se aprehende directamente a través de
@@ -3454,7 +3454,7 @@ razón discursiva o al empirismo.
 El pensamiento contemporáneo, desde la filosofía analítica hasta el post-estructuralismo, ha
 sometido el estatus del valor a un escrutinio crítico, desafiando su validez como evidencia o
 
-[[67]]
+[[p=67]]
 como acceso directo a la verdad.
     Filosofía Analítica y Metaética (Herman Cappelen y el Escepticismo sobre las
       Intuiciones):
@@ -3507,7 +3507,7 @@ como acceso directo a la verdad.
     Desafío al Estatus del Valor como Evidencia o Acceso Directo a la Verdad: Tanto
       la filosofía analítica (a través de Cappelen) como el post-estructuralismo cuestionan
 
-[[68]]
+[[p=68]]
 radicalmente el estatus epistemológico tradicional del valor. La filosofía analítica, al
          dudar del papel evidencial de la intuición, exige una justificación más rigurosa y
          argumentada para los valores. El post-estructuralismo, al deconstruir la estabilidad del
@@ -3560,7 +3560,7 @@ metodologías empleadas para este análisis incluyeron:
      Análisis de la Racionalidad Limitada: Se aplicó el concepto de racionalidad limitada,
         propuesto por Herbert Simon, para comprender las desviaciones de la racionalidad
 
-[[69]]
+[[p=69]]
 económica perfecta en la toma de decisiones de valor, reconociendo las limitaciones de
         información y capacidad de procesamiento de los agentes.
 5.2. Teorías Clásicas del Valor y Marxismo
@@ -3613,7 +3613,7 @@ valor, que sería posteriormente radicalizada y criticada por el marxismo.
                capitalista.
             o Fetichismo de la Mercancía: Uno de los conceptos más distintivos de Marx.
 
-[[70]]
+[[p=70]]
 Describe la percepción en las sociedades capitalistas de que las relaciones
                 económicas (entre productores, consumidores, etc.) se manifiestan como
                 relaciones entre cosas (dinero, mercancías) en el mercado, en lugar de como
@@ -3666,7 +3666,7 @@ trabajo) al lado de la demanda (utilidad subjetiva del consumidor).
 5.4. Economía del Comportamiento y Sesgos en la Valoración
 La economía del comportamiento y la psicología cognitiva han surgido como campos que
 
-[[71]]
+[[p=71]]
 desafían la noción de una racionalidad económica perfecta, al demostrar cómo los sesgos
 cognitivos y las heurísticas influyen sistemáticamente en la percepción y asignación de valor.
      Daniel Kahneman y Amos Tversky: Teoría de las Perspectivas (Prospect Theory):
@@ -3719,7 +3719,7 @@ Economía, 1978), proporciona un marco fundamental para comprender las desviacio
 racionalidad económica perfecta.
      Definición y Características: Simon argumentó que los individuos no son agentes
 
-[[72]]
+[[p=72]]
 perfectamente racionales con información ilimitada y capacidad de procesamiento
         infinita, como asumen los modelos neoclásicos. En cambio, sus capacidades de toma
         de decisiones están intrínsecamente restringidas por:
@@ -3772,7 +3772,7 @@ sociología y la antropología, que ofrecen perspectivas críticas y complementa
                  simbólico. Los bienes intercambiados a menudo están imbuidos de una esencia
                  espiritual ("mana") o de la identidad de quien los da, lo que les confiere un valor
 
-[[73]]
+[[p=73]]
 inmaterial que trasciende su utilidad física. Esto subraya que el valor es un
                 constructo cultural y que las lógicas de mercado no son universales ni las únicas
                 formas de valoración humana.
@@ -3825,7 +3825,7 @@ especialmente en contextos interculturales. Las metodologías empleadas incluyen
         lectura crítica para evitar la imposición de categorías eurocéntricas y reconociendo
         activamente la "pluralidad de significados" del valor.
 
-[[74]]
+[[p=74]]
     Epistemologías del Sur (Boaventura de Sousa Santos, Enrique Dussel): Este
         marco teórico fue central para "denunciar la supresión" sistemática de los conocimientos
         no occidentales por parte de las epistemologías hegemónicas. Se buscó "valorar los
@@ -3878,7 +3878,7 @@ experiencia directa.
              o No-Mente (Mushin): El valor reside en un estado de conciencia de "no-mente",
                  donde la mente está libre de pensamientos conceptuales, juicios y apegos. Esto
 
-[[75]]
+[[p=75]]
 permite una presencia total en el momento presente, la aprehensión directa de
                la realidad sin mediación.
             o Satori (Iluminación): El valor supremo es el satori, una experiencia de
@@ -3931,7 +3931,7 @@ individualismo occidental.
             o Prioriza el bienestar colectivo sobre el individualismo y enfatiza la reciprocidad
                (ayni) y la complementariedad. El valor de la intuición se considera una práctica
 
-[[76]]
+[[p=76]]
 vivida, una sabiduría arraigada en la experiencia y la conexión profunda con el
                entorno.
       Dreamtime (Tiempo del Sueño - Aborígenes Australianos):
@@ -3984,7 +3984,7 @@ marco para desafiar esta hegemonía.
       Ecología de Saberes: Pluralidad y Diálogo Horizontal:
             o Frente al epistemicidio, Santos propone una "ecología de saberes", que
 
-[[77]]
+[[p=77]]
 reconoce la "pluralidad de conocimientos heterogéneos" (incluida la ciencia
                  moderna, pero no de forma hegemónica) y sus interconexiones dinámicas sin
                  comprometer su autonomía.
@@ -4037,7 +4037,7 @@ con los actores sociales.
 6.6. Implicaciones para la Tesis
 Esta fase de perspectiva intercultural y decolonial es fundamental para la tesis, ya que
 
-[[78]]
+[[p=78]]
 representa la culminación del objetivo decolonial de la investigación. Al profundizar en los
 "saberes tácitos" y la "ambigüedad" del valor en contextos no occidentales, la tesis responde
 directamente a la priorización occidental de un valor explícito, racional y cuantificable.
@@ -4090,7 +4090,7 @@ complejizados por el pluralismo inherente a las sociedades modernas.
         una escala única. Existen dos formas principales: la incomparabilidad, donde no hay
         un hecho objetivo que determine si una opción es mejor, peor o igual que otra; y la
 
-[[79]]
+[[p=79]]
 inconmensurabilidad fuerte, donde los valores son fundamentalmente diferentes en
         su tipo y carecen de una métrica común de comparación. Esta perspectiva es apoyada
         por el pluralismo de valores (la existencia de múltiples valores irreducibles) y la
@@ -4143,7 +4143,7 @@ transformaciones profundas.
         locales, introducir nuevos recursos sobre los cuales competir y amenazar valores
         profundamente arraigados, como se observa en el caso de los "diamantes de conflicto"
 
-[[80]]
+[[p=80]]
 que financian guerras o la violencia sectaria. Si bien la globalización también puede
         llevar a la penetración y asimilación mutua de culturas, formando una cultura universal,
         este proceso está cargado de tensiones inherentes.
@@ -4196,7 +4196,7 @@ eficiencia y equidad.
                  negociado a los tasadores antes de que completen su valoración
                  independiente. Esto es crucial para mitigar el sesgo de anclaje, un sesgo
 
-[[81]]
+[[p=81]]
 cognitivo donde los tasadores pueden inconscientemente "anclar" su valoración
                 al precio de venta ya acordado, en lugar de basarse puramente en la evidencia
                 del mercado. Las valoraciones inexactas (subvaloración o sobrevaloración)
@@ -4249,7 +4249,7 @@ basadas en activos intangibles y la monetización de la información.
                 intermediarios que conectan múltiples lados de un mercado.
      Desafíos: La protección de estos activos intangibles frente a las ciberamenazas y la
 
-[[82]]
+[[p=82]]
 necesidad de modelos de análisis financiero actualizados que puedan capturar y valorar
         adecuadamente los datos y otros intangibles son desafíos críticos para las empresas y
         las economías.
@@ -4302,7 +4302,7 @@ uso para asegurar que la IA sea beneficiosa para la humanidad.
      Responsabilidad Compartida en la Ética de la IA: La responsabilidad de desarrollar y
         usar la IA de manera ética es compartida por múltiples actores: los desarrolladores y
 
-[[83]]
+[[p=83]]
 diseñadores (ética por diseño), los legisladores y reguladores (marcos legales), las
         empresas (políticas internas y gobernanza), la sociedad civil (monitoreo y defensa de
         derechos) y los usuarios (uso responsable).
@@ -4355,7 +4355,7 @@ contemporáneos, forzando una reevaluación de la relación entre la humanidad y
                 catastrófico. La falta de mecanismos de gobernanza global y la dificultad para
                 asignar responsabilidades contribuyen a esta parálisis.
 
-[[84]]
+[[p=84]]
 o    Desafío Ético: Gardiner argumenta que la acción sobre el cambio climático no
                 se trata de hacer que las generaciones actuales estén "mejor", sino de cumplir
                 una obligación moral fundamental: no aprovecharse de los más pobres, de las
@@ -4407,7 +4407,7 @@ revelado la insuficiencia de abordajes fragmentados. Los hallazgos consolidados 
 fases arrojan luz sobre la naturaleza intrínsecamente polisémica y dinámicamente construida
 del valor, ofreciendo contribuciones significativas al campo del conocimiento.
 
-[[85]]
+[[p=85]]
 Desnaturalización del Concepto de Valor
 Uno de los principales logros de este estudio ha sido la desnaturalización del concepto de
 valor. A través de la arqueología del valor (Capítulo 2), se demostró que el valor no es una
@@ -4460,7 +4460,7 @@ los sistemas de valoración contemporáneos. Los desafíos identificados en el �
 (Capítulo 8) —como la crisis de valores en la sociedad moderna, los conflictos derivados de la
 globalización, el impacto de la economía digital (activos intangibles, Big Data), las profundas
 
-[[86]]
+[[p=86]]
 cuestiones éticas de la inteligencia artificial (sesgos algorítmicos, control humano) y los dilemas
 del valor ambiental (intrínseco vs. instrumental, la "tormenta moral perfecta" del cambio
 climático)— son manifestaciones concretas de las tensiones teóricas y las dinámicas de poder
@@ -4472,5 +4472,4 @@ contribuciones de este estudio, por tanto, no son meramente académicas, sino qu
 herramientas analíticas para abordar problemas urgentes del mundo real, promoviendo una
 visión del valor que es sensible a sus complejidades históricas, culturales, psicológicas y éticas.
 
-[[87]]
-
+[[p=87]]

@@ -1,0 +1,14 @@
+models:
+  - name: DeepSeek Coder ES 6.7B
+    provider: ollama
+    model: deepseek-coder-es:6.7b
+    apiBase: http://localhost:11434
+    roles: [chat, edit, apply, autocomplete]
+
+context:
+  - provider: code
+  - provider: docs
+  - provider: diff
+  - provider: terminal
+  - provider: problems
+  - provider: folder

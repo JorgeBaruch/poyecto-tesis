@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 El Análisis Deconstructivo de Derrida: La
 "Mujer" de Nietzsche y sus Resonancias
 Lacanianas
@@ -36,7 +36,7 @@ menudo contradictorios comentarios de Nietzsche sobre las mujeres a través de u
 postulando tres arquetipos de "mujer" que corresponden a diferentes manifestaciones de la verdad y la
 voluntad:
 
-[[2]]
+[[p=2]]
 La Mujer Castrada (La Femme Castrée)
 
 
@@ -85,7 +85,7 @@ Original", la "voluntad procreadora inagotable de la vida".7 Esta fuerza es "sob
 futuro, manifestándose tanto en la destrucción como en la creación, sirviendo a la vida ascendente.7
 Nietzsche utiliza metáforas biológicas como "vientre del ser" y "madre eternamente preñada".7
 
-[[3]]
+[[p=3]]
 La mujer afirmativa se describe como "capa sobre capa de máscaras", un "globo de papel maché" sin
 "interior, sino meras máscaras".7 Es "hueca como un útero, un espacio, la distancia misma", y como tal, "no
 existe".7 Esto implica que la verdad, como la mujer, es una interpretación, no una realidad objetiva,
@@ -133,7 +133,7 @@ Tabla 1: Interpretación Derridiana de los Arquetipos de la "Mujer" de Nietzsche
 
 II. La Metodología Deconstructiva de Derrida en Espolones
 
-[[4]]
+[[p=4]]
 El análisis de Derrida en Espolones constituye un ejemplo primordial de su metodología deconstructiva, la
 cual desafía fundamentalmente las prácticas filosóficas tradicionales, en particular la hermenéutica. La
 deconstrucción no es meramente una crítica, sino una "praxis o actividad" que expone la inestabilidad
@@ -182,7 +182,7 @@ El énfasis de Derrida en el "estilo" como algo intrínseco al significado, en l
 fundamental.2 Se argumenta que la "cuestión del estilo" es inseparable de la "cuestión de la mujer".5 Esto
 sugiere que la forma en que se
 
-[[5]]
+[[p=5]]
 escribe o se presenta la verdad no es neutral, sino que moldea activamente lo que se considera verdad. La
 metáfora de la "mujer", con su ambigüedad inherente y su resistencia a una definición fija, se convierte en la
 encarnación misma de un "estilo" deconstructivo que altera los enfoques filosóficos tradicionales, a menudo
@@ -230,7 +230,7 @@ fálica del "todo".24
 
 El Goce "No-Todo" (No-Todo)
 
-[[6]]
+[[p=6]]
 Las fórmulas de la sexuación de Lacan diferencian entre el lado masculino (lógica de la excepción/el "todo")
 y el lado femenino (lógica del "no-todo").41 El lado femenino se caracteriza por
 ~∀ xΦx ("no todo x está sometido a la función fálica") y ~∃ x~Φx ("no existe un x que no esté sometido a la
@@ -280,7 +280,7 @@ singular y totalizadora que pueda abarcar plenamente la multiplicidad de la exis
 Nietzsche resaltan una falta o imposibilidad fundamental en el corazón de la identidad y la relación, ya sea
 sexual o epistemológica.
 
-[[7]]
+[[p=7]]
 La castración lacaniana no se refiere a la anatomía del pene, sino a una operación simbólica.34 Es la
 "pérdida" inevitable de una plenitud imaginada al entrar en el lenguaje y el orden simbólico, lo que conduce
 a una "falta en el ser" fundamental.34 Esta relectura es crucial porque universaliza la castración como una
@@ -333,7 +333,7 @@ El análisis deconstructivo de Derrida de la "mujer" de Nietzsche, amplificado p
 psicoanálisis lacaniano, conlleva profundas implicaciones para la filosofía contemporánea y la teoría de
 género, desafiando supuestos arraigados sobre la identidad, la verdad y el poder.
 
-[[8]]
+[[p=8]]
 Impacto en la Filosofía Feminista: Desafío al Esencialismo
 
 
@@ -379,7 +379,7 @@ inconsistencia, en lugar de esforzarse por definiciones rígidas, puede ser una 
 filosófica. Sugiere que la resistencia a los sistemas opresivos a menudo proviene de aquello que no puede ser
 completamente categorizado o controlado por el orden simbólico dominante.
 
-[[9]]
+[[p=9]]
 Relevancia Continua para las Discusiones Contemporáneas
 
 
@@ -427,7 +427,7 @@ La convergencia de la mujer afirmativa de Nietzsche y el "no-todo" de Lacan subr
 filosófico compartido de abrazar el devenir, la diferencia y la creación continua de valores, en lugar de
 aferrarse a identidades estáticas o verdades universales.
 
-[[10]]
+[[p=10]]
 En última instancia, el análisis de Derrida, informado por las perspectivas nietzscheanas y lacanianas,
 proporciona herramientas críticas para la filosofía contemporánea y la teoría de género. Demuestra que la
 subversión de las jerarquías tradicionales masculino/femenino y la búsqueda de una comprensión más fluida
@@ -507,5 +507,4 @@ lacanian-approach/
 https://www.researchgate.net/publication/392542007_Exploring_the_Gender_Identity_and_Subjectivity_from_Lacanian_Psychoanalysis_A_Case_Study_of_Anatomy_of_a_Fall
 46.             NIETZSCHE ON WOMAN - PhilArchive, fecha de acceso: julio 12, 2025, https://philarchive.org/archive/HATNOW
 
-[[11]]
-
+[[p=11]]

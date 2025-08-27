@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Filosofía de las Matemáticas y Cognición Humana
 Este informe integra dos campos de estudio aparentemente dispares: la filosofía e historia de las
 matemáticas y la psicología cognitiva de la toma de decisiones. Al analizar las corrientes filosóficas
@@ -41,7 +41,7 @@ sea una deducción." (Filosofía de las matemáticas)
 •      Verdad Condicional: "el deductivismo considera que el teorema de Pitágoras no es
 verdadero sin más, sino solo en relación con ciertos supuestos." (Filosofía de las matemáticas)
 
-[[2]]
+[[p=2]]
 •       Independencia de la Interpretación: Un matemático deductivista "se puede mantener al
 margen tanto de la responsabilidad por la interpretación como de las dificultades ontológicas de los
 filósofos," confiando en que una interpretación de las cadenas de caracteres (por ejemplo, desde la
@@ -84,7 +84,7 @@ La escuela Eleática, con Parménides y Zenón, planteó paradojas sobre el infi
 que desafiaron las nociones de cambio y realidad, influyendo en la necesidad de rigor matemático.
 Zenón, por ejemplo, formuló la paradoja de la dicotomía: para recorrer una distancia, se debe
 
-[[3]]
+[[p=3]]
 recorrer la mitad, luego la mitad de lo restante, y así sucesivamente, lo que implica un número
 infinito de distancias en un tiempo finito. (Historia y filosofía de las matemáticas)
 •       Euclides y el Método Axiomático: Euclides, con sus "Elementos", estableció un modelo de
@@ -128,7 +128,7 @@ trascendentes y el uso de la notación trigonométrica. (Historia y filosofía d
 •       Rigor en las Matemáticas (Siglo XIX): El siglo XIX se caracterizó por una búsqueda de
 rigor en el análisis y el álgebra. Matemáticos como Bolzano y Cauchy trabajaron en la
 
-[[4]]
+[[p=4]]
 fundamentación del cálculo, rechazando los infinitesimales del siglo XVIII. Bolzano definió la
 derivada como un límite y Cauchy reformuló el concepto de función y límite, sentando las bases del
 cálculo moderno. Weierstrass también contribuyó significativamente a la rigorización del análisis,
@@ -170,7 +170,7 @@ también cognitivas. La confianza excesiva en nuestras intuiciones puede llevarn
 observador objetivo puede detectar nuestros errores más fácilmente que nosotros mismos. (Pensar
 Rápido, Pensar Despacio)
 
-[[5]]
+[[p=5]]
 2. Sesgos y Heurísticas del Sistema 1
 El Sistema 1, al operar de manera rápida y eficiente, a menudo recurre a heurísticas (reglas
 generales) que pueden llevar a sesgos sistemáticos.
@@ -213,7 +213,7 @@ expectativas sobre la frecuencia de los acontecimientos (ej. accidentes de avió
 sesgos de disponibilidad también se manifiestan en la sobrestimación de las contribuciones
 personales en un equipo. (Pensar Rápido, Pensar Despacio)
 
-[[6]]
+[[p=6]]
 •      Correlación Ilusoria: Se tiende a sobrestimar la frecuencia de la conjunción de eventos
 asociados naturalmente, incluso cuando los datos no la respaldan. Esto refuerza estereotipos
 infundados. (Pensar Rápido, Pensar Despacio)
@@ -255,7 +255,7 @@ subestima el grado de sorpresa que generó, lo que alimenta la ilusión de que e
 predecible. Esto dificulta aceptar los límites de nuestra capacidad predictiva. (Pensar Rápido,
 Pensar Despacio)
 
-[[7]]
+[[p=7]]
 •      Inferioridad de Expertos frente a Algoritmos: En entornos de baja validez (alta
 impredecibilidad), las fórmulas y algoritmos son superiores a los juicios de expertos. La
 inconsistencia en el juicio humano, debido a la dependencia del contexto del Sistema 1, destruye la
@@ -299,9 +299,8 @@ escuchar hechos.
 En resumen, la convergencia de la filosofía de las matemáticas y la psicología cognitiva nos permite
 apreciar la profunda complejidad del conocimiento matemático, no solo como una estructura lógica
 
-[[8]]
+[[p=8]]
 abstracta, sino también como un producto de la mente humana, su historia y sus intrínsecas
 limitaciones cognitivas.
 
-[[9]]
-
+[[p=9]]

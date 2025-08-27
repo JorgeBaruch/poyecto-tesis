@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 PENSAR DIFERENTE. Una filosofía del disenso. DIEGO
 FUSARO
 Pensar diferente bajo el subtítulo filosofía del disenso es un libro del joven filósofo
@@ -42,7 +42,7 @@ momento, el positivo, es reconocer lo negado para configurarse como alternativa 
 realidad existente. A diferencia del consenso, que puede ser pasivo y una mera
 aceptación inerte, el disenso solo se da como activo y afirmativo.
 
-[[2]]
+[[p=2]]
 Para Erich Fromm, los mitos fundantes de la cultura occidental se basan en el acto de
 disentir. La desobediencia como inicio de la historia humana, el disenso de Adán y Eva
 para las culturas judías y cristianas y la rebelión de Prometeo para la cultura griega, el
@@ -88,7 +88,7 @@ de las almas.
 
 El elogiado pluralismo de todas las voces se resuelve en un monólogo de masas que
 
-[[3]]
+[[p=3]]
 siempre dice lo mismo. Lo que Guy Debord llama el monólogo elogioso del orden
 dominante. El sistema electoral de las modernas democracias occidentales ofrece la
 prueba más deprimente de esta pluralidad ficticia.
@@ -134,7 +134,7 @@ hogueras, porque ya no es necesario perseguir rebeldes.
 
 No queda ninguno. Dice Fusaro que para entender la génesis de este conformismo hay
 
-[[4]]
+[[p=4]]
 que regresar a 1989, año que marca la mayor tragedia geopolítica de la segunda mitad
 del siglo XX, la destrucción de los sistemas socialistas y la consecuente desaparición de
 la alternativa posible, que no derivó en el triunfo de la libertad para los millones de
@@ -180,7 +180,7 @@ Es la profecía autocumplida. Se produce la tremenda sensación de que en caso d
 en desacuerdo con lo existente, en lugar de pensar con cambiar el mundo, nos
 cuestionamos a nosotros mismos. Han logrado convencer a los habitantes que viven en
 
-[[5]]
+[[p=5]]
 el único mundo posible, y por ende se anula la capacidad de pensar la alteridad o
 planificar futuros alternativos.
 
@@ -226,7 +226,7 @@ Para transformar el mundo en una superficie lisa donde las mercancías y los flu
 financieros circulan sin oposición, el fanatismo económico debe aniquilar toda
 trascendencia, antagonismo y oposición. Diego Fusaro sostiene que consenso y
 
-[[6]]
+[[p=6]]
 conformismo están asegurados, pero al mismo tiempo se ocultan detrás de la
 proliferación de diferencias estériles y dicotomías engañosas, que desvían
 continuamente el disentimiento hacia otras direcciones que no son el núcleo principal
@@ -271,7 +271,7 @@ La lucha vertical amo-esclavo es reemplazada por la lucha horizontal entre escla
 eso la primera medida de una auténtica rebelión debería ser abandonar estas falsas
 dicotomías y tomar posición frente a la contradicción real. Dentro de las falsas
 
-[[7]]
+[[p=7]]
 dicotomías, dice Fusaro, existe la vieja oposición derecha e izquierda.
 
 La llama falsa dicotomía porque el pensamiento único de las oligarquías financieras es
@@ -317,7 +317,7 @@ Marcuse, dominen la unidimensionalidad y la uniformidad.
 El nuevo orden no tolera estados nacionales, democráticos, idiomas nacionales, culturas,
 identidades, comunidades solidarias, visiones plurales del mundo, perspectivas críticas,
 
-[[8]]
+[[p=8]]
 movimientos de protestas verticales y obviamente tampoco tolera la conciencia de clase
 crítica. El capitalismo es heterófobo, dice Fusaro, no tolera la alteridad, la pluralidad ni lo
 diferente. Desea ver por todos lados la misma superficie lisa del mercado, una
@@ -363,7 +363,7 @@ sociedad de consumo actual, marcada por el conformismo masivo. La neolengua de
 1984 es el único lenguaje que en lugar de aumentar disminuye, porque el
 empobrecimiento del léxico va en paralelo a la pérdida de conciencia. Al faltar palabras
 
-[[9]]
+[[p=9]]
 para expresar ideas y situaciones, el pensamiento se reduce hasta llegar a una mera
 reproducción del orden realmente existente.
 
@@ -409,7 +409,7 @@ sido abandonado a favor de la salvación individual.
 Evolución destructiva y narcisista del perfil individualista de la nueva izquierda,
 antiburguesa y ultracapitalista. Los derechos civiles, justos y nobles de por sí, se usan
 
-[[10]]
+[[p=10]]
 como arma de distracción para ocultar el triunfo total de las políticas neoliberales del
 desmantelamiento de los derechos sociales. Luchas de por sí justas, como la unión entre
 personas de mismo sexo, el feminismo o el ambientalismo, revelan, al estar separadas
@@ -444,5 +444,4 @@ Como nos recuerda Hegel, el héroe es el que aún despojado de todo, no se ha pe
 sí mismo. No siempre los rebeldes del disenso logran cambiar el mundo, pero el mundo
 nunca podrá cambiar a los verdaderos rebeldes.
 
-[[11]]
-
+[[p=11]]

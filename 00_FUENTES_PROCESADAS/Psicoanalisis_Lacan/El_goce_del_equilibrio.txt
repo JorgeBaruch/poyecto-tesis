@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 � Ensayo: El goce del equilibrio: economía,
 discurso y síntoma en una escena mediática
 contemporánea
@@ -39,7 +39,7 @@ teóricos:
        histérico y del analista, así como el concepto de plus-de-goce, para pensar cómo circula el
        deseo, el saber y el goce en la escena.
 
-[[2]]
+[[p=2]]
 3. Crítica político-económica de raíz marxista: para situar los enunciados en su relación con
        las lógicas estructurales del capital, en especial la figura del mercado como fetiche
        simbólico.
@@ -83,7 +83,7 @@ uno ocupa en la escena discursiva.
 � Panelista 1: el técnico institucional
     • Rol funcional: voz que estabiliza y valida el discurso del ajuste desde una mirada moderada.
 
-[[3]]
+[[p=3]]
 • Posición de enunciación: se presenta como experto objetivo, apegado al dato económico.
    • Estilo discursivo: técnico pero accesible, con moderación retórica.
    • Discurso dominante: universitario. Enuncia desde el saber como legitimador.
@@ -125,7 +125,7 @@ uno ocupa en la escena discursiva.
 � Roberto Cachanosky: el disruptivo estructurante
    • Rol funcional: economista crítico, desmonta el discurso oficial del equilibrio fiscal.
 
-[[4]]
+[[p=4]]
 • Posición de enunciación: saber con pathos. Habla desde el saber económico pero con
       dramatismo.
     • Estilo discursivo: técnico, directo, provocador, con ejemplos cotidianos.
@@ -168,7 +168,7 @@ Sobre equilibrio fiscal:
      agujeros de la gran siete.”
 Sobre ajuste y deterioro estatal:
 
-[[5]]
+[[p=5]]
 “No mantenés, por lo menos las rutas, te consumiste el toque de capital.”
      “Ejemplo número 2. El tema del Garrahan. ¿Qué pasó? Lo enfrentaste, y al final tuviste
      que dar marcha atrás. Tercero. Los jubilados, ¿pueden seguir ganando 500.000 pesos
@@ -212,7 +212,7 @@ Sobre subjetividad política y estilo de gobierno:
      las provincias.”
 Sobre Milei y la identidad política:
 
-[[6]]
+[[p=6]]
 “Milei es un tipo muy confrontativo… ya es su personalidad, o sea, que eso no lo vas a
      cambiar.”
      “¿Qué gana Milei ahora en mostrar que hace alianzas o acuerdos y desdibuja su
@@ -255,7 +255,7 @@ Recursos retóricos:
     • Cachanosky: ironía técnica ("agujeros de la gran siete", “te comiste el capital”).
     • Panelista 1: lenguaje técnico moderado, apelación a la sorpresa racional (“nadie lo preveía”).
 
-[[7]]
+[[p=7]]
 Operaciones semióticas:
     • El “equilibrio fiscal” funciona como significante amo que organiza el campo de debate.
     • Hay una disputa por su definición: si se trata de un dato económico, una construcción
@@ -293,7 +293,7 @@ Recursos retóricos:
     • Conductor: uso de imágenes teatrales (“plantar bandera”, “no se negocia nada”).
 Operaciones semióticas:
 
-[[8]]
+[[p=8]]
 • Se evidencia un conflicto entre dos formas de autoridad:
 
            • Poder basado en representación democrática.
@@ -331,7 +331,7 @@ Operaciones semióticas:
     • La inflación aparece como síntoma silencioso: se mide pero no se interpreta.
     • Lo no dicho: el padecimiento cotidiano, el cuerpo del pueblo, está excluido del debate.
 
-[[9]]
+[[p=9]]
 5. Mapa de tensiones simbólicas
 En esta sección examinamos el debate no solo como una disputa temática o ideológica, sino como
 una escena estructurada por tensiones simbólicas que se inscriben en el lenguaje, el deseo y el
@@ -390,7 +390,7 @@ afectivo                fuera de lo irónico.                   cuidado o lo com
 Deseo del mercado
                         quiere.                                qué desea ni a quién representa.
 
-[[10]]
+[[p=10]]
 � Efecto: Lo estructural no está en lo dicho, sino en lo silenciado. Lo que no se puede nombrar (el
 sufrimiento, la angustia, la pérdida) constituye el núcleo sintomático del debate.
 
@@ -435,7 +435,7 @@ elementos fundamentales:
     • $ (Sujeto dividido): el sujeto del inconsciente, barrado, dividido por el lenguaje.
     • a (Objeto a): resto de goce, aquello que no se simboliza.
 
-[[11]]
+[[p=11]]
 A continuación aplicamos esta matriz teórica al corpus analizado, mostrando cómo cada personaje
 ocupa una posición estructural en uno o más discursos. También examinamos movimientos
 discursivos, contradicciones y desplazamientos.
@@ -488,7 +488,7 @@ posiciones del saber y del goce, produciendo un lazo social que borra el límite
     • El saber no media ni ordena: se pone al servicio de la acumulación.
     • Se evita la falta: se promete satisfacción plena.
 
-[[12]]
+[[p=12]]
 En el debate, este discurso aparece como marco invisible que sostiene todos los otros. Aun cuando
 hay crítica, la estructura de base —la economía como totalidad técnica, el mercado como medida
 última— no se cuestiona verdaderamente.
@@ -541,7 +541,7 @@ A lo largo de este análisis hemos examinado un dispositivo mediático de debate
 como una escena de intercambio de ideas, sino como un campo estructurado por discursos, goce
 y poder. El caso analizado —una confrontación entre Roberto Cachanosky y varios panelistas— no
 
-[[13]]
+[[p=13]]
 se limita a un desacuerdo técnico sobre el equilibrio fiscal o el modelo de ajuste: se trata, más bien,
 de una lucha simbólica por el sentido y la legitimación de un nuevo orden subjetivo.
 
@@ -584,7 +584,7 @@ goce no es un exceso accidental: es el motor estructural de la escena.
 Este goce no es libre ni inocente. Está ordenado por una lógica política: quien define qué se goza,
 cómo se goza y a costa de quién, controla la producción simbólica del mundo.
 
-[[14]]
+[[p=14]]
 � Posibilidades para pensar el lazo social desde esta escena
 El análisis del dispositivo mediático nos devuelve una pregunta central para la teoría crítica y el
 psicoanálisis político: ¿cómo pensar un lazo social que no esté estructurado por el goce obsceno del
@@ -596,5 +596,4 @@ dicho sin provocar angustia o cinismo.
 Tal vez, entonces, el punto no sea eliminar el síntoma, sino construir una escena donde pueda ser
 escuchado.
 
-[[15]]
-
+[[p=15]]

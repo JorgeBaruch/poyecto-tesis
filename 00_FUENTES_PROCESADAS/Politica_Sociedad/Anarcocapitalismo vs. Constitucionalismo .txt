@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Anarcocapitalismo vs. Constitucionalismo
 Social en Argentina: Javier Milei y la
 Constitución de 1949
@@ -41,7 +41,7 @@ examinaremos cómo las ideas anarcocapitalistas se plasmaron en Argentina a part
 liderazgo de Milei, qué medidas económicas e institucionales se tomaron, y contraponeremos este
 modelo con la tradición del constitucionalismo social argentino (ejemplificada en la Constitución
 
-[[2]]
+[[p=2]]
 de 1949 inspirada por Arturo Sampay). Finalmente, se aportará un análisis crítico desde marcos
 filosóficos contemporáneos (Foucault, Harvey, Brown, Dussel) y se evaluará el impacto de la
 experiencia anarcocapitalista en la estructura institucional y social del país.
@@ -87,7 +87,7 @@ completa. Sus principales referentes teóricos sentaron las bases de esta posici
       generan ineficiencias y ciclos económicos indeseados, concluyendo que solo un sistema de
       transacciones voluntarias al 100% maximiza la eficiencia y la libertadmises.org. En La
 
-[[3]]
+[[p=3]]
 ética de la libertad (1982) desarrolló una teoría jurídica libertaria basada en derechos de
        propiedad absolutos, negando legitimidad a cualquier agresión contra la persona o la
        propiedad (incluida la ejercida por gobiernos)mises.org. Rothbard imaginó incluso la
@@ -133,7 +133,7 @@ Sostiene que en Argentina el Estado creció desmesuradamente (con “170 impuest
 regulaciones” que asfixian la iniciativa privadapresenterse.com) y que ello explica la pobreza y el
 estancamiento. Su diagnóstico preelectoral era que el país sufría “un desequilibrio fiscal enorme...
 
-[[4]]
+[[p=4]]
 un desequilibrio monetario... un desequilibrio cambiario... y un gran desequilibrio social, con 50%
 de pobres”, problemas que achacaba a la mala praxis estatistapresenterse.compresenterse.com. La
 solución planteada por Milei fue un agresivo programa de reformas pro-mercado en “tres
@@ -179,7 +179,7 @@ destacanes.wikipedia.orges.wikipedia.org:
     • Derogación de leyes intervencionistas: se eliminaron la Ley de Alquileres (regulaba
       contratos de arrendamiento), la Ley de Abastecimiento (permitía al Estado controlar precios
 
-[[5]]
+[[p=5]]
 y abastecimiento en emergencias), la Ley de Góndolas (imponía cupos a marcas en
        supermercados), la Ley de Compre Nacional (priorizaba insumos nacionales en compras
        públicas), las leyes de Promoción Industrial y Comercial, la Ley de Tierras (limitaba venta
@@ -224,7 +224,7 @@ argentinos quedaron en pobreza, y 7,8 millones en indigencia tras el shockes.wik
 Especialmente dramática fue la situación de los jubilados: la pobreza entre adultos mayores más
 que se duplicó, pasando de 13,2% en el primer semestre 2023 a 30,8% en el primer semestre 2024
 
-[[6]]
+[[p=6]]
 (1 de cada 3 jubilados cayó bajo la línea de pobreza)es.wikipedia.org. Estas cifras evidencian el
 costo social inicial de las medidas de ajuste y mercado libre.
 Asimismo, la actividad económica se contrajo bruscamente en 2024. La producción industrial en
@@ -270,7 +270,7 @@ bienestar de la población”, desestimando las protestas ciudadanas como gente 
 modelo que los empobrece”es.wikipedia.org. Esta respuesta muestra la postura confrontativa de
 Milei frente a la resistencia social e institucional.
 
-[[7]]
+[[p=7]]
 El Poder Judicial no permaneció al margen: el 30 de enero de 2024, la Cámara Nacional de
 Apelaciones del Trabajo declaró inconstitucional todo el Título IV del DNU (el capítulo de normas
 laborales) por considerar que el Ejecutivo se extralimitó al legislar vía decreto en una materia que
@@ -316,7 +316,7 @@ Inversiones (quedaron solo 5 sectores: forestoindustria, infraestructura, miner�
 tecnología)es.wikipedia.org, y crucialmente solo se autorizó la privatización de algunas
 empresas específicas (Enarsa, la operadora de aeropuertos Intercargo, AySA, la empresa ferroviaria
 
-[[8]]
+[[p=8]]
 de cargas Belgrano Cargas y Logística, la operadora de trenes de pasajeros y la empresa de
 carreteras Corredores Viales, entre otras)es.wikipedia.org. Es decir, no se incluyó la privatización
 de Aerolíneas Argentinas, Banco Nación, ni otras emblemáticas, que fueron bloqueadas por la
@@ -362,7 +362,7 @@ Entre las reformas legales estructurales que impulsó Milei se pueden destacar:
       suspensión de las licitaciones de obra pública por parte del gobierno
       nacionales.wikipedia.org. Esto, sumado al recorte de empleados estatales, derivó en la
 
-[[9]]
+[[p=9]]
 paralización de unas 3.500 a 4.000 obras en todo el país para mayo de 2024, según la
   Cámara Argentina de la Construcciónes.wikipedia.orges.wikipedia.org. El gobierno
   transfirió algunas obras a las provincias que aceptaron continuarlas con fondos
@@ -408,7 +408,7 @@ paralización de unas 3.500 a 4.000 obras en todo el país para mayo de 2024, se
   ya se había licitado la operación de 7 líneas ferroviarias urbanas a empresas privadas
   (incluyendo líneas ya concesionadas y otras que operaba el Estado)es.wikipedia.org. En
 
-[[10]]
+[[p=10]]
 transporte automotor, en febrero 2024 se eliminó el Fondo Compensador al transporte
        público del interior (subsidio nacional a colectivos en provincias)es.wikipedia.org,
        provocando aumentos tarifarios fuertes: la tarifa mínima de bus pasó de $77 en enero a $371
@@ -453,7 +453,7 @@ revolucionarios para la época en Argentinaes.wikipedia.orges.wikipedia.org:
       en Argentina. El Artículo 37 incluyó los Derechos del Trabajador, de la familia, de la
       ancianidad, y de la educación y culturaes.wikipedia.orges.wikipedia.org. Entre los 10
 
-[[11]]
+[[p=11]]
 Derechos del Trabajador figuran: derecho a trabajar, a una retribución justa, a
        condiciones dignas de trabajo, a la seguridad social, a la protección de la familia, al
        descanso y bienestar, y el derecho de sindicación y de
@@ -499,7 +499,7 @@ Revolución Libertadora lo abolió por decreto, restaurando la Constitución de
 aduciendo cuestiones procedimentales (quórum de dos tercios discutido) y, principalmente, por
 motivos ideológicos: buscaban eliminar el artículo 40 y todo vestigio del programa
 
-[[12]]
+[[p=12]]
 peronistaes.wikipedia.orges.wikipedia.org. En la Convención Constituyente de 1957 (controlada por
 el régimen y sin participación peronista) apenas se lograron rescatar algunos derechos sociales
 mínimos en el famoso Artículo 14 bis, que incorporó al texto histórico ciertos principios:
@@ -544,7 +544,7 @@ A continuación, comparamos algunos conceptos fundamentales bajo cada modelo:
       caso, a hacer cumplir contratos y proteger la propiedad, aunque incluso esas funciones
       podrían delegarse al mercado. Por el contrario, el constitucionalismo social argentino
 
-[[13]]
+[[p=13]]
 concibe un Estado activo y conductor de la vida económica. El art. 40 de 1949 otorgaba al
   Estado facultades para intervenir en la economía, regular monopolios y oligopolios,
   dirigir el comercio exterior y explotar los servicios
@@ -591,7 +591,7 @@ concibe un Estado activo y conductor de la vida económica. El art. 40 de 1949 o
   importadores/exportadoreses.wikipedia.org) y promovió acuerdos de libre comercio (p. ej.,
   destrabó el acuerdo Mercosur-Unión Europea pendiente hace 25
 
-[[14]]
+[[p=14]]
 añoses.wikipedia.orges.wikipedia.org, e incluso planteó la posibilidad de salir del Mercosur
    para firmar un TLC bilateral con EE.UU.es.wikipedia.org). En síntesis, la filosofía ancap
    privilegia la libre circulación de capitales, bienes y servicios, sin tarifas ni restricciones,
@@ -638,7 +638,7 @@ añoses.wikipedia.orges.wikipedia.org, e incluso planteó la posibilidad de sali
   largo plazo requieren algo de planificación. No obstante, el espíritu general fue confiar en la
   dinámica de mercado: por ejemplo, en lugar de obra pública, concesiones privadas; en lugar
 
-[[15]]
+[[p=15]]
 de empresas estatales, privatizaciones; en lugar de un banco central planificando la moneda,
        eliminación del banco central. Es la visión de “gobernar para el mercado, más que
        gobernar a causa del mercado”, como diría Foucault interpretando a los
@@ -684,7 +684,7 @@ Enrique Dussel– que ofrecen herramientas para entender y criticar el fenómeno
       educación si se recorta la universidad gratuita, etc.). Desde Foucault, se puede criticar cómo
       esta gubernamentalidad anarcocapitalista erosiona la autonomía de lo político: todo pasa a
 
-[[16]]
+[[p=16]]
 ser gestionado según criterios de mercado, y el Estado se reconfigura como guardián de esos
   criterios (por ejemplo, priorizando el pago de deuda y el déficit cero sobre cualquier otra
   consideración). En resumen, la óptica foucaultiana devela que el proyecto Milei no es “anti-
@@ -731,7 +731,7 @@ ser gestionado según criterios de mercado, y el Estado se reconfigura como guar
   discurso de libertad para todos, el resultado concreto fue un traslado de recursos y riesgos
   hacia los de abajo y de ganancias hacia los de arriba.
 
-[[17]]
+[[p=17]]
 • Perspectiva de Wendy Brown (la erosión de la democracia y auge de derechas
   autoritarias): Wendy Brown, politóloga estadounidense, ha escrito sobre cómo décadas de
   neoliberalismo “vacían de contenido a la democracia” y preparan el terreno para derivas
@@ -779,7 +779,7 @@ ser gestionado según criterios de mercado, y el Estado se reconfigura como guar
   neoliberalismo desde el punto de vista de las víctimas de la exclusión. Dussel sostiene que el
   neoliberalismo se presenta como teoría técnica neutral, pero en realidad es una “ideología
 
-[[18]]
+[[p=18]]
 de combate” que ha sido exportada al sur global por élites e intereses extranjeros,
        generando pobreza y sufrimiento masivomarxismocritico.commarxismocritico.com. En una
        conferencia de 1998, Dussel afirmó: “El neoliberalismo es una teoría económica que se
@@ -824,7 +824,7 @@ Impacto en la estructura institucional y social de la Argentina
 A mediados de 2025, tras año y medio de gobierno de Milei, Argentina exhibe profundas
 transformaciones –y disrupciones– en su andamiaje institucional y tejido social:
 
-[[19]]
+[[p=19]]
 Estructura institucional: La presidencia de Milei supuso una redistribución del poder político.
 El Poder Ejecutivo ganó preeminencia mediante el uso extensivo de DNUs y la delegación
 legislativa (Ley de Bases), lo que le permitió gobernar en muchos aspectos casi por
@@ -870,7 +870,7 @@ mercado es un cambio paradigmático que impacta la institucionalidad. Por ejempl
 conflictos salariales se negociaban con mediación del Ministerio de Trabajo; con Milei esa instancia
 se minimizó (no hubo paritarias nacionales docentes, etc.), dejando negociaciones descentralizadas
 
-[[20]]
+[[p=20]]
 y a veces conflictivas (huelgas más largas) por ausencia de arbitraje estatal. Otro ejemplo: antes el
 Estado regulaba precios de servicios básicos; al retirarse esa regulación, la institucionalidad de
 defensa del consumidor perdió peso, siendo el mercado el árbitro de precios.
@@ -916,7 +916,7 @@ La respuesta del gobierno fue en ocasiones dura: aplicó un protocolo anti-pique
 forzosos, e intentó mediante legislación establecer servicios mínimos obligatorios para atenuar
 huelgas (por ej., guardias mínimas docentes durante paro, según proyecto de reforma
 
-[[21]]
+[[p=21]]
 educativa)es.wikipedia.org. Estas tácticas generaron denuncias de violación a libertades sindicales,
 recordando a muchos las políticas antisindicales de los ’90 o incluso de la última dictadura. Si
 bien no hubo represión masiva letal, sí se notó un clima de creciente confrontación social. Hacia
@@ -962,7 +962,7 @@ muchos precedentes democráticos, por lo que su desenlace sigue abierto: ¿gener
 equilibrio de crecimiento “derrame” como prometen sus defensores, o desembocará en una crisis
 social que fuerce correcciones? Lo cierto es que ha reavivado en el debate público las visiones de
 
-[[22]]
+[[p=22]]
 país: la Argentina de “mercado total” vs. la Argentina de “justicia social”. Y ese debate,
 enriquecido con el análisis de filósofos contemporáneos, trasciende lo económico para abarcar
 cuestiones éticas, culturales e identitarias de la sociedad argentina en el siglo XXI.
@@ -1006,7 +1006,7 @@ bienes públicos al sector privado, la erosión del salario, la precarización d
 de garantías sociales no son efectos colaterales, sino condiciones necesarias para la reproducción de
 un capitalismo de elite. La reestructuración institucional argentina post-2023 expresa esa lógica:
 
-[[23]]
+[[p=23]]
 desposesión organizada del pueblo en favor de los grandes intereses concentrados, bajo el signo de
 la "modernización".
 Wendy Brown, por su parte, advierte cómo el neoliberalismo socava la democracia desde adentro:
@@ -1052,9 +1052,8 @@ Una nueva imaginación constitucional no será solo jurídica. Será también es
 sensible. Porque lo que está en disputa no es solo el texto de la Constitución, sino la forma en que
 nos percibimos como comunidad política. No se trata de volver al pasado, sino de rehacer lo común
 
-[[24]]
+[[p=24]]
 desde el deseo, desde la escucha, desde la dignidad. Y en esa tarea, la intuición –como apertura a lo
 que aún no tiene nombre– será una guía irrenunciable.
 
-[[25]]
-
+[[p=25]]

@@ -1,2 +1,6 @@
 poppler-24.08.0/
 *.log
+
+# Archivos temporales de entrada y salida
+temp_input/
+temp_output/

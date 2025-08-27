@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Proyecto Marx-Lacan – Bitácora Completa y Red
                    Conceptual
 
@@ -52,7 +52,7 @@ Fecha: [fecha]
 Tema central: Temporalidad en las narrativas y subjetividad
 Preguntas clave: ¿Cómo opera el tiempo como categoría narrativa y subjetiva?
 
-[[2]]
+[[p=2]]
 Conceptos principales: Tiempo lineal, Tiempo cíclico, Tiempo fragmentado, Tiempo intensivo,
 Tiempo tecnológico
 Conceptos secundarios: Memoria, Narrativas del trauma, Hashtags como articuladores,
@@ -111,7 +111,7 @@ Conceptos secundarios: Influencia indirecta, Aparato psíquico vs. moral, Concep
 
 Fecha: [fecha]
 
-[[3]]
+[[p=3]]
 Tema central: Becas, políticas científicas y agenda de investigación
 Preguntas clave: ¿Cómo influyen intereses políticos en la ciencia?
 Conceptos principales: Agenda científica, Beca orientada, Neoliberalismo
@@ -139,8 +139,7 @@ Conceptos secundarios: Lazo sin centro, Negativa a la identidad común, Polític
 
 Red Conceptual
 
-[[4]]
+[[p=4]]
 
 
-[[5]]
-
+[[p=5]]

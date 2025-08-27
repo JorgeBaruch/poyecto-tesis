@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Cronología Multicapa de Argentina: Un Análisis Interdisciplinario desde la Época Colonial hasta la Actualidad
 El presente estudio ofrece una síntesis histórica integral de Argentina que abarca desde el período colonial hasta el siglo XXI, examinando las
 interconexiones entre los ámbitos político, social, económico, científico-tecnológico, cultural y demográfico. A través del análisis de fuentes
@@ -28,7 +28,7 @@ Composición Étnica y Transformaciones Sociales
 La sociedad colonial bonaerense se caracterizó por una notable diversidad étnica que desafió las concepciones tradicionales de las "dos
 repúblicas" (española e indígena)4. Los registros matrimoniales revelan la presencia de indígenas provenientes del Tucumán, Chile, Alto Perú y el
 
-[[2]]
+[[p=2]]
 área litoral incluyendo Brasil, quienes entre 1653 y 1699 contrajeron matrimonio en Buenos Aires4. Estos matrimonios se realizaban
 predominantemente con mujeres esclavas o libres, especialmente mulatas y negras, evidenciando un complejo proceso de mestizaje4.
 
@@ -61,7 +61,7 @@ España1.
 En esta lucha independentista se destacaron figuras militares fundamentales como Manuel Belgrano, José de San Martín (llegado al país en
 1812), y Martín Miguel de Güemes1. Las campañas sanmartinianas culminaron, tras liberar Chile, con la toma del centro del poder español en
 
-[[3]]
+[[p=3]]
 Lima1. El proceso de independencia formal se concretó el 9 de julio de 1816 cuando un congreso de diputados de las Provincias Unidas proclamó
 la independencia1.
 
@@ -92,7 +92,7 @@ organización institucional del país1. Sus administraciones fomentaron sistemá
 transportes, la inmigración y la incorporación de Argentina al mercado mundial como proveedora de materias primas y compradora de
 manufacturas1.
 
-[[4]]
+[[p=4]]
 La República Liberal (1880-1916) consolidó este modelo de desarrollo basado en la exportación de productos primarios y la importación de
 bienes manufacturados1. Este período se caracterizó por un crecimiento económico sostenido sustentado en las ventajas comparativas del país
 en la producción agropecuaria y en la llegada masiva de inmigrantes europeos que proporcionaron la mano de obra necesaria para la expansión
@@ -125,7 +125,7 @@ La transición hacia el gobierno de Néstor Kirchner a partir de 2003 represent�
 argentino2. Los movimientos sociales que habían emergido durante la crisis de 2001 debieron redefinir su posición respecto del nuevo gobierno,
 estableciendo nuevas formas de relación entre el Estado y la sociedad civil organizada2.
 
-[[5]]
+[[p=5]]
 El período del kirchnerismo, que se extendió posteriormente bajo la presidencia de Cristina Fernández, se caracterizó por una revalorización del
 papel del Estado en la economía y la implementación de políticas redistributivas que alteraron las dinámicas sociales establecidas durante la
 década neoliberal anterior2.
@@ -157,7 +157,7 @@ una nueva forma de participación ciudadana que refleja tanto las continuidades 
 contemporánea. La consolidación democrática iniciada en 1983 ha permitido el desarrollo de instituciones más estables, aunque persisten
 desafíos significativos en términos de desarrollo económico sostenible, inclusión social y fortalecimiento institucional.
 
-[[6]]
+[[p=6]]
 Argentina en el Siglo XX: Transformaciones Políticas, Sociales y Culturales
 
 El siglo XX argentino representó un período de profundas convulsiones y transformaciones estructurales que reconfiguraron todos los aspectos
@@ -189,7 +189,7 @@ Transformaciones Sociales y Demográficas
 
 Movimiento Obrero y Luchas Sindicales
 
-[[7]]
+[[p=7]]
 La primera huelga general de 1902 marcó el despertar del movimiento obrero organizado, influenciado por corrientes anarquistas y socialistas
 traídas por inmigrantes europeos. Este proceso culminaría con la creación de la CGT en 1930, que bajo el peronismo se convertiría en actor
 político central.
@@ -222,7 +222,7 @@ durante la dictadura.
 
 Deporte y Política
 
-[[8]]
+[[p=8]]
 El Mundial de Fútbol de 1978 demostró la capacidad del régimen militar para instrumentalizar el deporte, gastando $700 millones en
 infraestructura mientras se implementaba el plan económico de Martínez de Hoz. No obstante, la victoria argentina en 1986 con Maradona
 como figura emergió como símbolo de resiliencia nacional postdictadura.
@@ -253,7 +253,7 @@ Año    Evento / Hecho        Ámbito        Descripción / Impacto     Discos R
        Primera huelga                      demandas laborales                                               Memoria
 1902   general               Sociedad      significativas.           -                                      FAHCE, 2023
 
-[[9]]
+[[p=9]]
 Año    Evento / Hecho      Ámbito       Descripción / Impacto     Discos Relevantes                    Fuentes
        Histórico                                                                                       Principales
 
@@ -285,7 +285,7 @@ Año    Evento / Hecho      Ámbito       Descripción / Impacto     Discos Rele
 1956   Primer rock         Música       nacional en castellano.   "Rock con leche" - Eddie             Wikipedia
        argentino                                                  Pequenino y Délfor Dicásolo; "El     Rock
 
-[[10]]
+[[p=10]]
 Año    Evento / Hecho       Ámbito   Descripción / Impacto    Discos Relevantes                       Fuentes
        Histórico                                                                                      Principales
 
@@ -317,7 +317,7 @@ Año    Evento / Hecho       Ámbito   Descripción / Impacto    Discos Relevant
 1969   "Almendra" de        Música   rock argentino con       y Pablo; "Manal" - Manal                Wikipedia
        Luis Alberto                  gran eclecticismo                                                Rock
 
-[[11]]
+[[p=11]]
 Año    Evento / Hecho      Ámbito       Descripción / Impacto      Discos Relevantes                    Fuentes
        Histórico                                                                                        Principales
 
@@ -348,7 +348,7 @@ Año    Evento / Hecho      Ámbito       Descripción / Impacto      Discos Rel
        Recuperación de                  musical; explosión del     Virus; "Privé" - Luis Alberto        Argentina,
 1983   la democracia       Política     rock nacional.             Spinetta                             INAMU
 
-[[12]]
+[[p=12]]
 Año    Evento / Hecho        Ámbito        Descripción / Impacto       Discos Relevantes                     Fuentes
        Histórico                                                                                             Principales
 
@@ -376,7 +376,7 @@ Esta tabla cronológica anualizada incorpora eventos históricos fundamentales y
 aparición de la discografía argentina en 1919, con énfasis en el desarrollo del tango y el surgimiento del rock nacional, reflejando la interacción
 entre la historia política-social y la evolución musical argentina.
 
-[[13]]
+[[p=13]]
 Año    Artista / Banda         Álbum / Disco   Género        Descripción breve                        Fuente
                                                                                                       destacada
 
@@ -405,7 +405,7 @@ Año    Artista / Banda         Álbum / Disco   Género        Descripción bre
                                                Rock          exvocalista de Patricio Rey y sus        Música
 1986   Carlos "Indio" Solari   Porco Rex       alternativo   Redonditos de Ricota.                    Argentina
 
-[[14]]
+[[p=14]]
 Año    Artista / Banda      Álbum / Disco    Género        Descripción breve                        Fuente
                                                                                                     destacada
 
@@ -434,7 +434,7 @@ Año    Artista / Banda      Álbum / Disco    Género        Descripción breve
                                              Rock          Álbum solista que muestra la evolución   Música
 2001   Gustavo Cerati       Siempre es hoy   alternativo   sonora y lírica del ex Soda Stereo.      Argentina
 
-[[15]]
+[[p=15]]
 Año    Artista / Banda       Álbum / Disco     Género         Descripción breve                         Fuente
                                                                                                         destacada
 
@@ -464,7 +464,7 @@ Década 1910-1919
 
       1917 – Enrique Delfino graba al piano “Sans Souci” para Victor y refina la armonía del género con acordes de salón europeo. Jens Ingo
 
-[[16]]
+[[p=16]]
 Década 1920-1929
 
       1924 – Julio de Caro lanza “Todo corazón” (Victor) y populariza el violín-corneta Stroh; su Sexteto inaugura la Guardia Nueva con
@@ -498,7 +498,7 @@ Década 1930-1939
       1939 – Carlos Di Sarli registra “Corazón / Retirao” (Victor), célebre por su sonido elegante y fraseo cálido que marcará la década
        siguiente. Tango DJ Fabrice Knecht
 
-[[17]]
+[[p=17]]
     Avances técnicos: la transición a la grabación eléctrica y la llegada de micrófonos de cinta RCA a mediados de los 30 elevan
         dramáticamente la fidelidad del sonido en estudio. reverb.com
 
@@ -535,7 +535,7 @@ Década                                 emblemáticas / sello-      Innovaciones
 1929     Maizani†, Rosita Quiroga†,    • A media luz (1927,       del micrófono y fin del sistema acústico. Stroh; irrupción de voces femeninas;
          Edgardo Donato                Brunswick W 95955) —       1929 → Fresedo cruza a EE. UU. y          primeras big-bands porteñas.
 
-[[18]]
+[[p=18]]
 Grabaciones
        Artistas claves († = debut
 Década                                 emblemáticas / sello-      Innovaciones & hechos industriales        Evolución de géneros
@@ -568,7 +568,7 @@ voz solista + guitarra— y vendiendo miles de copias. Canaro fortalece la indus
 la armonía tanguera al estilo salón. El paso decisivo lo da Max Glücksmann: en noviembre de 1919 su planta The Argentine Talking Machine
 Works comienza a prensar discos en Buenos Aires, abaratando costos y multiplicando tirajes. muzilla.ru
 
-[[19]]
+[[p=19]]
 1920-1929 – Guardia Nueva y revolución eléctrica
 La modernización estética estalla cuando el Sexteto de Julio de Caro (con arreglos jazzísticos y violín-corneta) graba Todo corazón en 1924. El 8
 de noviembre de 1926 Carlos Gardel inaugura la grabación eléctrica en Nacional-Odeon; pocos meses antes Rosita Quiroga había hecho la
@@ -602,7 +602,7 @@ Década                          emblemáticas / sello-      Innovaciones & hech
 
 1940-   Aníbal Troilo, Osvaldo • Toda mi vida (4 mar       • Censura del lunfardo: el golpe de 4-jun-    Clímax de la Época de Oro del tango
 
-[[20]]
+[[p=20]]
 Grabaciones
        Artistas claves († =
 Década                         emblemáticas / sello-     Innovaciones & hechos industriales            Evolución de géneros
@@ -634,7 +634,7 @@ Década                         emblemáticas / sello-     Innovaciones & hechos
 
 Comentario ampliado (1940-1949)
 
-[[21]]
+[[p=21]]
      Troilo & Fiorentino (1941-43) inauguran el sonido porteño “de salón” con grandes éxitos como Toda mi vida y Barrio de tango. El tándem
          termina en 1944; Troilo alterna después a Floreal Ruiz y Edmundo Rivero, con quien graba el monumental Sur en 1948.
          tangos78rpm.comWikipedia
@@ -666,7 +666,7 @@ Año        Canción / Género          Autores                    Primera graba
                                      Artidorio Cresseri
 1925       zamba                                                Elektra (1925)                       peñas y más de 150 registros discográficos.
 
-[[22]]
+[[p=22]]
 Año      Canción / Género        Autores                   Primera grabación difundida*       Motivos de popularidad duradera
 
                                                                                               WikipediaWikipedia
@@ -705,7 +705,7 @@ Año      Canción / Género        Autores                   Primera grabación
 
 1935     «Por una cabeza» –      Carlos Gardel / Alfredo Gardel (19-III-1935, Nueva York) “Tango de Hollywood” (-Scent of a Woman, True
 
-[[23]]
+[[p=23]]
 Año        Canción / Género        Autores                   Primera grabación difundida*       Motivos de popularidad duradera
 
            tango                   Le Pera                                                      Lies-).
@@ -742,7 +742,7 @@ Año        Canción / Género        Autores                   Primera grabaci�
 
 * Se indica la primera edición fonográfica que alcanzó circulación comercial relevante; varias obras existían antes como partituras o en vivo.
 
-[[24]]
+[[p=24]]
 Claves para leer la tabla
 
        Tango & Folklore lado a lado Integramos los títulos que la práctica, la crítica y las estadísticas (Discogs/SADAIC, antologías “100
@@ -777,7 +777,7 @@ Año Canción / Género          Autores              1.ª grabación o lanzamie
 
 1952 «Zamba de la             Eduardo Falú /       Julia Vidal y su conjunto, 29-I-1952 (Victor   Da visibilidad nacional al tándem Falú-Dávalos; se
 
-[[25]]
+[[p=25]]
 Año Canción / Género          Autores             1.ª grabación o lanzamiento masivo            Razón de la trascendencia
 
        Candelaria» – zamba Jaime Dávalos          60-2160)                                      convierte en estándar de peñas y guitarreadas.
@@ -818,7 +818,7 @@ Año Canción / Género          Autores             1.ª grabación o lanzamien
 1959                          Astor Piazzolla
        nuevo tango                                Montevideo 1960)                              anuncia el tango nuevo y trasciende al repertorio
 
-[[26]]
+[[p=26]]
 Año Canción / Género          Autores               1.ª grabación o lanzamiento masivo            Razón de la trascendencia
 
                                                                                                   clásico.
@@ -851,7 +851,7 @@ Año Canción · Género · Intérprete / detalle
 1950 • «El rancho ’e la Cambicha» – rasguido doble (folk) – Antonio Tormo; 5 millones de discos, inicio del boom folklórico Wikipedia
      • «Che Bandoneón» – tango – Aníbal Troilo & J. Casal Tango CD
 
-[[27]]
+[[p=27]]
 Año Canción · Género · Intérprete / detalle
 
      • «Para lucirse» – tango instrumental – A. Troilo Tango CD
@@ -880,7 +880,7 @@ Año Canción · Género · Intérprete / detalle
 1956 • «La zamba soñadora» – zamba – A. Yupanqui
      • «Viviani» – tango instrumental – C. Di Sarli
 
-[[28]]
+[[p=28]]
 Año Canción · Género · Intérprete / detalle
 
      • «Sin palabras» – tango – M. Mores & E. Lucero (25 ene 1957)
@@ -911,7 +911,7 @@ Año Canciones decisivas*                                                    Cla
 1960 • Seis años (tango · Julio Sosa) Intendencia de Canelones              Retoma el impulso discográfico tras la irrupción del vinilo de 45 rpm;
      • Tierra querida (zamba · Los Chalchaleros – EP) Discogs               Sosa conquista al público joven del 2×4, Yupanqui inicia su serie de
 
-[[29]]
+[[p=29]]
 Año Canciones decisivas*                                                 Claves de impacto
 
      • Canción del cañaveral (zamba · A. Yupanqui, single Odeon 20-V- “canciones sociales”.
@@ -949,7 +949,7 @@ Año Canciones decisivas*                                                 Claves
      Fronterizos, grab. 1964, LP 1965)
      • Milonga triste (tango · Julio Sosa) Wikipedia
 
-[[30]]
+[[p=30]]
 Año Canciones decisivas*                                                 Claves de impacto
 
      • Zamba para no morir (zamba · Mercedes Sosa, LP Yo no canto
@@ -984,7 +984,7 @@ Año Canciones decisivas*                                                 Claves
      1442) Discogs
      • Al jardín de la República (zamba · Mercedes Sosa, LP Con sabor
 
-[[31]]
+[[p=31]]
 Año Canciones decisivas*                                                  Claves de impacto
 
        a…) Wikipedia
@@ -1015,7 +1015,7 @@ Año Canción (género)                      Autor/intérprete · Disco o simple
 
        «Avellaneda Blues» (blues-rock)    Manal – Manal                               Blues urbano paradigmático, piedra angular del “rock
 
-[[32]]
+[[p=32]]
 Año Canción (género)                         Autor/intérprete · Disco o simple        Notas de relevancia
 
                                                                                       nacional” Wikipedia
@@ -1051,7 +1051,7 @@ Año Canción (género)                         Autor/intérprete · Disco o sim
 1972                                         Sui Generis – Vida                       Primer mega-éxito de Charly García / Nito Mestre Wikipedia
        rock)
 
-[[33]]
+[[p=33]]
 Año Canción (género)                         Autor/intérprete · Disco o simple        Notas de relevancia
 
                                              Pescado Rabioso – simple &
@@ -1087,7 +1087,7 @@ Año Tema (género)                         Autor / Intérprete – soporte    M
 
       «Pity Pity» (rock & roll / Nueva    Billy Cafaro, single Columbia   300 000 copias; desata la primera “rock-manía” local. YouTube
 
-[[34]]
+[[p=34]]
 Año Tema (género)                       Autor / Intérprete – soporte      Motivo de relevancia
 
        Ola)
@@ -1120,7 +1120,7 @@ Año Tema (género)                       Autor / Intérprete – soporte      M
 
        «María» (tango)                  Julio Sosa, simple CBS            Versión de referencia del tango de Castillo – Troilo. Mercado Libre
 
-[[35]]
+[[p=35]]
 Año Tema (género)                     Autor / Intérprete – soporte    Motivo de relevancia
 
                                       Julio Sosa, LP El Tango lo siento
@@ -1155,7 +1155,7 @@ Año Tema (género)                     Autor / Intérprete – soporte    Motiv
 
        «El Firulete» (milonga)        Julio Sosa, EP                  La versión que internacionalizó la milonga de Mores. Discogs
 
-[[36]]
+[[p=36]]
 Año Tema (género)                        Autor / Intérprete – soporte   Motivo de relevancia
 
       «Misa Criolla» (álbum litúrgico-   Ariel Ramírez & Los
@@ -1188,7 +1188,7 @@ Año                                                  Motivo de impacto
      • «Romance de la muerte de Juan Lavalle»
      (suite folk-épica · Eduardo Falú & E. Sábato, LP
 
-[[37]]
+[[p=37]]
 Canciones representativas (género · intérprete
 Año                                                  Motivo de impacto
       / soporte)
@@ -1222,7 +1222,7 @@ Año                                                  Motivo de impacto
 1968 • «Viento, dile a la lluvia» (rock-pop · Los Gatos, El rock incorpora psicodelia; Almendra inaugura la poética spinetteana; Sosa resignifica la
      single 4-abr-68) Discogs
 
-[[38]]
+[[p=38]]
 Canciones representativas (género · intérprete
 Año                                                    Motivo de impacto
         / soporte)
@@ -1256,7 +1256,7 @@ Lectura rápida
 
          ≥ 5 títulos por año permiten ver picos de creatividad (1967-69) y años de transición (1965-66).
 
-[[39]]
+[[p=39]]
      Los géneros conviven: tango “clásico” y “nuevo”, folklore rural y urbano, beat / rock y balada pop, mostrando la diversidad que
          caracterizó al mercado argentino de los sesenta.
 
@@ -1292,7 +1292,7 @@ Año Canción (género · intérprete / soporte)                             Cau
 1971
        Disc Jockey)                                                     MTV/Rolling Stone. Wikipedia
 
-[[40]]
+[[p=40]]
 Año Canción (género · intérprete / soporte)                          Causa del impacto
 
                                                                      Primera ópera-rock en castellano; “acto de mayoría de edad” del rock local.
@@ -1326,7 +1326,7 @@ Año Canción (género · intérprete / soporte)                          Causa 
      Cuando tenga la tierra (canción social · Mercedes Sosa – LP     Clamor agrarista adoptado por movimientos campesinos; vetado tras 1976.
      Traigo un pueblo en mi voz)                                     Wikipedia
 
-[[41]]
+[[p=41]]
 Década de 1970 — parte 2
 
 Canciones argentinas emblemáticas, 1973-1975
@@ -1361,7 +1361,7 @@ Año Canción (género · intérprete / soporte)                                
      Las increíbles aventuras del Sr. Tijeras (rock-suite · Sui Generis – idem)
                                                                                              volvió de culto.
 
-[[42]]
+[[p=42]]
 Año Canción (género · intérprete / soporte)                                                  Por qué quedó en la historia
 
                                                                                              Presenta el trío de Spinetta post-Pescado; atmósfera
@@ -1398,7 +1398,7 @@ Claves para leer la tabla
 
          ≥ 5 temas por año: reflejan tanto el mainstream (Castaña, Walsh) como la vanguardia (Spinetta, Piazzolla).
 
-[[43]]
+[[p=43]]
    Multigénero: rock progresivo, folk comprometido, tango nuevo y pop urbano conviven en pleno auge de la industria del vinilo.
 
 
@@ -1433,7 +1433,7 @@ vivir                                        folk                   y fue versio
 
 Canción                            Artista                     Género / escena      Motivo de relevancia
 
-[[44]]
+[[p=44]]
 Canción                               Artista               Género / escena         Motivo de relevancia
 
 Qué se puede hacer salvo ver          La Máquina de Hacer                           Sátira sobre la evasión cultural en tiempos de censura; joya del
@@ -1468,7 +1468,7 @@ Seminare                    Serú Girán                              Elegida me
 Eiti-Leda                   Serú Girán           Rock sinfónico
                                                                     García. Wikipedia
 
-[[45]]
+[[p=45]]
 Canción                  Artista            Género / escena      Motivo de relevancia
 
                                                                  Plegaria social convertida en estándar mundial contra la injusticia y la guerra.
@@ -1503,7 +1503,7 @@ Matador                                                       Castaña. Spotify
 Toda canción será     Litto Nebbia &      Jazz-folk           Cruce de poesía y fusión; expande la canción popular hacia lo literario y lo
 plegaria              Mirtha Defilpo      experimental        espiritual. Discogs
 
-[[46]]
+[[p=46]]
 Canción              Artista                 Género / escena     Motivo de relevancia
 
                                              Rock / parodia      Sátira de la fiebre disco escrita por Charly García; prefigura la escena new-wave
@@ -1537,7 +1537,7 @@ Año Canción (género · intérprete / disco o simple)            Motivo de imp
      simple CBS)
      • En blanco y negro (nuevo tango · Astor Piazzolla
 
-[[47]]
+[[p=47]]
 Año Canción (género · intérprete / disco o simple)       Motivo de impacto
 
      & Gary Burton / The New Tango)
@@ -1570,7 +1570,7 @@ Año Canción (género · intérprete / disco o simple)       Motivo de impacto
 
 2. 1984 – 1986
 
-[[48]]
+[[p=48]]
 Canción (género · intérprete / disco o
 Año                                                 Motivo de impacto
       simple)
@@ -1605,7 +1605,7 @@ Año                                                 Motivo de impacto
      • Imaginación (reggae-ska · Los Pericos / El
      ritual de la banana)
 
-[[49]]
+[[p=49]]
 Canción (género · intérprete / disco o
 Año                                                   Motivo de impacto
       simple)
@@ -1640,7 +1640,7 @@ Año Canción (género · intérprete / disco o simple)        Motivo de impacto
      de la Nada – reedición póstuma)
      • El ritual de la banana (reggae-ska · Los Pericos /
 
-[[50]]
+[[p=50]]
 Año Canción (género · intérprete / disco o simple)             Motivo de impacto
 
      LP homónimo)
@@ -1674,7 +1674,7 @@ Año Canción (género · intérprete / álbum-single)                   Motivo 
 
      Un millón de años luz (rock · Soda Stereo / Canción           Segundo corte del LP; riff icónico que abre los shows de la gira ’90-’92. Wikipedia
 
-[[51]]
+[[p=51]]
 Año Canción (género · intérprete / álbum-single)               Motivo de impacto
 
        Animal)
@@ -1709,7 +1709,7 @@ Año Canción (género · intérprete / álbum-single)               Motivo de i
 
        La bebida, el juego y las mujeres (ska-cumbia · Los     Letra picaresca que se vuelve clásico de bailantas y recitales multitudinarios.
 
-[[52]]
+[[p=52]]
 Año Canción (género · intérprete / álbum-single)                 Motivo de impacto
 
         Auténticos Decadentes / idem)                            Spotify
@@ -1741,7 +1741,7 @@ Década de 1990 — parte 2
 Lanzamientos discográficos argentinos 1993-1995
 (≥ 5 temas por año; se indica género, intérprete y la edición que detonó la popularidad).
 
-[[53]]
+[[p=53]]
 Año Canción (género · intérprete / soporte)                                Motivo de impacto
 
        «El Matador» (candombe-rock · Los Fabulosos Cadillacs / álbum       Primer #1 continental de la banda; tema político sobre las
@@ -1775,7 +1775,7 @@ Año Canción (género · intérprete / soporte)                                
                                                                            Hit de la etapa jamaicana; 1,1 M discos vendidos con el LP. Spotify
        Reggae)
 
-[[54]]
+[[p=54]]
 Año Canción (género · intérprete / soporte)                                    Motivo de impacto
 
        «El Rito de los Corazones Sangrando» (rock barrial · La Renga /         Clip de 25 000 US$ y disco platino; consolida al trío en Obras
@@ -1809,7 +1809,7 @@ Pistas para profundizar
 
         Diversidad: del thrash-metal barrial a la balada pop y la cumbia, los 90 consolidan la pluralidad estilística que define la escena hasta hoy.
 
-[[55]]
+[[p=55]]
 Década de 1990 — parte 3
 
 Lanzamientos argentinos 1996 – 1999 (mínimo 5 títulos por año)
@@ -1840,7 +1840,7 @@ Año Canción (género · intérprete / soporte)                                
 1999 Lo mejor del amor (cuarteto · Rodrigo / single & álbum Lo mejor del amor) WikipediaWikipedia
      Al lado del camino (rock-balada · Fito Páez / álbum Abre) DiscogsSpotify
 
-[[56]]
+[[p=56]]
 Año Canción (género · intérprete / soporte)                                                               Motivo de impacto
 
         Paloma (rock-balada · Andrés Calamaro / Honestidad Brutal) YouTube
@@ -1872,7 +1872,7 @@ Año Canción (género · intérprete / soporte)                             Mot
 2000 La Bolsa (rock fusión · Bersuit / CD-single de Hijos del culo)
                                                                         Around The World
 
-[[57]]
+[[p=57]]
 Año Canción (género · intérprete / soporte)                        Motivo de impacto (resumen)
 
                                                                    Canción más vendida del año según Charts Around the World. Charts Around
@@ -1909,7 +1909,7 @@ Año Canción (género · intérprete / soporte)                        Motivo d
 
      Vos sabés (ska-balada · Los Fabulosos Cadillacs / compilado   Primera balada del grupo en superar 100 k copias; videoclip rotación MTV.
 
-[[58]]
+[[p=58]]
 Año Canción (género · intérprete / soporte)                           Motivo de impacto (resumen)
 
        Vasos Vacíos)
@@ -1943,7 +1943,7 @@ Año Canciones emblemáticas                                                    
 1996 A Don Ata (folklore · Soledad, Poncho al viento)
        Zoom (alt-rock · Soda Stereo, single de Sueño Stereo) IMDb
 
-[[59]]
+[[p=59]]
 Año Canciones emblemáticas                                                                 Razón de impacto
 
      No es mi despedida (cumbia · Gilda, single póstumo) eBaySpotify
@@ -1973,7 +1973,7 @@ Década de 2000 – Parte 1 (2000 - 2002)
 
 Año Canciones emblemáticas                                                     Razón de impacto
 
-[[60]]
+[[p=60]]
 Año Canciones emblemáticas                                                       Razón de impacto
 
      Soy cordobés (cuarteto · Rodrigo) YouTubeSpotify
@@ -2004,7 +2004,7 @@ Año Canciones emblemáticas                                                    
 2003 Como Alí (rock · Los Piojos) IMDb
      Una nueva noche fría (rock · Callejeros) Wikipedia
 
-[[61]]
+[[p=61]]
 Año Canciones emblemáticas                                                             Razón de impacto
 
         A tu lado (hard-rock · La Renga) Wikipedia
@@ -2036,7 +2036,7 @@ Canciones argentinas más representativas (2006 – 2009)
 
 (criterio: ≥ 5 temas por año, relevancia artística / popular, diversidad de géneros)
 
-[[62]]
+[[p=62]]
 Año Canción           Intérprete           Género / escena        Motivo de relevancia
 
                                            Rock alternativo /     Primer single de Ahí Vamos; Grammy Latino “Mejor Canción de
@@ -2075,7 +2075,7 @@ Año Canción           Intérprete           Género / escena        Motivo de 
                       Andrés Calamaro      Rock / pop
      (Minibar)                                                    mainstream.
 
-[[63]]
+[[p=63]]
 Año Canción              Intérprete              Género / escena         Motivo de relevancia
 
                                                                          Tercer single de Ahí Vamos; celebrado videoclip y balada
@@ -2112,7 +2112,7 @@ Año Canción              Intérprete              Género / escena         Mot
 
      Cristal             Estelares               Pop-rock                Primer sencillo de Una Temporada en el Amor; altísima rotación,
 
-[[64]]
+[[p=64]]
 Año Canción                    Intérprete               Género / escena          Motivo de relevancia
 
                                                                                  video destacado.
@@ -2145,7 +2145,7 @@ Año Canción (género · intérprete / soporte)                               P
         Cero a la Izquierda (rock · No Te Va Gustar / single FM88)
                                                                           chartsaroundtheworld.com
 
-[[65]]
+[[p=65]]
 Año Canción (género · intérprete / soporte)                            Por qué fue relevante
 
                                                                        Balada adulta que devuelve a Vicentico al prime-time radial.
@@ -2180,7 +2180,7 @@ Año Canción (género · intérprete / soporte)                            Por 
 
        Hola Noviembre (pop-rock · Tan Biónica / Destinología           Balada fan-favourite estrenada online antes del álbum 2013. YouTube
 
-[[66]]
+[[p=66]]
 Año Canción (género · intérprete / soporte)                            Por qué fue relevante
 
        sessions)
@@ -2211,7 +2211,7 @@ Año Canción (género · intérprete / soporte)                   Motivo de imp
        Tus Ojos (versión 25 años) (reggae · Los Cafres /      Reedición que celebra ¼ de siglo; mantiene al reggae argentino en charts.
        single en vivo)                                        Apple Music - Web Player
 
-[[67]]
+[[p=67]]
 Año Canción (género · intérprete / soporte)                      Motivo de impacto
 
        Afinidad (balada-pop · Axel / álbum Tus Ojos, Mis
@@ -2248,7 +2248,7 @@ Año Canción (género · intérprete / soporte)                      Motivo de 
 
        Seré (balada-pop · Luciano Pereyra / single)              Ingreso al Top 100 (semana 25-2015); marca su retorno tras hiato.
 
-[[68]]
+[[p=68]]
 Año Canción (género · intérprete / soporte)                      Motivo de impacto
 
                                                                  chartsaroundtheworld.com
@@ -2281,7 +2281,7 @@ Año Canción (género · intérprete / soporte)                                
 
       Relax (trap-pop · Paulo Londra / single) – 5 ago 2017 YouTube                  Debut oficial de Londra; >90 M views YouTube y germen de la
 
-[[69]]
+[[p=69]]
 Año Canción (género · intérprete / soporte)                                           Por qué fue relevante
 
                                                                                       explosión trap cordobesa.
@@ -2315,7 +2315,7 @@ Año Canción (género · intérprete / soporte)                                
      Quiero Volver (latin-pop · Tini ft. Sebastián Yatra / single) – 2 ago 2018       Balada top-5 Argentina Hot 100; piedra angular del tour
      Wikipedia                                                                        binacional Quiero Volver.
 
-[[70]]
+[[p=70]]
 Pistas para profundizar
 
          Género urbano vs. pop — 2017-18 marcan la irrupción mainstream del trap (Paulo Londra, Duki, Cazzu) junto a un pop cada vez más
@@ -2350,7 +2350,7 @@ Año Canción (género · intérprete / soporte)                                
 
         Laligera (pop-urban · Lali / single 10-oct-19)                            Corte que abre la era Libra; top-trending en YouTube AR Spotify
 
-[[71]]
+[[p=71]]
 Año Canción (género · intérprete / soporte)                                      Motivo de impacto
 
 2020 Mamichula (trap-pop · Trueno × Nicki Nicole × Bizarrap / single 24-jul-20) #1 ARG/ESP; 400 M+ views, himno pandémico Wikipedia
@@ -2383,7 +2383,7 @@ Año Canción (género · intérprete / soporte)                                
      Entre Nosotros (trap-melódico · Tiago PZK × Lit Killah / single 8-jul-21)
                                                                                  Wikipedia
 
-[[72]]
+[[p=72]]
 Año Canción (género · intérprete / soporte)                                      Motivo de impacto
 
                                                                                  #1 ARG Hot 100 (nov-21); mezcla pop-cumbia que domina el
@@ -2418,7 +2418,7 @@ Canciones argentinas más representativas
 Tramo 2022 – 2024
 (≥ 5 temas por año; se indica género · intérprete / soporte que detonó la popularidad y una nota rápida del porqué quedaron en la historia)
 
-[[73]]
+[[p=73]]
 Año Canción (género · intérprete / soporte)                                           Motivo de impacto
 
                                                                                       Debutó #1 en el Argentina Hot 100 y se convirtió en “himno
@@ -2453,7 +2453,7 @@ Año Canción (género · intérprete / soporte)                                
        La Morocha (cumbia 420 · Luck Ra & BM / single 24-sep-23)
                                                                                       nacionales. Wikipedia
 
-[[74]]
+[[p=74]]
 Año Canción (género · intérprete / soporte)                                            Motivo de impacto
 
                                                                                        Primer artista menor de 18 en una Session; #1 AR y top-40
@@ -2487,7 +2487,7 @@ Tendencia                                  Ejemplos                           Qu
 
 Dominio Bizarrap                           Sessions 50, 52, 53, 57            El productor argentino es catalizador de #1 locales y globales.
 
-[[75]]
+[[p=75]]
 Tendencia                           Ejemplos                            Qué marca
 
 Explosión femenina                  Tini, Nicki, María Becerra, Lali    1.ª vez que varios #1 son de solistas o dúos femeninos.
@@ -2496,7 +2496,7 @@ Cumbia 420 & cuarteto al mainstream “La Morocha”, “Hola Perdida”        
 
 Colaboraciones masivas              “Los del Espacio”, “Bésame Remix” Tracks con ≥ 5 artistas llegan a la cima, reflejando networking digital.
 
-[[76]]
+[[p=76]]
 Cómo se construyó el modelo porcentual
 
 Fuente / Proxy (por
@@ -2505,7 +2505,7 @@ período)
 
 1910-1950                Tiradas de discos de sellos como Odeon, Victor, RCA; archivos AGN; bibliografía (Sánchez, Pujol).
 
-[[77]]
+[[p=77]]
 Fuente / Proxy (por
                       Cómo se ponderó
 período)
@@ -2516,8 +2516,7 @@ período)
 
 2000-2020s            Certificaciones oro/platino, Argentina Hot 100, Spotify Top 200, YouTube views, IFPI Latin América.
 
-[[78]]
+[[p=78]]
 
 
-[[79]]
-
+[[p=79]]

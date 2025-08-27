@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 La comprensión como obstáculo en la experiencia analítica
 Introducción
 Una de las tesis más disruptivas de Jacques Lacan es su crítica a la comprensión como eje de la
@@ -42,7 +42,7 @@ filosóficas y éticas de esta posición. Compararemos el modelo lacaniano con l
 hermenéutica de Dilthey y Jaspers, y mostraremos cómo el rechazo de la comprensión no es un acto
 de frialdad, sino una ética del deseo.
 
-[[2]]
+[[p=2]]
 Referencias (APA 7.ª ed.)
     • Lacan, J. (1983). El seminario, libro 1: Los escritos técnicos de Freud (A. Viganó, Trad.).
       Paidós. (Original de 1954).
@@ -84,7 +84,7 @@ yoica, especular, donde el síntoma se “entiende”, pero no se atraviesa.
 Por eso Lacan propone una torsión ética del dispositivo: que el analista no se deje capturar por la
 transferencia imaginaria. La neutralidad analítica no debe confundirse con la frialdad, sino con la
 
-[[3]]
+[[p=3]]
 negativa a ocupar el lugar del Ideal del yo. En lugar de eso, el analista debe sostener una función
 vacía, la del sujeto supuesto saber:
       “El analista, como sujeto supuesto saber, no es el que comprende al paciente, sino el que
@@ -127,7 +127,7 @@ Este deseo no busca captar al sujeto, sino sostenerlo en su división. No preten
 en una comprensión global, sino hacer de ese síntoma un punto de partida para el trabajo con lo
 inconsciente.
 
-[[4]]
+[[p=4]]
 Referencias (APA 7.ª ed.)
     • Fink, B. (1997). A clinical introduction to Lacanian psychoanalysis: Theory and technique.
       Harvard University Press.
@@ -170,7 +170,7 @@ del discurso del sujeto, el lugar donde el sentido vacila. Como señala Lacan en
 Es por esto que la comprensión, al cerrar el sentido, actúa como un obstáculo clínico. Si el analista
 empatiza, si consuela, si traduce el sufrimiento del paciente en categorías comprensibles, aborta la
 
-[[5]]
+[[p=5]]
 posibilidad de que surja el saber inconsciente. En lugar de producir un corte, produce una
 identificación. En vez de promover una interrogación del deseo, facilita una adaptación imaginaria.
 Este punto se entrelaza con la noción de contratransferencia. En la tradición postfreudiana, se
@@ -214,7 +214,7 @@ Referencias (APA 7.ª ed.)
       psicoanálisis (J.-A. Miller, Ed.). Paidós. (Seminario dictado en 1964).
     • Miller, J.-A. (1996). Introducción al método psicoanalítico. Paidós.
 
-[[6]]
+[[p=6]]
 Comprensión, hermenéutica y el inconsciente como estructura
 La posición de Lacan frente a la comprensión no sólo implica una revisión del dispositivo analítico,
 sino también un giro epistemológico que lo distancia radicalmente de las tradiciones hermenéuticas
@@ -259,7 +259,7 @@ Lacan apunta a un sujeto dividido, que no coincide consigo mismo y que no puede 
 verdad sobre sí. En este marco, la noción de comprensión aparece como una tentativa fallida de
 suturar esa división.
 
-[[7]]
+[[p=7]]
 Este punto adquiere una especial relevancia en la crítica de Lacan a la psiquiatría comprensiva, en
 especial a la obra de Karl Jaspers. En “Acerca de la causalidad psíquica” (1946), Lacan confronta
 directamente la noción jaspersiana de comprensión como acceso inmediato al significado de los
@@ -303,7 +303,7 @@ por la división constitutiva del sujeto. Esta posición se despliega en el cont
 llama “el deseo del analista”, noción que condensa una ética del acto en lugar de una moral del
 entendimiento.
 
-[[8]]
+[[p=8]]
 Tal como vimos en secciones anteriores, comprender al paciente en su coherencia yoica puede
 funcionar como un “tapón de sentido”, en tanto clausura la dimensión enigmática del discurso
 inconsciente. El deseo del analista no busca cerrar esa hiancia, sino sostenerla. En palabras de
@@ -349,7 +349,7 @@ para Dilthey:
       “El análisis del comprender constituye la base para la fijación de las reglas de
       interpretación” (Dilthey, citado en Gárate, s.f., p. 3),
 
-[[9]]
+[[p=9]]
 para Lacan, la interpretación no tiene reglas fijas, porque responde a la lógica del inconsciente, que
 es una lógica de lo contingente, no de lo necesario. Cada intervención debe construirse como un
 acto singular, no como una aplicación de métodos.
@@ -375,5 +375,4 @@ Referencias (APA 7.ª ed.)
       psicoanálisis (J.-A. Miller, Ed.). Paidós.
     • Lacan, J. (1966/2005). La ciencia y la verdad. En Escritos II (pp. 843–894). Siglo XXI.
 
-[[10]]
-
+[[p=10]]

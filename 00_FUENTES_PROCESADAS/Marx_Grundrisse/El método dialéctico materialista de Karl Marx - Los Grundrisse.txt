@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 El método dialéctico materialista de Karl Marx - Los
 Grundrisse
 ¿Cuál fue el método de investigación que llevó a cabo Marx para escribir el Capital? ¿En qué
@@ -47,7 +47,7 @@ mismas que se mantuvieron obscuras hasta que la obra aparece en su primera edici
 alemana de 1939. En esta cápsula veremos la introducción, pues aquí es donde Marx
 describe detalladamente cómo hacer un análisis material desde una perspectiva hegeliana.
 
-[[2]]
+[[p=2]]
 Sirve para ver con lentes de rayos X al capital y encontrar todos los giros dialécticos que ahí
 se encuentran escondidos.
 
@@ -98,7 +98,7 @@ contestarles, defendiéndome al mismo tiempo que trataba de no delatarme. Por ah
 mediados de la carrera me seguía yendo bien en el trabajo, de hecho comencé a trabajar en
 un proyecto donde iba a ser justo un sistema que analizará el lenguaje natural. Comencé a
 
-[[3]]
+[[p=3]]
 tomar clase con un profesor muy famoso, mundialmente reconocido, lo que llamamos una
 vaca sagrada.
 
@@ -147,7 +147,7 @@ momento anterior del objeto, un momento más abstracto, menos real. Esto muestra
 Hegel piensa que los conceptos más abstractos preceden lógica e históricamente a los
 conceptos más concretos.
 
-[[4]]
+[[p=4]]
 Para Marx, esto parte de una confusión entre el camino del entendimiento y el camino de la
 realidad misma. Yo no sé si lo llamaría confusión, porque Hegel está bastante convencido de
 que todo lo real es racional y todo lo racional es real, de que la razón guía al mundo, que es
@@ -198,7 +198,7 @@ al ecosistema, pues no podemos entender al todo sin ir entendiendo las partes, p
 significa que lo preceden históricamente, pues como bien sabemos había ecosistemas antes
 de que existieran las especies actuales. Sabemos que había ecosistemas cuando rondaban
 
-[[5]]
+[[p=5]]
 los dinosaurios, y cada una de las especies actuales emergió dentro de un ecosistema. Pero
 gracias a que podemos entender a las especies actuales y con base en ello a los ecosistemas,
 podemos entender especies anteriores y ecosistemas anteriores.
@@ -249,7 +249,7 @@ Esta novela causó tanto revuelo que produjo todo un género literario en el sig
 y engendró una multitud de obras de ficción. Como Marx menciona, los historiadores de la
 civilización pensaron que este género literario, que incluye a Ricardo, Smith y hasta
 
-[[6]]
+[[p=6]]
 Rousseau, venía de una reacción contra el refinamiento y una búsqueda de regresar a la
 naturaleza. Pero Marx nota que esto solo es la apariencia estética de las robinsonadas, pues
 lo que verdaderamente reflejan es la naturaleza de la sociedad civil, una sociedad de libre
@@ -299,7 +299,7 @@ la habilidad adquirida por la práctica. A partir de esto Marx aventura una defi
 de la producción. Toda producción es apropiación de la naturaleza por parte del individuo
 en el seno y por intermedio de una forma de sociedad determinada.
 
-[[7]]
+[[p=7]]
 Cuando afirma que la producción es apropiación lleva consigo el hecho de que una forma de
 producción implica una forma de propiedad. Sin embargo, Marx tiene que llamar la atención
 a que esto no significa que la producción implique a la propiedad privada. De hecho,
@@ -350,7 +350,7 @@ van a satisfacer sus necesidades.
 Es decir, los individuos llegan con la proporción que les tocó de lo que produjeron o no
 produjeron y la cambian para obtener aquellos productos que van a satisfacer sus
 
-[[8]]
+[[p=8]]
 necesidades de alimentación, vestido, vivienda o espíritu. Estos productos luego pasan al
 momento más particular y específico, el consumo. Aquí el producto se subjetiva, se vuelve
 persona, satisface las necesidades del individuo.
@@ -400,7 +400,7 @@ Así no solo media, sino produce al consumo, pero el consumo también crea el me
 producto, crea el sujeto para el cual son los productos. Para explicar esto último, Marx se
 refiere al concepto aristotélico de dynamé o potencia. Este concepto, junto con energia,
 
-[[9]]
+[[p=9]]
 resuena en el sentido en el que Hegel se refiere a la cosa en sí, la cosa en potencia y su
 realización.
 
@@ -451,7 +451,7 @@ de la producción es lo que produce esto.
 Parece que la distribución es independiente de la producción. La economía política clásica
 entiende la producción como una realidad eterna y la distribución como una arbitrariedad
 
-[[10]]
+[[p=10]]
 histórica. Pero antes de la distribución de lo producido se encuentra la distribución de los
 medios de producción.
 
@@ -500,7 +500,7 @@ mediante la síntesis a lo concreto como síntesis de determinaciones. Incluye d
 inducción como proceso de análisis y la deducción como proceso de síntesis. Trae a la
 realidad material el proceso dialéctico y eleva a lo más concreto el proceso de observación.
 
-[[11]]
+[[p=11]]
 Es una metodología que nos invita a analizar nuestra propia realidad y darnos cuenta de
 cuando estamos abstraídos en ella. Nos permite ver que estar en lo concreto representado
 no quiere decir que no estemos abstraídos. Cuando yo estaba trabajando de ingeniero de
@@ -523,5 +523,4 @@ Un software como el que yo mismo estaba haciendo podía servir justo para encont
 personas como yo. Pensaba que estaba en lo concreto, pero estaba abstraído, estaba
 construyendo el motor de la demoledora que buscaba destruir mi propia casa.
 
-[[12]]
-
+[[p=12]]

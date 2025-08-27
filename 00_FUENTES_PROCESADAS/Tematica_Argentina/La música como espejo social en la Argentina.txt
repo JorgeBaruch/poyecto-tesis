@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 � La canción popular como espejo social en la Argentina (1900–2023)
 
 Narrativa histórica, estética y política de la canción argentina
@@ -47,7 +47,7 @@ lucha política emergente.
 
        El canto peronista populariza el “nosotros” político desde el pueblo.
 
-[[2]]
+[[p=2]]
    Tras 1955, muchas canciones son censuradas por su contenido social.
 
 Estas tres líneas —urbana, rural y obrera— prefiguran todo lo que vendrá después: la denuncia
@@ -96,7 +96,7 @@ En plena fiebre privatizadora, las canciones revelan el costo social:
 
        Bersuit canta el grotesco del consumo (La argentinidad al palo).
 
-[[3]]
+[[p=3]]
    La Renga y Los Piojos representan el barrio como trinchera.
 
        Gilda canta la ternura villera.
@@ -147,7 +147,7 @@ La canción se digitaliza, se viraliza, se emancipa.
 
 � Ejes transversales
 
-[[4]]
+[[p=4]]
 Eje                        Ejemplo clave
 
 Crítica social             Discépolo, Gieco, Bersuit, Wos
@@ -195,7 +195,7 @@ Letra: Ángel Villoldo
 Música: Enrique Saborido
 Contexto: Primer éxito masivo del tango cantado; símbolo criollo nacional.
 
-[[5]]
+[[p=5]]
 Análisis social:
 “La Morocha” fue mucho más que una canción popular: encarnó un gesto contrahegemónico al
 consagrar a una mujer criolla como emblema de belleza nacional en plena exaltación europeísta.
@@ -239,7 +239,7 @@ Lectura simbólica:
 también inclusiva. Tanto criollos como inmigrantes se vieron reflejados en la figura del
 “compadrito”: símbolo del barrio, el arrabal y la lucha cotidiana por reconocimiento.
 
-[[6]]
+[[p=6]]
 � 3.�“El�Choclo”�(1903)
 
 Letra: Ángel Villoldo
@@ -286,7 +286,7 @@ Lenguaje lunfardo
 
 � Referencias (formato APA)
 
-[[7]]
+[[p=7]]
    Adamovsky, E. (2016). Historia de la clase media argentina: Apogeo y decadencia de una
         ilusión, 1919-2003. Buenos Aires: Planeta.
 
@@ -334,7 +334,7 @@ Difusión: Ángel Villoldo
 Género: Tango cuplé satírico
 Contexto: Ciudad de Buenos Aires en el Centenario; modernización urbana.
 
-[[8]]
+[[p=8]]
 Análisis social:
 “La bicicleta” es una sátira aguda de la modernización porteña. El narrador alardea de su nuevo
 vehículo —“que costó 2.000 pesetas”— mientras recorre la Avenida de Mayo, símbolo de la urbe
@@ -381,7 +381,7 @@ El éxito teatral y fonográfico de esta canción marcó la aceptación del tang
 media. Su lenguaje híbrido y su tema de soledad urbana conectaron con una generación marcada
 por la migración, la precariedad afectiva y la vida en conventillos.
 
-[[9]]
+[[p=9]]
 � 3.�“Flor�de�fango”�(1918)
 
 Letra: Pascual Contursi
@@ -424,7 +424,7 @@ género                  la noche porteña.
 
 Lenguaje híbrido        Lunfardo + sentimentalismo europeo en todos los tangos de la década.
 
-[[10]]
+[[p=10]]
 Eje temático            Observaciones
 
                         Las letras exponen realidades (pobreza, abandono, desigualdad) que el
@@ -471,7 +471,7 @@ material, el tango empieza a explorar las sombras del deseo, la nostalgia del pa
 ansiedad por la muerte o el desclasamiento. Esta década ve surgir algunos de los tangos más
 memorables de la historia.
 
-[[11]]
+[[p=11]]
 � 1.�“A�media�luz”�(1925)
 
 Letra: Carlos César Lenzi
@@ -516,7 +516,7 @@ ciudad lo reconozca. Su estructura de vals criollo evoca la zamba y la canción 
 una mezcla que resuena con las emociones de los argentinos que, aun en la urbe, seguían soñando
 con el campo perdido.
 
-[[12]]
+[[p=12]]
 � 3.�“Adiós�muchachos”�(1927)
 
 Letra: César Vedani
@@ -561,7 +561,7 @@ necesidad de mencionar políticos.
 
 � Lectura transversal 1920–1929
 
-[[13]]
+[[p=13]]
 Eje temático         Observaciones
 
 Modernización        “A media luz” y “La bicicleta” (del capítulo anterior) muestran la vida del
@@ -609,7 +609,7 @@ protesta".
 
 Introducción
 
-[[14]]
+[[p=14]]
 La caída de Yrigoyen en 1930 inaugura un ciclo de gobiernos conservadores marcados por el
 fraude electoral, la represión obrera, el pacto Roca-Runciman y una profunda crisis de confianza
 institucional. Este contexto sociopolítico encuentra eco en el tango, que se vuelve más sombrío,
@@ -655,7 +655,7 @@ París…”
 Lectura crítica:
 Este tango refleja la melancolía del migrante y del artista sin patria. La letra mezcla lunfardo con
 
-[[15]]
+[[p=15]]
 paisajes europeos, mostrando cómo la identidad nacional persiste incluso en el exilio. A nivel
 musical, mantiene el 2x4 tradicional, reafirmando el tango como raíz porteña frente al mundo.
 
@@ -701,7 +701,7 @@ una letra de gran poder simbólico, que combina la religiosidad popular con el r
 censurado entre 1943 y 1949 por su tono contestatario. La canción representa uno de los pocos
 ejemplos tempranos de canción de protesta en el tango.
 
-[[16]]
+[[p=16]]
 � 5.�“Cambalache”�(1934)
 
 Letra y música: Enrique Santos Discépolo
@@ -752,7 +752,7 @@ como resistencia          autenticidad.
        Infobae. (2023). Cambalache cumple 90 años: un manifiesto moral de actualidad eterna.
         https://www.infobae.com
 
-[[17]]
+[[p=17]]
    Wikipedia. (s.f.). Entradas sobre Enrique Santos Discépolo, Cambalache, Yira yira y Mario
         Battistella. https://es.wikipedia.org
 
@@ -801,7 +801,7 @@ aún vive de sus ríos y maderas. La canción tiene ritmo tradicional, pero letr
 
 “Yo soy el río y el río va conmigo…”
 
-[[18]]
+[[p=18]]
 Lectura crítica:
 Es un himno de resistencia lírica del interior frente al olvido estatal. Ayala, como Yupanqui, es la
 voz del norte invisible.
@@ -851,7 +851,7 @@ Tema: Censura, renacimiento, lucha simbólica.
 La cigarra es la voz poética que sobrevive al silencio, a la muerte civil, a la censura. Escrita en clave
 metafórica, fue prohibida y recién popularizada en democracia.
 
-[[19]]
+[[p=19]]
 “Tantas veces me mataron / tantas veces me morí…”
 
 Lectura crítica:
@@ -900,7 +900,7 @@ nueva: no social desde el conflicto, sino desde el vacío.
 Autor: Moris
 Tema: Reclusión, prisión interior, subjetividad animalizada.
 
-[[20]]
+[[p=20]]
 Metáfora de un personaje que vive enjaulado y que al salir al mundo… desea volver. Es símbolo de
 alienación, control y desajuste existencial.
 
@@ -949,7 +949,7 @@ IV. � Últimos ecos del tango: nostalgia y reformulación
 
 � “El�último�café”�(1963)
 
-[[21]]
+[[p=21]]
 Autores: Cátulo Castillo / Héctor Stamponi
 Intérprete: Julio Sosa
 Tema: Nostalgia, tiempo perdido, desamor maduro.
@@ -1002,7 +1002,7 @@ clásico                                                      centro del present
 
        Lima Quintana, H. (1965). Zamba para no morir.
 
-[[22]]
+[[p=22]]
    Nebbia, L., & Tanguito. (1967). La balsa.
 
        Spinetta, L. A. (1969). Muchacha ojos de papel.
@@ -1051,7 +1051,7 @@ Tema: Protesta directa, crítica a la pasividad, reclamo político.
 Lectura crítica:
 Es uno de los manifiestos más frontales de la canción social argentina. Utiliza un tono declamativo,
 
-[[23]]
+[[p=23]]
 con frases cortas, urgentes. Nombra a la hipocresía institucional y al silencio cómplice. Fue
 prohibida y sus autores perseguidos.
 
@@ -1099,7 +1099,7 @@ desde la raíz folklórica. Mercedes Sosa la consagra como símbolo de la canci�
 
 � Balance (1970–1972)
 
-[[24]]
+[[p=24]]
 Tema                   Representaciones
 
 Juventud sin futuro    “Presente”, “Canción para mi muerte”
@@ -1146,7 +1146,7 @@ La metáfora del encierro funciona como alegoría del cuerpo desaparecido, de la
 En un contexto donde no se podía denunciar, esta canción permitía hablar por medio de la
 sugerencia.
 
-[[25]]
+[[p=25]]
 � “Libertango”�(1974)
 
 Autor: Astor Piazzolla
@@ -1193,7 +1193,7 @@ Es una fábula del trabajador argentino lanzado al vacío. Beto, el colectivero,
 ningún lado. La canción habla de desplazamiento, soledad, pérdida del origen. Todo con
 sensibilidad poética y épica menor.
 
-[[26]]
+[[p=26]]
 � “La�colina�de�la�vida”�(1977)
 
 Autores: Porchetto / León Gieco
@@ -1243,7 +1243,7 @@ Madres de Plaza de Mayo, por refugiados y luego por el regreso democrático.
 
 � “Canción�de�Alicia�en�el�país”�(1979)
 
-[[27]]
+[[p=27]]
 Autor: Charly García / Serú Girán
 Tema: Dictadura, censura, desapariciones.
 
@@ -1293,7 +1293,7 @@ Desesperación personal “Viernes 3 AM”
 
        Tejada Gómez, A., & Toro, D. (1973). Cuando tenga la tierra.
 
-[[28]]
+[[p=28]]
     Invisible. (1976). El anillo del Capitán Beto.
 
         Piazzolla, A. (1974). Libertango.
@@ -1341,7 +1341,7 @@ Análisis lírico:
 
         “Los que cantan ya no pueden cantar”: represión al arte.
 
-[[29]]
+[[p=29]]
    “No cuentes lo que viste en los jardines”: alusión a la censura y al ocultamiento de
         cuerpos.
 
@@ -1387,7 +1387,7 @@ Interpretaciones clave:
 
        Fue traducida a más de 20 idiomas y adoptada por organismos de derechos humanos.
 
-[[30]]
+[[p=30]]
 Lectura crítica:
 León Gieco construye un clamor universal desde una voz individual. La canción es ética antes que
 política, y eso le da una potencia emocional transversal.
@@ -1436,7 +1436,7 @@ Ausencias
                      Mercedes Sosa (exilio)         El silencio como expresión de la represión.
 simbólicas
 
-[[31]]
+[[p=31]]
 � Referencias APA
 
        García, C. (1980). Canción de Alicia en el país, Bicicleta. En Bicicleta [Álbum]. Serú Girán.
@@ -1484,7 +1484,7 @@ Es una de las primeras canciones que nombra�directamente�la�palabra�proh
 En tono casi infantil, con una base pop minimalista, Charly interpela al terror institucional con una
 ternura devastadora.
 
-[[32]]
+[[p=32]]
 Recepción:
 Fue coreada en estadios como un himno clandestino que por fin podía gritarse en voz alta. La
 censura había terminado, pero el miedo aún latía. Esta canción ofrecía una forma emocional de
@@ -1530,7 +1530,7 @@ Lectura crítica:
 No hay denuncia política, pero sí hay mística democrática: hermanarse en la música tras la
 ruptura de todo. Este tipo de canción íntima es la nueva forma de resistencia ética posdictadura.
 
-[[33]]
+[[p=33]]
 � 1985: Canciones que fundan una ética democrática
 
 � “Yo�vengo�a ofrecer�mi�corazón”�– Fito Páez
@@ -1578,7 +1578,7 @@ Análisis:
 Letra recitada, casi sin música, que enumera acontecimientos históricos silenciados. Es una letanía
 de lo que no debe olvidarse. Fue utilizada en actos con las Madres y Abuelas de Plaza de Mayo.
 
-[[34]]
+[[p=34]]
 � Lectura transversal 1983–1985
 
 Tema                      Canciones representativas           Observaciones
@@ -1631,7 +1631,7 @@ poética marginal, ironía política, crítica social desde el absurdo o el ritu
 
 Introducción
 
-[[35]]
+[[p=35]]
 Si 1983 fue el año de la esperanza, 1986 en adelante marca el inicio de una desilusión
 democrática temprana: inflación, impunidad, pobreza estructural. Las canciones ya no son himnos
 de consuelo, sino de incomodidad. La música urbana se vuelve áspera, simbólica, existencial o
@@ -1679,7 +1679,7 @@ Tema: Pobreza estructural, exclusión urbana.
 
 “Una casa sin paredes, una madre sin abrigo…”
 
-[[36]]
+[[p=36]]
 Contexto:
 Desde el Litoral, Fandermole canta la miseria no desde el panfleto, sino desde la imagen concreta.
 No hay denuncia directa, pero el paisaje es una cartografía de la exclusión.
@@ -1727,7 +1727,7 @@ de los años '70.
        Versiones como palimpsestos: Fito Páez, Mercedes Sosa y otros revisitan canciones viejas
         para leer el presente.
 
-[[37]]
+[[p=37]]
 � Lectura transversal 1986–1989
 
                          Canciones
@@ -1777,7 +1777,7 @@ renovado y de las nuevas voces, la música no solo narró el país: lo sostuvo.
 la Parte 1 del Capítulo X: 1990–1993, estructurada cronológicamente, con análisis estético y
 político-cultural, incorporando todas las canciones, autores y referencias del documento. Este
 
-[[38]]
+[[p=38]]
 primer tramo de los '90 marca la euforia de la convertibilidad, la ficción de la modernidad
 neoliberal, y la consolidación de una poética del desencanto disimulada en sonidos coloridos.
 
@@ -1825,7 +1825,7 @@ elegante.
 
 Álbum: Buena suerte (1991)
 
-[[39]]
+[[p=39]]
 “Yo no tengo palabras que te puedan convencer…”
 
 Contexto:
@@ -1874,7 +1874,7 @@ Análisis lírico:
 
         “Yo estoy aquí / en tu alma” → El “matador” es el desaparecido que aún habita el país.
 
-[[40]]
+[[p=40]]
    “Fiesta popular con sonido marginal” → forma de recuperar la crítica política en tiempos
         de televisión anestesiante.
 
@@ -1924,7 +1924,7 @@ Crítica simbólica       “Matador”                     La fusión rítmica 
 
        Página/12. (s.f.). “Los 90 en la música popular: del amor al ajuste”.
 
-[[41]]
+[[p=41]]
 
 
 
@@ -1972,7 +1972,7 @@ Lectura crítica:
 Es la memoria reeditada: menos épica, más íntima, más afectiva. Sosa deja el himno; Charly canta
 bajito. El recuerdo se vuelve susurro poético.
 
-[[42]]
+[[p=42]]
 � 1995–1996: Estética de lo marginal y el desborde
 
 � “La�balada�del�diablo�y�la�muerte”�– La Renga (1996)
@@ -2020,7 +2020,7 @@ Fito narra un país que ya no cree en nada, pero necesita seguir cantando para n
 
 � “Salir�a�asustar”�– Divididos (1996)
 
-[[43]]
+[[p=43]]
 Álbum: Otroletravaladna
 
 “Vos no sabés lo que es el amor…”
@@ -2072,7 +2072,7 @@ registros                                                  folklore, tango, funk
 la Parte 3 del Capítulo X: 1997–1999, con foco en la crítica social directa, el surgimiento del rock
 chabón, el anticipo de la crisis del 2001, y la irrupción de la cumbia villera como nuevo lenguaje
 
-[[44]]
+[[p=44]]
 de la exclusión estructural. Esta etapa es clave para entender el colapso simbólico del proyecto
 neoliberal en Argentina.
 
@@ -2122,7 +2122,7 @@ ritual, grito y advertencia.
 
 � 1998: La crítica desde el rock reflexivo
 
-[[45]]
+[[p=45]]
 � “Spaghetti�del�rock”�– Divididos
 
 Letra: Ricardo Mollo
@@ -2171,7 +2171,7 @@ industria y se vuelve liturgia barrial.
 Letra: Andrés Ciro Martínez
 Álbum: Azul (1998)
 
-[[46]]
+[[p=46]]
 “Me voy caminando por la avenida sin saber adónde llegar…”
 
 Contexto:
@@ -2219,7 +2219,7 @@ Tema                      Canciones representativas       Observaciones
 Estallido inminente                                       Previsión directa del colapso social.
                           rock”
 
-[[47]]
+[[p=47]]
 Tema                       Canciones representativas         Observaciones
 
 Cultura popular                                              Misticismo plebeyo, emocionalidad
@@ -2271,7 +2271,7 @@ según el género y el autor.
 
 Introducción
 
-[[48]]
+[[p=48]]
 El período 2000–2004 está marcado por la crisis total de representación, el default económico, la
 caída del gobierno de De la Rúa (2001), el “que se vayan todos” y la disolución del discurso
 institucional. Ante la caída del Estado como organizador simbólico, la música cumple tres
@@ -2319,7 +2319,7 @@ Autores: Gustavo Cordera y equipo
 
 “Somos de un lugar sagrado y profano a la vez…”
 
-[[49]]
+[[p=49]]
 Contexto:
 Compuesta poco después del estallido del 2001, esta canción es una radiografía grotesca de la
 identidad argentina poscrisis. Se convirtió en clásico instantáneo, coreado en estadios, actos
@@ -2367,7 +2367,7 @@ Lectura crítica:
 Es una forma de punk latino con base cumbiera: canta el odio de los que no tienen nada que
 perder. Sin metáforas. Sin diplomacia.
 
-[[50]]
+[[p=50]]
 � Lectura transversal (2000–2004)
 
                      Canciones
@@ -2418,7 +2418,7 @@ Pasado el estallido del 2001 y con el retorno de cierta estabilidad instituciona
 entra en una etapa de sofisticación sonora y emocional. La furia de la cumbia villera convive con
 la introspección del nuevo tango, el pop elegante y la fusión global. La memoria ya no se grita, se
 
-[[51]]
+[[p=51]]
 canta con nostalgia. Lo político no desaparece, pero se filtra en lo afectivo, lo íntimo, lo poético.
 Esta etapa está marcada por una transición: de la rabia a la contemplación.
 
@@ -2468,7 +2468,7 @@ Análisis sonoro:
 
 Letra (en versión vocal):
 
-[[52]]
+[[p=52]]
 “Ya no hay tiempo pa’ sufrir…”
 
 Lectura crítica:
@@ -2520,7 +2520,7 @@ Tango resignificado      “Crimen”, “Pa’ bailar”     Del lamento social
 
        Wikipedia. (s.f.). Bajofondo Tango Club, Cerati.
 
-[[53]]
+[[p=53]]
 la Parte 3 del Capítulo XI: 2008–2010, donde se cruzan tres fuerzas clave de la canción popular
 argentina:
 
@@ -2570,7 +2570,7 @@ Análisis simbólico:
 
        En su versión con Cerati, dos generaciones narran el mismo dolor con distintos lenguajes.
 
-[[54]]
+[[p=54]]
 Lectura crítica:
 Cantora reconfigura la memoria desde el afecto. No denuncia, pero abraza al oyente con la
 historia vivida. Mercedes no canta para recordar: canta para seguir viviendo en otros.
@@ -2618,7 +2618,7 @@ Ambas construyen memoria desde lo afectivo, lo testimonial y lo vital.
 
 Tema                   Canciones representativas Observaciones
 
-[[55]]
+[[p=55]]
 Tema                   Canciones representativas Observaciones
 
 Legado generacional Cantora (Mercedes Sosa)        El arte como puente ético y emocional.
@@ -2666,7 +2666,7 @@ política, de reconstrucción afectiva y de reescritura identitaria.
 
 Introducción
 
-[[56]]
+[[p=56]]
 Entre 2010 y 2013 se produce una mutación cultural clave en la canción popular argentina. Al
 legado de la memoria histórica y la canción comprometida, se suma una revalorización del
 territorio, del cuerpo marginado y del mestizaje sonoro. Mientras el Estado impulsa políticas
@@ -2715,7 +2715,7 @@ Funciona como testamento, puente, abrazo.
 
 Casos clave:
 
-[[57]]
+[[p=57]]
    “Zona de promesas” junto a Cerati: dos íconos nacionales unidos en la fragilidad y el amor.
 
        “Gracias a la vida” como despedida simbólica y celebración de lo vivido.
@@ -2762,7 +2762,7 @@ Contexto:
 La Bomba de Tiempo y Mariana Baraj recuperan el candombe como forma de protesta rítmica y
 celebración identitaria. El cuerpo vuelve a ser tambor, territorio, política.
 
-[[58]]
+[[p=58]]
 Lectura crítica:
 El sonido afro no es “música del otro”: es parte de una argentinidad ampliada, profunda, y
 rítmicamente insumisa.
@@ -2809,7 +2809,7 @@ Afroargentinidad rítmica “Candombe de dos orillas” El cuerpo como política
 
       Wikipedia. (s.f.). Flor de Piedra, Mercedes Sosa, Tonolec.
 
-[[59]]
+[[p=59]]
 la Parte 2 del Capítulo XII: 2014–2016, donde la canción popular argentina comienza a hablar
 desde el cuerpo, la calle y la disidencia. Esta etapa marca la aparición explícita de la estética
 feminista, la consolidación del trap como herramienta narrativa juvenil y la irrupción de nuevas
@@ -2859,7 +2859,7 @@ activismo coreografiado, denuncia con flow.
 
 � Bzrp Session #2 – Duki (2015)
 
-[[60]]
+[[p=60]]
 “Mi vida fue rapear para no ir a la cárcel…”
 
 Contexto:
@@ -2910,7 +2910,7 @@ Cuerpo y palabra como
                             Ambas                             La voz ya no se disfraza: se expone.
 poder
 
-[[61]]
+[[p=61]]
 Tema                        Canciones representativas      Observaciones
 
                             Trap, cumbia digital, beat     Se canta para sobrevivir, no para
@@ -2960,7 +2960,7 @@ Freestyle, Sessions, feats masivos
 Contexto:
 Desde las batallas de plazas (El Quinto Escalón) hasta el Luna Park, el trap argentino deja de ser
 
-[[62]]
+[[p=62]]
 underground y se transforma en cultura dominante. Las letras ya no solo hablan de consumo o
 deseo: cuentan historias de precariedad, miedo, orgullo y pertenencia.
 
@@ -3010,7 +3010,7 @@ una intervención cultural desde el margen hacia el centro.
 
    Batallas (Wos, Trueno, Klan, Replik)
 
-[[63]]
+[[p=63]]
 “Este país se va al carajo y yo le rapeo…”
 
 Contexto:
@@ -3059,7 +3059,7 @@ Cultura digital
 
        Wikipedia. (s.f.). Trap argentino, cumbia 420, freestyle.
 
-[[64]]
+[[p=64]]
 Cerramos el Capítulo XII con la Parte 4: año 2020, una etapa marcada por la pandemia de COVID-
 19, el encierro global, el aislamiento físico y la hiperconectividad digital. La música en Argentina —
 como en el mundo— se transformó en refugio, compañía, catarsis y ventana. La canción se vuelve
@@ -3107,7 +3107,7 @@ en tiempos de virus, balada para cuerpos separados pero conectados. No grita: ab
 
 � La pandemia como escenario cultural
 
-[[65]]
+[[p=65]]
 Cambios clave en la música 2020:
 
        Explosión de producciones caseras.
@@ -3157,7 +3157,7 @@ Plataforma                                            La canción ya no solo se 
                      YouTube, TikTok, Instagram
 emocional                                             y se actúa.
 
-[[66]]
+[[p=66]]
 � Referencias APA
 
        Trueno, N., & Bizarrap. (2020). Mamichula.
@@ -3207,7 +3207,7 @@ biografía una coreografía global.
 
 “Fumando sola en la esquina / nadie sabe lo que siento…”
 
-[[67]]
+[[p=67]]
 Contexto:
 La Joaqui mezcla cumbia, trap y reguetón con una voz rasposa y una lírica emocionalmente brutal.
 “Butakera” es una carta abierta al deseo, el abandono, la furia y el goce, desde el cuerpo
@@ -3255,7 +3255,7 @@ universo. La música popular ya no es una escena: es una red emocional masiva.
 
 Tema                 Expresiones clave       Observaciones
 
-[[68]]
+[[p=68]]
 Tema                  Expresiones clave       Observaciones
 
 Música como           Villano, La Joaqui,
@@ -3307,7 +3307,7 @@ historia social argentina.
 
 � Capítulo XIV: Conclusiones | La canción como espejo vivo de la Argentina
 
-[[69]]
+[[p=69]]
 Introducción
 
 La canción popular argentina no es solo una expresión artística: es memoria cantada, grito
@@ -3358,7 +3358,7 @@ desde Charly hasta L-Gante, la música no retrató el país: lo sostuvo, lo disc
 
        Miss Bolivia, Duki, Nicki, Trueno, Tonolec.
 
-[[70]]
+[[p=70]]
    El trap y la cumbia villera pasan del margen al centro.
 
          La canción ya no representa: habita cuerpos, barrios, redes.
@@ -3410,7 +3410,7 @@ Plataforma          De la radio y el disco al algoritmo y TikTok.          Cerat
 
          Producción de podcast o playlists temáticas por década, eje o artista.
 
-[[71]]
+[[p=71]]
    Reflexión sobre la construcción�de�lo�“popular”�y�lo�“nacional”.
 
 
@@ -3458,7 +3458,7 @@ Este recorrido propone analizar cómo cada etapa histórica produjo una estétic
 las letras narraron el presente de su época, y cómo el pueblo —en sus múltiples formas—
 construyó memoria a través de la música.
 
-[[72]]
+[[p=72]]
 � 1900–1959 | Voz, tierra y ciudad: los cimientos sociales de la canción
 
 Antes del rock, del folklore de protesta o de la cumbia villera, la canción popular ya estaba
@@ -3506,7 +3506,7 @@ juicios. El rock y el folklore se abrazan. El país canta para recordar, para ll
 
 � 1990–1999 | Neoliberalismo, estética del desencanto y villa como voz
 
-[[73]]
+[[p=73]]
 Mientras el país vive la ilusión del “1 a 1”, la canción empieza a decir lo que no se quiere oír.
 
        Soda y Fito hacen pop existencial.
@@ -3556,7 +3556,7 @@ fueron formas de nombrar lo que dolía, lo que faltaba, lo que ardía y lo que s
 Escuchar estas canciones no es un acto estético. Es un ejercicio de memoria, un gesto político y
 una forma de aprender a sentir el país desde sus voces.
 
-[[74]]
+[[p=74]]
 el Capítulo XIV bis: 2024–2025 | Cantar en la inestabilidad: nuevas voces, viejos ruidos, como
 cierre actualizado del recorrido. Este capítulo incorpora acontecimientos y tendencias recientes,
 sin romper la línea crítica ni estética del trabajo anterior. Es, al mismo tiempo, continuidad y
@@ -3606,7 +3606,7 @@ No es militancia explícita, pero sí autoafirmación desde abajo: cada canción
 
        La Joaqui se reinventa con un disco de tono más introspectivo, sin dejar la furia barrial.
 
-[[75]]
+[[p=75]]
    Aparecen nuevas figuras como Paz Carrara, BB Asul y otras voces que combinan dolor
        íntimo con crítica estructural.
 
@@ -3655,7 +3655,7 @@ Tema                        Expresiones clave                  Observaciones
 Poesía del desencanto       Wos, Dillom, BB Asul
                                                                eufemismo.
 
-[[76]]
+[[p=76]]
 Tema                          Expresiones clave                Observaciones
 
 Reorganización del            La Joaqui, cyphers queer, rap    Más cuerpo, más verdad, menos
@@ -3706,7 +3706,7 @@ Desde el año 1900 hasta 2025, cada generación encontró en la música su forma
 
 (Aportes de la filosofía y la estética crítica)
 
-[[77]]
+[[p=77]]
 Desde una perspectiva filosófica, la canción popular argentina se inscribe como lo que Theodor
 Adorno denominaba “arte comprometido con la negatividad del mundo”, es decir: una forma de
 verdad no institucional, sensible, precaria pero poderosa.
@@ -3754,7 +3754,7 @@ y luego canonizado; el folklore fue primero expropiado por el Estado; el rock fu
 juventud rebelde hasta que fue absorbido por el mercado; la cumbia y el trap, aún hoy, operan
 como clases subalternas del gusto.
 
-[[78]]
+[[p=78]]
 Pero lo que escapa a toda codificación es la capacidad de resignificación popular. El pueblo
 argentino ha sabido usar la canción para narrarse, defenderse, reírse, sobrevivir.
 
@@ -3803,7 +3803,7 @@ deseo y su potencia.
 
 � Cierre: la canción como lugar donde Argentina se piensa
 
-[[79]]
+[[p=79]]
 La canción popular argentina no es menor, no es marginal, no es adorno. Es, como diría Antonio
 Gramsci, una forma de hegemonía cultural contrahegemónica.
 Es el lugar donde la historia nacional ha sido pensada desde abajo, desde el cuerpo, desde el
@@ -3812,5 +3812,4 @@ la calle, en el alma.
 
 Desde 1900 hasta 2025, el país no se explicó con discursos académicos. Se cantó.
 
-[[80]]
-
+[[p=80]]

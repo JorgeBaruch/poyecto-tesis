@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Evolución histórica del control social en
 Occidente
 Antigua Grecia
@@ -39,7 +39,7 @@ causas corporales tratableses.wikipedia.org. En contraste con el mundo clásico,
 vincularse a lo demoníaco: la posesión infernal explicaba muchos trastornos (épilepsia, melancolía,
 demencia)es.wikipedia.org. No obstante, figuras aisladas introdujeron ideas laicas: además de
 
-[[2]]
+[[p=2]]
 Aquinas, Agustín de Hipona (s. IV) enfatizó la introspección, prefigurando un autoconocimiento
 terapéuticoes.wikipedia.org.
     • Pensadores clave: San Agustín (s. IV) subrayó el valor de la conciencia interior; Tomás de
@@ -84,7 +84,7 @@ pública (por ejemplo, Prusia instauró la escuela primaria obligatoria a princi
       Los hospitales se hacen estatales y especializados (los antiguos hospicios se dividieron en
       hospitales generales y asilos para “locos”). Por ejemplo, Bethlem (Londres) y otros
 
-[[3]]
+[[p=3]]
 hospicios medievales se remodelaron en manicomios civiles. Aparecen los primeros asilos
        psiquiátricos «modernos» en Europa (ss. XVII–XVIII) y un sistema penal renovado: se
        abandona el castigo corporal público (ahora se buscaba reformar el espíritu criminal).
@@ -130,7 +130,7 @@ Montessori, enfocando la obediencia y funcionalidad del sujeto.
       códigos penales con jurado, y la noción legal de «responsabilidad penal») y hospitales
       generales modernos (que incorporan psicólogos y psiquiatras).
 
-[[4]]
+[[p=4]]
 • Tecnologías de control: el fármaco psicotrópico se inicia muy tibiamente (morfina en el
       s. XIX), la fotografía forense y la estadística social comienzan a clasificar poblaciones (Se
       utiliza el perfil criminal, la estadística del hombre medio de Quetelet, primeros tests
@@ -175,7 +175,7 @@ Siglo XXI
 En la primera mitad del siglo XXI la digitización de la vida social revolucionó las formas de
 control. Las redes sociales e Internet actúan como un panóptico global: los ciudadanos comparten (o
 
-[[5]]
+[[p=5]]
 están expuestos a) datos personales continuamente, lo que induce la autovigilanciaethic.es. Big
 Data y la inteligencia artificial permiten monitorizar patrones de conducta (desde fraudes hasta
 salud mental) a escala masiva. Bajo esta lógica, la figura del sujeto normal se actualiza con la
@@ -220,7 +220,7 @@ Foucault, M. (2000). Los anormales. FCE.
 Lombroso, C. (1876). L’uomo delinquente. Fratelli Bocca.
 Rousseau, J.-J. (1762). Emilio, o De la educación. Lausanne/Paris.
 
-[[6]]
+[[p=6]]
 San Agustín (1995). La ciudad de Dios (Versión española). BAC.
 Tomás de Aquino (1956). Suma teológica (Parte I). BAC.
 Yoris, C. (2024, 7 de octubre). Paideia. La Gran Aldea.
@@ -233,5 +233,4 @@ Todas las citas corresponden a las fuentes consultadas indicadas en el texto (p.
 divulgación citados). Los ejemplos institucionales y cronológicos están fundamentados en la
 literatura histórica y sociológica mencionada.
 
-[[7]]
-
+[[p=7]]

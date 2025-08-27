@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Directrices para autores/as (este es un marco posible no rígido)
 DIRECTRICES DE PUBLICACIÓN
 ARTÍCULOS
@@ -47,7 +47,7 @@ un archivo PDF a fin de posibilitar la edición posterior.
       Fuente: Arial 11 pts.
       Alineación: Justificada
 
-[[2]]
+[[p=2]]
    Interlineado: 1,5 cm
        Extensión Mínima: 4000
        Extensión Máxima: 8000
@@ -97,12 +97,11 @@ resolver. (Lorenzano, 2002: 399)"
                  94, pp. 514-534.
      9. Formato general de texto (solo aplicable a lo que una IA puede producir):
 
-[[3]]
+[[p=3]]
 o   Tamaño del documento: A4
 o   Fuente: Arial, 11 pts
 o   Alineación: Justificada
 o   Interlineado: 1.5
 o   Márgenes recomendados: Superior e inferior: 2.5 cm, Izquierdo y derecho: 3 cm
 
-[[4]]
-
+[[p=4]]

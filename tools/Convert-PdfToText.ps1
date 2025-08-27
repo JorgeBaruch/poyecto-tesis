@@ -48,28 +48,25 @@ function Write-Log {
     }
 }
 
-# --- Configuración ---
-$scriptRoot = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
-# Try to find pdftotext.exe in common locations or rely on PATH
-$pdftotextPath = $PdftotextExecutablePath # Use provided path if available
-
-if (-not $pdftotextPath) {
-    # Check if pdftotext is in PATH first
-    if ((Get-Command pdftotext -ErrorAction SilentlyContinue)) {
-        $pdftotextPath = (Get-Command pdftotext).Source
+# --- Configuración y Validación de Dependencias ---
+$pdftotextPath = $null
+if (-not ([string]::IsNullOrEmpty($PdftotextExecutablePath))) {
+    if (Test-Path -Path $PdftotextExecutablePath -PathType Leaf) {
+        $pdftotextPath = $PdftotextExecutablePath
     } else {
-        # Fallback to a more generic path within the project if not in PATH
-    $genericPopplerPath = Join-Path -Path $scriptRoot -ChildPath "..\poppler\Library\bin\pdftotext.exe"
-        if (Test-Path -Path $genericPopplerPath -PathType Leaf) {
-            $pdftotextPath = $genericPopplerPath
-        }
+        Write-Error "Error: La ruta proporcionada para pdftotext en -PdftotextExecutablePath no es válida: '$PdftotextExecutablePath'"
+        exit 1
     }
-}
-
-# --- Validación ---
-if (-not (Test-Path -Path $pdftotextPath -PathType Leaf)) {
-    Write-Error "Error: No se encontró 'pdftotext.exe' en la ruta esperada: $pdftotextPath"
-    exit 1 # Para un script de nivel superior, 'exit 1' es una forma aceptable de terminar en errores críticos.
+} else {
+    # Si no se proporciona una ruta, buscar en el PATH.
+    $pdftotextCmd = Get-Command pdftotext -ErrorAction SilentlyContinue
+    if ($null -ne $pdftotextCmd) {
+        $pdftotextPath = $pdftotextCmd.Source
+    } else {
+        # Si no se encuentra, dar un error claro.
+        Write-Error "Error: El comando 'pdftotext' no se encuentra en el PATH. Por favor, instale Poppler y asegúrese de que el directorio 'bin' esté en la variable de entorno PATH, o especifique la ruta al ejecutable usando el parámetro -PdftotextExecutablePath."
+        exit 1
+    }
 }
 
 try {
@@ -104,8 +101,8 @@ Write-Verbose "Iniciando la conversión de PDFs a TXT..."
 # Esto es una solución temporal para nombres de archivo que pdftotext no puede procesar correctamente.
 # Se recomienda investigar la causa raíz de este problema (ej. codificación) para una solución permanente.
 $allPdfFiles = Get-ChildItem -Path $absInputDir -Filter *.pdf -Recurse
-$pdfFiles = $allPdfFiles | Where-Object { $_.Name -notmatch '^[\?\?]' }
-$ignoredFiles = $allPdfFiles | Where-Object { $_.Name -match '^[\?\?]' }
+$pdfFiles = $allPdfFiles | Where-Object { $_.Name -notmatch '^[""??"" ]' }
+$ignoredFiles = $allPdfFiles | Where-Object { $_.Name -match '^[""??"" ]' }
 if ($ignoredFiles.Count -gt 0) {
     Write-Warning "Se ignoraron $($ignoredFiles.Count) archivos PDF con nombres problemáticos (comienzan con '??'). Revise el log para detalles."
     foreach ($file in $ignoredFiles) {
@@ -183,7 +180,7 @@ Write-Output "Proceso completado."
 # Reporte de archivos fallidos
 if ($failedFiles.Count -gt 0) {
     Write-Warning "Se encontraron errores al procesar los siguientes archivos PDF:"
-    $failedFiles | ForEach-Object { Write-Warning "  - $_"; Write-Log "Archivo fallido: $_" "WARNING" }
+    $failedFiles | ForEach-Object { Write-Warning "  - $_`; Write-Log "Archivo fallido: $_" "WARNING" }
 } else {
     Write-Output "Todos los archivos PDF se procesaron exitosamente."
     Write-Log "Todos los archivos PDF se procesaron exitosamente." "SUCCESS"

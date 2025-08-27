@@ -1,6 +1,5 @@
 {
-  "pdftotextPath": "C:/ruta/a/poppler/bin/pdftotext.exe",
-  "pandocPath": "C:/ruta/a/pandoc/pandoc.exe",
+  
   "logPath": "logs/",
   "stopWords": [
     "de", "la", "que", "el", "en", "y", "a", "los", "del", "se", "las", "por", "un", "para", "con", "no", "una",

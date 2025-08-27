@@ -2,9 +2,9 @@
 import os
 import subprocess
 import threading
-import uuid # NEW: Import uuid for unique task IDs
-import logging # NEW: Import logging module
-import json # NEW: Import json for reading config
+import uuid  # NEW: Import uuid for unique task IDs
+import logging  # NEW: Import logging module
+import json  # NEW: Import json for reading config
 
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query
 from fastapi.responses import PlainTextResponse
@@ -15,29 +15,29 @@ from fastapi.responses import PlainTextResponse
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 # Configure logging
-log_file_path = os.path.join(PROJECT_ROOT, 'config', 'analysis.json')
+log_file_path = os.path.join(PROJECT_ROOT, "config", "analysis.json")
 log_config = {}
 try:
-    with open(log_file_path, 'r', encoding='utf-8') as f:
+    with open(log_file_path, "r", encoding="utf-8") as f:
         # Remove comments before parsing JSON
-        content = ''.join(line for line in f if not line.strip().startswith('//'))
+        content = "".join(line for line in f if not line.strip().startswith("//"))
         log_config = json.loads(content)
 except FileNotFoundError:
     logging.error(f"Error: analysis.json not found at {log_file_path}")
 except json.JSONDecodeError as e:
     logging.error(f"Error decoding analysis.json: {e}")
 
-log_directory = os.path.join(PROJECT_ROOT, log_config.get('logPath', 'logs/'))
+log_directory = os.path.join(PROJECT_ROOT, log_config.get("logPath", "logs/"))
 os.makedirs(log_directory, exist_ok=True)
-log_file = os.path.join(log_directory, 'api.log')
+log_file = os.path.join(log_directory, "api.log")
 
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
+    format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[
-        logging.StreamHandler(), # Log to console
-        logging.FileHandler(log_file) # Log to file
-    ]
+        logging.StreamHandler(),  # Log to console
+        logging.FileHandler(log_file),  # Log to file
+    ],
 )
 logger = logging.getLogger(__name__)
 
@@ -46,6 +46,7 @@ app = FastAPI()
 # NEW: Dictionary to store the status of background tasks
 # Key: task_id (str), Value: { "status": str, "output": list, "error": list, "return_code": int }
 task_statuses = {}
+
 
 def secure_path(path: str) -> str:
     """
@@ -57,13 +58,20 @@ def secure_path(path: str) -> str:
         raise HTTPException(status_code=400, detail="Acceso a ruta no válido.")
     return full_path
 
+
 # --- Background Task ---
-def run_powershell_script(task_id: str, script_path: str): # MODIFIED: Added task_id
+def run_powershell_script(task_id: str, script_path: str):  # MODIFIED: Added task_id
     """Runs a PowerShell script and logs its output, updating task status."""
     task_statuses[task_id]["status"] = "RUNNING"
     full_script_path = secure_path(script_path)
-    command = ["powershell.exe", "-ExecutionPolicy", "Bypass", "-File", full_script_path]
-    
+    command = [
+        "powershell.exe",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        full_script_path,
+    ]
+
     try:
         logger.info(f"Starting script for task {task_id}: {' '.join(command)}")
         process = subprocess.Popen(
@@ -71,17 +79,17 @@ def run_powershell_script(task_id: str, script_path: str): # MODIFIED: Added tas
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
-            encoding='utf-8',
-            cwd=PROJECT_ROOT # Run the script from the project root
+            encoding="utf-8",
+            cwd=PROJECT_ROOT,  # Run the script from the project root
         )
 
         stdout_lines = []
         stderr_lines = []
 
-        for line in iter(process.stdout.readline, ''):
+        for line in iter(process.stdout.readline, ""):
             stdout_lines.append(line.strip())
             logger.info(f"TASK {task_id} STDOUT: {line.strip()}")
-        for line in iter(process.stderr.readline, ''):
+        for line in iter(process.stderr.readline, ""):
             stderr_lines.append(line.strip())
             logger.warning(f"TASK {task_id} STDERR: {line.strip()}")
 
@@ -95,62 +103,90 @@ def run_powershell_script(task_id: str, script_path: str): # MODIFIED: Added tas
 
         if process.returncode == 0:
             task_statuses[task_id]["status"] = "COMPLETED"
-            logger.info(f"Script for task {task_id} finished successfully with exit code {process.returncode}")
+            logger.info(
+                f"Script for task {task_id} finished successfully with exit code {process.returncode}"
+            )
         else:
             task_statuses[task_id]["status"] = "FAILED"
-            logger.error(f"Script for task {task_id} failed with exit code {process.returncode}")
+            logger.error(
+                f"Script for task {task_id} failed with exit code {process.returncode}"
+            )
 
     except Exception as e:
         task_statuses[task_id]["status"] = "FAILED"
         task_statuses[task_id]["error"].append(f"Failed to run script: {e}")
         logger.exception(f"Failed to run script for task {task_id}: {e}")
 
+
 # --- API Endpoints ---
 @app.get("/")
 def read_root():
     return {"message": "Servidor de la API del Proyecto de Tesis funcionando."}
+
 
 @app.post("/process")
 async def process_all_files(background_tasks: BackgroundTasks):
     """
     Triggers the full processing pipeline in the background.
     """
-    task_id = str(uuid.uuid4()) # NEW: Generate a unique task ID
-    task_statuses[task_id] = {"status": "PENDING", "output": [], "error": [], "return_code": None} # NEW: Initialize task status
-    
+    task_id = str(uuid.uuid4())  # NEW: Generate a unique task ID
+    task_statuses[task_id] = {
+        "status": "PENDING",
+        "output": [],
+        "error": [],
+        "return_code": None,
+    }  # NEW: Initialize task status
+
     script_path = "tools/Start-FullProcess.ps1"
-    background_tasks.add_task(run_powershell_script, task_id, script_path) # MODIFIED: Pass task_id
-    
-    return {"message": "Proceso completo iniciado en segundo plano.", "task_id": task_id} # MODIFIED: Return task_id
+    background_tasks.add_task(
+        run_powershell_script, task_id, script_path
+    )  # MODIFIED: Pass task_id
+
+    return {
+        "message": "Proceso completo iniciado en segundo plano.",
+        "task_id": task_id,
+    }  # MODIFIED: Return task_id
+
 
 @app.get("/files")
-def list_files(directory: str = Query(..., description="Directorio a listar, relativo a la raíz del proyecto.")):
+def list_files(
+    directory: str = Query(
+        ..., description="Directorio a listar, relativo a la raíz del proyecto."
+    )
+):
     """
     Lists all files in a specified directory.
     """
     safe_dir_path = secure_path(directory)
     if not os.path.isdir(safe_dir_path):
         raise HTTPException(status_code=404, detail="El directorio no existe.")
-    
+
     file_list = []
     for root, _, files in os.walk(safe_dir_path):
         for file in files:
             full_path = os.path.join(root, file)
             # Return path relative to the project root
-            relative_path = os.path.relpath(full_path, PROJECT_ROOT).replace("\", "/")
+            relative_path = os.path.relpath(full_path, PROJECT_ROOT).replace(
+                "\\\\", "/"
+            )
             file_list.append(relative_path)
-            
+
     return {"directory": directory, "files": sorted(file_list)}
 
+
 @app.get("/file-content", response_class=PlainTextResponse)
-def get_file_content(path: str = Query(..., description="Ruta al archivo a leer, relativa a la raíz del proyecto.")):
+def get_file_content(
+    path: str = Query(
+        ..., description="Ruta al archivo a leer, relativa a la raíz del proyecto."
+    )
+):
     """
     Reads and returns the content of a specific file.
     """
     safe_file_path = secure_path(path)
     if not os.path.isfile(safe_file_path):
         raise HTTPException(status_code=404, detail="El archivo no existe.")
-    
+
     try:
         with open(safe_file_path, "r", encoding="utf-8") as f:
             return f.read()

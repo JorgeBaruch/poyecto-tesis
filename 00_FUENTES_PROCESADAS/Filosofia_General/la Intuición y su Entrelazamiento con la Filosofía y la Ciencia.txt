@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 La idea es explorar a fondo cada una de estas "fases" como temáticas o bloques conceptuales fundamentales en
 el estudio de la intuición, la filosofía de la matemática y las heurísticas, sin que el orden sea restrictivo, sino más
 bien una forma de organizar la información y las ideas presentes en las fuentes.
@@ -41,7 +41,7 @@ un acceso a esta dimensión pre-simbólica y pre-lingüística.
 
 Fase 2: Semiótica de la Intuición (Expresión y Codificación Simbólica)
 
-[[2]]
+[[p=2]]
 Esta fase se enfoca en cómo la intuición se ha expresado y transmitido a través de sistemas de signos, símbolos y
 metáforas en diversas culturas y textos sagrados. Revela que la intuición no es meramente una experiencia
 privada, sino un constructo mediado por sistemas simbólicos compartidos.
@@ -81,7 +81,7 @@ intuición espacio-temporal y son independientes de la experiencia.
      ▪ Bergson la explora como un método para aprehender la "duración" (la realidad fluida y continua de la
 conciencia), contrastándola con el intelecto que fragmenta.
 
-[[3]]
+[[p=3]]
 ▪ Husserl postula la "intuición fenomenológica" o Wesensschau (intuición de esencias), la capacidad de
 "ver ideas" y lograr una comprensión clara de la esencia de los fenómenos.
       ▪ Heidegger relaciona la intuición con la "comprensión pre-ontológica" del Dasein (ser-ahí) como un
@@ -120,7 +120,7 @@ buena semántica pero débil epistemología, mientras el formalismo falla en la 
 esta red, siendo indispensables para nuestras mejores teorías científicas, justificando la postulación de sus
 entidades abstractas como "mitos" útiles para manejar la experiencia sensible.
 
-[[4]]
+[[p=4]]
 ◦ Cuasi-Empirismo (Lakatos y Putnam): Lakatos plantea que el desarrollo matemático es una "mejora
 incesante de conjeturas a través de la especulación y la crítica", y no un aumento monótono de teoremas
 indudablemente establecidos. Putnam, influenciado por Quine, considera que la distinción a priori/a posteriori es
@@ -162,7 +162,7 @@ función principal es observar y controlar las sugerencias del Sistema 1.
 automática, sino mediante una combinación de ambos sistemas. "Intuición" no es sinónimo de irracional o
 ilógico, y "deliberado" no implica la ausencia de aspectos emocionales o automáticos. Herbert A. Simon postula
 
-[[5]]
+[[p=5]]
 que los procesos heurísticos pueden ser normativos. Gerd Gigerenzer defiende la intuición como "inteligencia
 del inconsciente", a menudo más efectiva que las decisiones puramente racionales.
 
@@ -204,7 +204,7 @@ escritura, la fotografía y otras formas de expresión artística, donde las ide
 teorías psicoanalíticas pueden ofrecer una lente para entender la "inspiración" artística como una manifestación de
 procesos inconscientes o de la "sublimación".
 
-[[6]]
+[[p=6]]
 • Intuición en el Diseño: En el diseño, la intuición puede ser un "pensamiento" junto a la ciencia, la filosofía y
 el arte. Se busca fortalecer la intuición a través de sistemas interpretativos y métodos basados en simbolismos
 para facilitar la formulación de abducciones e hipótesis proyectuales sobre el comportamiento de los usuarios. Se
@@ -245,7 +245,7 @@ epistemológica, metodológica y analítica.
 incluida la conceptualización de la intuición, no es estático, sino que se construye y transforma a lo largo del
 tiempo.
 
-[[7]]
+[[p=7]]
 ◦ Este enfoque analiza las "condiciones de posibilidad de objetos, teorías y conceptos" a través de su desarrollo
 histórico.
    ◦ Reconoce que el conocimiento científico no se edifica de manera lineal, sino que es el resultado de una
@@ -289,7 +289,7 @@ cómo la intuición operaba en contextos donde la distinción entre lo racional 
 discursivo, no estaba tan rígidamente establecida como en épocas posteriores.
 Manifestaciones Antiguas y Pre-discursivas:
 
-[[8]]
+[[p=8]]
 • Las fuentes sugieren que el conocimiento intuitivo se manifestaba en sociedades pre-racionales y míticas a través
 de prácticas como la adivinación, el chamanismo y la interpretación de sueños.
 • La oniromancia, por ejemplo, la adivinación profética a partir de sueños, era considerada un acto divino en la
@@ -329,7 +329,7 @@ arqueológica de rupturas.
   ◦ La inclusión de Bachelard permite explorar la dimensión imaginativa y "pre-racional" de la intuición, lo cual
 es crucial para comprender sus manifestaciones más arcaicas y su resistencia a la formalización.
 
-[[9]]
+[[p=9]]
 Esta fase sentará las bases para entender que la intuición no es un concepto monolítico, sino un constructo
 dinámico influenciado por estructuras de poder, condiciones históricas y prácticas culturales, en lugar de una
 facultad universal e inmutable.
@@ -370,7 +370,7 @@ a través de objetos adornados o ceremonias específicas, vehiculizan experienci
 menudo opera en un ámbito de ambigüedad y polisemia, lo que la hace resistente a la articulación directa y
 literal.
 
-[[10]]
+[[p=10]]
 • Si la intuición se expresa comúnmente a través de símbolos (con un significado más profundo y culturalmente
 construido) en lugar de signos (con una relación directa con su objeto), esto sugiere que el conocimiento intuitivo
 a menudo se mueve en un espacio donde su significado puede ser múltiple y fluido.
@@ -412,7 +412,7 @@ realidades trascendentes o del Uno.
   ◦ Descartes consideraba válida la intuición tanto en la "representación sensible de la extensión como ideas
 en la conciencia" como en la "deducción de ideas en la conciencia a partir de unos principios o ideas
 
-[[11]]
+[[p=11]]
 innatas", lo que él denominaba análisis. Para él, el método matemático permitía alcanzar certezas y demostrarlas.
 Su filosofía asumía una visión axiomática de las matemáticas y buscaba explicar los fenómenos naturales
 mecánicamente. Descartes sostenía que el razonamiento matemático requiere la "contemplación de un objeto
@@ -452,7 +452,7 @@ escuelas principales:
 extensión de ella. Los logicistas creían que el conocimiento matemático es a priori y es parte de nuestro
 conocimiento de la lógica en general, siendo, por lo tanto, analítico.
 
-[[12]]
+[[p=12]]
 ◦ Gottlob Frege es su representante por excelencia. Él concibió un ambicioso programa para basar las
 matemáticas en la lógica a través de la aritmética, argumentando que las leyes aritméticas son juicios analíticos
 y a priori, y que la aritmética es una lógica más desarrollada. Frege construyó un nuevo lenguaje simbólico, el
@@ -492,7 +492,7 @@ intuición básica del 1, cada número se "construye" agregando 1 al anterior, l
 explícitas y rigurosas. Una entidad matemática es válida solo si puede ser construida mediante un procedimiento
 especificado y con un número finito de pasos.
 
-[[13]]
+[[p=13]]
 ◦ Una consecuencia clave es el rechazo del principio del tercero excluido en muchos contextos,
 especialmente para conjuntos infinitos, ya que no siempre se puede construir una prueba para uno de los disyuntos.
 Esto implica que las proposiciones podrían no tener un valor de verdad predeterminado hasta que se proporcione
@@ -531,7 +531,7 @@ un sistema absoluto y cerrado".
 4. Debates Posteriores y Corrientes Recientes:
 • Dilema de Benacerraf:
 
-[[14]]
+[[p=14]]
 ◦ Plantea la dificultad de conciliar una teoría semántica adecuada con una explicación epistemológica
 aceptable en la filosofía de las matemáticas.
   ◦ Por ejemplo, el platonismo puro (que postula la existencia independiente de objetos matemáticos) ofrece una
@@ -568,7 +568,7 @@ ontología" (menos compromisos con la existencia de objetos) a cambio de "inflar
 (explicaciones teóricas más complejas).
 • Estructuralismo (Benacerraf, Resnik, Shapiro):
 
-[[15]]
+[[p=15]]
 ◦ Sostiene que los objetos matemáticos, como los números naturales, no poseen identidad individual
 intrínseca, sino que se definen exclusivamente por la "estructura abstracta que forman", es decir, la red de
 relaciones que mantienen entre sí. La estructura misma es el verdadero objeto de estudio de la matemática.
@@ -611,7 +611,7 @@ menudo, surge cuando se ha dejado de pensar conscientemente en un problema. Para
 combinación de factores: preparación y conocimiento previo sobre el tema, periodos de incubación (descanso
 mental), relajación, ambientes adecuados y un estado de ánimo positivo.
 
-[[16]]
+[[p=16]]
 Desde una perspectiva neurocientífica, el "momento eureka" se relaciona con una "reconfiguración en la corteza
 visual" y la generación de un "nuevo patrón neuronal". Ejemplos históricos incluyen el descubrimiento de la
 estructura del anillo de benceno por Kekulé o las funciones fuchsianas de Poincaré. Poincaré describió la
@@ -655,7 +655,7 @@ There Is" - Lo que ves es todo lo que hay), y puede llevar a sacar conclusiones 
 confianza y efectos de encuadre. Paradójicamente, es más fácil construir una historia coherente cuando el
 conocimiento es escaso. Además, puede ser "primado" por estímulos inconscientes, influyendo en pensamientos y
 
-[[17]]
+[[p=17]]
 acciones, y sus operaciones son silenciosas y a menudo ocultas a nuestra conciencia. A pesar de sus maravillas, el
 Sistema 1 es propenso a sesgos y errores sistemáticos.
 • Sistema 2 (Lento y Deliberativo): Este sistema requiere esfuerzo y atención consciente. Se activa cuando el
@@ -698,7 +698,7 @@ para el análisis. Su principal objetivo es denunciar la "supresión de saberes 
 El trabajo de Santos y Dussel busca deconstruir el "pensamiento abismal", una forma de pensamiento que ha
 jerarquizado y marginalizado formas de conocimiento no hegemónicas. Desde esta perspectiva, la
 
-[[18]]
+[[p=18]]
 conceptualización occidental de la intuición no es universalmente aplicable ni inherentemente superior, sino
 que es un producto de un contexto histórico y de poder específico. Se argumenta que la "epistemología
 occidental dominante se construyó sobre la base de las necesidades de la dominación colonial", lo que ha
@@ -742,7 +742,7 @@ legítima de conocimiento más allá de los marcos occidentales.
 
 4. Desafíos y Consideraciones Éticas y Metodológicas
 
-[[19]]
+[[p=19]]
 Una investigación de esta magnitud enfrenta desafíos significativos que deben ser anticipados:
 • Ambigüedad y Subjetividad de la Intuición: La intuición es un objeto de estudio inherentemente "ambiguo",
 difícil de definir y medir consistentemente. Se la describe a menudo como un "sentimiento emocional o
@@ -783,7 +783,7 @@ postulan la existencia de dos sistemas principales de pensamiento que interactú
 • El Sistema 1 (Rápido y Automático) opera de manera automática, con poco o ningún esfuerzo y sin sensación
 de control voluntario. Genera evaluaciones básicas, detecta relaciones simples y sobresale en integrar información
 
-[[20]]
+[[p=20]]
 sobre un solo elemento. Es la fuente de la mayoría de nuestras acciones y pensamientos, y generalmente son
 acertados. Sin embargo, es propenso a sesgos y errores sistemáticos. Construye la mejor historia posible con la
 información disponible, ignorando la que no posee (principio WYSIATI), y no puede ser "desconectado".
@@ -824,7 +824,7 @@ la construcción intuitiva de historias y perfiles. La "observación de diseño"
 abductivo que tiene su origen en una intuición, llevando a la formulación de conjeturas e hipótesis. Aunque se
 reconoce la validez de la intuición (Husserl), se enfatiza la necesidad de combinar la intuición con la razón en el
 
-[[21]]
+[[p=21]]
 diseño, sometiendo los resultados intuitivos a un sistema lógico para evaluar su factibilidad, incluyendo modelado
 estadístico y combinatorio.
 Intuición e Inteligencia Artificial (IA): La inteligencia artificial es un campo contemporáneo que busca "emular
@@ -864,7 +864,7 @@ La intuición es un "amarre psicológico excelente" para la improvisación en un
 que debe ser entrenada. En última instancia, la intuición nos recuerda que a menudo las respuestas ya están
 dentro de nosotros, esperando ser descubiertas.
 
-[[22]]
+[[p=22]]
 Fase 7: Síntesis Conclusiva sobre la Intuición (Usos Contemporáneos y Desafíos)
 Esta fase del proyecto ha servido para conectar la noción de intuición con los desafíos y oportunidades del siglo
 XXI, explorando sus manifestaciones y debates actuales en diversos campos, y su potencial como forma de
@@ -905,7 +905,7 @@ desarrollo intuitivo de perfiles de consumidores, basados en comportamientos arq
 investigativo busca fortalecer la intuición de los diseñadores mediante sistemas interpretativos basados en
 simbolismos y la teoría de los arquetipos de Carl Jung [Fase 6].
 
-[[23]]
+[[p=23]]
 4. Intuición e Inteligencia Artificial (IA): La IA busca "emular el cerebro humano", lo que plantea un desafío
 en la simulación de la intuición, especialmente por su capacidad de operar con "información escasa, en poco
 tiempo" para llegar a conclusiones correctas [Fase 6; Redalyc.La intuición como proceso cognitivo]. La
@@ -947,7 +947,7 @@ que el razonamiento matemático tiene una "virtud creadora" y se distingue del s
 "inducción matemática" que "puede enseñarnos algo nuevo" [Historia y filosofía de las Matemáticas]. Incluso
 Hilbert, si bien formalista, postulaba que la matemática requiere "objetos extralógicos concretos, que están
 
-[[24]]
+[[p=24]]
 intuitivamente presentes como experiencia inmediata previa a todo pensamiento", como los signos mismos
 [FILOSOF´IA DE LA CIENCIA APLICADA La crisis de fundamentos (Una introducción a la filosof´ıa de la
 matemática contemporánea); Historia y filosofía de las Matemáticas; Todas las notas, 22/7/2025]. Para Descartes,
@@ -989,7 +989,7 @@ subjetivo y lo objetivo, son centrales para entender tanto la toma de decisiones
 conocimiento. Esta perspectiva invita a un enfoque multidisciplinario para abordar la complejidad de la intuición
 y su impacto en la sociedad moderna, reconociendo su potencial para la resistencia y adaptación en un mundo
 
-[[25]]
+[[p=25]]
 cada vez más tecnificado y saturado de información [La Intuición: Una Odisea Epistémica Transcultural]. Se
 busca una nueva fundamentación de las matemáticas y, por extensión, del conocimiento en general, que integre
 estas diversas dimensiones y supere las dicotomías tradicionales [Historia y filosofía de las Matemáticas].
@@ -1034,7 +1034,7 @@ Kahneman y Tversky introdujeron los heurísticos como atajos simplificadores del
 utilizan para facilitar decisiones bajo riesgo e incertidumbre. Los sesgos cognitivos son los errores sistemáticos
 que resultan de estos atajos. Han definido tres grandes grupos de heurísticos: de la disponibilidad (juzgar la
 
-[[26]]
+[[p=26]]
 frecuencia por la facilidad con que los ejemplos vienen a la mente), de la representatividad (juzgar por similitud,
 ignorando tasas base), y del anclaje (basar juicios en una información inicial). También se menciona la heurística
 afectiva, donde los juicios y decisiones son directamente regidos por sentimientos de agrado o desagrado.
@@ -1077,7 +1077,7 @@ de la construcción en la intuición, que es la capacidad o condición que hace 
 en las conexiones deductivas. Distinguía entre intuición sensible (el espacio y el tiempo como formas a priori de
 la sensibilidad) e intuición intelectual (reservada a Dios).
 
-[[27]]
+[[p=27]]
 • Henri Poincaré: Describió la experiencia de la intuición en el descubrimiento matemático como ideas que
 vienen "de repente" y generan una "absoluta certidumbre" que luego debe ser verificada conscientemente. Veía
 la inducción matemática y la intuición como fecundas para crear ciencia.
@@ -1115,5 +1115,4 @@ revelando la tensión entre el descubrimiento y la creación, y la coexistencia 
 es infalible, la intuición, cuando se cultiva y se combina con un análisis crítico y deliberado, puede ser una
 herramienta poderosa y adaptativa para navegar la complejidad del mundo y fomentar el florecimiento humano.
 
-[[28]]
-
+[[p=28]]

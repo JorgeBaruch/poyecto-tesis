@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Arqueología, semiótica y política del valor: Un
 recorrido interdisciplinario en diez fases
 Resumen: Este artículo explora exhaustivamente el concepto de “valor” a través de diez fases
@@ -41,7 +41,7 @@ El concepto de valor ocupa un lugar central y problemático en múltiples discip
 filosofía moral y la economía política clásica hasta la semiótica, la antropología y la teoría crítica
 contemporánea. Esta investigación propone un recorrido estructurado en diez fases que abordan “el
 
-[[2]]
+[[p=2]]
 valor” desde distintos enfoques teórico-metodológicos. Cada fase se concibe como un capítulo
 analítico con objetivos propios y ejes temáticos bien delimitados, pero en diálogo con las demás
 fases. En conjunto, estas diez aproximaciones permiten desentrañar el valor no solo como concepto,
@@ -86,7 +86,7 @@ Siguiendo con la metáfora arqueológica, Michel Foucault aporta una metodologí
 las epistemes o regímenes de verdad en que un concepto como el valor se articula. En Las palabras
 y las cosas (Foucault, 1966) y La arqueología del saber (1969), Foucault sugiere que cada época
 
-[[3]]
+[[p=3]]
 conforma sus propias categorías de pensamiento. Aplicado al “valor”, ello implica que la noción ha
 sido construida y transformada en distintos umbrales históricos de acuerdo con a priori epistémicos
 cambiantes. Por ejemplo, en la época clásica (siglos XVII-XVIII), dentro de las ciencias de la
@@ -131,7 +131,7 @@ ante todo, una relación diferencial. Los ejes temáticos incluyen el concepto d
 Ferdinand de Saussure, las extensiones a otros códigos semióticos (por ejemplo, la cultura material,
 la moda), así como la noción de valor-signo propuesta por autores como Jean Baudrillard. Se
 
-[[4]]
+[[p=4]]
 pretende mostrar que en semiótica, “valor” no refiere a una sustancia, sino a una diferencia
 relacional dentro de un sistema estructurado de significantes.
 Desarrollo argumentativo: La idea central proviene de la lingüística estructural de Ferdinand de
@@ -177,7 +177,7 @@ significaciones. Esta comprensión será útil más adelante al vincular, por ej
 económico con expectativas subjetivas (marginalismo) o el valor deseado con la lógica del deseo
 (psicoanálisis), pues ambas remiten a diferencias y relaciones más que a sustancias.
 
-[[5]]
+[[p=5]]
 Fase 3: Filología e historia conceptual del valor
 Objetivo y eje temático: La tercera fase adopta una perspectiva filológica y lexicográfica para
 examinar el concepto de valor, es decir, estudia la evolución del término “valor” y sus significados
@@ -221,7 +221,7 @@ como a la económica (valor de cambio). Por ejemplo, en español moderno hablamo
 valores” para referirnos a principios éticos, pero también del “valor del dinero”. Este doble uso
 refleja cómo una raíz común se diversificó semánticamente en la Modernidad.
 
-[[6]]
+[[p=6]]
 La historia conceptual (Begriffsgeschichte alemana) del término Wert en filosofía documenta su
 “independización” en el siglo XIX. Filósofos neokantianos como Hermann Lotze y más tarde
 Wilhelm Windelband y Heinrich Rickert elevaron Wert a categoría fundamental en axiología,
@@ -267,7 +267,7 @@ subjetivos. La axiología, inaugurada por pensadores como Friedrich Nietzsche y 
 Eduard von Hartmann, Lotze, Brentano, etc., reconoce que los valores pueden variar con la
 perspectiva humana. Nietzsche, en particular, es un filósofo de los valores sui generis: su propuesta
 
-[[7]]
+[[p=7]]
 de “transmutación de todos los valores” cuestiona que existan valores morales absolutos e invita a
 crear nuevos valores afirmativos de la vidaes.wikipedia.org. En Así habló Zaratustra y Genealogía
 de la moral, Nietzsche denuncia que los valores tradicionales (p.ej. la humildad, la compasión
@@ -312,7 +312,7 @@ radicalmente dependientes de cada forma de vida?
 Autores clave: En esta fase destacan Kant (1785) por la fundación de la noción de valor
 intrínseco/dignidad, Nietzsche (1887) por la genealogía y relativización de valores, Scheler (1916)
 
-[[8]]
+[[p=8]]
 por la sistematización de los valores en una jerarquía, Heidegger (1947) por la crítica al concepto
 de valor, y también José Ortega y Gasset (que en “La rebelión de las masas” hablaba del eclipse
 de los valores nobles frente al relativismo). Otro autor, Hartmann (1949), intenta conciliar
@@ -357,7 +357,7 @@ jornada), el excedente de trabajo no remunerado se traduce en plusvalía apropia
 base de la ganancia. Así, en la esfera económica, valor se vuelve un dispositivo para explotar y
 acumular –una idea de enormes implicaciones políticas.
 
-[[9]]
+[[p=9]]
 Hacia finales del siglo XIX, la llamada “revolución marginalista” (Jevons, Menger, Walras)
 rechazó el valor-trabajo y propuso una teoría subjetiva del valor basada en la utilidad marginal.
 Según esta visión, el valor de un bien no está en el trabajo pasado sino en la importancia que un
@@ -402,7 +402,7 @@ cuantitativa, donde todo tiende a evaluarse en términos de valor monetario agre
 cuestionado en las fases siguientes que se adentran en la vida (biopolítica), la tecnología digital y
 las resistencias decoloniales.
 
-[[10]]
+[[p=10]]
 Fase 6: Biopolítica del valor
 Objetivo y eje temático: Esta fase explora el concepto de valor en relación con la vida, el cuerpo
 y la gestión de las poblaciones, apoyándose en las nociones de biopolítica y biopoder
@@ -447,7 +447,7 @@ vitales de los seres vivosrepository.upenn.edu. Por ejemplo, la capacidad regene
 madre, o la información genética de semillas y organismos, se convierte en un valor económico
 (patentable, comerciable). Waldby y Cooper (2010) muestran cómo la biomedicina crea “promesas
 
-[[11]]
+[[p=11]]
 de vida” que se traducen en capital especulativo: se invierte en el potencial valioso de curas futuras,
 etc. Así, la vida en sus componentes mínimos (genes, células) deviene capital que genera biovalor
 en el mercado globalrepository.upenn.edu. Este desarrollo lleva a paradojas éticas: ¿cómo
@@ -493,7 +493,7 @@ drásticamente la productividad del trabajo. Karl Marx observó que si el valor 
 la mecanización (que reduce la proporción de trabajo humano por mercancía) tiende a hacer caer la
 tasa de ganancia –una contradicción del capital. A medida que la tecnología avanza, una pregunta
 
-[[12]]
+[[p=12]]
 clave es: ¿sigue siendo el trabajo humano la métrica principal del valor? En economías altamente
 automatizadas, algunas teorías sugieren que estamos pasando a una economía donde el
 conocimiento y la información (productos de cerebros y algoritmos, más que de brazos) son los
@@ -539,7 +539,7 @@ de cooperación social difusa, no cuantificable en horas de trabajo individuales
 de código abierto, el prosumidor, etc., desdibujan la línea entre producción y consumo,
 cuestionando el viejo paradigma del valor.
 
-[[13]]
+[[p=13]]
 Autores clave: Además de Heidegger, Herbert Marcuse (1964) criticó la racionalidad tecnológica
 instrumental que aplasta valores cualitativos (en El hombre unidimensional). Jean-François
 Lyotard (1979) habló de la “postmodernidad” como incredulidad hacia metarrelatos, pero también
@@ -585,7 +585,7 @@ XVII (1968-1970), introduce el término “plus-de-jouir” (plus-de-goce) para 
 goce que resulta de la estructura del deseo, análogo a cómo la plusvalía es el exceso de valor que
 resulta de la producciónrevistas.um.es. Mientras Marx veía al capitalista extraer plusvalía del
 
-[[14]]
+[[p=14]]
 trabajo del obrero, Lacan observa que el sujeto neurótico extrae un plus de goce cada vez que su
 deseo es postergado –un goce paradójico en la misma insatisfacción. El discurso capitalista, según
 Lacan (en “Radiofonía”, 1970), se caracteriza por promover un circuito de producción y consumo
@@ -630,7 +630,7 @@ nunca totalmente colmadasrevistas.um.es; y (d) en última instancia, el valor es
 cambiar el discurso (por ejemplo, entrar en el discurso analítico) puede cambiar qué valor damos a
 las cosas y a nuestra vida. Esto abre a considerar, en la siguiente fase, cómo diferentes culturas y
 
-[[15]]
+[[p=15]]
 discursos atribuyen valor de modos distintos, y la importancia de cuestionar la universalidad de
 cualquier régimen de valor.
 
@@ -676,7 +676,7 @@ crear espacios de traducción y negociación. Por ejemplo, en el campo de la ét
 sostiene que la dignidad humana puede ser un punto de encuentro, pero matizado por las
 concepciones locales de persona y comunidaddialnet.unirioja.es.
 
-[[16]]
+[[p=16]]
 Es importante también considerar cómo las culturas colonizadas han vivido una desvalorización
 sistemática de sus propios saberes y valores. La imposición colonial muchas veces calificó las
 prácticas locales como “atrasadas” o “sin valor” frente a los valores occidentales (civilización,
@@ -722,7 +722,7 @@ noción de “valor de uso” recuperada como centro frente al fetiche del valor
 Desarrollo argumentativo: La teoría de la colonialidad, iniciada por Aníbal Quijano, sostiene
 que el mundo moderno está organizado por un patrón de poder global forjado en la conquista de
 
-[[17]]
+[[p=17]]
 América (desde 1492) que impuso clasificaciones sociales (notablemente la categoría de raza) y
 una economía capitalista mundial eurocéntricamarxismocritico.commarxismocritico.com. En este
 patrón, lo europeo se constituyó como la referencia de lo valioso: se adjudicó a sí mismo la posición
@@ -768,7 +768,7 @@ pregona universal, pero ha servido para encubrir desigualdades profundas y para 
 modelos de gobernanza comunitaria que podrían tener valor en contextos distintos. Un ejemplo es
 cómo Occidente valoriza la individualidad y propiedad privada, mientras muchas sociedades
 
-[[18]]
+[[p=18]]
 valoran la comunidad y la tierra comunal; la imposición de la propiedad privada (durante la colonia
 y después) implicó la desvalorización de sistemas comunales (tachados de improductivos).
 Autores clave: Aníbal Quijano (2000) por colonialidad del podermarxismocritico.com, Walter
@@ -813,7 +813,7 @@ En síntesis, podemos extraer algunas conclusiones integradoras:
       una estructura de relaciones (significantes, mercancías en el mercado, objetos en la fantasía)
       y porque un sujeto o colectividad le inviste de importancia. Esto implica que el valor puede
 
-[[19]]
+[[p=19]]
 cambiar si cambian las relaciones o las investiduras de deseo. Así, el valor es
        inherentemente dinámico y contextual.
     • Colonialidad del valor y necesidad de transformación: Las fases intercultural y
@@ -858,7 +858,7 @@ herramientas aquí esbozadas, la compleja constelación histórica que conocemos
 VALOR.
 Referencias
 
-[[20]]
+[[p=20]]
 • Baudrillard, J. (1972). Pour une critique de l’économie politique du signe. París: Gallimard.
   (Crítica de la economía política del signo).
 • Dussel, E. (2015). Filosofía de la liberación. Madrid: Biblioteca Nueva.
@@ -888,5 +888,4 @@ Referencias
   formalismo en la ética y la ética material de los valores).
 • Zuboff, S. (2019). The Age of Surveillance Capitalism. Nueva York: PublicAffairs.
 
-[[21]]
-
+[[p=21]]

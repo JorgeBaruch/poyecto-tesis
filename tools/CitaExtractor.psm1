@@ -34,7 +34,7 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 # Patrones regex como string y como objeto [regex]
 $quotePattern = '"([^"]+)"'
 $quoteRegex = [regex]$quotePattern
-$citationPattern = '\(([^\)]+)\)'
+$citationPattern = '\(([^)]+)\)'
 $citationRegex = [regex]$citationPattern
 $pageNumberPattern = '\[\[p=(\d+)\]\]'
 $pageNumberRegex = [regex]$pageNumberPattern
@@ -153,8 +153,8 @@ function Process-TextFile {
     try {
         Write-Log "Procesando archivo: $FilePath" "INFO"
     $content = Get-Content -Path $FilePath -Raw -Encoding UTF8
-    $relativeDirPath = $FilePath.Substring($BaseDirectory.Length).TrimStart("\")
-        $category = if ([string]::IsNullOrEmpty($relativeDirPath)) { "UNCATEGORIZED" } else { $relativeDirPath.Split("\")[0] } # Get top-level category
+    $relativeDirPath = $FilePath.Substring($BaseDirectory.Length).TrimStart("\ ")
+        $category = if ([string]::IsNullOrEmpty($relativeDirPath)) { "UNCATEGORIZED" } else { $relativeDirPath.Split("\ ")[0] } # Get top-level category
 
     $pages = Get-PageContent -RawContent $content
     $fileQuotes = @{}
@@ -181,8 +181,8 @@ function Process-TextFile {
     Write-Log "Archivo procesado: $FilePath" "SUCCESS"
     return $fileQuotes
     } catch {
-        Write-Error "Error processing file '$FilePath': $($_.Exception.Message)"
-        Write-Log "Error procesando archivo '$FilePath': $($_.Exception.Message)" "ERROR"
+        Write-Error "Error processing file '${FilePath}': $($_.Exception.Message)"
+        Write-Log "Error procesando archivo '${FilePath}': $($_.Exception.Message)" "ERROR"
         return @{} # Return empty hashtable on error
     }
 }
@@ -197,12 +197,11 @@ function Save-ExtractedQuotes {
     )
 
     foreach ($category in $QuotesDB.Keys) {
-    foreach ($year in $QuotesDB[$category].Keys) {
+        foreach ($year in $QuotesDB[$category].Keys) {
             foreach ($author in $QuotesDB[$category][$year].Keys) {
 
                 $quotesData = $QuotesDB[$category][$year][$author]
                 if ($quotesData.Count -eq 0) { continue }
-
 
                 $safeAuthorName = $author -replace '[^a-zA-Z0-9_.-]', ''
                 $safeCategoryName = $category -replace '[^a-zA-Z0-9_.-]', ''
@@ -213,17 +212,34 @@ function Save-ExtractedQuotes {
                 try {
                     New-Item -Path $finalAuthorDir -ItemType Directory -Force | Out-Null
                     $outFile = Join-Path -Path $finalAuthorDir -ChildPath "extracted_quotes.md"
-                    $mdOutput = foreach($quote in $quotesData.GetEnumerator()) {
-                        $quoteText = $quote.Name; $quoteInfo = $quote.Value
-                        $referenceLine = if ($quoteInfo.Reference) { "- **Found Reference:** $($quoteInfo.Reference)`n" } else { "" }
-                        "`"$quoteText`"`n$($referenceLine)- **Location in PDF:** [[p=$($quoteInfo.Page)]] | **Confidence:** $($quoteInfo.Confidence) | **Source:** $($quoteInfo.SourceFile)`n---"
+                    
+                    $mdOutputLines = foreach($quote in $quotesData.GetEnumerator()) {
+                        $quoteText = $quote.Name
+                        $quoteInfo = $quote.Value
+                        $referenceBlock = if ($quoteInfo.Reference) {
+                            "- **Found Reference:** $($quoteInfo.Reference)"
+                        } else {
+                            ""
+                        }
+                        
+                        # Using a here-string for robust multiline content
+                        @"
+"$quoteText"
+$referenceBlock
+- **Location in PDF:** [[p=$($quoteInfo.Page)]] | **Confidence:** $($quoteInfo.Confidence) | **Source:** $($quoteInfo.SourceFile)
+---
+"@
                     }
+                    # Join with two newlines for separation between entries
+                    $mdOutput = ($mdOutputLines | Where-Object { -not [string]::IsNullOrWhiteSpace($_) }) -join "`n`n"
+
                     Set-Content -Path $outFile -Value $mdOutput -Encoding utf8
-                    Write-Log "Guardadas $($mdOutput.Count) citas para $author ($year) en $outFile" "SUCCESS"
-                    Write-Verbose " -> Saved $($mdOutput.Count) quotes for $author ($year) in $outFile"
+                    Write-Log "Guardadas $($mdOutputLines.Count) citas para $author ($year) en $outFile" "SUCCESS"
+                    Write-Verbose " -> Saved $($mdOutputLines.Count) quotes for $author ($year) in $outFile"
                 } catch {
-                    Write-Error "Error guardando citas para $author ($year) en $outFile: $($_.Exception.Message)"
-                    Write-Log "Error guardando citas para $author ($year) en $outFile: $($_.Exception.Message)" "ERROR"
+                    $errorMessage = $_.Exception.Message
+                    Write-Error "Error guardando citas para $author ($year) en ${outFile}: $errorMessage"
+                    Write-Log "Error guardando citas para $author ($year) en ${outFile}: $errorMessage" "ERROR"
                 }
             }
         }

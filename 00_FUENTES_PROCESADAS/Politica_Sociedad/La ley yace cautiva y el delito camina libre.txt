@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 La ley yace cautiva y el delito camina libre
 Hay épocas en que las palabras se invierten como un guante y ya no nombran la realidad, sino la
 ocultan. En la Argentina de hoy —donde se invoca la “libertad” como piedra filosofal— asistimos a
@@ -47,7 +47,7 @@ argumento para más desregulación.
 En su Historia universal de la infamia, Borges recuerda a un capitán pirata que, perdonado por la
 Corona, se convirtió en noble y mecenas. Esa ironía del tiempo vuelve hoy como lección: cuando la
 
-[[2]]
+[[p=2]]
 impunidad se institucionaliza, la sociedad entera se hace rehén de su propio relato. Declara libre al
 bandido y descubre tarde que el ciudadano quedó cautivo.
 7. Epílogo
@@ -101,7 +101,7 @@ emocional                                                         virales en 202
 Gamificación del        “Likes” y “troleo” premiados en           Análisis del MDPI sobre el
 debate                  comunidades libertarias; opositores       discurso “gladiatorio” de Milei
 
-[[3]]
+[[p=3]]
 Estrategia               Mecanismo                               Evidencia
                          ridiculizados.                          MDPI
                          Se reemplaza discusión económica
@@ -152,7 +152,7 @@ libertad.
      Políticas de redistribución visibles y tangibles que compitan con el relato de la libertad sin
         controles.
 
-[[4]]
+[[p=4]]
 Sin estas capas, la ecuación seguirá favoreciendo a proyectos que, en nombre de la libertad, dejan
 cautiva a la ley y libre al delito.
 
@@ -202,7 +202,7 @@ Las recientes medidas anunciadas por el gobierno de Javier Milei para incorporar
 declarados al sistema financiero formal representan un punto de inflexión en la política económica
 argentina que trasciende lo meramente fiscal. Esta iniciativa, presentada oficialmente como una
 
-[[5]]
+[[p=5]]
 "reparación histórica del ahorro" y respaldada parcialmente por el Fondo Monetario Internacional,
 genera profundas tensiones entre los principios de libertad económica promovidos por la
 administración libertaria y los marcos jurídicos nacionales e internacionales de prevención del
@@ -250,7 +250,7 @@ en cooperación y coordinación entre agencias. Sin embargo, las conclusiones de
 deficiencias estructurales que las medidas de "descolchonización" podrían exacerbar
 significativamente.
 
-[[6]]
+[[p=6]]
 El informe del GAFI identifica la necesidad de que Argentina comprenda mejor los riesgos
 específicos de lavado de dinero proveniente de la corrupción y a través de servicios financieros
 informales, precisamente los sectores que podrían verse beneficiados por políticas de
@@ -300,7 +300,7 @@ sostiene que la liberación de estos capitales contribuirá a la formalización 
 fortalecimiento del sistema financiero, proporcionando liquidez adicional necesaria para la
 estabilización macroeconómica.
 
-[[7]]
+[[p=7]]
 Sin embargo, la distinción entre "remonetización" y "blanqueo encubierto" presenta implicaciones
 económicas fundamentalmente diferentes que trascienden la caracterización semántica. Una
 política de remonetización genuina típicamente se enfoca en restablecer la confianza en la
@@ -348,7 +348,7 @@ contrarrestados por el deterioro de la confianza en el sistema tributario entre 
 cumplidores, potencialmente reduciendo la recaudación fiscal futura y generando efectos
 contractivos sobre el gasto público. La resultante neta de estos efectos contrapuestos dependerá
 
-[[8]]
+[[p=8]]
 de las magnitudes relativas de cada fenómeno y de las respuestas de política fiscal que
 implemente el gobierno.
 
@@ -398,7 +398,7 @@ instructivo con las medidas argentinas. A partir de los acuerdos de intercambio 
 información fiscal implementados desde 2017, Suiza ha transitado hacia un modelo de
 transparencia fiscal que facilita la detección de activos no declarados por parte de las autoridades
 
-[[9]]
+[[p=9]]
 de origen. Esta transición hacia mayor transparencia ha incrementado la presión sobre los
 tenedores de activos no declarados, generando incentivos para la regularización voluntaria sin
 requerir amnistías explícitas. El modelo suizo sugiere que la efectividad de las políticas de
@@ -447,7 +447,7 @@ mantenimiento de controles esenciales de integridad del sistema.
 
 Consecuencias Reputacionales y Sanciones Internacionales
 
-[[10]]
+[[p=10]]
 La dimensión reputacional de las políticas de regularización de capitales presenta implicaciones
 que trascienden los efectos fiscales domésticos inmediatos. La inclusión de países en listas grises o
 negras de organismos internacionales como el GAFI puede generar restricciones de acceso a los
@@ -497,7 +497,7 @@ activos y en el mantenimiento de la equidad fiscal, presentando una visión simp
 relación entre libertad económica y orden legal que puede generar consecuencias no previstas
 sobre la legitimidad institucional.
 
-[[11]]
+[[p=11]]
 El uso del concepto de "colchón" para caracterizar los dólares no declarados introduce una
 dimensión simbólica que naturaliza la tenencia de activos en el exterior como una práctica
 defensiva legítima. Esta metáfora sugiere que la acumulación de activos externos responde a
@@ -544,7 +544,7 @@ ocultamiento patrimonial. Esta transformación cultural puede tener efectos dura
 comportamiento fiscal ciudadano, independientemente de los resultados económicos específicos
 de las medidas implementadas.
 
-[[12]]
+[[p=12]]
 La construcción de una narrativa que presenta el control estatal del origen del capital como
 inherentemente ilegítimo puede contribuir a la legitimación cultural de prácticas que
 históricamente se consideraban éticamente cuestionables. Esta legitimación opera no solamente
@@ -594,7 +594,7 @@ apoyo ciudadano mediante la identificación de un responsable claro de los probl
 medidas actuales pretenden resolver, simplificando debates complejos sobre política fiscal y
 transparencia financiera.
 
-[[13]]
+[[p=13]]
 Desvinculación de Responsabilidad Individual y Control Estatal
 La estrategia discursiva gubernamental opera una disociación conceptual entre responsabilidad
 individual y control estatal que tiene implicaciones profundas para la construcción de legitimidad
@@ -643,7 +643,7 @@ sustanciales con experiencias previas. Esta estrategia retórica es particularme
 contextos donde existen memorias positivas sobre procesos de liberalización económica,
 independientemente de su relevancia específica para las medidas bajo consideración.
 
-[[14]]
+[[p=14]]
 La paradoja central de esta construcción discursiva radica en que políticas que consolidan
 privilegios financieros existentes se presentan como instrumentos de democratización del acceso
 al sistema financiero. Esta inversión narrativa permite al gobierno reclamar simultáneamente
@@ -691,7 +691,7 @@ mediante narrativas de "reparación histórica" puede contribuir a la erosión d
 que tradicionalmente desalentaban la evasión fiscal y el ocultamiento patrimonial. Esta
 transformación cultural puede tener efectos duraderos sobre el comportamiento fiscal ciudadano,
 
-[[15]]
+[[p=15]]
 generando desafíos estructurales para la recaudación fiscal futura y la equidad del sistema
 tributario.
 
@@ -741,7 +741,7 @@ implicaciones significativas para la equidad fiscal.
 Estimación Demográfica de los Titulares de Dólares No Declarados
 Volumen Total y Distribución Patrimonial
 
-[[16]]
+[[p=16]]
 Los datos del INDEC (2023-2024) revelan que los argentinos mantienen entre USD 256.563
 millones1 y USD 271.247 millones5 en efectivo fuera del sistema financiero. Este monto equivale
 al 58-61% del PBI estimado para 2024 (USD 445.000 millones según el FMI). La distribución de
@@ -790,7 +790,7 @@ Regresividad Implícita
              Top 10%: Ahorran USD 12,000 millones en multas evadidas (equivalente al 50%
                 del presupuesto educativo 2024)
 
-[[17]]
+[[p=17]]
  Base imponible erosionada: USD 4,500 millones anuales en pérdida recaudatoria
 Impacto en Desigualdad
 La medida incrementa el coeficiente de Gini patrimonial de 0.62 a 0.673, retrocediendo 15 años
@@ -836,5 +836,4 @@ Reporte 2024 7 sobre patrimonio de individuos de alto neto, utilizado para contr
 concentración de capitales en Argentina. El estudio revela que el 1% más rico a nivel mundial
 controla el 32.4% de la riqueza, patrón que se replica en el caso argentino según análisis cruzados.
 
-[[18]]
-
+[[p=18]]

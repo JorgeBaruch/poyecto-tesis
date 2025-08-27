@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Comparativa de la tipología de corrientes/doctrinas,
 incluyendo:
        Capitalismo y sus variantes (liberalismo, anarcocapitalismo).
@@ -47,7 +47,7 @@ El esquema que propongo para que quede sólido y riguroso sería:
 
 2.1 Comunismo Marxista-Leninista
 
-[[2]]
+[[p=2]]
    Internacionalismo proletario.
 
       Abolición de la propiedad privada de medios de producción.
@@ -98,7 +98,7 @@ El esquema que propongo para que quede sólido y riguroso sería:
 
 6. Comparativa Internacionalismo – Soberanía
 
-[[3]]
+[[p=3]]
 Doctrina           Internacionalismo Soberanía nacional Papel del Estado Distribución
 
 Capitalismo liberal Alto               Bajo                Mínimo           Mercado
@@ -135,5 +135,4 @@ concepto de “valor”Sobre el Concepto de Va…, y cruzarlo con las lecturas f
 peronismo y la narrativa mítica que despliega Marechal como ejemplo de construcción simbólica
 de un proyecto nacionalLeopoldo Marechal y la ….
 
-[[4]]
-
+[[p=4]]

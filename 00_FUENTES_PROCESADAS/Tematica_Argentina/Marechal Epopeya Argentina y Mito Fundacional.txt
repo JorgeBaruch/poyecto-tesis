@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Marechal: Epopeya Argentina y Mito Fundacional
 Nombre del Autor: [Tu Nombre Completo] Procedencia Institucional: [Tu Institución/Afiliación]
 Abstract This essay performs a comprehensive comparative analysis of Leopoldo Marechal's
@@ -57,7 +57,7 @@ deliberado de su obra dentro de una tradición literaria milenaria, reinterpreta
 Para el autor, la novela se convierte en la epopeya de los tiempos contemporáneos, un género
 que emerge cuando los narradores literarios desplazan su atención del "Olimpo de los dioses y el
 
-[[2]]
+[[p=2]]
 arsenal de héroes" para "fijar su atención en los hombres corrientes". Este cambio, según
 Marechal, no representa una "corrupción" del género, sino una "adaptación" necesaria a las
 nuevas condiciones del siglo, en la que "nada se pierde y todo se transforma" (Marechal, 2014:
@@ -116,7 +116,7 @@ traducción francesa del Ulises durante su segundo viaje a Europa, lectura que "
 del Adán" (Ayala, 2000: 49). Sin embargo, la intención de Marechal no era una simple imitación,
 sino una profunda "reapropiación" y "reinvención" de estas fuentes clásicas y modernas.
 
-[[3]]
+[[p=3]]
 Marechal se apoyó en la Poética de Aristóteles para justificar la génesis novelística de su obra,
 argumentando que la novela es el "sucedáneo" de la epopeya, adaptado para centrarse en los
 "hombres corrientes" (Marechal, 2014: 30). El lenguaje en Adán Buenosayres es un testimonio de
@@ -175,7 +175,7 @@ de la identidad nacional. Al proyectar su propia búsqueda espiritual en Adán, 
 el "primer hombre" de la epopeya argentina es un intelectual moderno, y que la forja del ser
 nacional se da a través de las vivencias y debates de su propia generación. La sátira, lejos de ser
 
-[[4]]
+[[p=4]]
 puramente burlesca, funciona como una autocrítica y una reflexión sobre el papel de la
 intelectualidad en la definición de la nación. La hostilidad de sus amigos ante la publicación
 subraya la tensión inherente entre la representación personal y el ambicioso proyecto
@@ -234,7 +234,7 @@ paródico no es una burla, sino una afirmación de que el modelo heroico clásic
 resignificado para la realidad moderna y diversa de Argentina. El "Cristo de la Mano Rota" como
 ancla espiritual en este infierno urbano simboliza que la redención y la integración nacional no
 
-[[5]]
+[[p=5]]
 provienen de la perfección, sino de la confrontación y superación de los aspectos "inferiores" o
 "caídos" del ser colectivo. Este descenso es una "purificación" necesaria para la realización
 espiritual del héroe (y, por extensión, de la nación), una realización que, al ser "inenarrable",
@@ -292,7 +292,7 @@ argentina del siglo XIX, específicamente durante la "Conquista del Desierto". E
 en la tradición de la "literatura de frontera", la cual aborda la lucha de las organizaciones estatales
 contra los pueblos indígenas argentinos.
 
-[[6]]
+[[p=6]]
 La dicotomía "civilización y barbarie" constituye el eje central de la obra, retomando y
 reelaborando el esquema historiográfico de Sarmiento en su Facundo. Esta oposición, que
 evolucionó de "civilización y barbarie" a "civilización o barbarie", se transforma en un "dispositivo
@@ -350,7 +350,7 @@ considerarse una fusión de Tiresias con el coro, comentando, anticipando y expl
 y remitiendo a la simbología griega de las Parcas y a las brujas shakesperianas de Macbeth.
 3.2.4. La Estancia "La Postrera" y la Pampa
 
-[[7]]
+[[p=7]]
 La estancia "La Postrera" no es solo un escenario, sino un símbolo de la "civilización", el último
 mojón de la cultura blanca cristiana en la frontera. Los símbolos recurrentes de la civilización y la
 lucha contra el medio geográfico adverso son el arado y el sable. El arado simboliza la labor
@@ -409,7 +409,7 @@ europea, sino que también abraza su propia "barbarie" como fuente de autenticid
 fundacional, necesaria para la "expresión ontológica fundacional" del país.
 4. Conclusiones: La Poética Nacional de Marechal como Relectura Fundacional
 
-[[8]]
+[[p=8]]
 La obra de Leopoldo Marechal, a través de Adán Buenosayres y Antígona Vélez, constituye una
 relectura audaz y profunda de la tradición épica y trágica clásica, transmutándolas en vehículos
 para la construcción de una poética nacional argentina. Al concebir la novela como un "sucedáneo
@@ -467,7 +467,7 @@ la literatura argentina", Infobae.
 • Marechal, Leopoldo (1997a), Adán Buenosayres [Jorge Lafforgue y Fernando Colla (coord.)],
 Madrid: Galaxia Gutemberg.
 
-[[9]]
+[[p=9]]
 • Marechal, Leopoldo (1997b), "Claves de Adán Buenosayres", en Marechal, L. – laFForGue, J. –
 colla, F. (coord.), Adán Buenosayres, Madrid: Galaxia Gutemberg, pp. 863-871.
 • Marechal, Leopoldo (1998a), "Carta al doctor Atilio Dell‘Oro", en Obras completas V. Los cuentos
@@ -523,7 +523,7 @@ Radiografía de la Pampa de Ezequiel Martínez Estrada.
 •        1936: Marechal publica un poema con la frase "De todo laberinto se sale por arriba".
 •        1937: Joan Maragall publica Nausica. Sebastián Juan Arbó publica Nausica.
 
-[[10]]
+[[p=10]]
 •       1938: Nikos Kazantzakis culmina las reescrituras de su Odisea.
 •       1939: Jorge Luis Borges publica el cuento "Pierre Menard, autor del Quijote". Borges
 publica "Joyce y los neologismos" en Sur y "El último libro de Joyce" en El hogar. Marechal publica
@@ -576,7 +576,7 @@ publica Ulises en la Argólida.
 •       1963: Murena responde a Emir Rodríguez Monegal en La Nación.
 •       1964: Julio Imbert publica La Electra.
 
-[[11]]
+[[p=11]]
 •       1965: Marechal publica El banquete de Severo Arcángelo. Logra la reedición de Adán
 Buenosayres, sin la dedicatoria original. José Ricardo Morales publica La Odisea. César Magrini
 publica Partenopeo.
@@ -630,7 +630,7 @@ Llanto por los caballos de Aquiles. Heiner Müller publica Electra.
 •       2006: Mario Vargas Llosa publica Odiseo y Penélope.
 •       2008: Roberto Sayar publica la pieza teatral Las Sirenas.
 
-[[12]]
+[[p=12]]
 •        Febrero 2009: Guillermo Montilla Santillán fecha la pieza Silencio de Piedra. Antonio
 Aguilera Vita publica No me fastidies, Electra.
 •        2013: Fernando Aguerre Core publica "La independencia en el Río de la Plata: diferentes
@@ -684,7 +684,7 @@ favorable de Adán Buenosayres en la revista Realidad, lo que le valió amenazas
 •        Victoria Ocampo: Intelectual argentina, figura central de la revista Sur, de la que Marechal
 se alejó. Es satirizada en Adán Buenosayres como "Titania".
 
-[[13]]
+[[p=13]]
 •       Eduardo González Lanuza: Colaborador de la revista Martín Fierro y Sur, cuya crítica de
 Adán Buenosayres fue lapidaria, tildando la obra de "abundantemente salpicada de estiércol" y al
 autor de "engreído, resentido y tomista".
@@ -739,7 +739,7 @@ Eteocles, respectivamente, aunque ausentes de la escena.
 •       Tiresias: Profeta en la tragedia griega, elementos de su rol se fusionan con el coro y las
 Brujas en Antígona Vélez.
 
-[[14]]
+[[p=14]]
 •       Macedonio Fernández: Escritor argentino, compañero de Marechal en la vanguardia,
 quien lo influyó en el uso del humor y la concepción de la novela.
 •       Oliverio Girondo: Escritor argentino, compañero de Marechal y Borges en la vanguardia
@@ -794,7 +794,7 @@ metafísica de Marechal.
 •       Aristóteles: Filósofo griego, cuya Poética sirvió a Marechal para justificar la novela como
 "sucedáneo legítimo" de la epopeya.
 
-[[15]]
+[[p=15]]
 •       Rabelais: Escritor francés, cuyas lecturas influyeron en la búsqueda de la "catarsis por la
 risa" de Marechal.
 
@@ -853,7 +853,7 @@ James Joyce y Ulises: Adán Buenosayres ha sido comparado con el Ulises de Joyce
 ser llamado el "Ulises argentino" (Infobae, 2025; Davis González, 2017). Marechal reconoció
 haber leído la traducción francesa de Ulises, lo que "disparó la escritura del Adán" (Ayala, 2000,
 
-[[16]]
+[[p=16]]
 citado en Davis González, 2017). Sin embargo, Marechal se distanció de Joyce, argumentando
 que este se quedó en la "mera literalidad del texto", mientras él buscó una dimensión "simbólica" y
 "metafísica" (Infobae, 2025; Davis González, 2017; Pellico, s.f.). Las críticas iniciales incluso lo
@@ -912,7 +912,7 @@ XIX, en el contexto de la "Conquista del Desierto". Esta obra, por la que recibi
 del Teatro, reinterpreta la dicotomía sarmientina "civilización y barbarie" (Infobae, 2025; Sosa &
 Ruiz de Los Llanos, 2020).
 
-[[17]]
+[[p=17]]
 3.1. Personajes y Simbolismo
 Antígona Vélez: Equivalente a la Antígona sofocleana, defiende las leyes divinas frente a las
 humanas. A diferencia de su par griega, su muerte adquiere un "sentido salvífico", permitiendo que
@@ -969,5 +969,4 @@ sigue invitando a múltiples interpretaciones y su pensamiento, aunque considera
 por él mismo en el sentido de mejorar la tradición, se considera hoy "más vigente que nunca"
 (Gómez Sánchez, 2022; Marechal: Epopeya Argentina y Mito Fundacional).
 
-[[18]]
-
+[[p=18]]

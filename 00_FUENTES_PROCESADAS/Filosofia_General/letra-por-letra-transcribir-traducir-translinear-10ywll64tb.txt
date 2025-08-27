@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 LETRA POR LETRA
 
 
@@ -37,7 +37,7 @@ tipo de lectura que AlIouch lee en la lectura de Lacan, para poner a           s
 
 DESDE EL JARDÍN DE FREUD                                                                                                                            259
 
-[[2]]
+[[p=2]]
 sobre las otras, de lo cual resulta que el tipo de lectura estará definido     pertinentes y muy válidas y subraya que si bien hay contingencia en
 por los diferentes modos de anudamiento de las tres. Allouch, tratará,         este tipo de lectura, tal cosa, en lugar de servir de argumento a favor de
 y me parece con éxito, a lo largo de este trabajo de lectura, de mostrar       una debilidad en la lectura misma, corresponde al hecho mismo de la
@@ -89,5 +89,4 @@ la clinica misma del psicoanálisis en sus albores. Llega a conclusiones        
 
 260                                                                                                                 REVISTA DE PSICOANÁLISIS No. 1
 
-[[3]]
-
+[[p=3]]

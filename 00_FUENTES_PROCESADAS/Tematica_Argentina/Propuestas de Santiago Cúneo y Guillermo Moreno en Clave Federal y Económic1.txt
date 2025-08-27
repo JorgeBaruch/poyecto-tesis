@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Propuestas de Santiago Cúneo y Guillermo Moreno en Clave Federal y Económica
 Introducción
 Argentina atraviesa un intenso debate sobre su modelo político-económico, con propuestas que van
@@ -44,7 +44,7 @@ municipios la independencia fiscal y política que habrían cedido al centralism
 propuesta confederal… propone que este sistema centralista y unitario, porteño y expoliador, sea
 devuelto a las provincias para que puedan decidir sobre sus impuestos, riquezas [y] impuestos de
 
-[[2]]
+[[p=2]]
 aduana”infobrisas.com. Esto significaría reformar profundamente el federalismo fiscal argentino:
 hoy la Nación concentra la recaudación (vía IVA, Ganancias, retenciones, etc.) y luego coparticipa
 fondos a las provincias; Cúneo, en cambio, quiere que cada provincia recaude y administre sus
@@ -91,7 +91,7 @@ el rol del Estado en la economía). De hecho, Cúneo elogia la economía mixta e
 etapa peronista y reivindica políticas como las de Juan Perón y Néstor Kirchner. También se opone
 frontalmente a la idea mileísta de dolarizar: califica la dolarización y la dependencia del dólar como
 
-[[3]]
+[[p=3]]
 una traición a la tradición argentina, recordando que durante el kirchnerismo “no se jodía con el
 dólar” y la economía se manejaba fortaleciendo el peso
 productivodiarioelnorte.com.ardiarioelnorte.com.ar. En resumen, Cúneo propone una economía
@@ -138,7 +138,7 @@ Moreno presentó este plan en libros y documentos titulados “Plan de Gobierno 
 Económico Justicialista – Los días más felices” (2023), y lo ha difundido en recorridas por todo el
 paísinfomiba.com.arinfomiba.com.ar. Él mismo lo describe como un programa pensado “desde la
 
-[[4]]
+[[p=4]]
 entraña del movimiento obrero”, que abarca todas las ramas del trabajo y todas las clases
 socialesinfomiba.com.ar. No se trata –insiste– de una plataforma electoral personalista, sino de una
 propuesta disponible “para el gobierno que lo quiera llevar a cabo”, incluso si él no es
@@ -185,7 +185,7 @@ claveunidiversidad.com.arunidiversidad.com.ar.
 Política monetaria y rol de la moneda: En la visión de Moreno, la moneda nacional fuerte es
 esencial. Él se opone terminantemente a la dolarización propuesta por Milei (a quien acusa de
 
-[[5]]
+[[p=5]]
 querer “terminar con el peso” irresponsablemente). Si bien reconoce que la inflación fue alta bajo el
 kirchnerismo (admite que “marcábamos 10% [anual] y en el mundo era 2%”unidiversidad.com.ar),
 sostiene que la situación actual es muchísimo peor y “un desastre que hay que corregir lo antes
@@ -232,7 +232,7 @@ Calcula que con USD 8.000 o 9.000 millones anuales durante algunos años, Argent
 cerrar un buen acuerdo tanto con el FMI como con otros inversores, trasladando la deuda externa a
 deuda interna con el campoconclusion.com.ar. Así, “quedaremos endeudados con los
 
-[[6]]
+[[p=6]]
 terratenientes… pero ya no tendremos las restricciones al crecimiento”conclusion.com.ar. Esta
 propuesta refleja la doctrina peronista: hacer que los sectores más fuertes (en este caso el agro
 exportador) sostengan la carga, liberando al país de la tutela financiera extranjera. En paralelo,
@@ -279,7 +279,7 @@ gremiales y veteranos del peronismo productivista. Sindicalistas como Julio Lede
 Horacio Valdez (Vidrio) se han sumado a presentarlo en el conurbano
 bonaerenseinfomiba.com.arinfomiba.com.ar. Muchos valoran que “surge del movimiento obrero” y
 
-[[7]]
+[[p=7]]
 es “una propuesta integral” con 50 medidas concretasinfomiba.com.ar. Sin embargo,
 electoralmente Moreno tampoco logró gran impacto: fue precandidato a presidente en 2023 con
 Principios y Valores, pero su espacio obtuvo menos del 0,8% en las PASO y quedó
@@ -326,7 +326,7 @@ industrial con inclusión social. Santiago Cúneo, por su parte, rescata de 1949
 productivista-estatista (control estatal de recursos, independencia económica)degremiales.com.
 Sin embargo, cabe notar que Cúneo se aparta de Perón en la cuestión institucional: la Constitución
 
-[[8]]
+[[p=8]]
 del 49 mantenía la estructura de un Estado federal centralizado (e incluso reforzó el
 presidencialismo), mientras que Cúneo propone una confederación que ni Perón contempló. De
 hecho, Perón tendía al unitarismo en los hechos –intervenía provincias, centralizaba comercio
@@ -372,7 +372,7 @@ no plantea modificar la estructura federal actual. Su plan presupone un Estado n
 coordinando todo el país. De hecho, muchas de sus políticas (industrializar, fijar acuerdos de
 precios, renegociar deuda) requieren de un poder central activo. Es continuador del federalismo
 
-[[9]]
+[[p=9]]
 peronista tradicional: provincias autónomas en lo político, pero económicamente integradas bajo la
 batuta del Ejecutivo Nacional. Moreno no ha hablado de derogar la coparticipación; probablemente
 mantendría el esquema vigente de distribución de recursos, quizá aggiornándolo para que la Nación
@@ -418,7 +418,7 @@ tachar la deuda de colonial, sugiere un default estratégico hasta recuperar sob
 soberanía económica ambos peronistas le dan un lugar central al Estado y la producción nacional,
 donde Milei confía en el capital privado y la disciplina de mercado.
 
-[[10]]
+[[p=10]]
 Rol del Estado en la planificación nacional: Los modelos en pugna difieren radicalmente en la
 filosofía del Estado. Cúneo concibe un Estado confederal fuerte en lo estratégico pero liviano en
 lo cotidiano: es decir, el gobierno central haría menos (solo defensa, tal vez moneda, coordinación
@@ -480,7 +480,7 @@ federalismo       . Provincias controlan sus provincias bajo coordinación centr
                                                                                                  tutela nacional.
 Política          Nacionalista y anti-         Justicialista desarrollista: economía mixta       Ultraliberal:
 
-[[11]]
+[[p=11]]
 Santiago Cúneo (Modelo                                             Javier Milei (Enf
      Eje                             Guillermo Moreno (Plan económico peronista)
                      confederal)                                                   anarcocapitalis
@@ -552,7 +552,7 @@ productivo                                                                      
                                                                                           Empleo determin
                                                                                           por mercado (flex
 
-[[12]]
+[[p=12]]
 Santiago Cúneo (Modelo                                             Javier Milei (Enf
       Eje                                Guillermo Moreno (Plan económico peronista)
                          confederal)                                                   anarcocapitalis
@@ -615,7 +615,7 @@ Estado         guardián de la soberanía      Estado presente en cada área (de
                pero con poder distribuido    energéticas hasta control de la inflación).     básicas (segurida
                territorialmente. Gobierno    Promueve la “Comunidad Organizada”:             justicia, relacione
 
-[[13]]
+[[p=13]]
 Santiago Cúneo (Modelo                                             Javier Milei (Enf
        Eje                                Guillermo Moreno (Plan económico peronista)
                           confederal)                                                   anarcocapitalis
@@ -665,7 +665,7 @@ En el debate contemporáneo, estas visiones chocan y también encuentran espacio
 ejemplo, tanto Cúneo/Moreno como Milei coinciden en que la situación actual es insostenible y
 requiere transformaciones profundas, aunque en sentidos opuestos. Existe también una coincidencia
 
-[[14]]
+[[p=14]]
 parcial entre Cúneo y Milei en criticar al establishment político (la “casta”
 bipartidista)realpolitik.com.ardegremiales.com, aunque sus soluciones difieren diametralmente.
 Mientras Milei canaliza el hartazgo hacia el mercado y el individuo, Cúneo y Moreno lo canalizan
@@ -695,8 +695,7 @@ Conclusiónconclusion.com.arconclusion.com.ar, etc., y la Constitución Nacional
 contextualizar cada propuesta en el espectro político actual. Todas las referencias citadas respaldan
 los datos expuestos y permiten profundizar en cada punto tratado.
 
-[[15]]
+[[p=15]]
 
 
-[[16]]
-
+[[p=16]]

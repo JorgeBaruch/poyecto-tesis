@@ -1,16 +1,16 @@
-﻿[[1]]
+﻿[[p=1]]
 
 
-[[2]]
+[[p=2]]
 
 
-[[3]]
+[[p=3]]
 
 
-[[4]]
+[[p=4]]
 
 
-[[5]]
+[[p=5]]
 Sigue tu curso,
                e ignora lo que digan las gentes
                                        DANTE
@@ -23,7 +23,7 @@ lo, Mario Alvarado, Alejandro Moreno, Arturo
 Cosme, Crescenciano Grave y tantos otros par-
 ticipantes del seminario de filosofía política.
 
-[[6]]
+[[p=6]]
 PALABRAS PRELIMINARES
 
 
@@ -65,7 +65,7 @@ su pensar teórico: la cuestión del valor como fundamento del
 concepto de plusvalor. Y, repitámoslo, la cuestión del plusva-
 lor es descubierta de manera explícita e irreversible, definiti-
 
-[[7]]
+[[p=7]]
 12
 
 
@@ -113,7 +113,7 @@ esta nuestra obra). Todo comenzó por aquel: “La confusión absoluta
 de los economistas. . .” (42,20; 447,31; véase más adelante en la nota 32
 la manera de citar a los Grundrisse ).
 
-[[8]]
+[[p=8]]
 13
 
 
@@ -164,7 +164,7 @@ Akademie V., 1978, pp. 66ss.; y también H. Abend, Der Zusammenhang
 zwischen Wert-Mehrwert und Durchschnittsprofit (1844-1858). Univ.
 Ha1le- Wittenberg, disertación, septiembre de 1972.
 
-[[9]]
+[[p=9]]
 14
 
 
@@ -213,7 +213,7 @@ _______________
 de otra manera, y muy desarrollado, en la cuestión del “Fetichismo de
 la mercancía”.
 
-[[10]]
+[[p=10]]
 15
 
 
@@ -266,7 +266,7 @@ mischen Lehre von Marx”, en Beiträge zur Geschichte der Arbeiter-
 bewegung 10 (1968), con motivo del 150 aniversario del nacimiento de
 Marx, pp. 75-97.
 
-[[11]]
+[[p=11]]
 16
 
 
@@ -321,7 +321,7 @@ no resaltan la cuestión suficientemente.
      14
         Ibid., pp. 33, 11-14.
 
-[[12]]
+[[p=12]]
 17
 
 
@@ -370,7 +370,7 @@ _______________
       Ibid., pp. 147, 40ss. Aquí sigue un texto muy semejante al cita-
 do en el parágrafo 7.1.a de esta nuestra obra.
 
-[[13]]
+[[p=13]]
 18
 
 
@@ -417,7 +417,7 @@ obras futuras deberán dar material en América Latina para
 que el pensamiento marxista de nuestro continente pueda
 entrar con posibilidades en el debate que sobre estos temas
 
-[[14]]
+[[p=14]]
 19
 
 
@@ -466,7 +466,7 @@ _______________
      18
           El Capital III, cap. 24 (MEW, xxv, p. 405).
 
-[[15]]
+[[p=15]]
 20
 
 
@@ -515,7 +515,7 @@ ______________
       Ibid., I, cap. 4 (MEW, XXIII, p 189): “Se hará luz sobre el miste-
 rio que envuelve la producción del plusvalor” (ibid.).
 
-[[16]]
+[[p=16]]
 21
 
 
@@ -562,7 +562,7 @@ drisse, primera palabra alemana de la traducción castellana:
 Elementos fundamentales para la crítica de la economía polí-
 tica (borrador) 1857-1858.
 
-[[17]]
+[[p=17]]
 22
 
 
@@ -613,7 +613,7 @@ Marx-Engels Bibliographie, Harald Boldt, Boppard, 1979, pp. 72ss.
     22
        Int. Rev. of Soc. Hist., cit.
 
-[[18]]
+[[p=18]]
 23
 
 
@@ -669,7 +669,7 @@ ejemplo el manuscrito H 81, en dicho archivo, del tomo III de El capital
 escrito por Engels para la imprenta, se encuentra una letra clarísima, lista
 para ser entregada al tipógrafo.
 
-[[19]]
+[[p=19]]
 24
 
 
@@ -717,7 +717,7 @@ _______________
        Sobre estos Cuadernos sobre España, véase en Int. Rev. Of. Soc.
 Hist. V, 1, pp. 53-56.
 
-[[20]]
+[[p=20]]
 25
 
 
@@ -767,7 +767,7 @@ XXI, 1980, p. 316; MEW, XXIX, p. 551.
    29
       Ibid., p. 317; MEW, XXIX, p. 554.
 
-[[21]]
+[[p=21]]
 26
 
 
@@ -821,7 +821,7 @@ Grundrisse. En cambio: 99,3; 489,30, significa: tomo II, página 99,
 línea 3, ed. castellana; p. 489, línea 30, ed. alemana. Toda vez que aparez-
 can estos números sin indicación de obra alguna se trata de los Grundrisse.
 
-[[22]]
+[[p=22]]
 PRIMERA PARTE
 
 INTRODUCCIÓN
@@ -835,7 +835,7 @@ marcan la totalidad de los Grundrisse, tanto por su contenido
 profundo (la producción, el proceso de producción posterior),
 como por su método.
 
-[[23]]
+[[p=23]]
 1. SOBRE LA PRODUCCIÓN EN GENERAL
    (1,1-20, 39; 1,1-21,2)
    (Cuaderno M, hasta la página 13 del manuscrito,
@@ -881,7 +881,7 @@ las cursivas de los textos de Marx frecuentemente son de él mismo, pero
 a veces los hemos puesto nosotros para indicar el sentido de la interpre-
 tación que intentamos.
 
-[[24]]
+[[p=24]]
 30
 
 
@@ -928,7 +928,7 @@ en el que la producción significara un primer acto anterior a
 toda distribución o intercambio; es decir, anterior a la sociedad,
 sea la familia, el clan, la tribu. Siempre el hombre forma parte
 
-[[25]]
+[[p=25]]
 31
 
 
@@ -978,7 +978,7 @@ Marx, Pfullingen, Neske, 1980; Klaus Binder, Arbeit. Die Gestalt der
 produktiven Subjektivität im Werk von Karl Marx, tesis doctoral,
 Frankfurt, 1979; Franz J. Albers, Zum Begriff des Produzierens im
 
-[[26]]
+[[p=26]]
 32
 
 
@@ -1032,7 +1032,7 @@ ducto (Produkt) de la mente que piensa” (22,30-31; 22,32-33). Es un
 producto semiótico (cf. nuestra Filosofía de la liberación [Bogotá,
 USTA, 1980], 4.2: “Semiótica”; pp. 143-154).
 
-[[27]]
+[[p=27]]
 33
 
 
@@ -1078,7 +1078,7 @@ es lo superficial:
      competencia cada individuo aparece (erscheint) como indepen-
      diente de los lazos naturales” (3,24-25; 1,18-23).
 
-[[28]]
+[[p=28]]
 34
 
 
@@ -1131,7 +1131,7 @@ del capital (dinero como capital) sino que aparecerá fuera de su esencia
 (el capital bajo la forma fenoménica: el capital como dinero). Cf. más
 adelante parágrafos 6.1 y 6.2, y 14.1.
 
-[[29]]
+[[p=29]]
 35
 
 
@@ -1171,7 +1171,7 @@ _______________
      Véase mi estudio preliminar al Cuaderno tecnológico-histórico
 (Londres, 1851), México, UAP, 1985.
 
-[[30]]
+[[p=30]]
 36
 
 
@@ -1225,7 +1225,7 @@ razón; la relación no es “conciencia-naturaleza”, sino “sujeto de traba-
 jo-naturaleza trabajada (materia en sentido productivo)”. Por otra parte,
 Marx se ríe explícitamente de la materia estaliniana: “Por lo demás, esta
 
-[[31]]
+[[p=31]]
 37
 
 
@@ -1277,7 +1277,7 @@ más lejano del “materialismo histórico” de Marx, donde la “materia” es
 lo constituido a posteriori por la subjetividad humana (física y espiritual)
 como trabajo, producción.
 
-[[32]]
+[[p=32]]
 38
 
 
@@ -1326,7 +1326,7 @@ a lo espiritual, sino, y principalmente, en cuanto constituye a
 la naturaleza como “materia” de trabajo y “contenido” de
 satisfacción–, después de ser considerada en sí, debe consi-
 
-[[33]]
+[[p=33]]
 39
 
 
@@ -1366,7 +1366,7 @@ _______________
       Escribe Marx: “. . .la conciencia filosófica (das philosophische)
 está determinada de este modo. . .” (22,17; 22,19-20).
 
-[[34]]
+[[p=34]]
 40
 
 
@@ -1416,7 +1416,7 @@ reinzelte) de valor”, “forma particular (besondre) de valor” y “forma
 universal (allgemeine) de valor” (El capital, México, Siglo XXI, t. I./1,
 1979, p. 83; MEW, XXIII, p. 82).
 
-[[35]]
+[[p=35]]
 41
 
 
@@ -1468,7 +1468,7 @@ dencia producida por el consumo previo, es el fundamento de la futura
 producción. Aquí es donde debe darse el entronque de Freud (Trieb:
 pulsión o instinto) y Marx (treibenden Grund: fundamento pulsional).
 
-[[36]]
+[[p=36]]
 42
 
 
@@ -1515,7 +1515,7 @@ consumo es inmediatamente producción” (11,3; 12,19), y
 así, p.ej., al comer el hombre produce su cuerpo (producción
 consumidora). De esto podría concluirse que “la producción es
 
-[[37]]
+[[p=37]]
 43
 
 
@@ -1563,7 +1563,7 @@ tribución:
      ción es ella misma un producto de la producción” (15,38-40;
      16,36-38).
 
-[[38]]
+[[p=38]]
 44
 
 
@@ -1611,7 +1611,7 @@ para la nueva distribución” (18,14-17; 18, 42-44). Es decir,
 “modo de producción” colonial hispanoamericano en los siglos XVI al
 XVIII.
 
-[[39]]
+[[p=39]]
 45
 
 
@@ -1658,7 +1658,7 @@ que el intercambio como totalidad) (flecha e del esquema 2):
        Esto es obvio y no necesita comentario. Pero, nuevamen-
 te, Marx encuentra que la producción puede estar determinada
 
-[[40]]
+[[p=40]]
 46
 
 
@@ -1705,7 +1705,7 @@ este sentido, lo por excelencia material del materialismo histórico es lo
 tecnológico o la producción misma y no lo económico (que es ya un
 momento segundo, más complejo, más concreto).
 
-[[41]]
+[[p=41]]
 47
 
 
@@ -1734,7 +1734,7 @@ lidad, las “papilas gustativas”, el estómago en lo que llamamos “necesi-
 dad” y que es esencial para Marx, pero que no es propiamente ni ideoló-
 gico, ni político, ni económico).
 
-[[42]]
+[[p=42]]
 2. EL MÉTODO DIALÉCTICO DE LO ABSTRACTO A LO
   CONCRETO (20,41-33,14; 21,3-31,38)
   (Cuaderno M, desde la página 14 del manuscrito,
@@ -1774,7 +1774,7 @@ todo lo que Marx ganará en sus estudios escritos en los Grun-
 drisse –ya que “sobre la marcha” irá cambiando su plan hasta
 que alcance, al fin de los Grundrisse, su fisonomía definitiva.
 
-[[43]]
+[[p=43]]
 49
 
 
@@ -1808,7 +1808,7 @@ ESQUEMA 4
 REPRESENTACIÓN ESPACIAL APROXIMADA DE LOS
 DIVERSOS MOMENTOS METÓDICOS
 
-[[44]]
+[[p=44]]
 50
 
 
@@ -1840,7 +1840,7 @@ momento analítico de la razón:
      de determinaciones más precisas, llegaría analíticamente (analytisch)
      a conceptos cada vez más simples” (21,14-16; 21,20-22).
 
-[[45]]
+[[p=45]]
 51
 
 
@@ -1887,7 +1887,7 @@ rico para Marx –ya que la mera representación es un momen-
 to del conocimiento cotidiano, precientífico, predialéctico.
 En el análisis se exige la disciplina del pensar metódico.
 
-[[46]]
+[[p=46]]
 52
 
 
@@ -1937,7 +1937,7 @@ _______________
 manca, Sígueme, 1974, pp. 137ss., parágrafo 19 (“La crítica de Karl
 Marx. Nuevo sentido de la realidad”).
 
-[[47]]
+[[p=47]]
 53
 
 
@@ -1985,7 +1985,7 @@ Marx textualmente:
      “Llegado a este punto, habría que reemprender el viaje de retorno,
      hasta dar de nuevo con la población, pero esta vez no se tendría una
 
-[[48]]
+[[p=48]]
 54
 
 
@@ -2032,7 +2032,7 @@ Marx no define tampoco lo que es una categoría. Aparece en
 el texto como un concepto conocido. De todas maneras es la
 cuestión metodológica más ampliamente expuesta en estas
 
-[[49]]
+[[p=49]]
 55
 
 
@@ -2088,7 +2088,7 @@ más juvenilmente materialista que el más maduro de los Grundrisse .
 (“. . . Reihenfolge . . .”; p. 84; p. 126). La crítica, ahora, acepta que es
 necesario tratar las categorías por su orden lógico y no histórico, pero no
 
-[[50]]
+[[p=50]]
 56
 
 
@@ -2136,7 +2136,7 @@ según un pretendido orden eterno, sino el que históricamente tienen en
 la sociedad burguesa. Lo primero con Proudhon; lo segundo contra
 Proudhon.
 
-[[51]]
+[[p=51]]
 57
 
 
@@ -2184,7 +2184,7 @@ en general” es el fruto de una abstracción:
 
           El trabajo real, concreto, el del panadero, es un trabajo
 
-[[52]]
+[[p=52]]
 58
 
 
@@ -2232,7 +2232,7 @@ real, representación confusa, determinación abstracta, concep-
 to y categoría) es necesario volver sobre la cuestión del “orden”
 dentro del cual deben ser tratadas las categorías. Pareciera,
 
-[[53]]
+[[p=53]]
 59
 
 
@@ -2279,7 +2279,7 @@ un supuesto de la categoría dinero, y la categoría dinero cons-
 tituye por su parte un supuesto del capital). Y las categorías
 más complejas o concretas (“totalidad construida en general”,
 
-[[54]]
+[[p=54]]
 60
 
 
@@ -2326,7 +2326,7 @@ diferencia entre ambos indica el grado de madurez alcanzado
 por medio de sus estudios entre agosto de 1857 a junio de
 1858.
 
-[[55]]
+[[p=55]]
 61
 
 
@@ -2374,7 +2374,7 @@ en dos paquetes de temas, en el momento de proponer el plan:
      tación e importación. . . ; 5) El mercado mundial y las crisis” (29,
      33-30,7; 28,37-29,6).
 
-[[56]]
+[[p=56]]
 62
 
 
@@ -2420,7 +2420,7 @@ Marx organiza un índice para usar sus cuadernos. En dicho
 índice se deja ver un nuevo orden, fruto de sus investigaciones
 en los Grundrisse. El orden de los temas es el siguiente:
 
-[[57]]
+[[p=57]]
 63
 
 
@@ -2458,7 +2458,7 @@ analizarse en su interior en un despliegue abstracto de sus categorías
 constitutivas (o determinaciones esenciales). Ya veremos todo esto en
 otros capítulos.
 
-[[58]]
+[[p=58]]
 SEGUNDA PARTE
 
 TEORÍA DEL DINERO
@@ -2479,7 +2479,7 @@ de sus investigaciones, se constituirá, gracias a los avances de
 los Grundrisse, definitivamente, en el capítulo II de su futura
 obra.
 
-[[59]]
+[[p=59]]
 3. GÉNESIS DE LA TEORÍA DEL DINERO
    (37,1-72,21; 35,1-65,26)
    (Cuaderno I, hasta la página 15 del manuscrito,
@@ -2524,7 +2524,7 @@ _______________
    1
        Antes que el capital, y quizá confundiéndolo al comienzo con él,
 
-[[60]]
+[[p=60]]
 68
 
 
@@ -2578,7 +2578,7 @@ drisse en 1857 al tomo I de El capital en 1867. Si consideramos los
 estudios de París (1843-1844), los de Bruselas (1847), los de Londres
 (1851), Marx atacó al menos siete veces el tema.
 
-[[61]]
+[[p=61]]
 69
 
 
@@ -2614,7 +2614,7 @@ económico. Si se deseara culpar en todo a la existencia de
 dinero metálico, se debería razonar con mayor coherencia.
 “A la columna de la reserva metálica y a la de documentos
 
-[[62]]
+[[p=62]]
 70
 
 
@@ -2663,7 +2663,7 @@ _______________
       Todas las citas entre comillas corresponden a las páginas arriba
 citadas en el texto.
 
-[[63]]
+[[p=63]]
 71
 
 
@@ -2710,7 +2710,7 @@ la “ascensión” propuesta en el Cuaderno M). Del dinero a la
 mercancía, de la mercancía al valor, y, por último, del valor
 al trabajo vivo.
 
-[[64]]
+[[p=64]]
 72
 
 
@@ -2757,7 +2757,7 @@ cambio se podrá descubrir que necesita, de todas maneras
 un “equivalente universal” en la figura de un “equivalente
 particular” (el oro). Con la pretendida abolición del dinero no
 
-[[65]]
+[[p=65]]
 73
 
 
@@ -2804,7 +2804,7 @@ de la nación”, de “riqueza (Reichtum)” real, o de otra manera:
 del oro y de la plata con relación al trigo es idéntica al encare-
 cimiento del propio trigo.” “Independientemente del dinero
 
-[[66]]
+[[p=66]]
 74
 
 
@@ -2852,7 +2852,7 @@ El valor se funda en el trabajo:
      trabajo materializado (materialisiert), objetivado (vergegenständ-
      licht). . . [Pero] lo que determina el valor no es el tiempo de trabajo
 
-[[67]]
+[[p=67]]
 75
 
 
@@ -2902,7 +2902,7 @@ Marx. Volveremos más adelante sobre la cuestión (parágrafo 7.1.a). El
 otro, como viviente humano, consciente, autónomo, libre, espiritual, es
 el horizonte analéctico primero del pensar de Marx.
 
-[[68]]
+[[p=68]]
 76
 
 
@@ -2950,7 +2950,7 @@ los fenómenos en el horizonte del “mercado”) (esquema 7).
       Cuando se enuncia lo citado, podemos comprender que
 Marx está claramente definiendo niveles de profundidad donde
 
-[[69]]
+[[p=69]]
 77
 
 
@@ -2985,7 +2985,7 @@ creciente” (de la que ya hemos hablado antes):
 dice relación a la tecnología, es decir, baja del valor real del
 producto en cuanto se gasta menor tiempo de trabajo en su
 
-[[70]]
+[[p=70]]
 78
 
 
@@ -3033,7 +3033,7 @@ mento (el valor) pero mediado: dicha mediación no puede ser
 lo que determina al valor mismo (el tiempo de trabajo), sino
 un tercero: el precio monetario, el dinero, el valor nominal
 
-[[71]]
+[[p=71]]
 79
 
 
@@ -3084,7 +3084,7 @@ es fenómeno, que se funda en la esencia como la identidad de la diferen-
 cia. De esta manera el “dinero-metálico” es la aparición existente có-
 sica, del “valor” como su fundamento.
 
-[[72]]
+[[p=72]]
 80
 
 
@@ -3131,7 +3131,7 @@ Marx unifica siempre (hasta en El capital) las dos primeras
 formas a y b.
          Pero aún ante la mercancía como producto (y como satis-
 
-[[73]]
+[[p=73]]
 81
 
 
@@ -3179,7 +3179,7 @@ en El capital del 67). Para Marx, como podemos verlo, tanto el
 producto como la mercancía o el dinero son “formas” de
 existencia. La “forma” es “forma de aparición”. La determi-
 
-[[74]]
+[[p=74]]
 82
 
 
@@ -3217,7 +3217,7 @@ y el despliegue de un método dialéctico que irá construyen-
 do, en orden, las categorías necesarias para dar cuenta de la
 realidad.
 
-[[75]]
+[[p=75]]
 4. EXISTENCIA CONTRADICTORIA DE LA MERCANCÍA
   Y DEL DINERO (72,22-174,18; 65,27-148,37)
   (Cuaderno I, desde la página 15 del manuscrito, y unas
@@ -3261,7 +3261,7 @@ _______________
 “comunitario” (gemeinschaftlich ). Véase el parágrafo 4.2 donde se in-
 dica la diferencia; y en 17.4.a.
 
-[[76]]
+[[p=76]]
 84
 
 
@@ -3309,7 +3309,7 @@ tercambio: cambio de mercancía por dinero (flecha b): com-
 pra; cambio de dinero por mercancía (flecha e): venta. Marx
 indica:
 
-[[77]]
+[[p=77]]
 85
 
 
@@ -3349,7 +3349,7 @@ can en el texto, posteriormente. El nivel horizontal de Spl a SP2 es el
 ámbito productivo. El nivel vertical de CM a D2 es el ámbito de la circu-
 lación. El consumo está fuera de la circulación.
 
-[[78]]
+[[p=78]]
 86
 
 
@@ -3397,7 +3397,7 @@ productor (SP2 ) se vende ahora a otra persona, el consumidor
 (flecha e). El consumidor-comprador (Co) paga la mercancía
 con dinero (D para Marx, D2 en el esquema) el que pasa a ser
 
-[[79]]
+[[p=79]]
 87
 
 
@@ -3445,7 +3445,7 @@ ríos. Pero además de “comprador universal” y “vendedor uni-
 versal”, debería aun organizar la producción misma, fijando
 el tiempo necesario para cada producto:
 
-[[80]]
+[[p=80]]
 88
 
 
@@ -3494,7 +3494,7 @@ fase:
      es la segunda forma importante. . . La necesidad misma de transfor-
      mar el producto o la actividad de los individuos ante todo en la
 
-[[81]]
+[[p=81]]
 89
 
 
@@ -3544,7 +3544,7 @@ _______________
 pero al mismo tiempo de su perversidad ética, es lo que aquí interesa
 (cf. 37,3 (35,3); 58,36 (53,30).
 
-[[82]]
+[[p=82]]
 90
 
 
@@ -3593,7 +3593,7 @@ _______________
      3
          Cf. 43,15 (40,13); 60,24 (55,6); 83,1-10 (73,33-43); etcétera.
 
-[[83]]
+[[p=83]]
 91
 
 
@@ -3642,7 +3642,7 @@ es cósico: “Es el nexo creado naturalmente entre los individuos en con-
 diciones de producción determinadas y estrechas” (89,40-42; 79,37-39).
 Cf. más adelante parágrafo 17.4
 
-[[84]]
+[[p=84]]
 92
 
 
@@ -3686,7 +3686,7 @@ sobre su eje (p.ej. un día, y de allí una hora, etc.). Es el “movimiento”
 de la tierra el que mide al trabajo; y es el trabajo el que mide el valor del
 producto.
 
-[[85]]
+[[p=85]]
 93
 
 
@@ -3732,7 +3732,7 @@ el dinero y su soporte material o entre la función de ser dinero
 de una mercancía particular (flecha e del esquema 9; relación
 VC1 - D1 del esquema 8):
 
-[[86]]
+[[p=86]]
 94
 
 
@@ -3782,7 +3782,7 @@ nes económicas, secundariamente. Cf. el estudio realizado sobre estos me-
 tales en la obra que hemos presentado de Marx, Cuaderno tecnológico-
 histórico (Londres, 1851), Puebla, UAP, 1985.
 
-[[87]]
+[[p=87]]
 95
 
 
@@ -3823,7 +3823,7 @@ equivalente general, la Mercancía2, fundada, tanto en su ser
 determinado (oro) como en su cantidad intercambiable (va-
 lor de cambio) en el trabajo y su tiempo.
 
-[[88]]
+[[p=88]]
 96
 
 
@@ -3872,7 +3872,7 @@ _______________
      8
          Véanse los esquemas 7 y 8.
 
-[[89]]
+[[p=89]]
 97
 
 
@@ -3920,7 +3920,7 @@ mento” que “aparece” desde la esencia de la circulación. Es
 más, el dinero es el “ente” que posibilita la existencia misma
 de la esencia de la circulación: sin dinero no hay circulación,
 
-[[90]]
+[[p=90]]
 98
 
 
@@ -3968,7 +3968,7 @@ con otro) sólo lo puede hacer el hombre (“en el alma”, decía
 Aristóteles). Por ello la función del dinero “como medida” de
 valor de otra mercancía es una “relación” ideal o una referen-
 
-[[91]]
+[[p=91]]
 99
 
 
@@ -4010,7 +4010,7 @@ como dinero. . . como dinero puesto idealmente” (123,30-34;
 de cambio (flecha a), y el valor de cambio es puesto “ideal-
 mente” como dinero (flecha b).
 
-[[92]]
+[[p=92]]
 100
 
 
@@ -4061,7 +4061,7 @@ b: compra que se consuma en la flecha c (apropiación de D.); flecha e:
 venta que se consuma en flecha c/a (consumo); A sería SP2 y B sería
 SP1.
 
-[[93]]
+[[p=93]]
 101
 
 
@@ -4109,7 +4109,7 @@ _______________
    11
         Cf. 128,7ss.; 109, 1ss.
 
-[[94]]
+[[p=94]]
 102
 
 
@@ -4158,7 +4158,7 @@ _______________
    12
         Cf. 138,2; 117,19-20.
 
-[[95]]
+[[p=95]]
 103
 
 
@@ -4209,7 +4209,7 @@ MEGA I/3, pp. 568-579, de junio de 1845).
 dés (168,9-10; 143,30-31): “El culto al dinero tiene su ascetismo, sus
 renuncias, sus sacrificios.” Es la nueva religión fetichista.
 
-[[96]]
+[[p=96]]
 104
 
 
@@ -4257,7 +4257,7 @@ za nuevamente:
        Todo esto comenzó en la Edad Moderna con el descubri-
 miento de América Latina y es el origen histórico de la cues-
 
-[[97]]
+[[p=97]]
 105
 
 
@@ -4309,7 +4309,7 @@ terior en lo posterior: el tesoro puede ser medio de circulación y de
 medida, pero es algo más, es una figura autónoma, con consistencia pro-
 pia. La negación es así afirmación.
 
-[[98]]
+[[p=98]]
 106
 
 
@@ -4340,7 +4340,7 @@ dad será la transición hacia el “Capítulo del capital”.
   ducto del trabajo a través del trabajo y del producto del trabajo
   ajeno a través del propio trabajo” (174,6-10; 148,25-28).
 
-[[99]]
+[[p=99]]
 TERCERA PARTE
 
 
@@ -4384,7 +4384,7 @@ tulo 11), y con la no menos original descripción de la historia
 de los “modos de apropiación”, como presupuesto histórico
 para comprender la génesis del capitalismo (capítulo 12).
 
-[[100]]
+[[p=100]]
 5. IGUALDAD, LIBERTAD, PROPIEDAD
     (177,1-189,16; 151,1-162,13)
     (Cuaderno II, desde la página 8 del manuscrito,
@@ -4431,7 +4431,7 @@ da nada al trabajo y todo a la propiedad privada” (p. 116; p. 520).
     3
       II Manuscrito del 44 (p. 124; p. 523).
 
-[[101]]
+[[p=101]]
 110
 
 
@@ -4477,7 +4477,7 @@ vale como abstracción pero no vale como la realidad misma):
        ¿Qué se logra con esta simplificación de la realidad (que
 en verdad no es una abstracción sino una deformación)?:
 
-[[102]]
+[[p=102]]
 111
 
 
@@ -4527,7 +4527,7 @@ _______________
 lo que se trata es de los “modos de comprensión” (o de interpretación)
 de la realidad.
 
-[[103]]
+[[p=103]]
 112
 
 
@@ -4573,7 +4573,7 @@ ejemplo, que “un individuo trampea en algo a otro, ello no se
 debe a la naturaleza de la función social en la que ambos se en-
 frentan, pues ésta es la misma, en ella son los dos iguales, sino
 
-[[104]]
+[[p=104]]
 113
 
 
@@ -4621,7 +4621,7 @@ de la apropiación y propiedad del producto:
   del producto del trabajo a través del trabajo y del producto del tra-
   bajo ajeno a través del propio trabajo, en cuanto el producto del
 
-[[105]]
+[[p=105]]
 114
 
 
@@ -4669,7 +4669,7 @@ es precisamente la generalidad de los intereses egoístas” (182,
         Así la economía política burguesa, desde una ideología
 que parte de la abstracción como realidad (un mecanismo
 
-[[106]]
+[[p=106]]
 115
 
 
@@ -4717,7 +4717,7 @@ comprarle, p. ej., su fuerza de trabajo).
         En el fondo de este discurso económico burgués, se hace
 pasar, ahistóricamente, lo abstracto por real:
 
-[[107]]
+[[p=107]]
 116
 
 
@@ -4766,7 +4766,7 @@ males, caen en una ideología deformante:
 asalariado. En realidad no arregla nada, y esto porque ha con-
 fundido, en su utopismo, “la conformación ideal (idealen
 
-[[108]]
+[[p=108]]
 117
 
 
@@ -4808,7 +4808,7 @@ ____________
      En estas páginas de los Grundrisse no se puede para nada hablar
 todavía de una “ley de apropiación”, cuya expresión es posterior.
 
-[[109]]
+[[p=109]]
 6. HACIA LA ESENCIA DEL CAPITAL
    (189,24-206,35; 162,18-177,32)
    (Cuaderno II, desde la página 12 del manuscrito,
@@ -4851,7 +4851,7 @@ táneamente, sino pausadamente, y no sin idas y venidas.
 Nos encontramos ante el “pasaje” más importante, quizá de
 todo el pensamiento de Marx. El Übergang (superación, decía
 
-[[110]]
+[[p=110]]
 119
 
 
@@ -4884,7 +4884,7 @@ como capital; N: otras determinaciones del capital; D': el capital como
 dinero; M': el capital como mercancía; P': el capital como producto;
 N': aparición del capital en otras determinaciones.
 
-[[111]]
+[[p=111]]
 120
 
 
@@ -4936,7 +4936,7 @@ pero con sentido ontológico en ambos (cf. en Hegel, Werke, t. xx
 más que ambos filósofos y lo transforma en un concepto clave de su
 ontología.
 
-[[112]]
+[[p=112]]
 121
 
 
@@ -4984,7 +4984,7 @@ entonces como determinación del capital:
 haber pensado que el Marx filósofo terminó en la Ideología
 alemana!
 
-[[113]]
+[[p=113]]
 122
 
 
@@ -5034,7 +5034,7 @@ estricta, remitirse al menos en un primer momento siempre a Hegel. Cf.
 Enzyklopädie, parágrafos 112-159, que son el momento del pensar
 hegeliano que más influyó al Marx definitivo.
 
-[[114]]
+[[p=114]]
 123
 
 
@@ -5080,7 +5080,7 @@ que se pone (y se funda) en la universalidad del capital esencial:
   Bestimmung) del capital, antes de que pasemos a su particularidad
   como dinero” (189,40-190,2; 162,33-34).
 
-[[115]]
+[[p=115]]
 124
 
 
@@ -5128,7 +5128,7 @@ mer lugar la descripción más clara y radical:
 del valor en su pureza y universalidad”? Está queriendo dife-
 renciar el simple “valor” del valor de uso (o forma natural del
 
-[[116]]
+[[p=116]]
 125
 
 
@@ -5178,7 +5178,7 @@ hay, en la reflexión de Marx, incertidumbre, como puede verse en la ex-
 presión: “el valor (el valor real de cambio). . .” (64,24; 55,38), que es
 “valor” y “valor de cambio” sin clara diferenciación.
 
-[[117]]
+[[p=117]]
 126
 
 
@@ -5219,7 +5219,7 @@ _______________
 tor: “consuntividad”) y de “intercambiabilidad” (la mercancía como
 mercancía).
 
-[[118]]
+[[p=118]]
 127
 
 
@@ -5269,7 +5269,7 @@ que en Marx pareciera que se trata del “mundo fenoménico de la circu-
 lación” y del “mundo existente-en-sí de la producción” (cf. parágrafo
 17.2).
 
-[[119]]
+[[p=119]]
 128
 
 
@@ -5318,7 +5318,7 @@ _______________
 del valor, México, Cuadernos de Pasado y Presente núm. 53, 1974, ha
 llegado a esta expresión del asunto.
 
-[[120]]
+[[p=120]]
 129
 
 
@@ -5366,7 +5366,7 @@ De la misma manera la circulación puede determinar al capital:
   el valor de cambio no haya de ninguna manera llegado a ser el su-
   puesto de esa producción. . . El capital comercial es meramente capi-
 
-[[121]]
+[[p=121]]
 130
 
 
@@ -5417,7 +5417,7 @@ llama el efecto civilizador (zivilisierende Wirkung) del comercio exterior”
 dad” de un Heidegger: lo que se presenta en el mundo como ente,
 fenómeno.
 
-[[122]]
+[[p=122]]
 131
 
 
@@ -5466,7 +5466,7 @@ realidad del capital.
 En su nivel profundo, fundamental, el capital es producción.
 En un doble sentido: fruto de la producción, instrumento de
 
-[[123]]
+[[p=123]]
 132
 
 
@@ -5515,7 +5515,7 @@ _______________
    10
         Véase supra 3.2.b y c, y el esquema 7.
 
-[[124]]
+[[p=124]]
 133
 
 
@@ -5564,7 +5564,7 @@ la misma esencia (del capital):
   de los momentos contenidos en la circulación simple; pero además
   adopta alternativamente la forma del uno y del otro. . . Cada una
 
-[[125]]
+[[p=125]]
 134
 
 
@@ -5611,7 +5611,7 @@ tuamente negados. En cambio, en el capital, aunque el dinero
 “salga” a la circulación (es el modo como el valor “sale” a
 través del dinero) se niega en la mercancía. La mercancía es
 
-[[126]]
+[[p=126]]
 135
 
 
@@ -5657,7 +5657,7 @@ de “reproducción de sí mismo” (203,20-21; 174,38-39).
         En resumen, el mismo valor en el intercambio simple
 “pasa” a ser subsumido en el capital:
 
-[[127]]
+[[p=127]]
 136
 
 
@@ -5694,7 +5694,7 @@ Kreis van Kreisen) (ed. cast. p. 740; ed. alem., p. 571) que se enrosca en
 sí misma como una espiral. Es el Absoluto sobre la tierra, y Marx, es
 evidente, está pensando en el nuevo Leviatán: el Capital.
 
-[[128]]
+[[p=128]]
 7. DE LA EXTERIORIDAD A LA SUBSUNCIÓN: CAPITAL
    Y TRABAJO (206,36-261,40; 177,33-227,9)
    (Cuaderno II, desde la página 18, hasta el Cuaderno III,
@@ -5741,7 +5741,7 @@ tema. Marx ya intuía en 1844 la subsunción del trabajo en el capital:
 “el trabajo como momento del capital (als Moment des Kapitals)”
 (ibid., p. 131; p. 529).
 
-[[129]]
+[[p=129]]
 138
 
 
@@ -5788,7 +5788,7 @@ tenimiento esta larga cita que explicaremos por partes después:
   jo, puesto como no-capital (Nicht-Kapital) en cuanto tal, es:
   1) Trabajo no-objetivado, concebido negativamente (aun en el caso
 
-[[130]]
+[[p=130]]
 139
 
 
@@ -5838,7 +5838,7 @@ de un discurso revolucionario latinoamericano.
 a.1] El momento de la negatividad. El intercambio entre el
 capital y el trabajo (representado en el esquema 14) parte de
 
-[[131]]
+[[p=131]]
 140
 
 
@@ -5879,7 +5879,7 @@ _______________
    2
        II Manuscrito citado, pp. 124-125 (MEW, EB I, pp. 524-525).
 
-[[132]]
+[[p=132]]
 141
 
 
@@ -5931,7 +5931,7 @@ Absoluto).
 dialectica, México, Edicol, 1979, pp. 43ss; en mi obra Para una ética de
 la liberación, t. I, cap. 3, y en Método para una filosofía de la liberación,
 
-[[133]]
+[[p=133]]
 142
 
 
@@ -5983,7 +5983,7 @@ y 2.4.7), es el “otro” que el capital, la contradicción absoluta para Marx,
 “fuente” viva del valor (lo que hemos llamado lo “meta-físico” por
 excelencia).
 
-[[134]]
+[[p=134]]
 143
 
 
@@ -6032,7 +6032,7 @@ _______________
        Cuadernos de París, México, Era, 1974, pp. 155-156 (MEGA,
 I, 3 [1932], pp. 546-547).
 
-[[135]]
+[[p=135]]
 144
 
 
@@ -6084,7 +6084,7 @@ XXI, 1979, 1984, donde puede estudiarse el pasaje de la hegemonía de
 España a Holanda (y posteriormente a Inglaterra desde mediados de
 siglo XVII).
 
-[[136]]
+[[p=136]]
 145
 
 
@@ -6135,7 +6135,7 @@ De allí que la baja de la proporción del trabajo necesario no es sólo fruto
 del aumento de productividad, sino de otros factores que deben estu-
 diarse en la relación centro-periferia.
 
-[[137]]
+[[p=137]]
 146
 
 
@@ -6184,7 +6184,7 @@ _______________
       Véase el trabajo de juventud Salario y capital (1849) (MEW, VI,
 pp. 397-423). Allí describe ya este intercambio (p. 399).
 
-[[138]]
+[[p=138]]
 147
 
 
@@ -6222,7 +6222,7 @@ piamente creadora (ex nihilo) del valor, del ser del capital
 –y esto en la invisibilidad del mecanismo mismo, tanto por
 parte del trabajador como por parte del capitalista mismo.
 
-[[139]]
+[[p=139]]
 148
 
 
@@ -6273,7 +6273,7 @@ rica, 1984; y la introducción al Cuaderno tecnol6gico-hist6rico (Londres,
     12
        Cf. supra 1.3: “La producción en general”.
 
-[[140]]
+[[p=140]]
 149
 
 
@@ -6323,7 +6323,7 @@ _______________
        Véase en la Filosofía de la producción citada, cap. 4, sobre Aris-
 tóteles, y la “Produktion” en Marx (cap. 7).
 
-[[141]]
+[[p=141]]
 150
 
 
@@ -6373,7 +6373,7 @@ otra parte “cosa-sentido”, o “cosa-producida”, “cosa-cultural”, dond
 la forma material incluye un sentido espiritual. Como lo hemos hecho
 notar frecuentemente, Marx usa mucho la palabra “espiritual (geistige)”.
 
-[[142]]
+[[p=142]]
 151
 
 
@@ -6421,7 +6421,7 @@ es diferente en el taller de Watt que en la fábrica de Manches-
 ter, material o técnicamente. Son idénticos abstractamente.
 Pero, en concreto, el proceso de producción capitalista se com-
 
-[[143]]
+[[p=143]]
 152
 
 
@@ -6468,7 +6468,7 @@ como se conserva y modifica en el proceso de producción”
   tos de trabajo y trabajo, sino en valores y, más exactamente, en
   precios” (253,10-12; 219,11-13).
 
-[[144]]
+[[p=144]]
 153
 
 
@@ -6518,7 +6518,7 @@ ción”, del capital las determinaciones “trabajo”, “medio de producción
 etc., llegan a otro efecto: el “producto”. Pero ahora, de lo que se trata es
 de la producción y aumento del valor mismo.
 
-[[145]]
+[[p=145]]
 154
 
 
@@ -6567,7 +6567,7 @@ articulada a los intereses de la clase obrera europea lo había
 mantenido vigilante y con el entusiasmo juvenil. No había clau-
 dicado. Pero la pasión teórica no surgía sólo de su disciplina,
 
-[[146]]
+[[p=146]]
 155
 
 
@@ -6611,7 +6611,7 @@ siglo XXI. De todas maneras Marx ha descubierto por qué hay
 ción que al comienzo de la producción. Es la cuestión del
 “plusvalor”.
 
-[[147]]
+[[p=147]]
 156
 
 
@@ -6660,7 +6660,7 @@ _______________
 invertido (D) más ganancia (claro que esta ganancia no es, esencialmen-
 te, sino plusvalor) (g).
 
-[[148]]
+[[p=148]]
 157
 
 
@@ -6708,7 +6708,7 @@ partes sino sólo en III :
           1.a) Devenir del capital a partir del dinero
             b) Capital y trabajo. . .
 
-[[149]]
+[[p=149]]
 158
 
 
@@ -6757,7 +6757,7 @@ _______________
 tribución a la crítica de la economía política, México, Siglo XXI, 1980,
 p. 318; MEW, XXIX, p. 311).
 
-[[150]]
+[[p=150]]
 159
 
 
@@ -6774,7 +6774,7 @@ a estar conforme con su articulación –y es por ello hasta hoy
 cuestión debatida la adecuada planificación de la temática de
 esos tomos. Volveremos sobre el asunto más adelante.
 
-[[151]]
+[[p=151]]
 8. HACIA UNA TEORÍA DEL PLUSVALOR
    (262,1ss.; 227,18ss.)
    (Cuaderno III, desde la página 21 hasta la página 40
@@ -6818,7 +6818,7 @@ jo, que es mayor que los componentes originarios del capital.
 El texto termina en el nivel de la compra y venta: de “trabajo
 vivo” (nivel profundo de la producción) y del “precio del tra-
 
-[[152]]
+[[p=152]]
 161
 
 
@@ -6850,7 +6850,7 @@ te; (Mp): precio de los medios de producción; pT: plustrabajo; p: plus-
 valor; Tn : tiempo necesario; x: momento esencial en el proceso del
 capital en el que se produce el plusvalor.
 
-[[153]]
+[[p=153]]
 162
 
 
@@ -6900,7 +6900,7 @@ de la cuestión de la ganancia y la circulación (nivel II del esquema 15)
 para elevar la cuestión a su nivel profundo, oculto, detrás: al proceso de
 producción (nivel III).
 
-[[154]]
+[[p=154]]
 163
 
 
@@ -6948,7 +6948,7 @@ camente), “para hacer la apología del capital, para justificarlo
 (rechtfertigen), recurre a este proceso simple [que consiste en]
 explicar el capital precisamente por un proceso que hace impo-
 
-[[155]]
+[[p=155]]
 164
 
 
@@ -6995,7 +6995,7 @@ ca, es decir, no se sitúa en el primer nivel material del proceso
 productivo sino en tanto ya subsumido por el capital, deter-
 minado por él, puesto desde su fundamento. No es una de-
 
-[[156]]
+[[p=156]]
 165
 
 
@@ -7043,7 +7043,7 @@ intercambio igual –en el nivel II. El capital en-cubre el plus-
 trabajo no pagado dentro del salario. Allí se encuentra “el
 surgimiento (Entstehung) del valor” (268,1; 232,25) como
 
-[[157]]
+[[p=157]]
 166
 
 
@@ -7091,7 +7091,7 @@ grado más desarrollado de surgimiento de plusvalor, para inves-
 tigar posteriormente el grado más primitivo (como categoría
 y en la historia).
 
-[[158]]
+[[p=158]]
 167
 
 
@@ -7144,7 +7144,7 @@ de las fuerzas productivas, la ampliación de las necesidades, la diver-
 sidad de la producción y la explotación e intercambio de las fuerzas
 naturales y espirituales (Geisteskräfte)”.
 
-[[159]]
+[[p=159]]
 168
 
 
@@ -7191,7 +7191,7 @@ del capital aumenta sólo la mitad:
   dividido entre 2, o igual a 2/8-1/8 igual a 1/8” (282,35-40; 245,
   22-27).
 
-[[160]]
+[[p=160]]
 169
 
 
@@ -7233,7 +7233,7 @@ producto de la tendencia que Marx defíne:
        De todas maneras, este análisis es una abstracción, en
 cuanto se eliminan metódicamente muchas variables. La inclu-
 
-[[161]]
+[[p=161]]
 170
 
 
@@ -7282,7 +7282,7 @@ necesario):
        En el ejemplo anterior (esquema 16) el obrero siempre
 ha trabajado el día entero (8/8), con una cierta cuota de plus-
 
-[[162]]
+[[p=162]]
 171
 
 
@@ -7330,7 +7330,7 @@ yor tiempo de trabajo. También hay otro medio de incremento:
   niendo en movimiento el trabajo anteriormente dormido), o crean-
   do nuevos obreros (activando la población). . . sea logrando el mismo
 
-[[163]]
+[[p=163]]
 172
 
 
@@ -7378,7 +7378,7 @@ de la circulación) con el plusvalor. Esto será objeto de refle-
 xión en el próximo capítulo. Lo cierto es (véase esquema 15)
 que Marx ha trabajado con el salario (S) y “ganancia” (plus-
 
-[[164]]
+[[p=164]]
 173
 
 
@@ -7426,7 +7426,7 @@ producida; véase esquema 14). La cuestión ahora es pregun-
 tarse si dicho valor es destruido (y por ello habría aniquilación
 de valor: de capital) o si permanece transformado. Es más, no
 
-[[165]]
+[[p=165]]
 174
 
 
@@ -7474,7 +7474,7 @@ forma, que es la adecuada”; 304,13-14; 264,5):
    simple [d en el esquema 12, antes de la subsunción como fenómeno
    que aparece en el nivel II]; en el segundo, en el proceso de produc-
 
-[[166]]
+[[p=166]]
 175
 
 
@@ -7496,7 +7496,7 @@ todo esto necesita todavía muchas páginas de Cuadernos
 de apuntes –espacio de la objetivación del trabajo teórico de
 Marx– para que pueda pensarse con claridad.
 
-[[167]]
+[[p=167]]
 9. ALGO MÁS SOBRE EL PLUSVALOR
    (304,39-353,6; 264,29-305,6)
    (Cuaderno III, desde la página 15 del manuscrito,
@@ -7539,7 +7539,7 @@ no es ya un simple trabajo, sino un “trabajo valorizador”
 “como trabajo”, sino un trabajo “como capital”. Lo mismo
 acontecerá con todos los componentes del acto productivo en
 
-[[168]]
+[[p=168]]
 177
 
 
@@ -7589,7 +7589,7 @@ _______________
 tión. La creemos de la mayor importancia política para el proceso revo-
 lucionario latinoamericano, en la medida en que un materialismo ingenuo
 
-[[169]]
+[[p=169]]
 178
 
 
@@ -7643,7 +7643,7 @@ rencia a Stalin –pero nada cambiará en el “materialismo dialéctico”. La
 obra de Konstantinov, El materialismo histórico (Istoriceskij materializm,
 Moscú) apareció en 1951, en plena época estaliniana.
 
-[[170]]
+[[p=170]]
 179
 
 
@@ -7695,7 +7695,7 @@ verse en MEGA I, 1/2 (1929), donde trabajó el De Anima, en el Cuader-
 no de Berlín, 1840-1841 (pp. 107-108); y también en sus apuntes sobre
 la Historia de la filosofía de Hegel.
 
-[[171]]
+[[p=171]]
 180
 
 
@@ -7740,7 +7740,7 @@ natural ha sido transformada en algo más útil: el hilo. Porque
 el hilo tiene trabajo humano objetivado, tiene valor (no sólo
 valor de uso, sino mero valor).
 
-[[172]]
+[[p=172]]
 181
 
 
@@ -7788,7 +7788,7 @@ marlo en objeto producido:
     “A modo de ejemplo. Cuando en las épocas de estancamiento en el
    comercio. . . las hilanderías quedan inactivas, se ve cómo la máquina
 
-[[173]]
+[[p=173]]
 182
 
 
@@ -7821,7 +7821,7 @@ de un nivel físico y biológico (cosa natural) al nivel de la cosa
 materia prima, y de ésta a la cosa como objeto producido, mer-
 cancía (es decir, del nivel tecnológico al nivel propiamente
 
-[[174]]
+[[p=174]]
 183
 
 
@@ -7871,7 +7871,7 @@ que asuma y supere el valor de la materia prima, del instru-
 mento y del usado para su subsistencia (recibido como dinero
 en su salario):
 
-[[175]]
+[[p=175]]
 184
 
 
@@ -7921,7 +7921,7 @@ resaba más el avance conceptual claro que los ejemplos de los
 economistas. “No hay que demorarse más en este fastidiosí-
 simo cálculo” (318,28-29; 276,20) –dice una vez. Otra excla-
 
-[[176]]
+[[p=176]]
 185
 
 
@@ -7966,7 +7966,7 @@ despacio:
    lor real que obtiene el capital en el proceso de producción es de
   25%, en el segundo de 50%” (325,12-15; 282,1-4).
 
-[[177]]
+[[p=177]]
 186
 
 
@@ -8014,7 +8014,7 @@ _______________
       Líneas más abajo usa el término “konstantes Kapital (capital cons-
 tante)” (342,10; 296,5).
 
-[[178]]
+[[p=178]]
 187
 
 
@@ -8062,7 +8062,7 @@ tal en este carácter determinado” (344,25-27; 298,13-15).
 “aparecen” en el nivel de la circulación (nivel II del esquema
 15), El capital “aparece” en el mercado como dinero (D) y se
 
-[[179]]
+[[p=179]]
 188
 
 
@@ -8111,7 +8111,7 @@ tión del aumento absoluto del plustrabajo:
 premisas Marx expone un cierto número de “tendencias”
 (Tendenz escribe, aunque también Gesetz: “ley”) del capital:
 
-[[180]]
+[[p=180]]
 189
 
 
@@ -8160,7 +8160,7 @@ como “trabajo no-necesarios”; 352,2-3; 304,15-16):
   necesario; el capital sólo es, en la medida en que el trabajo necesa-
   rio es y al mismo tiempo no es” (352,13-25; 304,27-39).
 
-[[181]]
+[[p=181]]
 190
 
 
@@ -8173,7 +8173,7 @@ rasgos fundamentales del concepto general de capital”; 353,
 no ya abstracta sino ahora comprendida, fundada, explicada,
 integrada al concreto-totalidad (nivel 5 del esquema 5).
 
-[[182]]
+[[p=182]]
 10. EL CAPITAL COMO PROCESO
    DE DESVALORIZACIÓN (353,14-407,9; 305,13-351,8)
    (Cuaderno IV, desde la página 15
@@ -8217,7 +8217,7 @@ Marx indica que no tratará de la circulación en sí, sino como momento
 de la realización del capital en general en relación con la producción
 misma.
 
-[[183]]
+[[p=183]]
 192
 
 
@@ -8265,7 +8265,7 @@ su reflexión:
   “Llegamos al tercer aspecto del proceso, en el cual es puesto el ca-
   pital en cuanto tal. 3) Observando atentamente el proceso de valo-
 
-[[184]]
+[[p=184]]
 193
 
 
@@ -8313,7 +8313,7 @@ está en su esencia.
         En segundo lugar, siendo el capital también dinero, y
 sabiendo que el dinero es “la forma de realización del capital”
 
-[[185]]
+[[p=185]]
 194
 
 
@@ -8354,7 +8354,7 @@ mento esencial de la crisis y la competencia (y por ello el sen-
 tido de la cuestión de la dependencia). Ya lo veremos.
         Esta desvalorización, como hemos repetido, es potencial:
 
-[[186]]
+[[p=186]]
 195
 
 
@@ -8402,7 +8402,7 @@ _______________
      Considérense los niveles II y I del esquema 15, y las flechas c y e.
 Del esquema 18 la flecha d.
 
-[[187]]
+[[p=187]]
 196
 
 
@@ -8450,7 +8450,7 @@ está dada directamente en la idea misma del capital. Todo
 límite se le presenta como una barrera a salvar” (359,25-360,
 11; 311,12-28). ¿No es acaso una actualización de la desvalo-
 
-[[188]]
+[[p=188]]
 197
 
 
@@ -8499,7 +8499,7 @@ de la no-identidad o del “desequilibrio” se funda en la esen-
 cia del capital y en la separación de sus fases (mercancía-dine-
 ro) dentro de un proceso simultáneo de desvalorización. Es
 
-[[189]]
+[[p=189]]
 198
 
 
@@ -8547,7 +8547,7 @@ su carácter civilizatorio):
 
    “De ahí la exploración de la naturaleza entera, para descubrir
 
-[[190]]
+[[p=190]]
 199
 
 
@@ -8598,7 +8598,7 @@ _______________
       Escribe nuevamente en inglés Marx : “De ahí la gran influencia
 civilizadora del capital.”
 
-[[191]]
+[[p=191]]
 200
 
 
@@ -8651,7 +8651,7 @@ el máximo rigor a toda el área fascistizada del subcontinente” (ibid., p.
        En inglés en el texto: “demanda adecuada”; es decir, la requerida
 para evacuar toda la oferta (toda la producción).
 
-[[192]]
+[[p=192]]
 201
 
 
@@ -8697,7 +8697,7 @@ vidad. Y Marx comenta:
        Al disminuir el salario disminuye, por tanto, la capacidad
 productiva del trabajo vivo mismo (flecha b del esquema 18).
 
-[[193]]
+[[p=193]]
 202
 
 
@@ -8749,7 +8749,7 @@ dificultad en “realizarse”. Pero el límite se lo pone el capital “central
      7
        “Compras comerciales excesivas, especulación desenfrenada.”
 
-[[194]]
+[[p=194]]
 203
 
 
@@ -8796,7 +8796,7 @@ posible de desvalorización (con flecha c en el esquema 18 y
 flecha e en el esquema 15), el pasaje del fin del proceso pro-
 ductivo (P: producto) a la puesta del producto en el mercado
 
-[[195]]
+[[p=195]]
 204
 
 
@@ -8845,7 +8845,7 @@ lidad” (cuya condición es tener un precio) del ente con “productualidad-
 intercambiable” (valor de la mercancía) es la condición de posibilidad de
 la “realización” del capital (recuperación como dinero).
 
-[[196]]
+[[p=196]]
 205
 
 
@@ -8892,7 +8892,7 @@ otras determinaciones reales pero ahora demasiado complejas
 y no necesarias para el análisis del capital en general), se dan
 las siguientes cuatro posibilidades:
 
-[[197]]
+[[p=197]]
 206
 
 
@@ -8934,7 +8934,7 @@ realizar dinero en la misma cantidad que el invertido al comienzo (capi-
 tal constante más salarios); sería un caso de pérdida o desvalorización
 absoluta (e del esquema 20).
 
-[[198]]
+[[p=198]]
 207
 
 
@@ -8983,7 +8983,7 @@ esencia, a su propia aniquilación: el descenso de la tasa de
 ganancia. Se preguntaba algo más arriba en este mismo Cua-
 derno IV:
 
-[[199]]
+[[p=199]]
 208
 
 
@@ -9033,7 +9033,7 @@ de las “partes componentes” del capital.
     11
        Véase más adelante el parágrafo 15.1.
 
-[[200]]
+[[p=200]]
 209
 
 
@@ -9081,7 +9081,7 @@ un remanente ni un desequilibrio (Missverhältnis)” (365,5-7;
    capital industrial y el capital crediticio. . . el capital tal cual se pre-
    senta como dinero” (365,37-366,3; 316,31-38).
 
-[[201]]
+[[p=201]]
 210
 
 
@@ -9131,7 +9131,7 @@ M; pero igualmente en el cuarto: d, el pasaje de M a D.
        Véase el ya citado Cuaderno tecnológico- histórico de Marx
 de 1851.
 
-[[202]]
+[[p=202]]
 211
 
 
@@ -9180,7 +9180,7 @@ _______________
        La “Tapferkeit” de Hegel en la guerra donde gana el más fuerte
 (cf. Filosofía del derecho, parágrafo 325).
 
-[[203]]
+[[p=203]]
 11. REALIZACIÓN DEL CAPITAL
    (407,14-433,5; 351,10-374,44)
    (Cuaderno IV, desde la página 40 a la 50 del manuscrito,
@@ -9218,7 +9218,7 @@ para la valorización del capital” (407,19-22; 351,15-17). De
 este segundo movimiento es de lo que trataremos en este
 capítulo.
 
-[[204]]
+[[p=204]]
 213
 
 
@@ -9266,7 +9266,7 @@ para el comprador igualmente el dinero), se intercambia por
 “valores de uso peculiares, por un lado material en bruto e
 instrumentos y por el otro capacidad viva de trabajo, en los
 
-[[205]]
+[[p=205]]
 214
 
 
@@ -9315,7 +9315,7 @@ se transforma (se invierte) en trabajo y medios de producción. En el
 esquema 15, en el nivel II, D → Cv = (S), o D → Cc = (Mp); o en esquema
 18, flecha a.
 
-[[206]]
+[[p=206]]
 215
 
 
@@ -9361,7 +9361,7 @@ decir, a las etapas anteriores que desembocarán en el dinero,
 D, todavía no-capital). Entremos entonces en el primer tema,
 en el orden en el que la investigación de Marx va de hecho
 
-[[207]]
+[[p=207]]
 216
 
 
@@ -9402,7 +9402,7 @@ Rosdolsky, sin embargo, sigue más a El capital que a los mismos Grun-
 drisse, y por ello se sa1ta olímpicamente el capítulo 10 nuestro, perdiendo
 así la perspectiva de la “cuestión de la desvalorización”.
 
-[[208]]
+[[p=208]]
 217
 
 
@@ -9450,7 +9450,7 @@ luta respecto de la propiedad (Eigentums)” (413,6-7; 356,
   como propiedad ajena. . . como trabajo ajeno. Esta separación abso-
   luta entre propiedad y trabajo. . . entre trabajo objetivado y trabajo
 
-[[209]]
+[[p=209]]
 218
 
 
@@ -9498,7 +9498,7 @@ variable” (415,31-34; 358,33-35); una parte que consiste en
 “las condiciones objetivas” para una nueva valorización (ma-
 teria prima, máquinas, etc.) que han sido “conservadas” por
 
-[[210]]
+[[p=210]]
 219
 
 
@@ -9546,7 +9546,7 @@ del pluscapital I” ¿Por qué? Simplemente, porque el supuesto
 del pluscapital I era un dinero que subsumido como capital
 tenía su origen en lo no-capital. Por el contrario, el plusca-
 
-[[211]]
+[[p=211]]
 220
 
 
@@ -9596,7 +9596,7 @@ _______________
      Cf. A 192ss.; es el libro II, que trata lo que “se denomina el bien
 supremo (höchsten Guts)” (A 194).
 
-[[212]]
+[[p=212]]
 221
 
 
@@ -9644,7 +9644,7 @@ tas” (431,42-43; 373,38-40).
    “El proceso de valorización [es un] proceso de apropiación: . . . que
    el plustrabajo sea puesto como plusvalor del capital significa que el
 
-[[213]]
+[[p=213]]
 222
 
 
@@ -9692,7 +9692,7 @@ una acumulación que ha realizado como no-capitalista” (420,
 33-421, 7; 363,25-42).
         Está claro que la primera acumulación, del dinero como
 
-[[214]]
+[[p=214]]
 223
 
 
@@ -9741,7 +9741,7 @@ del capital:
        Dadas estas condiciones esenciales es posible el inicio del
 proceso del capital como capital –no antes.
 
-[[215]]
+[[p=215]]
 224
 
 
@@ -9757,7 +9757,7 @@ los trabajadores libres no son, sin embargo, propiamente asala-
 riados del capital. De todas maneras, en esta época se dan las
 condiciones esenciales de la aparición del capital.
 
-[[216]]
+[[p=216]]
 12. ÉPOCAS DE LOS “MODOS DE APROPIACIÓN”
    (433,9-479,17; 375,1-415,7)
    (Cuaderno IV, desde la página 50 del manuscrito,
@@ -9804,7 +9804,7 @@ unidad originaria del sujeto posesor es escindido en un sujeto-pobreza
 absoluta, y un objeto poseído por otro. Véase mi obra Método para una
 filosofía de la liberación, pp. 87-99).
 
-[[217]]
+[[p=217]]
 226
 
 
@@ -9854,7 +9854,7 @@ _______________
      “Disociación” (Scheidung) (413,6; 356,15) indica la “separación
 (Trennung)” que denominará por último “disolución”.
 
-[[218]]
+[[p=218]]
 227
 
 
@@ -9905,7 +9905,7 @@ _______________
 con las condiciones de su producción o reproducción como algo suyo”
 (456,30-34; 395,13-17).
 
-[[219]]
+[[p=219]]
 228
 
 
@@ -9960,7 +9960,7 @@ micas de producción. La ética estudia así el momento infraestructural
 por excelencia: “[son] las relaciones determinadas de los mismos [sujetos]
 entre sí y con la naturaleza” (456,25-26; 395,7-8).
 
-[[220]]
+[[p=220]]
 229
 
 
@@ -9999,7 +9999,7 @@ o no de D sobre M o N. En círculo los agentes prácticos; en cuadrado
 los momentos materiales o productivos; en triángulo el momento for-
 malmente económico (práctico-productivo). M: materia.
 
-[[221]]
+[[p=221]]
 230
 
 
@@ -10051,7 +10051,7 @@ le importa el “sujeto-de-trabajo” como el a priori constituyente de la
       La letra a coincide (y así también b, c, etc.) con las flechas del
 esquema 22.
 
-[[222]]
+[[p=222]]
 231
 
 
@@ -10104,7 +10104,7 @@ totalidad del sistema –significación que no es la de Marx.
         Solo habría que recordar su tesis doctoral de filosofía sobre los
 griegos, pero muy especialmente sus incansables lecturas sobre la historia,
 
-[[223]]
+[[p=223]]
 232
 
 
@@ -10156,7 +10156,7 @@ Maquiavelo, Del Estado. Estas fueron en historia sólo sus lecturas de
 recién casado. Durante toda su vida Marx fue un continuo lector de his-
 toria. (MEGA, ibid., pp. 118ss.).
 
-[[224]]
+[[p=224]]
 233
 
 
@@ -10204,7 +10204,7 @@ producción materialmente) por separado. Es decir, debemos
 ir tomando lo que diga de cada forma a través de las treinta
 páginas aproximadamente. Deberemos reconstruir una des-
 
-[[225]]
+[[p=225]]
 234
 
 
@@ -10254,7 +10254,7 @@ _______________
    12
         Cf. 451,16-452,11 (390,25-391,18); 453,20-23 (392,20-22);
 
-[[226]]
+[[p=226]]
 235
 
 
@@ -10305,7 +10305,7 @@ sí una fracción de propiedad, sino como miembro inmediato de la comu-
 nidad. . . En consecuencia, esta unidad es la sola posesora” (439,20-32;
 380,24-32).
 
-[[227]]
+[[p=227]]
 236
 
 
@@ -10353,7 +10353,7 @@ _______________
 390,14). Son formas “secundarias” las dos formas que a continuación
 se describen.
 
-[[228]]
+[[p=228]]
 237
 
 
@@ -10405,7 +10405,7 @@ trabajo], pero, a su vez; él sólo es romano en cuanto posee derecho
 soberano sobre una parte de la tierra romana” (439,41-440,8; 380,
 38-381,3).
 
-[[229]]
+[[p=229]]
 238
 
 
@@ -10456,7 +10456,7 @@ _______________
 (395,25); 461,36 (399,29); 462,7 (399,39), y en algún caso hace refe-
 rencia al esclavismo del Caribe, dentro del capitalismo.
 
-[[230]]
+[[p=230]]
 239
 
 
@@ -10505,7 +10505,7 @@ _________________
       Todas las referencias anteriores al esclavismo se usan conjunta-
 mente respecto a la “relación de servidumbre” (Leibeigenschaft).
 
-[[231]]
+[[p=231]]
 240
 
 
@@ -10557,7 +10557,7 @@ bajadores libres” empobrecidos y urbanos).
        Marx nombrará repetidamente este fenómeno de “disolución
 (Auflösung)” (459,23; 397,30).
 
-[[232]]
+[[p=232]]
 241
 
 
@@ -10607,7 +10607,7 @@ _______________
    20
         Cf. 449,28-36; 389, 8-15.
 
-[[233]]
+[[p=233]]
 242
 
 
@@ -10654,7 +10654,7 @@ unidad apropiativas anteriores:
   “Son, entonces. . . , presupuestos históricos para que encontremos
   al trabajador como trabajador libre, como capacidad de trabajo pu-
 
-[[234]]
+[[p=234]]
 243
 
 
@@ -10708,7 +10708,7 @@ romano” (Hegel, op.cit., pp. 275ss.), y “mundo germano”, y no feudal
     23
         EI mismo Godelier (Sobre el modo de producción asiático, Bar-
 
-[[235]]
+[[p=235]]
 244
 
 
@@ -10760,7 +10760,7 @@ II, 3, 6 (1982), pp. 2126ss.).
         “Subsunción formal. . .” (El capital, libro I, capítulo VI (inédito),
 México, Siglo XXI, 1983, pp. 54ss.).
 
-[[236]]
+[[p=236]]
 245
 
 
@@ -10808,7 +10808,7 @@ de apropiación previo en crisis:
 es prehistoria de la economía burguesa. Se logra por la usura,
 el régimen urbano, el fisco; como atesoramiento de arrenda-
 
-[[237]]
+[[p=237]]
 246
 
 
@@ -10852,7 +10852,7 @@ desapropiado de todo, menos de “su pellejo” que es lo único
 que le queda para vender: “Alienación del trabajo (Entaüs-
 serung der Arbeit)” ( 478,17; 414,10-11).
 
-[[238]]
+[[p=238]]
 CUARTA PARTE
 
 PROCESO DE CIRCULACIÓN DEL CAPITAL
@@ -10894,7 +10894,7 @@ fundidad, de concreción.
 En primer lugar, como momento de la esencia abstracta del
 capital en general, en cuanto aspecto de la realización del capi-
 
-[[239]]
+[[p=239]]
 248
 
 
@@ -10943,7 +10943,7 @@ porque nunca indicaremos los tomos (I, II y III) de la edición castellana
 de Siglo XXI. La correspondencia de la edición castellana y alemana
 está al final de las Palabras preliminares al comienzo de esta obra.
 
-[[240]]
+[[p=240]]
 249
 
 
@@ -10990,10 +10990,10 @@ según lo exige el discurso mismo. De allí su riqueza, y de allí
 la necesidad de respetar el orden de los temas de los Cuader-
 nos V al VIII de los Grundrisse.
 
-[[241]]
+[[p=241]]
 
 
-[[242]]
+[[p=242]]
 13. ESPACIALIDAD Y TEMPORALIDAD
     DE LA CIRCULACIÓN (3,1-128,37; 415,10-512,30)
     (Cuaderno V, hasta la página 8 del manuscrito
@@ -11035,7 +11035,7 @@ ceso de circulación es esencialmente desvalorizante –aunque
 puede haber procesos secundarios de valorización, ya que
 “el producto tiene que desvalorizarse en la medida en que en
 
-[[243]]
+[[p=243]]
 252
 
 
@@ -11090,7 +11090,7 @@ desde la esencia del capital.
      2
        Cf. parágrafo 6.2.
 
-[[244]]
+[[p=244]]
 253
 
 
@@ -11125,7 +11125,7 @@ continua, deviniendo sucesivamente producto, mercancía,
 dinero. Estas determinaciones espaciales se cumplen en torno
 al “lugar” privilegiado de la realización del capital: el mercado.
 
-[[245]]
+[[p=245]]
 254
 
 
@@ -11176,7 +11176,7 @@ _______________
    5
      Cf. parágrafo 2.4.
 
-[[246]]
+[[p=246]]
 255
 
 
@@ -11224,7 +11224,7 @@ por naturaleza, tiende a superar toda barrera espacial” (13,
 noamericanos en el siglo XVI o XVII, y aun posteriormente–,
 verán aumentar el costo de los productos importados y los
 
-[[247]]
+[[p=247]]
 256
 
 
@@ -11272,7 +11272,7 @@ la lejanía espacial se resuelve en el tiempo. . . : la velocidad”;
 del capital”, ya que como “el tiempo de circulación se presen-
 ta, pues, como barrera a la productividad del trabajo” (30,
 
-[[248]]
+[[p=248]]
 257
 
 
@@ -11319,7 +11319,7 @@ desvaloriza menos el capital (que en a). Del caballo al ferro-
 carril –y hoy el avión– la lógica del capital necesita “ahorrar”
 tiempo: “ ¡El tiempo es oro!”
 
-[[249]]
+[[p=249]]
 258
 
 
@@ -11374,7 +11374,7 @@ present and the future, Filadelfia, 1848.
      15
         The logic of political economy, Edimburgo, 1844.
 
-[[250]]
+[[p=250]]
 259
 
 
@@ -11419,7 +11419,7 @@ Th. Hodgskin, etcétera.
 ma 15. Véase lo que Marx expone sobre el tema en pp. 262,lss. (227,
 18ss.), en el parágrafo 8.1.
 
-[[251]]
+[[p=251]]
 260
 
 
@@ -11473,7 +11473,7 @@ y la ganancia” (48,6; 452,1-2); para Marx en cambio hay “fondo de
 trabajo y plusvalor”. Para Ricardo la “competencia ilimitada” y el au-
 mento de los productos por la industria son los supuestos del capital;
 
-[[252]]
+[[p=252]]
 261
 
 
@@ -11524,7 +11524,7 @@ temas por el bisturí metodológico de Marx.
 el capital total invertido (10: 100x100). La tasa de plusvalor es de 60%,
 al dividir el plusvalor (= ganancia aquí) por el salario (10: 16.66x100).
 
-[[253]]
+[[p=253]]
 262
 
 
@@ -11574,7 +11574,7 @@ momento del discurso, porque:
   que el capital que no se encuentra en la circulación, reposa” (82,
   16-18; 476,29-31).
 
-[[254]]
+[[p=254]]
 263
 
 
@@ -11622,7 +11622,7 @@ mentar la productividad en vista del plusvalor, “el saber y la
 experiencia” (91,30; 483,40) que transforma al artesano en el
 trabajador con “destreza particular” más desarrollada.
 
-[[255]]
+[[p=255]]
 264
 
 
@@ -11669,7 +11669,7 @@ _______________
    20
         On political economy, Londres, 1832.
 
-[[256]]
+[[p=256]]
 265
 
 
@@ -11723,7 +11723,7 @@ fundizar.
 usado, exactamente las mismas palabras: “. . . gleichgültigen. . . zufälli-
 gen. . .” (MEW, EB I, p. 523).
 
-[[257]]
+[[p=257]]
 266
 
 
@@ -11774,7 +11774,7 @@ _______________
    25
         En El capital I, cap. 8 (Siglo XXI, t. I/1, p. 324; MEW, XXXIII,
 
-[[258]]
+[[p=258]]
 267
 
 
@@ -11824,7 +11824,7 @@ dad: en el sistema “como” el oprimido, pero al mismo tiempo “fuera”
 del pauper en pp. 232,24 (596,23) y 263,40-266,16 (623,1-624,39).
 Cf. parágrafos 14.4, 17.1.c. y 18.6.
 
-[[259]]
+[[p=259]]
 268
 
 
@@ -11874,7 +11874,7 @@ Crítica a la teoría del valor (de los Manuscritos de 1861-1863, tomos
 II, III y IV de la edición de los MEGA), que editará Kautsky como tomo
 IV de El capital.
 
-[[260]]
+[[p=260]]
 269
 
 
@@ -11889,7 +11889,7 @@ resolver los problemas reales debido a su abstracción super-
 ficial, a sus categorías incompletas, a sus condicionamientos
 ideológico-burgueses.
 
-[[261]]
+[[p=261]]
 14. CIRCULACIÓN COMO LA TOTALIDAD DEL PROCESO
     DEL CAPITAL (129,1-273,15; 512,33-630,26)
     (Cuaderno VI, desde la página 19 del manuscrito,
@@ -11936,7 +11936,7 @@ son fragmentos de esta cadena. . .” (Wissenschaft der Logik III, 3, 3;
 Werke [Suhrkamp] VI, pp. 571-572). Estos círculos concéntricos en mo-
 vimiento forman una espiral al fin (cf. esquema 21 del cap. 11).
 
-[[262]]
+[[p=262]]
 271
 
 
@@ -11986,7 +11986,7 @@ lectura): in potentia dice a veces en latín.
 el movimiento de la esencia, es, para Marx, el movimiento del capital:
 tiene igualmente un inicio, un desarrollo y un retorno sobre sí o su rea-
 
-[[263]]
+[[p=263]]
 272
 
 
@@ -12037,7 +12037,7 @@ tomo II de El capital. En los Grundrisse los medios de subsistencia
 del trabajador serán todavía considerados capital circulante, no así en
 El capital.
 
-[[264]]
+[[p=264]]
 273
 
 
@@ -12090,7 +12090,7 @@ reflexión sobre sí. . .” (ibid). El capital, como la esencia, es, por una
 parte, la “unidad” total del proceso, y por otra, cada determinación
 formal o la diferencia.
 
-[[265]]
+[[p=265]]
 274
 
 
@@ -12135,7 +12135,7 @@ minación material” por una parte, y por otra una “primaria”;
 
        Veamos la cuestión por partes.
 
-[[266]]
+[[p=266]]
 275
 
 
@@ -12182,7 +12182,7 @@ b.l o b.2 del esquema 26):
   en cuanto sujeto de las diversas mutaciones. . .” (131,22-24; 514,
   35-37).
 
-[[267]]
+[[p=267]]
 276
 
 
@@ -12230,7 +12230,7 @@ c] Determinaciones esenciales
 El tema lo hemos expuesto anteriormente (parágrafos 6.1 y
 1.2). Las determinaciones esenciales del capital son, entre
 
-[[268]]
+[[p=268]]
 277
 
 
@@ -12282,7 +12282,7 @@ bajo dos formas diferentes: modos de existencia particulares (besondren
 Existenzweisen) de fijo y circulante. . . Tiene por ende una doble exis-
 tencia. . . además del de ser capital” (161,31-35; 539,1-6).
 
-[[269]]
+[[p=269]]
 278
 
 
@@ -12312,7 +12312,7 @@ pasaje del valor (valor fijado, detenido, negado). Flecha x: el capital
 circulante por excelencia; flecha a: dominio material que la máquina
 ejerce sobre el trabajo vivo (subsunción real).
 
-[[270]]
+[[p=270]]
 279
 
 
@@ -12362,7 +12362,7 @@ tion), ciclo (Zyklus), rotación (Umschlag), período (Periode). Cf. p.ej.
 153,15-18; 532,23-26. Usa todavía una quinta palabra: proceso (Pro-
 zess, Verlauf).
 
-[[271]]
+[[p=271]]
 280
 
 
@@ -12409,7 +12409,7 @@ de rotaciones en un lapso determinado” (139,18-20; 521,
 La “rotación” del capital, como totalidad, es la suma del pro-
 ceso de producción más el proceso de circulación (cada uno
 
-[[272]]
+[[p=272]]
 281
 
 
@@ -12461,7 +12461,7 @@ de producción y circulación, simultáneamente.
        La determinación del valor en dinero es el precio (cf. esquema
 19). La cuestión del interés la veremos más adelante (parágrafo 15.4).
 
-[[273]]
+[[p=273]]
 282
 
 
@@ -12508,7 +12508,7 @@ _______________
       Obsérvese que Marx todavía no ha hablado explícitamente de
 “capital variable”. En este caso escribe: “valor variable”.
 
-[[274]]
+[[p=274]]
 283
 
 
@@ -12558,7 +12558,7 @@ pero no hay trabajo en él: no hay valorización propiamente dicha.
 ción. . . [El capital, por ello] tiene que escindirse en dos partes. . .”
 (186,21ss.; 558,21ss.).
 
-[[275]]
+[[p=275]]
 284
 
 
@@ -12607,7 +12607,7 @@ _______________
    19
         Cf. 191,17; 562,20-21.
 
-[[276]]
+[[p=276]]
 285
 
 
@@ -12645,7 +12645,7 @@ _______________
          ci
 el T-C -P (esquema 26).
 
-[[277]]
+[[p=277]]
 286
 
 
@@ -12694,7 +12694,7 @@ _______________
 de lo que ahora habla Marx. Cf. 187,35 (559,26); 188,9 (559,35);
 188,11 (559,38); 188,22 (560,9); etcétera.
 
-[[278]]
+[[p=278]]
 287
 
 
@@ -12742,7 +12742,7 @@ Pueden consultarse nuestras “Palabras preliminares” del Cuaderno
 tecnológico-histórico (Londres, 1851) que editamos en la UAP (Puebla),
 1985.
 
-[[279]]
+[[p=279]]
 288
 
 
@@ -12782,7 +12782,7 @@ jo” (Mt) y “maquinarias, etc.” (Maq). Siendo sólo esta última, Maq,
 “capital fijo” (C f)que no circula en una rotación (]). Mientras Mt circu-
 la como “capital circulante” (Cci) al producto (P).
 
-[[280]]
+[[p=280]]
 289
 
 
@@ -12831,7 +12831,7 @@ nio: flecha g del esquema 22). Mientras que el capital domina
 al obrero (relación social o práctica, ética), por medio de su
 “rostro material”:
 
-[[281]]
+[[p=281]]
 290
 
 
@@ -12881,7 +12881,7 @@ apropiación del trabajo por el capital; [y donde] el capital [se comporta]
 en cuanto aquello que absorbe en sí [al] trabajo vivo” (227,20-23; 592,
 2-5). “El amor” es el trabajo vivo; el “cuerpo” es la máquina. Es parte
 
-[[282]]
+[[p=282]]
 291
 
 
@@ -12933,7 +12933,7 @@ orgánica” del capital.
     25
        Cf. 222,29-33 (587,42-45), y 228,2-7 (592,20-26).
 
-[[283]]
+[[p=283]]
 292
 
 
@@ -12988,7 +12988,7 @@ mecanicista) (cf. parágrafo 4.2). El “materialismo” de Marx, repitiendo,
 no afirma que “todo [el cosmos] es materia”, sino que el sujeto que tra-
 baja (el a priori) constituye la naturaleza (Natur) como “materia” (lo
 
-[[284]]
+[[p=284]]
 293
 
 
@@ -13040,7 +13040,7 @@ muestra la aprioridad del ego laboro. Léanse detalladamente las páginas
 230,22-239,27 (594,30-602,18), de gran valor para la cuestión utópica
 en Marx.
 
-[[285]]
+[[p=285]]
 294
 
 
@@ -13090,7 +13090,7 @@ _______________
    29
         Cf. parágrafo 7.1.a.
 
-[[286]]
+[[p=286]]
 295
 
 
@@ -13143,7 +13143,7 @@ fenómeno humano en totalidad sería una manifestación cósica.
        Encontramos aquí la Urgeschichte (historia primitiva) del tema de
 El capital I, cap. 1, parágrafo 4, sobre el “Fetichismo de la mercancía”.
 
-[[287]]
+[[p=287]]
 296
 
 
@@ -13190,7 +13190,7 @@ _______________
    32
         Sobre esta cuestión véase pp. 205-208 (574-577).
 
-[[288]]
+[[p=288]]
 297
 
 
@@ -13238,7 +13238,7 @@ _______________
    33
         Cf. pp. 239-273 (602-630).
 
-[[289]]
+[[p=289]]
 QUINTA PARTE
 
 CAPITAL FRUCTÍFERO
@@ -13272,7 +13272,7 @@ mostrar así que es en el plustiempo, plustrabajo del trabajador,
 en el plusvalor producido donde se funda lo aparentemente
 “fructífero”, “fecundo”, autocreador ex nihilo del capital.
 
-[[290]]
+[[p=290]]
 15. CAPITAL Y GANANCIA (277,1-463,23; 631,1-762,42)
     (Cuaderno VII hasta la página 62 del manuscrito,
     hasta fines de mayo o comienzos de junio de 1858)
@@ -13317,7 +13317,7 @@ ______________
    1
        MEW, XXIX, p. 260.
 
-[[291]]
+[[p=291]]
 302
 
 
@@ -13364,7 +13364,7 @@ en el plano fenoménico superficial de la circulación:
   comporta consigo mismo como valor que se aumenta a sí mismo,
   esto es, se comporta con el plusvalor como puesto y fundado por él;
 
-[[292]]
+[[p=292]]
 303
 
 
@@ -13414,7 +13414,7 @@ _______________
 las ideas o momentos eternos de Dios para el pensar medieval; la specie
 capitalis son las formas fenoménicas de aparición del capital.
 
-[[293]]
+[[p=293]]
 304
 
 
@@ -13459,7 +13459,7 @@ Y SUS RELACIONES
 relación de igualdad con la ganancia (flecha a: del plusvalor
 hacia la ganancia relación de fundamentación; a la inversa rela-
 
-[[294]]
+[[p=294]]
 305
 
 
@@ -13508,7 +13508,7 @@ _______________
 como simple magnitud de valor sin relación a otra magnitud” (280,
 33-34; 634,10-11).
 
-[[295]]
+[[p=295]]
 306
 
 
@@ -13555,7 +13555,7 @@ vas sin suicidarse por ello” (283,39-284,1).
 puesta de la desaparición automática o mecánica del capitalis-
 mo por la ley del descenso de la tasa de ganancia, nos explica:
 
-[[296]]
+[[p=296]]
 307
 
 
@@ -13603,7 +13603,7 @@ asceta, disciplinado, que no se “da gustos” sea mejor capita-
 lista –de allí la “moral puritana” que estudió Sombart y
 Marx Weber.
 
-[[297]]
+[[p=297]]
 308
 
 
@@ -13652,7 +13652,7 @@ _______________
      Sobre el tema de la tecnología Marx se ocupará más adelante en
 375ss. (703ss.), 387ss. (711ss.), 429ss. (739ss.).
 
-[[298]]
+[[p=298]]
 309
 
 
@@ -13699,7 +13699,7 @@ la agricultura”, es cuando “se economiza más materia prima”
 o cuando baja de costo. “En este caso la proporción del capi-
 tal permanece incambiada” (311,14-15; 659,4-5), aunque
 
-[[299]]
+[[p=299]]
 310
 
 
@@ -13747,7 +13747,7 @@ ción a otro capital” (315,20-24; 662,32-34).
         La maquinaria, a la inversa que en el caso del plusvalor
 absoluto que “debe aumentar en la misma proporción que el
 
-[[300]]
+[[p=300]]
 311
 
 
@@ -13795,7 +13795,7 @@ la distribución: momento ético por excelencia):
   que se le tenían que contraponer como capital” (395,36-396,18;
   716,42-717,19).
 
-[[301]]
+[[p=301]]
 312
 
 
@@ -13846,7 +13846,7 @@ _______________
      Estos dos temas los excluye explícitamente, de tratarlos aquí, en
 374,1-2; 702,11-12.
 
-[[302]]
+[[p=302]]
 313
 
 
@@ -13893,7 +13893,7 @@ que encumbró a la de los capitalistas” (356,32-35; 691,3-7)
 formó en periféricos de Europa.
         Quiere decir que el mismo dinero, y la moneda como su
 
-[[303]]
+[[p=303]]
 314
 
 
@@ -13943,7 +13943,7 @@ _______________
     7
       Carta a Engels del 29 de marzo de 1858 (MEW, XXIX, p. 309).
 
-[[304]]
+[[p=304]]
 315
 
 
@@ -13991,7 +13991,7 @@ turas con dinero –o al menos en muchas de ellas (cf. 424,1ss.;
 interés determinaba la ganancia. Pero dicho crédito no era
 otorgado a un capital, sino a un comerciante, a un monarca,
 
-[[305]]
+[[p=305]]
 316
 
 
@@ -14032,7 +14032,7 @@ mercancía, como la mercancía dinero:
 como dinero que se vende a interés; estrictamente no “produ-
 cen ganancia” porque en realidad no producen plusvalor. Si
 
-[[306]]
+[[p=306]]
 317
 
 
@@ -14081,7 +14081,7 @@ _______________
 una forma de la circulación sin tiempo de circulación” (178,23-27;
 551,41-45).
 
-[[307]]
+[[p=307]]
 318
 
 
@@ -14107,7 +14107,7 @@ mercancías se funda en el intercambio entre capital y trabajo,
 y que en este último intercambio se basan la ganancia y el
 interés” (413,28-414,2), es decir, en el plusvalor.
 
-[[308]]
+[[p=308]]
 SEXTA PARTE
 
 TRANSICIÓN
@@ -14126,7 +14126,7 @@ nuestro continente despiertan, y su praxis revolucionaria nece-
 sita una teoría realista que se pliegue a sus exigencias. Esta
 pequeña obra es un comienzo, sólo un comienzo.
 
-[[309]]
+[[p=309]]
 16. EL VALOR (464,1ss.; 763,1ss.)
     (Cuaderno VII, y Cuadernos M, B' y B”,
     desde comienzos de junio
@@ -14168,7 +14168,7 @@ _____________
 “Reseña de mis propios cuadernos” (febrero-marzo 1859) (221ss.;
 951ss.), y el “Nuevo plan”, de 1859 (27ss.; 969ss.).
 
-[[310]]
+[[p=310]]
 322
 
 
@@ -14216,7 +14216,7 @@ _______________
    2
        Cf. cap. 1, supra.
 
-[[311]]
+[[p=311]]
 323
 
 
@@ -14264,7 +14264,7 @@ _______________
    3
        Cf. parágrafo 6.2.
 
-[[312]]
+[[p=312]]
 324
 
 
@@ -14311,7 +14311,7 @@ como valor y fundar sobre él todo el discurso posterior.
 Hemos visto ya que el valor, en cuanto tal (y por ello en tanto
 capital) es el momento fundamental de la esencia del capital
 
-[[313]]
+[[p=313]]
 325
 
 
@@ -14359,7 +14359,7 @@ objetivado tiene valor. El valor es el carácter de la mercancía
 en tanto producto, el producto como producto: la productua-
 lidad. Tiene valor lo que tiene al trabajo como su fundamento
 
-[[314]]
+[[p=314]]
 326
 
 
@@ -14406,7 +14406,7 @@ polos constitutivos: es “relación social” en su productualidad,
 en cuanto el trabajo vivo crea un plus-valor; es “relación so-
 cial” en su intercambiabilidad, en cuanto el producto ha sido
 
-[[315]]
+[[p=315]]
 327
 
 
@@ -14459,7 +14459,7 @@ que es la “'fuente creadora” de todo valor. Tampoco tiene valor el sujeto
 humano mismo (porque el trabajador es libre: si fuera esclavo la subjeti-
 vidad misma tendría valor y se la podría adquirir).
 
-[[316]]
+[[p=316]]
 328
 
 
@@ -14507,7 +14507,7 @@ del valor, pero, en realidad, ha sido su descubrimiento funda-
 mental. Primero, el “concepto de valor” mismo. Pero, y esen-
 cialmente, describe por primera vez el “concepto de plusvalor”
 
-[[317]]
+[[p=317]]
 329
 
 
@@ -14554,7 +14554,7 @@ je al capital”, “Capítulo III. El capital” (162,28ss.; 901,30ss.).
         Habría que observar entonces dos aspectos. El primero,
 de cómo Marx logra resumir todo lo ganado en sus estudios
 
-[[318]]
+[[p=318]]
 330
 
 
@@ -14604,7 +14604,7 @@ _______________
      Carta a Lasalle del 12 de noviembre de 1858 (cit. en Contribución,
 ed. cast., p. 324).
 
-[[319]]
+[[p=319]]
 331
 
 
@@ -14652,7 +14652,7 @@ está en el nivel superficial, cotidiano: es “pura apariencia”,
 menología es practicada en el nivel del capital. La circulación
 es “apariencia”; el “capital industrial” (188,6-7; 923,3) es
 
-[[320]]
+[[p=320]]
 332
 
 
@@ -14701,7 +14701,7 @@ de trabajo” (215,31-32; 945,2-3). Es decir:
   capacidad laboral, la apropiación del título al consumo de la misma,
   coloca naturalmente al comprador y al vendedor, durante el acto
 
-[[321]]
+[[p=321]]
 333
 
 
@@ -14748,7 +14748,7 @@ drisse. Querríamos indicar que ambos tocan, de paso, la cues-
 tión del salario (que es poco tratada en los Grundrisse), es
 decir, la prehistoria de la cuestión del plusvalor:
 
-[[322]]
+[[p=322]]
 334
 
 
@@ -14799,7 +14799,7 @@ _______________
    7
        Ibid., pp. 325ss.
 
-[[323]]
+[[p=323]]
 335
 
 
@@ -14842,7 +14842,7 @@ _______________
       Se repite el punto 6 del capítulo II, y por ello quizá lo eliminó de
 este lugar en el Urtext.
 
-[[324]]
+[[p=324]]
 17. LOS GRUNDRISSE Y LA FILOSOFÍA DE
     LA LIBERACIÓN
 
@@ -14885,7 +14885,7 @@ dológico. El discurso que continúa a Marx es marxista en
 cuanto no traiciona su lógica, sus fundamentos, lo ya efectua-
 do de su discurso; pero, al mismo tiempo, no es meramente
 
-[[325]]
+[[p=325]]
 337
 
 
@@ -14933,7 +14933,7 @@ el sentido que le hemos dado en Filosofía de la liberación (Bogotá),
 parágrafos 16, 24, 30 y 36, Buenos Aires, Siglo XXI, 1973, t. I, pp.118ss.;
 t. II, pp. 52ss., 97ss., 156ss.), etcétera.
 
-[[326]]
+[[p=326]]
 338
 
 
@@ -14979,7 +14979,7 @@ su “capacidad de trabajo” significa el término “exterior”
 desde donde (ex quo) aparecerá la totalidad del sistema
 capitalista:
 
-[[327]]
+[[p=327]]
 339
 
 
@@ -15027,7 +15027,7 @@ sí y por sí: el capital. “El otro” es de esta manera “nada
 plena” (cf. 7.1.a.1, texto del II Manuscrito del 44). “Nada” por
 no tener sentido; “nada” por no tener valor todavía, no-ma-
 
-[[328]]
+[[p=328]]
 340
 
 
@@ -15075,7 +15075,7 @@ necesario: es decir, todo trabajador es “potencialmente un
 pobre”, un desocupado, parte del “ejército industrial de
 reserva”:
 
-[[329]]
+[[p=329]]
 341
 
 
@@ -15125,7 +15125,7 @@ p. 59). Cerutti, en su op.cit., comete todo tipo de confusiones (p. 38)
 –hasta habla de la “alteridad del ente”, lo que es absurdo–, negando
 el sentido también comunitario del otro.
 
-[[330]]
+[[p=330]]
 342
 
 
@@ -15173,7 +15173,7 @@ va” (423,9-11; 365,34-37). De todas maneras se constituirá
 na ajena (fremden Person)” (423,4; 365,30). La “persona-a-
 persona” se transformara en “cosa-ante-cosa” (trabajo pasado
 
-[[331]]
+[[p=331]]
 343
 
 
@@ -15225,7 +15225,7 @@ y el discurso de los Grundrisse y El capital.
      5
        Ibid., I, 2; pp. 163ss. ; 209ss.
 
-[[332]]
+[[p=332]]
 344
 
 
@@ -15274,7 +15274,7 @@ _______________
    9
      Cf. cap. 6 entero, y especialmente esquemas 12 y 15.
 
-[[333]]
+[[p=333]]
 345
 
 
@@ -15326,7 +15326,7 @@ ménico).
     12
        Ibid., p. 467; p. 186.
 
-[[334]]
+[[p=334]]
 346
 
 
@@ -15378,7 +15378,7 @@ parágrafo 12.2.
     15
        Cf. parágrafo 6.1.
 
-[[335]]
+[[p=335]]
 347
 
 
@@ -15429,7 +15429,7 @@ _______________
 na del círculo y la espiral aplicado al capital véase el texto citado al
 inicio del capítulo 14.
 
-[[336]]
+[[p=336]]
 348
 
 
@@ -15481,7 +15481,7 @@ der al que se pretende criticar. Lo que desde 1969 expresé desde una
 categorización heideggeriana, puedo ahora, con mayor precisión (pero
 respetando las intuiciones de fondo), expresarlo desde Marx.
 
-[[337]]
+[[p=337]]
 349
 
 
@@ -15516,7 +15516,7 @@ trabajo vivo disponible); 4. movimiento de liberación. Las flechas 1.c,
 incluye la liberación (realidad no alienada o subsumida en la totalidad
 del capital).
 
-[[338]]
+[[p=338]]
 350
 
 
@@ -15568,7 +15568,7 @@ daron a hipostasiar la “totalidad” sin dejar ver “afuera” de ella.
         Véase lo dicho por Marx sobre el pobre en parágrafos 11.2, 13.5
 y 17.l.c.
 
-[[339]]
+[[p=339]]
 351
 
 
@@ -15619,7 +15619,7 @@ _______________
    26
       Ibid.,2.5.5.1.
 
-[[340]]
+[[p=340]]
 352
 
 
@@ -15667,7 +15667,7 @@ quina en el proceso productivo mismo, que el trabajador es
 material o realmente subsumido por el capital, por el capital
 fijo:
 
-[[341]]
+[[p=341]]
 353
 
 
@@ -15715,7 +15715,7 @@ ente interior a la totalidad del ser del capital) es capital:
 
    “Esta fuerza natural vivificante del trabajo. . . se convierte en fuerza
 
-[[342]]
+[[p=342]]
 354
 
 
@@ -15768,7 +15768,7 @@ antidogmático” –por razones concretas e históricas de una Argentina
 donde el PC había cometido todo tipo de errores coyunturales a través
 de cinco decenios.
 
-[[343]]
+[[p=343]]
 355
 
 
@@ -15816,7 +15816,7 @@ fundado en el valor de cambio:
   versal en el cual toda individualidad (Individualität), todo carácter
   propio es negado y cancelado” (84,14-29; 74,35-75,6).
 
-[[344]]
+[[p=344]]
 356
 
 
@@ -15862,7 +15862,7 @@ En el capitalismo el carácter “social” no es un momento positi-
 vo de la humanidad, sino ya una posición perversa, deformada,
 antihumana. Se trabaja junto a otros pero no en comunidad:
 
-[[345]]
+[[p=345]]
 357
 
 
@@ -15912,7 +15912,7 @@ histórica del hombre:
   producto histórico. Pertenece a una determinada fase del desarrollo
   de la individualidad” (89,30-36; 79,28-33).
 
-[[346]]
+[[p=346]]
 358
 
 
@@ -15967,7 +15967,7 @@ historia me absolverá), como fiesta del pueblo que recuerda sus gestas
 históricas pasadas, y teniendo por testigo y motivador al Absoluto
 mismo.
 
-[[347]]
+[[p=347]]
 359
 
 
@@ -16017,7 +16017,7 @@ neísta (como nos indicaba Frantz Fanon) asumida por intelectuales
 argentinos peronistas (entre los que, aunque le pese a Cerutti, nunca
 me conté).
 
-[[348]]
+[[p=348]]
 360
 
 
@@ -16073,7 +16073,7 @@ co de conceptos, al final, la palabra “metafísica”; p. 201).
 . . .”, las tres palabras que ha usado desde su juventud, para indicar,
 como sinónimos, el hecho de la “alienación”.
 
-[[349]]
+[[p=349]]
 361
 
 
@@ -16124,7 +16124,7 @@ xico, FCE, t. II, 1981, pp. 48ss.; MEW, EB II, pp. 171ss.). Sin embargo
 Marx joven, del “sueño hegeliano” (véase mi obra Método para una filo-
 sofía de la liberación, pp. 116ss.).
 
-[[350]]
+[[p=350]]
 362
 
 
@@ -16177,7 +16177,7 @@ esquema 6 de esta obra) es crítica dialéctica. La explicación científica,
 propiamente dicha, se cumple en el momento del “descenso” (demostra-
 tivo, explicativo, justificativo: flechas d y e de los esquemas 4 y 5 ). En
 
-[[351]]
+[[p=351]]
 363
 
 
@@ -16226,7 +16226,7 @@ hiriente (“. . . y esto no sólo por falta de lectura de estas obras que
 Dussel dice tener sobre su mesa. . .” [p. 235], o “aquí es donde se revela
 en todo su reaccionarismo esta propuesta. . .” [p. 236], etcétera).
 
-[[352]]
+[[p=352]]
 364
 
 
@@ -16273,7 +16273,7 @@ _______________
    40
         Cf. supra capítulo 5.
 
-[[353]]
+[[p=353]]
 365
 
 
@@ -16329,7 +16329,7 @@ noamericana, en especial en la sandinista (desde el Che Guevara a prác-
 ticamente todos los comandantes sandinistas, son de origen pequeño-
 burgués, cuando no de la gran burguesía nicaragüense).
 
-[[354]]
+[[p=354]]
 366
 
 
@@ -16379,7 +16379,7 @@ léctica ha sido bastante llevado y traído” (op. cit., p. 230). Como ha
 elaborado mal el tema de la exterioridad nada se puede esperar de
 una correcta interpretación de la analéctica tal como la critica Cerutti.
 
-[[355]]
+[[p=355]]
 367
 
 
@@ -16428,7 +16428,7 @@ kelammert, Crítica a la razón utópica, San José, DEI, 1984, en especial
 el capítulo sobre Popper –donde muestra las consecuencias del pensa-
 miento antiutópico–; obra realmente esencial sobre la cuestión.
 
-[[356]]
+[[p=356]]
 368
 
 
@@ -16477,7 +16477,7 @@ contradicción absoluta con respecto al capital no es sino capital en po-
 tencia –superficial manera de malentender las cuestiones. Véase Bruno
 Puntel, Analogie und Geschichtlichkeit, Freiburg, Herder, 1969.
 
-[[357]]
+[[p=357]]
 369
 
 
@@ -16528,7 +16528,7 @@ posibilidad de vivir. . .” (ibid., p. 242). Para los países explotados del
 Tercer Mundo, hoy, la utopía es poder vivir y los Grundrisse nos ayudan
 a pensar este tema, desde su misma introducción.
 
-[[358]]
+[[p=358]]
 370
 
 
@@ -16539,7 +16539,7 @@ el cuarto corresponde a la formulación del “proyecto de libe-
 ración”, y, el cinco a todo lo concerniente a la “praxis de
 liberación” misma.
 
-[[359]]
+[[p=359]]
 18. LOS GRUNDRISSE Y LA “CUESTIÓN DE LA
    DEPENDENCIA”
 
@@ -16582,7 +16582,7 @@ exige ciertos presupuestos metódicos: los del método de Marx
 mismo; su mismo orden, sus mismas categorías ampliadas,
 desarrolladas, más complejas, concretas, reales. De todas ma-
 
-[[360]]
+[[p=360]]
 372
 
 
@@ -16629,7 +16629,7 @@ ricamente y en su esencia), hay una imposición violenta, prác-
 tica, política sobre la “periferia”, que determina, posterior-
 mente, su modo de producción (periférico):
 
-[[361]]
+[[p=361]]
 373
 
 
@@ -16677,7 +16677,7 @@ ______________
    2
        Cf. parágrafo 4.4.d.3.
 
-[[362]]
+[[p=362]]
 374
 
 
@@ -16726,7 +16726,7 @@ _______________
    3
        Cf. parágrafos 12.3 y 12.4; y 11.4.
 
-[[363]]
+[[p=363]]
 375
 
 
@@ -16773,7 +16773,7 @@ platense.
          Todo el debate entre dependentistas y antidependentistas,
 podría aclararse si se comprendiera dialécticamente que una
 
-[[364]]
+[[p=364]]
 376
 
 
@@ -16821,7 +16821,7 @@ _______________
    4
        El excelente trabajo de Carlos Sempat Assadourian, El sistema de
 
-[[365]]
+[[p=365]]
 377
 
 
@@ -16873,7 +16873,7 @@ to, el “todo”) donde debe situarse la cuestión de la dependencia –que
 de todas maneras sobredetermina todas las determinaciones abstractas
 regionales.
 
-[[366]]
+[[p=366]]
 378
 
 
@@ -16921,7 +16921,7 @@ lejos de haberse planteado sobre bases metódicas suficiente-
 mente marxistas. Los Grundrisse nos dan muchos materiales
 para avanzar por camino seguro.
 
-[[367]]
+[[p=367]]
 379
 
 
@@ -16967,7 +16967,7 @@ los demás espacios serán periféricos, y lo serán porque tempo-
 ralmente, históricamente, no se produjeron las condiciones
 para dicha originación.
 
-[[368]]
+[[p=368]]
 380
 
 
@@ -17014,7 +17014,7 @@ utilidad y menor precio.
 Tesis 3. Llamamos Cce a aquel que funda la expansión política
 (práctico-colonizante) que puede determinar la distribución
 
-[[369]]
+[[p=369]]
 381
 
 
@@ -17062,7 +17062,7 @@ _______________
 la segunda editada en París, Anthropos, 1970, especialmente pp. 159ss.
 [ed. esp., México, Siglo XXI, 1974].
 
-[[370]]
+[[p=370]]
 382
 
 
@@ -17110,7 +17110,7 @@ al capital central no le interesa intervenir.
 Tesis 7. Llamamos Cce al que subsume en primer lugar, histó-
 ricamente, la revolución industrial, aumentando su capital
 
-[[371]]
+[[p=371]]
 383
 
 
@@ -17157,7 +17157,7 @@ trabajo, por el bajo valor de los medios de subsistencia del
 trabajador, por un sistema coactivo directo (represión del ma-
 yordomo, policial, militar, etc.), por un siempre disponible
 
-[[372]]
+[[p=372]]
 384
 
 
@@ -17188,7 +17188,7 @@ cia; ge: ganancia extraordinaria; tp: transferencia de plusvalor; P: precio;
 flecha a: transferencia de plusvalor; flecha b: obtención de ge; flecha c:
 abstractamente p = g, y p’ = g’.
 
-[[373]]
+[[p=373]]
 385
 
 
@@ -17235,7 +17235,7 @@ apropiación (sea por el capital mismo o por el comprador del
 entra plusvalor periférico en el espacio del capital central) de
 plusvalor periférico: pluscapital C.
 
-[[374]]
+[[p=374]]
 386
 
 
@@ -17281,7 +17281,7 @@ nal en la periferia-subdesarrollada. La mediación nacional
 mental para la lucha política: se puede, en ciertos momentos,
 realizar una alianza nacional de liberación –lo que no niega,
 
-[[375]]
+[[p=375]]
 387
 
 
@@ -17328,7 +17328,7 @@ de la dependencia, debido a la presencia de las corporaciones
 trasnacionales.
         Este fenómeno quedaría definido como una trasnacionali-
 
-[[376]]
+[[p=376]]
 388
 
 
@@ -17377,7 +17377,7 @@ concept of capital” en Brazilian Studies (LARU), octubre (1977), pp.
 rías como sobre-ganancia extraordinaria, sobre- transferencia de plusva-
 lor, etcétera.
 
-[[377]]
+[[p=377]]
 389
 
 
@@ -17424,7 +17424,7 @@ una “condición exterior de existencia” del capital:
   del mercado, con la posibilidad que el producto tiene de intercam-
   biarse” (24,17-29; 432,32-43).
 
-[[378]]
+[[p=378]]
 390
 
 
@@ -17472,7 +17472,7 @@ ________________
    7
        Cf. parágrafo 13.1.
 
-[[379]]
+[[p=379]]
 391
 
 
@@ -17508,7 +17508,7 @@ la disolución de los modos de apropiación precapitalista no
 se produjo desde su propia lógica (aunque en dicha lógica
 haya violencia interna, como en el caso de la legislación agraria
 
-[[380]]
+[[p=380]]
 392
 
 
@@ -17557,7 +17557,7 @@ y en Theotonio dos Santos, Imperialismo y dependencia, México, Era
       Cf. Linda I. Colón Reyes, Los orígenes de la burguesía y el banco
 de avío, México, El Caballito; 1982.
 
-[[381]]
+[[p=381]]
 393
 
 
@@ -17604,7 +17604,7 @@ las condiciones específicas del virreinato. . . El proyecto fracasó (y con
 nas” (Jürgen Golte, Repartos y rebeliones, Lima, Inst. de Estudios Pe-
 ruanos, 1980, p. 206).
 
-[[382]]
+[[p=382]]
 394
 
 
@@ -17651,7 +17651,7 @@ mente; es decir, por medios diversos por los que el capital cen-
 tral produjo el “trabajo libre”. Además, su número, la compo-
 sición poblacional, la pericia para la producción, etc., –por
 
-[[383]]
+[[p=383]]
 395
 
 
@@ -17698,7 +17698,7 @@ los “inventa”, sino en el momento que el capital los subsume:
 es decir, un “descubrimiento” se produce realmente cuando el
 capital lo incorpora, y “desaparece” –fue un mero “invento”
 
-[[384]]
+[[p=384]]
 396
 
 
@@ -17748,7 +17748,7 @@ interior del proceso productivo y valorizante del capital
       11
            El Capital, III, vol. 6, México, Siglo XXI, 1976, pp. 304-305.
 
-[[385]]
+[[p=385]]
 397
 
 
@@ -17796,7 +17796,7 @@ periférica, o materias primas) es debida al aumento de capital
 fijo y a la disminución de la proporción del fondo de trabajo
 con respecto al capital constante.
 
-[[386]]
+[[p=386]]
 398
 
 
@@ -17843,7 +17843,7 @@ debe poner su mercancía a menor precio que el de su valor
 real (que incluye el plusvalor obtenido del trabajador periféri-
 co), transfiriendo así plusvalor al centro –como hemos indica-
 
-[[387]]
+[[p=387]]
 399
 
 
@@ -17895,7 +17895,7 @@ argumentación sobre el salario.
       13
          “Observaciones teóricas”, en ibid., pp. 338-339.
 
-[[388]]
+[[p=388]]
 400
 
 
@@ -17944,7 +17944,7 @@ urbana) de los países periféricos y subdesarrollados. Es decir,
 “capital mundial versus trabajo vivo periférico”, el que es
 subsumido en concreto por el capital periférico (o en la ex–
 
-[[389]]
+[[p=389]]
 401
 
 
@@ -17968,7 +17968,7 @@ ESQUEMA 35
 ANTECEDENTES DE LA “CUESTIÓN POPULAR” Y SU
 DESARROLLO POSTERIOR
 
-[[390]]
+[[p=390]]
 402
 
 
@@ -18021,7 +18021,7 @@ trucción de la historia de la ética”, parág. 15, p. 267). Jaspers habla
 igualmente de la fe existencial. Nosotros hemos hablado, como expe-
 riencia existencial primera, el “creer en la veracidad de la palabra del
 
-[[391]]
+[[p=391]]
 403
 
 
@@ -18081,7 +18081,7 @@ luchar se trata’?”
 “Escuchar la voz del otro” (cf. mi Ética, parágrafos indicados en la
 nota 15).
 
-[[392]]
+[[p=392]]
 404
 
 
@@ -18137,7 +18137,7 @@ pobre? Para Cerutti ciertamente.
 de Marx; se ocupa sobre la “cuestión colonial” –todavía es un Cuaderno
 inédito [Londres, 1851].
 
-[[393]]
+[[p=393]]
 405
 
 
@@ -18190,7 +18190,7 @@ en su tiempo la posterior postura de Lenin.
            J. Aricó, op. cit., p. 44.
       29    Ibid., pp. 63-68.
 
-[[394]]
+[[p=394]]
 406
 
 
@@ -18242,7 +18242,7 @@ de denigrar a las personas por una “imputación ideológica” de antimar-
 xista (como otros, al mismo tiempo, nos imputan ser marxistas, por
 razones igualmente políticas).
 
-[[395]]
+[[p=395]]
 407
 
 
@@ -18294,7 +18294,7 @@ XXXIXss.). Ciertos “dogmáticos” criticaban a Mariátegui, igualmente,
 de ideólogo “pequeñoburgués” por haber planteado la “cuestión nacio-
 nal indígena” pero no dentro de un clasismo clásico.
 
-[[396]]
+[[p=396]]
 408
 
 
@@ -18346,7 +18346,7 @@ cotidiana, en sus gustos, etcétera).
      36
         Cf. parágrafo 17.1.b. y c. Llamamos a esta “exterioridad” el mo-
 
-[[397]]
+[[p=397]]
 409
 
 
@@ -18393,7 +18393,7 @@ mento “escatológico”, el “más-allá” del sistema. Esta denominación d
 ocasión, nuevamente, para que Cerutti “clericalice” el asunto, despecti-
 vamente. Se puede igualmente hablar de “trascendentalidad”.
 
-[[398]]
+[[p=398]]
 410
 
 
@@ -18435,7 +18435,7 @@ supra).
 de la filosofía de la liberación” (Cerutti, op. cit., p. 30). Por supuesto,
 para el crítico es un concepto ambiguo por excelencia.
 
-[[399]]
+[[p=399]]
 411
 
 
@@ -18486,7 +18486,7 @@ exteriores al sistema. Esto podemos ahora formularlo con categorías de
 Marx –antes eran posiciones metafísicas premarxistas, pero de un hege-
 lianismo antihegeliano, feuerbachiano a través de Levinas.
 
-[[400]]
+[[p=400]]
 412
 
 
@@ -18540,7 +18540,7 @@ categoría de “pueblo”: “El pueblo proclamó este golpe de mano. . .”
 p. 13; MEW, VIII, p. 118). Volk es un concepto usado por Marx, pero
 no construido –lo que no indica que no haya que construirlo.
 
-[[401]]
+[[p=401]]
 413
 
 
@@ -18561,17 +18561,16 @@ operó sobre sus vidas, sus culturas, sus alegrías y fiestas, su
 dignidad, que es su sangre, la de sus héroes y mártires, con la
 que no se comercia. . .
 
-[[402]]
+[[p=402]]
 417
 
-[[403]]
+[[p=403]]
 418
 
-[[404]]
+[[p=404]]
 417
 
-[[405]]
+[[p=405]]
 418
 
-[[406]]
-
+[[p=406]]

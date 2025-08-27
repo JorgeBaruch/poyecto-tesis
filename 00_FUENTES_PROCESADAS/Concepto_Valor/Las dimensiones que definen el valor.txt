@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 El concepto de valor es intrínsecamente complejo y ha sido abordado desde múltiples
 disciplinas y perspectivas a lo largo de la historia, lo que explica la dificultad para encontrar una
 definición única y universalmente aceptada. Su transformación refleja los cambios en las
@@ -45,7 +45,7 @@ tradicionales).
 medida cuantitativamente, distinguiendo entre valores individuales y valores colectivos. Los
 valores colectivos, como la opinión pública, son percibidos como realidades objetivas.
 
-[[2]]
+[[p=2]]
 ◦ Émile Durkheim veía el valor como un dato objetivo que surge de la sociedad, manifestado en
 "ideales" y "sistemas de valores" que regulan la actividad humana y son compartidos por la
 comunidad.
@@ -94,7 +94,7 @@ patrimonio, primando la perspectiva inclusiva y social sobre la materialista o e
 antropológico-cultural. Los valores extrínsecos, que resultan de la interacción del patrimonio con
 sus contextos sociales, económicos e históricos, han ganado relevancia.
 
-[[3]]
+[[p=3]]
 ◦ Los valores económicos del patrimonio se vinculan ahora a la sostenibilidad cultural y al
 bienestar social, trascendiendo la mera lógica de mercado.
 • Colapso de la "Comunidad" Tradicional:
@@ -144,7 +144,7 @@ valores surgen antes de ser formalizados explícitamente.
   ◦ Este método, desarrollado por Michel Foucault, se centra en la historia de los diferentes
 modos de subjetivación del ser humano y cómo los discursos forman sistemáticamente los
 
-[[4]]
+[[p=4]]
 objetos de los que hablan. Foucault no busca orígenes o intenciones, sino que describe rupturas,
 discontinuidades y transformaciones en las prácticas discursivas, analizando las reglas de
 formación de los objetos, enunciados, conceptos y estrategias.
@@ -194,7 +194,7 @@ la acción y tomas de posición subjetivas.
 construir un modelo teórico sintético que integre diversas perspectivas.
 Metodologías para la Expresión del Valor (Codificación Simbólica)
 
-[[5]]
+[[p=5]]
 La expresión del valor se refiere a cómo el valor se manifiesta y se codifica a través de sistemas
 simbólicos y lingüísticos.
 • Semiótica del Valor:
@@ -244,7 +244,7 @@ conceptualización del valor. Los trabajos de Damasio han demostrado la importan
 sentimientos y emociones en la vida humana, y la antropología simbólica ha explorado la estrecha
 correlación entre emoción y valor, donde los objetos de valor provocan emociones positivas.
 
-[[6]]
+[[p=6]]
 • Análisis de Contenido:
    ◦ Como técnica de investigación, permite estudiar y analizar la comunicación de manera
 objetiva, sistemática y cuantitativa. Se puede aplicar a diversas formas de comunicación (textos,
@@ -293,7 +293,7 @@ elaboración de los discursos sobre el patrimonio y su valor.
    ◦ Esto implica un cambio de rol de los expertos académicos, quienes pasan de ser autoridades a
 "facilitadores" en un proceso de valoración que prioriza una perspectiva inclusiva, participativa y
 
-[[7]]
+[[p=7]]
 social. Se busca superar la exclusividad que hasta ahora han tenido los académicos y profesionales
 en la definición del valor y la autenticidad.
    ◦ Los valores extrínsecos, resultado de la interacción del patrimonio con sus contextos sociales,
@@ -343,7 +343,7 @@ vivencias psicológicas.
    ◦ Las interpretaciones "situacionistas" intentan superar esta dicotomía, entendiendo que el valor
 es el resultado de una interrelación dinámica entre un sujeto que valora y un objeto de
 
-[[8]]
+[[p=8]]
 valoración, influenciada por condiciones históricas, sociales, físicas o estructurales. Es decir, la
 valía de un objeto es, en cierta medida, atribuida por el sujeto de acuerdo a sus criterios e
 interpretación, producto de un aprendizaje, experiencia o ideal.
@@ -392,7 +392,7 @@ de un valor, ej., más o menos belleza, más o menos justicia). Esta es una "cua
 variable". En sociología, se diseñan instrumentos para medir estas cualidades, como encuestas
 para la popularidad. Las metodologías de investigación empírica en ciencias sociales utilizan
 
-[[9]]
+[[p=9]]
 escalas (Likert, Diferencial Semántico, Guttman) y cuestionarios para cuantificar la percepción de
 los valores.
 • Carácter Relacional: Los valores son propiedades de la realidad que solo aparecen en la relación
@@ -441,7 +441,7 @@ un componente fundamental del ser humano y que, por ende, forman parte vital del
 antropológico" ("Antropología simbólica de las emociones y neurociencia"). Las emociones no son
 meramente sensaciones internas, sino que orientan el sentido de los signos percibidos.
 
-[[10]]
+[[p=10]]
     Significados Plurales y Contenido Emocional: Los signos no solo poseen significados
          plurales, sino que también "contienen un comunicado emocional, el cual surge del emisor
          del comunicado y tiene consecuencias en el receptor del mismo" ("Antropología simbólica
@@ -490,7 +490,7 @@ sociológicas, con un interés creciente en su estudio "científico".
          vivencias psicológicas del sujeto ("SOBRE EL CONCEPTO DE VALOR. UNA PROPUESTA DE
          INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
 
-[[11]]
+[[p=11]]
    Objetiva: El valor "existe de forma real, autónoma y objetiva, constituyendo un aspecto de
     la realidad que se le impone al sujeto" ("SOBRE EL CONCEPTO DE VALOR. UNA PROPUESTA
     DE INTEGRACIÓN DE DIFERENTES PERSPECTIVAS").
@@ -540,7 +540,7 @@ sociológicas, con un interés creciente en su estudio "científico".
     y son, en cierto modo, valores sociales. Los valores colectivos son "la expresión de la
     norma hacia la cual tienden las opiniones y valoraciones efectuadas en un grupo de
 
-[[12]]
+[[p=12]]
 personas en interacción social" ("VALORES INDIVIDUALES Y VALORES COLECTIVOS
         ANÁLISIS SOCIOLÓGICO Y SÍNTESIS DE UN MODELO TEÓRICO").
      Anomia y Disolución de Valores: La debilidad o carencia de la función social de los valores
@@ -590,9 +590,8 @@ decolonial, al desafiar las perspectivas eurocéntricas inherentes a gran parte 
 ciencias sociales, nos invita a reconsiderar cómo se construyen el saber y las relaciones de poder,
 proponiendo una aproximación más inclusiva y crítica al estudio de la realidad social y humana. La
 
-[[13]]
+[[p=13]]
 comprensión de estas interconexiones es esencial para desarrollar investigaciones válidas,
 relevantes y éticamente conscientes.
 
-[[14]]
-
+[[p=14]]

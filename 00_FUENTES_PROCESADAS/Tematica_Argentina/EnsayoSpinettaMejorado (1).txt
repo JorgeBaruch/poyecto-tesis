@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Ensayo interdisciplinario: «Toda luz es puente — Spinetta 1969-1983,
 síntoma estético-político de la Argentina»
 Introducción
@@ -38,7 +38,7 @@ secuenciación narrativa del álbum. El Lado A, que abre con el icónico “Much
 papel)” y cierra con los acordes pastorales de “Laura va”, contrasta con el Lado B, que oscila
 entre el blues (“Ana no duerme”) y la balada folk-psicodélica (“Plegaria…”). Esta
 
-[[2]]
+[[p=2]]
 alternancia de tempos lentos y rápidos dramatiza una curvatura que va del despertar a la
 melancolía y, finalmente, a la epifanía, reflejando las tensiones y transformaciones
 emocionales de una generación. [3]
@@ -82,7 +82,7 @@ ejemplo de cómo un concepto visual puede encapsular una búsqueda profunda. ¿Q
 artistas conoces que hayan utilizado su arte para explorar la psique humana? ¿Cómo crees
 que la música puede ayudarnos a entender mejor nuestra propia mente?
 
-[[3]]
+[[p=3]]
 Desatormentándonos (Pescado Rabioso, 1972): Catarsis y liberación
 Concepto clave: Catarsis personal, exorcismo espiritual. Pregunta guía: ¿Cómo se
 manifiesta la catarsis personal en “Desatormentándonos” y qué relación tiene con el rito de
@@ -124,7 +124,7 @@ simbolismo. El dibujo en blanco y negro de un “pescado rabioso” en el arte d
 con las viñetas surrealistas de peces y diálogos absurdos en el booklet, refuerzan la
 naturaleza dual y enigmática del disco. El propio Spinetta explicó que se trataba de un
 
-[[4]]
+[[p=4]]
 “álbum doble… uno se llama Pescado, otro Dos”, lo que subraya la intención de explorar
 contrastes y complementariedades. [9]
 La clave filosófica del álbum reside en la dialéctica entre el alba y la oscuridad, presente en
@@ -168,7 +168,7 @@ referencias literarias, el propio manifiesto de Spinetta, “Rock: música dura,
 la sociedad”, funcionó como un texto-bisagra, articulando su visión sobre el rol del rock
 como una fuerza vital y transformadora frente a la alienación social. Este manifiesto es
 
-[[5]]
+[[p=5]]
 crucial para entender la postura de Spinetta no solo como músico, sino como pensador y
 crítico de su tiempo. [13]
 La secuenciación narrativa de “Artaud” es un viaje que va de la pastoral “Todas las hojas
@@ -212,7 +212,7 @@ percusivo de “El diluvio…”. El Lado B se serena en “Jugo de lúcuma” y
 introspección y la contemplación, donde el silencio y los espacios entre las notas adquieren
 un significado propio. [17]
 
-[[6]]
+[[p=6]]
 La filosofía oriental en el arte
 Muchas corrientes artísticas, especialmente en el siglo XX, han encontrado inspiración en
 las filosofías orientales, que a menudo enfatizan la importancia del equilibrio, la armonía y
@@ -255,7 +255,7 @@ mujeres, respectivamente. Estos arquetipos, junto con la idea del inconsciente c
 sugieren que existen patrones universales de pensamiento y experiencia que se
 manifiestan en mitos, sueños y obras de arte. ¿Cómo crees que la exploración de estos
 
-[[7]]
+[[p=7]]
 arquetipos puede enriquecer la creación artística? ¿De qué manera el arte puede ayudarnos
 a conectar con estas dimensiones más profundas de la psique humana?
 
@@ -300,7 +300,7 @@ el “viaje de ascensión jazz-fusión” en “A 18’ del Sol” y de qué man
 “percepción total” de Castaneda influye en el álbum? Herramienta: Análisis de arte de
 tapa, declaraciones del artista y secuenciación narrativa.
 
-[[8]]
+[[p=8]]
 “A 18’ del Sol”, lanzado en 1977, representa un punto de inflexión en la exploración de
 Spinetta hacia el jazz-fusión. El arte de tapa de Hidalgo Boragno, con una esfera solar sobre
 una trama geométrica y un libreto con fotos solares viradas a sepia, evoca un viaje hacia la
@@ -344,7 +344,7 @@ the law”), lo que subraya la búsqueda de un mensaje de amor y esperanza que t
 las fronteras culturales y lingüísticas. El álbum se convierte en un refugio, un espacio donde
 la música puede tender puentes en medio de la adversidad. [28]
 
-[[9]]
+[[p=9]]
 La secuenciación narrativa de “Only Love Can Sustain” sigue un orden radial: las dos piezas
 más soul (“Children of the Bells” y “Only Love…”) abren y cierran el disco, mientras que el
 centro acústico en “Mariel and the Captain” funciona como un abrazo-confesión-abrazo.
@@ -389,7 +389,7 @@ representa a aquel individuo que se embarca en un camino de autoconocimiento y
 transformación, enfrentando sus propios miedos y limitaciones para alcanzar un estado de
 conciencia superior. En la obra de Spinetta, esta figura se entrelaza con la música,
 
-[[10]]
+[[p=10]]
 convirtiéndose en un modelo para la búsqueda de la verdad y la trascendencia. ¿Qué otras
 figuras arquetípicas de “guerreros espirituales” conoces en la literatura, el cine o la música?
 ¿Cómo crees que estas figuras pueden inspirarnos en nuestra propia vida?
@@ -433,7 +433,7 @@ Concepto clave: Valentía sin odio, espiral de memoria. Pregunta guía: ¿Cómo 
 una “espiral de memoria” hacia Malvinas? Herramienta: Análisis de arte de tapa,
 declaraciones del artista y secuenciación narrativa.
 
-[[11]]
+[[p=11]]
 “Kamikaze”, lanzado en 1982, es un álbum que se destaca por su formato acústico y su
 profunda carga conceptual. La carátula roja minimalista con un logotipo vertical, impresa
 por Ratón Finta, ya sugiere una declaración de principios. Spinetta lo describió como “Mi
@@ -477,7 +477,7 @@ cita a Girondo (“calles descalzas”) en “Resumen porteño” refuerza esta 
 álbum en la tradición literaria que explora la relación entre el individuo y el entorno
 urbano. [40]
 
-[[12]]
+[[p=12]]
 La secuenciación narrativa de “Bajo Belgrano” es simétrica, con cinco temas en el lado A y
 cinco en el lado B. El lado A abre con “Canción de Bajo Belgrano”, mientras que el lado B
 cierra con la reprise instrumental “Ping-Pong”. Esta estructura de paseo-eco invita al
@@ -522,7 +522,7 @@ consecuencias de ciertas tendencias sociales, políticas o tecnológicas. “Mon
 un ejemplo de cómo la música puede funcionar como una voz crítica, invitando a la
 reflexión y a la acción. ¿Qué otras obras de arte conoces que hayan funcionado como
 
-[[13]]
+[[p=13]]
 advertencia? ¿Cómo crees que el arte puede contribuir a generar conciencia sobre temas
 importantes?
 
@@ -539,5 +539,4 @@ múltiples capas de significado presentes en su obra, invitando a una escucha at
 reflexión profunda sobre el legado de un artista que, como un puente, conectó la luz de su
 creatividad con las complejidades de su época.
 
-[[14]]
-
+[[p=14]]

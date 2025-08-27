@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Poética local del no-saber
 Intuición, Filosofía y Literatura en Argentina
 
@@ -42,7 +42,7 @@ del siglo XX propuso la intuición como método para aprehender la duración y l
 al intelecto analítico; este pensamiento influyó en ambientes intelectuales de todo el mundo,
 incluida Latinoamérica. Asimismo, la noción de no-saber tiene resonancias en la mística apofática
 
-[[2]]
+[[p=2]]
 (la “docta ignorancia” de Nicolás de Cusa o San Juan de la Cruz, quien en su “Noche oscura”
 exalta una sabiduría que nace de la oscuridad y el no-conocer). En el siglo XX, filósofos y poetas
 europeos como Georges Bataille y Maurice Blanchot hablaron del “no-saber” como un espacio
@@ -87,7 +87,7 @@ Mundo no es Dado” pasivamente al sujeto, sino que debe ser cuestionado en sus
 fundamentoslasantacritica.com. Macedonio quiere, en sus propias palabras, “concebir al mundo”
 sin las ataduras de la razón y los sentidos convencionales, para alcanzar “una realidad última de las
 
-[[3]]
+[[p=3]]
 cosas”lasantacritica.com. Esto implica despojar al lector de sus nociones frágiles de existir,
 sacudiendo los fundamentos de nuestra visión del cosmoslasantacritica.com.
 En la práctica, Macedonio desarrolló técnicas literarias sumamente originales para lograr ese efecto
@@ -133,7 +133,7 @@ como experimento metafísico, pues “no se puede creer que no se existe, sin ex
 paradoja de la conciencia de la nadalasantacritica.com. Esta idea –casi una creencia en el no-ser–
 refleja la audacia con que Macedonio explora el no-saber: llevando la duda sobre la existencia al
 
-[[4]]
+[[p=4]]
 extremo, para luego entrever alguna verdad nueva (en este caso, la primacía de la creencia o
 conciencia por sobre la existencia empírica).
 En síntesis, Macedonio Fernández inaugura en Argentina una postura literario-filosófica donde el
@@ -179,7 +179,7 @@ montajeri.conicet.gov.arri.conicet.gov.ar. Es decir, por un lado es “reacciona
 contracara de su ensayo es, curiosamente, la obra de un amigo: Oliverio Girondo. Mientras
 Marechal intenta reordenar la sabiduría antigua en una síntesis pedagógica para un “lector-
 
-[[5]]
+[[p=5]]
 discípulo”, Girondo en Espantapájaros (1932) hace estallar toda creencia presente con irreverencia
 (ver siguiente sección)ri.conicet.gov.arri.conicet.gov.ar. Sin embargo, ambos comparten la base de
 cuestionar el saber común: Marechal lo hace apuntando a un Saber más alto (el de la Belleza divina)
@@ -224,7 +224,7 @@ Girondo nos instala de golpe en la nada cognoscitiva, ridiculizando cualquier pr
 sabiduría. La estructura de esta letanía (“no sé nada, no sabes nada…”) suena a conjuro o a
 catecismo invertido: en vez de afirmar verdades, afirma la ignorancia universal.
 
-[[6]]
+[[p=6]]
 Como señala un análisis contemporáneo, Espantapájaros “construye una poética del no-saber”,
 desmantelando la posibilidad de sostener una creencia firme en la realidad presenteri.conicet.gov.ar.
 ¿Qué significa esto? Que Girondo, mediante la burla y la paradoja, impide al lector aferrarse a
@@ -268,7 +268,7 @@ una creencia en la actualidad de su presente”, es decir, dejó al desnudo la f
 absolutos en la modernidadri.conicet.gov.ar. Esto, lejos de paralizarlo, se convierte en el
 combustible de su poesía.
 
-[[7]]
+[[p=7]]
 Resumiendo, Oliverio Girondo aporta a la poética del no-saber una perspectiva vanguardista
 iconoclasta: si no sabemos nada con seguridad, riámonos de ello y hagamos poesía de esa nada. En
 su irreverencia, sin embargo, también hay un componente metafísico implícito: la sospecha de que
@@ -314,7 +314,7 @@ para el conocimiento empírico. Su famosa metáfora del universo como una “Bib
 cuales la vasta mayoría es incoherente. Allí, los personajes buscan con angustia libros que
 contengan la Verdad, pero la infinitud y aleatoriedad de la biblioteca condenan a un no-saber
 
-[[8]]
+[[p=8]]
 esencial: “el número de libros es ilimitado... Ninguno de nosotros puede encontrar la Verdad”
 (parafraseo). Esta es una potente imagen de la condición humana respecto al conocimiento:
 estamos en un laberinto de información infinita, pero nuestra capacidad es finita y por tanto nunca
@@ -360,7 +360,7 @@ espejismo. El personaje cierra los ojos y “ahora sabía que no iba a despertar
 despierto, que el sueño maravilloso había sido el otro, absurdo como todos los
 sueños”paislector.com. Cortázar logra transmitir literalmente la experiencia de no saber qué es
 
-[[9]]
+[[p=9]]
 sueño y qué es vigilia hasta el último momento, y aun después: el propio final deja un resquicio de
 duda metódica (uno se pregunta, ¿y si hay otro nivel más?).
 Este recurso de Cortázar refleja su interés por lo que él llamaba “lo fantástico”, entendido no solo
@@ -404,7 +404,7 @@ Cortázar, la poética del no-saber se populariza en el boom latinoamericano, de
 profundo atractivo: todos hemos dudado alguna vez si esto es un sueño, o qué hay detrás de la
 apariencia. Él nos sitúa justamente en ese umbral incierto.
 
-[[10]]
+[[p=10]]
 Poetas del silencio: Alejandra Pizarnik y la
 experiencia de lo inefable
 En la poesía argentina de mediados del siglo XX, la búsqueda de lo que está más allá del saber
@@ -447,7 +447,7 @@ La recepción crítica ha enfatizado cómo Pizarnik lleva la palabra al silencio
 por ejemplo, estudió la tradición mística en la poesía argentina y ve en Pizarnik una continuidad de
 ese ansia de absoluto que solo se halla cuando la palabra calla. La propia Pizarnik en sus diarios se
 
-[[11]]
+[[p=11]]
 reprocha a veces “hablar demasiado” y no callar mejor. Este conflicto produce la alta tensión de
 sus mejores poemas, donde lo que no se dice pesa tanto como lo dicho.
 En resumen, Alejandra Pizarnik aporta a la poética del no-saber una dimensión íntima y existencial:
@@ -490,7 +490,7 @@ Pizarnik, hasta él, vemos un hilo conductor que valora el no-saber como fuente 
 Juarroz esta sabiduría se condensa en formulaciones cristalinas, casi aforísticas, fácilmente
 reconocibles como filosofía en versos.
 
-[[12]]
+[[p=12]]
 Tradiciones filosóficas reinterpretadas en clave
 local
 A lo largo del análisis de los autores, han ido surgiendo referencias a diversas tradiciones
@@ -534,7 +534,7 @@ influyentes y cómo aparecen refractedas en la poética del no-saber argentina:
       saber/no-saber en clave existencial) traen la influencia de Kierkegaard, Sartre, Camus a la
       escena local. Sábato, siendo físico de formación, se rebeló contra la razón científica y abrazó
 
-[[13]]
+[[p=13]]
 la intuición artística y la fe. Su “Informe sobre ciegos” (capítulo de Sobre héroes...) es un
        sumergirse en la paranoia de un personaje que cree saber una verdad oculta (una
        conspiración de ciegos), pero finalmente el lector duda si es delirio. Esto refleja la influencia
@@ -586,7 +586,7 @@ Fernández
             Eterna (novela,     momentánealasantacritica.com.          Humor absurdo (anticipa
             pub. 1967)          Practica una “poética del olvido” y la patafísica).
 
-[[14]]
+[[p=14]]
 Autor       Obras clave                                               Tradiciones filosóficas
                                   Enfoque intuitivo / “no-saber”
   (época)      vinculadas                                                   reinterpretadas
@@ -680,7 +680,7 @@ Cortázar noche boca
                              incertidumbre. Destaca lo                antes de intelectualizar);
                              sensorial/intuitivo (olores,             Mitos precolombinos
 
-[[15]]
+[[p=15]]
 Autor        Obras clave                                                Tradiciones filosóficas
                                    Enfoque intuitivo / “no-saber”
   (época)       vinculadas                                                    reinterpretadas
@@ -752,7 +752,7 @@ rasgo no es aislado ni marginal, sino que atraviesa a autores fundamentales de d
 generaciones y estilos, moldeando una tradición literaria que dialoga con grandes corrientes de
 pensamiento a la vez que las reconfigura creativamente en clave regional.
 
-[[16]]
+[[p=16]]
 ¿En qué consiste exactamente esta poética del no-saber? En términos generales, hemos visto que
 consiste en valorar la incertidumbre como motor creativo y cognitivo. Para estos escritores, no
 saber no equivale a simple ignorancia pasiva, sino que es una postura activa de cuestionamiento de
@@ -796,7 +796,7 @@ ante nuevos desafíos históricos y estéticos.
 En términos de fuentes académicas y críticas, esta tesina encontró amplio respaldo en estudios
 regionales que abordan estas cuestiones. Por ejemplo, Silvio Mattoniacademia.edu y otros críticos
 
-[[17]]
+[[p=17]]
 argentinos han analizado la “poética” y la “incesante imposibilidad” en Macedonio, corroborando
 su mezcla de especulación estética y filosófica. Laura Cabezasri.conicet.gov.ar y otros estudios en
 la Biblioteca Nacional han examinado la dimensión epistemológica en Marechal (su “despertar
@@ -839,7 +839,7 @@ Obras literarias (primarias) citadas:
     • Macedonio Fernández. No toda es vigilia la de los ojos abiertos. Buenos Aires: Gleizer,
       1928. (Ensayo metafísico; conceptos resumidos enes.wikipedia.org).
 
-[[18]]
+[[p=18]]
 • Marechal, Leopoldo. Descenso y ascenso del alma por la Belleza. Buenos Aires: (compilado
       en 1939). (Ideas resumidas en ensayo de Cabezasri.conicet.gov.ar).
     • Pizarnik, Alejandra. Extracción de la piedra de locura. Buenos Aires: 1968. (Fragmento
@@ -879,7 +879,7 @@ Estudios críticos y fuentes secundarias:
       negación de Kant, indistinción sueño-vigilia, etc., con referencias a actas académicas).
 Otras referencias conceptuales:
 
-[[19]]
+[[p=19]]
 • Bergson, Henri. La intuición como método (referencia filosófica general, no citada
       directamente en texto, pero base conceptual en marco teórico).
     • San Juan de la Cruz. Noche oscura del alma (mística del no-saber, mencionada
@@ -899,5 +899,4 @@ Revistas académicas regionales consultadas:
     • SciELO Argentina – artículo sobre Marechal (Cabezas, citado).
     • RedALyC – artículo sobre sueño e insomnio en Borgesredalyc.org.
 
-[[20]]
-
+[[p=20]]

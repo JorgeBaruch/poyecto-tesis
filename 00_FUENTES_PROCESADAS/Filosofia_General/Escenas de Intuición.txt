@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 🖋️ Prólogo — Cuando el pensamiento no avisa
 Hay pensamientos que se forman en silencio, sin pedir permiso a la conciencia. Saberes que no
 pasan por el cálculo ni por la comparación, que no razonan ni argumentan, pero que, de algún
@@ -44,7 +44,7 @@ No se trata de milagro ni de azar. Tampoco es mera inspiración. Hay un trabajo 
 prepara esa irrupción. Henri Poincaré lo describió con lucidez: la intuición científica nace del
 inconsciente, pero no de un inconsciente cualquiera —sino de uno cultivado. Un inconsciente que
 
-[[2]]
+[[p=2]]
 ha sido alimentado con problemas, hipótesis, pruebas fallidas y límites teóricos. Luego, en algún
 punto, ese material se reconfigura por su cuenta y emerge en forma de intuición.
 Charles S. Peirce llamó a este movimiento abducción: la forma de razonamiento en que se
@@ -91,7 +91,7 @@ El arte es uno de los lugares donde este tipo de intuición se vuelve visible. L
 sin que el pintor pueda explicar por qué eligió ese trazo. El acorde que aparece en la
 improvisación, sin haber sido pensado. La cámara que se detiene justo antes del movimiento
 
-[[3]]
+[[p=3]]
 esperado. Todo arte auténtico, más allá de la técnica, contiene un elemento de intuición sin
 deliberación.
 Henri Bergson, en su crítica a la inteligencia abstracta, proponía a la intuición como el método
@@ -139,7 +139,7 @@ Carl Gustav Jung decía que los símbolos no son signos a descifrar, sino puerta
 puede decirse. El símbolo no se traduce: se vive. Surge cuando la conciencia entra en contacto
 con algo que la sobrepasa. Y para poder sostenerlo, necesita una forma: una imagen, un gesto,
 
-[[4]]
+[[p=4]]
 una escena. Los sueños, las visiones, los mitos no son ilusiones: son modos intuitivos de captar lo
 esencial.
 Hay una intuición que no viene del razonamiento ni del cuerpo, sino del fondo común que
@@ -185,7 +185,7 @@ otro, darle sentido a lo que dice, tender puentes. Wilhelm Dilthey pensaba que e
 comprensible a través de la vivencia (Erlebnis). Entender al otro era entrar en su mundo interno,
 “revivirlo”.
 
-[[5]]
+[[p=5]]
 Pero Jacques Lacan vino a romper con ese gesto. Para él, la comprensión es, muchas veces, un
 obstáculo clínico. Porque el analista que comprende demasiado rápido —que empatiza, que
 completa, que traduce— impide que el sujeto se confronte con lo que no sabe de sí. La tarea del
@@ -231,7 +231,7 @@ Ese saber se llama intuición.
 Una médica debe decidir en segundos si opera. Una madre reacciona antes de entender que su
 hijo está en peligro. Un juez escucha un testimonio y, aunque no hay pruebas suficientes, intuye
 
-[[6]]
+[[p=6]]
 que algo no encaja. Un comandante detiene una orden que era lógica, pero que no “siente”
 correcta. Una persona, de repente, cambia de rumbo, sin saber por qué.
 En todos esos casos, la intuición no es una forma de premonición. Tampoco es una emoción pura.
@@ -278,7 +278,7 @@ Entre cálculo y abismo
 Una red neuronal detecta con precisión un tumor que ningún radiólogo había visto. Un algoritmo
 predice con asombrosa exactitud qué usuario está por abandonar una plataforma. Un sistema
 
-[[7]]
+[[p=7]]
 genera una imagen que representa, de forma inquietantemente precisa, lo que alguien tenía en la
 cabeza pero no sabía cómo expresar.
 Entonces surge la pregunta: ¿está intuyendo la máquina?
@@ -323,7 +323,7 @@ que una palabra no le alcanza, que una teoría no le sirve. Sabe que el lenguaje
 le devuelve el mundo. Ese saber no siempre es claro, ni demostrable, ni autorizado. Pero insiste.
 Y muchas veces, ha sido llamado intuición.
 
-[[8]]
+[[p=8]]
 No la intuición de los genios, ni la de los estrategas, ni la de los artistas consagrados. Sino otra
 intuición: la del cuerpo excluido, la de la experiencia despreciada, la de lo que no encaja en
 el marco dominante del saber.
@@ -370,7 +370,7 @@ no lo necesitan. Saberes que no llegan en el tiempo del argumento, sino en el de
 eso lo hemos llamado intuición. Pero quizá ese nombre sea demasiado pequeño para lo que
 señala.
 
-[[9]]
+[[p=9]]
 A lo largo de estas escenas, hemos recorrido formas diversas de intuición: la que fulgura en el
 descubrimiento, la que se encarna en el gesto, la que habita en los símbolos, la que calla en el
 consultorio, la que actúa sin porqué, la que simulan las máquinas, la que resiste desde los
@@ -391,5 +391,4 @@ excepción, ni como debilidad. Sino como otra forma de estar en el mundo. Más p
 Menos segura. Pero más abierta.
 Saber no saber. Y desde ahí, pensar.
 
-[[10]]
-
+[[p=10]]

@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 La Brújula Moral del Mercado: Explorando
 Intereses Empresariales Más Allá del Lucro y
 el Debate sobre la "Moral Implícita"
@@ -39,7 +39,7 @@ En esencia, representa una prohibición general del despilfarro.
 La justificación de los mercados, según Heath, radica en que son "instituciones de propósito
 especial diseñadas para promover la eficiencia paretiana". Su legitimidad ética se deriva de su
 
-[[2]]
+[[p=2]]
 capacidad para generar resultados Pareto eficientes, satisfaciendo óptimamente las preferencias de
 los consumidores. La implicación de esto es profunda: la moralidad no es una imposición externa al
 mercado, sino que es inherente a su funcionamiento óptimo. Si se entiende que el mercado es un
@@ -80,7 +80,7 @@ vida cotidiana. Sin embargo, incluso en el deporte, existen reglas de "juego lim
 abusos. De manera similar, las empresas necesitan un concepto de "fair play empresarial" que
 distinga las prácticas competitivas legítimas de aquellas que distorsionan la competencia.
 
-[[3]]
+[[p=3]]
 La competencia implica tratar a los demás como adversarios, lo que conduce a un "debilitamiento
 deóntico" de la moralidad cotidiana, donde algunas acciones normalmente obligatorias se vuelven
 opcionales, y algunas acciones prohibidas se vuelven permisibles. Esta orientación adversarial es
@@ -126,7 +126,7 @@ Algunos académicos, como Singer, proponen un "enfoque de fallas de justicia" (E
 complementar el EFM de Heath, argumentando que las empresas también deberían abordar las
 desigualdades políticas y sociales, lo que sugiere que la eficiencia por sí sola es insuficiente para
 
-[[4]]
+[[p=4]]
 una ética empresarial integral. Otros argumentan que, incluso en condiciones ideales, el EFM no
 excluye daños significativos, o que es demasiado exigente o no lo suficientemente exigente en
 condiciones no ideales. Además, algunas críticas sugieren que la visión de Heath de los contextos
@@ -171,7 +171,7 @@ stakeholders desafía directamente el paradigma de la maximización de beneficio
 propósito de una empresa se extiende a la creación de valor para todos los que tienen un "interés" en
 ella. Este marco sugiere que el éxito empresarial no es meramente financiero, sino también
 
-[[5]]
+[[p=5]]
 relacional y social, lo que exige que los gerentes consideren una brújula moral más amplia
 impulsada por la interdependencia.
 
@@ -215,7 +215,7 @@ problemas sociales pueden ser oportunidades para obtener una ventaja competitiva
 enfoque anima a las empresas a abordar las necesidades sociales, su base en el beneficio como
 motor último lo distingue de motivaciones más altruistas o basadas en la virtud. Implica que los
 
-[[6]]
+[[p=6]]
 intereses empresariales pueden alinearse con el bien social, pero principalmente cuando dicha
 alineación es estratégicamente beneficiosa para la empresa.
 
@@ -259,7 +259,7 @@ sacrificios o la gestión de complejas compensaciones. Esta perspectiva a menudo
 eficiencia del mercado como único principio moral, ya que prioriza resultados sociales más amplios
 y valores compartidos.
 
-[[7]]
+[[p=7]]
 Teorías Críticas de la Empresa
 Las teorías críticas de la empresa examinan cómo las empresas, particularmente dentro de las
 estructuras capitalistas, contribuyen a la desigualdad sistémica, la explotación y la degradación
@@ -308,7 +308,7 @@ Beneficiarios
 Primarios
                                                            comunidades, medio ambiente)
 
-[[8]]
+[[p=8]]
 Criterio                 Primacía del Accionista        Primacía del Stakeholder
                          Limitada al cumplimiento legal
 Visión de la
@@ -357,7 +357,7 @@ enfatizando que "nosotros priorizamos el trabajo nuestro". Apoya políticas como
 automáticas y restricciones a la competencia extranjera" para salvaguardar la producción y el
 empleo nacionales.
 
-[[9]]
+[[p=9]]
 Como ex Secretario de Comercio Interior (2006-2013), Moreno implementó políticas de control de
 precios y "administración de comercio". Argumentó que "el peronismo tiene que controlar todos los
 precios". Creía que el Estado debía "fijar la pauta inflacionaria" para los productos de consumo
@@ -401,7 +401,7 @@ distribución, sino que también debe servir al objetivo primordial de fortalece
 y la soberanía, lo que podría justificar políticas económicas proteccionistas o nacionalistas que
 podrían considerarse ineficientes según un estándar puramente paretiano.
 
-[[10]]
+[[p=10]]
 Crítica al Neoliberalismo
 Moreno es muy crítico con las políticas neoliberales, describiendo el actual modelo económico
 como un "mamarracho" que está "absolutamente colapsado". Argumenta que conduce a la
@@ -445,7 +445,7 @@ En contraste, la Ética de la Virtud critica explícitamente la priorización de
 el beneficio) sobre "bienes internos" (como la excelencia y la satisfacción intrínseca), sugiriendo
 una reorientación más fundamental de la motivación empresarial. Del mismo modo, el Enfoque del
 
-[[11]]
+[[p=11]]
 Bien Común y las Teorías Críticas a menudo implican motivaciones impulsadas por un deseo de
 justicia social y cambio sistémico que no siempre pueden alinearse con la eficiencia o el beneficio.
 El EFM de Heath ofrece un piso ético minimalista, pero riguroso, derivado de la lógica económica.
@@ -500,7 +500,7 @@ Resultados Sociales
 Crítica Clave a       Critica el dogmatismo ideológico, el Critica el neoliberalismo como
 Vistas Opuestas       "consumismo ético" y la falta de     "mamarracho" basado en la ignorancia
 
-[[12]]
+[[p=12]]
 Criterio              Joseph Heath                          Guillermo Moreno
                       pensamiento en las consecuencias      teórica
 
@@ -546,7 +546,7 @@ que debe ser dirigida. Otros marcos, como la teoría de los
 stakeholders y la RSC, a menudo consideran la regulación como una línea de base, con la acción
 ética yendo "más allá del cumplimiento". El CVC busca soluciones win-win que podrían reducir la
 
-[[13]]
+[[p=13]]
 necesidad de cierta intervención estatal. Las teorías críticas a menudo abogan por la intervención
 estatal para abordar los desequilibrios de poder sistémicos y promover la justicia.
 
@@ -588,12 +588,11 @@ investigación futura y las aplicaciones prácticas podrían centrarse en:
       con objetivos sociales más amplios, yendo más allá del mero cumplimiento para fomentar
       negocios genuinamente orientados a un propósito.
 
-[[14]]
+[[p=14]]
 • Fomentar un discurso público conceptualmente claro y basado en la evidencia, como aboga
       Heath, al tiempo que se reconocen los valores arraigados y las aspiraciones nacionales
       defendidas por pensadores como Moreno.
 En última instancia, comprender la "brújula moral del mercado" requiere un diálogo continuo e
 interdisciplinario que abarque tanto el análisis económico riguroso como la profunda reflexión ética.
 
-[[15]]
-
+[[p=15]]

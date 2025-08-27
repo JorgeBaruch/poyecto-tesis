@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Guillermo Moreno en "Independencia colectiva"
 9/8/25
 Esto es Independencia Colectiva, tenemos un invitado de lujo, Guillermo Moreno,
@@ -47,7 +47,7 @@ cuando menciona lo de las necesidades infinitas y los recursos finitos, porque l
 con un desorden conceptual, porque te hace prestar atención a vos que lo infinito no puede
 machear con lo finito, no se emparda, si algo es infinito y otra cosa es finita, no se emparda.
 
-[[2]]
+[[p=2]]
 Mi ley aplica una teología errada, pensando que Dios es la primera persona del singular, y
 Dios es nosotros, nos creó, somos hijos, somos hechos hijos a semejanza de Dios, somos
 hijos de Dios todos, y Dios también creó en nosotros, la historia de la comunidad y del
@@ -96,7 +96,7 @@ antes, estén satisfechas, y por lo tanto no exista la pobreza, después cada un
 su esfuerzo, su aptitud, pero hay un piso que el hombre por ser hijo de Dios, y eso en
 general es un esquema con justicia social, ¿se puede hacer en la Argentina?, sí, ¿se discutió
 
-[[3]]
+[[p=3]]
 al interior del peronismo si el concepto era adecuado por los tiempos?, sí, por eso los
 desórdenes doctrinarios que hubo en los últimos años, porque los principios no se discuten,
 son permanentes, pero bueno hubo desorden, entró en discusión y llegaste al punto que ni
@@ -146,7 +146,7 @@ leche, no solo pagás la ganancia del productor, de la leche cruda, de la usina,
 cruda transformada en derivados o comible por vos en la esquina de tu casa, en un sachet.
 Todo eso es un proceso.
 
-[[4]]
+[[p=4]]
 Sino que estás pagando también el alquiler de la tierra que alquila el productor. Y ahí
 empezamos a tener problemas porque esa es una originalidad de la Argentina. Usted dice
 de la ley de arrendamiento.
@@ -196,7 +196,7 @@ acuerdo? Entonces, vos le estás obligando a comprar el litro de combustible, o 
 leche a precio internacional, cuando tu salario por ahí es menos de la mitad de la mitad de
 la mitad. ¿Está bien? ¿Qué te permite que vos pongas retenciones? Que tengas alimentos
 
-[[5]]
+[[p=5]]
 abundantes y baratos en la Argentina para el mercado inmobiliario. Y entonces vuelve el
 turismo de los chilenos, de los brasileros, para comerse el bife de chorizo.
 
@@ -247,7 +247,7 @@ pueblo argentino.
 Los petroleros no son dueños del petróleo. Ellos son dueños de la exploración y de la
 explotación. Pero sale del suelo argentino.
 
-[[6]]
+[[p=6]]
 Hace poco se descubrió que hay oro, plata, cobre en La Rioja y en Mendoza, en mayo del
 2025. Los medios de comunicaciones lo taparon, capaz que favorece a algunos
 gobernadores, pero la realidad es que cuando hablan de una Argentina pobre, la Argentina
@@ -298,7 +298,7 @@ servicio de crear trabajo en el sector privado.
 Nadie está planteando crear trabajo, Perón jamás lo dijo así. No dijo, vamos a llenar de
 empleados los municipios, las provincias, no. De hecho, él vio la Argentina, vio los
 
-[[7]]
+[[p=7]]
 imperialismos dominantes y dijo, esto de los argentinos, vamos a hacer astillero, vamos a
 hacer... Y nosotros ponemos el precio porque está la materia prima, la producción, la
 elaboración, la transformación y la distribución.
@@ -349,7 +349,7 @@ de pasajero.
 transformado por una máquina que se llama generador, transforma el gasoil en electrones,
 si es la electricidad.
 
-[[8]]
+[[p=8]]
 O sea que si el gasoil está caro, no vas a tener electrones baratos. Y podés tener el gasoil. ¿Y
 cómo no vas a poder tenerlo? Si vos tenés el petróleo, lo que hay que hacer, petróleo, gas y
 demás, lo que hay que hacer es el costo de encontrarlo, sacarlo al gas y al petróleo,
@@ -401,7 +401,7 @@ Argentina.
 No la recorren, no se culturizan. Yo pienso que somos, como decía Perón, un pueblo
 politizado sin cultura política. Porque vos le preguntás a cualquier ciudadano, y esto es
 
-[[9]]
+[[p=9]]
 formación cívica, le preguntás a cualquier ciudadano cómo se elabora una ley, cómo se
 distribuye un presupuesto, cómo se origina tal o cual secretaría y quizá lo desconoce, no lo
 sabe, pone el voto con la esperanza de que cumplan lo que dicen.
@@ -451,7 +451,7 @@ Si le va mal, la va perdiendo. Las consecuencias que trae son consecuencias, al 
 inmersas en una tremenda supercrisis económica, graves. Graves, incluso, podemos
 empezar a hablar en términos de disolución nacional.
 
-[[10]]
+[[p=10]]
 Ya en su momento Tierra del Fuego lo planteaba, el Norte Grande lo planteaba, hace poco lo
 acaba de plantear Mendoza. Bueno, todas esas situaciones se fueron allanando, pero siguen
 dando vueltas. Te podría decir una de ellas.
@@ -501,7 +501,7 @@ tu equipo, si era un clásico, si no, pasabas el domingo en familia. Agarrabas e
 pasear por ahí, lo estacionaban en la General Pá, los pibes charlaban, jugaban, pasaban
 autos.
 
-[[11]]
+[[p=11]]
 Era una salida normal si eras porteño. No te ibas a la fruta de Núñez, te ibas por ahí. Y si
 estabas en la provincia siempre había una plaza cerca, un campo cerca.
 
@@ -552,7 +552,7 @@ cualquiera. No se conocen.
 Obviamente que se conocen. Vos no le das cuenta corriente a cualquiera, ¿no? Bueno,
 muchachos, es muy fácil. Es voluntad.
 
-[[12]]
+[[p=12]]
 Ahora, tenemos que tener presente que el Ministerio de la Comunidad se va a tener que
 ocupar del síndrome de abstinencia. A ver. A los tres, cuatro días que vos cortaste... Sí,
 tenés... Está bien.
@@ -603,7 +603,7 @@ guarda que la Argentina, porque después dice vamos a terminar como la Argentina
 que la Argentina terminó como terminó por falta de peronismo. Porque no se hizo
 peronismo.
 
-[[13]]
+[[p=13]]
 Cuando la Argentina se hizo peronismo el país creció atrás a China, una década ganada. Está
 haciendo bien las cosas en economía Tram. Por eso Estados Unidos va a crecer atrás a
 China.
@@ -618,5 +618,4 @@ Muchas gracias Guillermo.
 
 Gracias a vos.
 
-[[14]]
-
+[[p=14]]

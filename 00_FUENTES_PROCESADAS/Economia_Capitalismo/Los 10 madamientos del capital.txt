@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Los "Diez Mandamientos del Capital" podrían formularse como una sátira solemne y reflexiva de
 los principios tácitos que rigen el sistema capitalista. Estos mandamientos destacan sus valores
 fundamentales, sus contradicciones y su impacto en la sociedad y la subjetividad humana. Aquí va
@@ -35,5 +35,4 @@ una propuesta:
        El dinero es el fin último; no hay propósito, virtud ni aspiración que no pase por su
        acumulación.
 
-[[2]]
-
+[[p=2]]

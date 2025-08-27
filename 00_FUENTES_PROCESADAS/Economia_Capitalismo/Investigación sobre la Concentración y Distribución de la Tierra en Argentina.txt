@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Investigación sobre la Concentración y Dis-
 tribución de la Tierra en Argentina, su Im-
 pacto y el Debate sobre la Renta No Ganada
@@ -37,7 +37,7 @@ rada hacia la consolidación de grandes propiedades en detrimento de las pequeñ
 explotaciones. Los datos del Censo Agropecuario de 2018 son elocuentes: el 1% de las explota-
 ciones agropecuarias (EAPs) concentra el 36% de la tierra productiva del país (Aranda, 2020).
 
-[[2]]
+[[p=2]]
 Esta desproporción subraya una estructura agraria altamente desigual, donde una minoría contro-
 la una parte sustancial del recurso más vital.
 Esta concentración se ha manifestado en una drástica reducción del número de EAPs. Entre 2002
@@ -80,7 +80,7 @@ desarrollo comunitario.
 La siguiente tabla sintetiza las principales tendencias de concentración de la tierra en Argentina:
 Tabla 1: Concentración de la Tierra en Argentina (1988-2018)
 
-[[3]]
+[[p=3]]
 % Super-
                                                                    ficie Pro-
      Total de Ex- Disminución               % Tierra    Superficie             % EAPs      % UP con Arren-
@@ -135,7 +135,7 @@ ticas agrarias y las reformas han enfrentado, y continúan enfrentando, la inerc
 intereses arraigados de los grandes propietarios, que han demostrado una notable capacidad de
 resistencia a cambios sustanciales. El "terrateniente rentista" no es solo un actor económico;
 
-[[4]]
+[[p=4]]
 representa una clase histórica poderosa que ha moldeado la trayectoria del desarrollo nacional y
 sigue influyendo en las decisiones políticas.
 1.3. Extranjerización de la Tierra: Alcance y Casos Emblemáticos
@@ -180,7 +180,7 @@ rales estratégicos como el agua, los minerales y los bosques, así como en la p
 a gran escala (Diario Chaco, 2024). Esto plantea serias interrogantes sobre la soberanía nacional
 y la gestión sostenible de los recursos a largo plazo.
 
-[[5]]
+[[p=5]]
 Una contradicción significativa se observa entre los datos oficiales agregados, que indican que
     ninguna provincia supera el 15% de extranjerización en abril de 2022 (Argentina.gob.ar, 2022), y
     los datos específicos de algunos departamentos, que muestran porcentajes muy superiores al 50%
@@ -236,7 +236,7 @@ Ranking                 Origen             (en Argen-
                                                                       Buenos
                                                                       Aires
 
-[[6]]
+[[p=6]]
 Provin-
                                       Hectáreas
         Nombre del Pro-                          Actividad Prin- cias de Controver-
@@ -303,7 +303,7 @@ Ranking                 Origen        (en Argen-
                                                  litio
                                       Chaco,                      Norte de
 
-[[7]]
+[[p=7]]
 Provin-
                                    Hectáreas
         Nombre del Pro-                       Actividad Prin- cias de Controver-
@@ -367,7 +367,7 @@ Ranking                 Origen     (en Argen-
                                    2024)
                                                                Formo-
 
-[[8]]
+[[p=8]]
 Provin-
                                      Hectáreas
         Nombre del Pro-                         Actividad Prin- cias de Controver-
@@ -432,7 +432,7 @@ Ranking                 Origen       (en Argen-
                                                 energía
 17      El Palauco       N/A         170.000 N/A (condomin- Mendo- N/A
 
-[[9]]
+[[p=9]]
 Provin-
                                          Hectáreas
         Nombre del Pro-                             Actividad Prin- cias de Controver-
@@ -490,7 +490,7 @@ Ranking                 Origen           (en Argen-
      Neuquén    N/A                           Lácar                     53%
      Buenos     N/A                           Campana                   50.7%
 
-[[10]]
+[[p=10]]
 % de Tierra en Manos Ex-       Departamentos con Alta       % de Extranjerización en
 Provincia    tranjeras (Abril 2022) (Ar-    Extranjerización (2021)      Departamentos Clave
              gentina.gob.ar, 2022)          (Landportal, 2021)           (Landportal, 2021)
@@ -536,7 +536,7 @@ DE, n.d.).
 La incapacidad de muchos pequeños y medianos agricultores para adoptar innovaciones tecnoló-
 gicas (como semillas transgénicas, siembra directa y uso intensivo de agroquímicos) debido a la
 
-[[11]]
+[[p=11]]
 dificultad para obtener financiamiento de bancos comerciales y la ausencia de instrumentos de
 apoyo específicos, también contribuyó a su salida del sistema (IADE, n.d.). La disolución de la
 Junta Nacional de Granos, por ejemplo, eliminó políticas públicas como los "precios de sostén"
@@ -582,7 +582,7 @@ den competir en escala o rentabilidad son expulsados del sistema, lo que agrava 
 y la precarización laboral. La predominancia del arrendamiento, a menudo sin contratos formales
 (39.3% de los arriendos en 2023), deja a los productores en una posición de vulnerabilidad, limi-
 
-[[12]]
+[[p=12]]
 tando su capacidad de inversión a largo plazo y su acceso a financiamiento o programas de apo-
 yo gubernamentales (Argentina.gob.ar, 2023; IADE, n.d.).
 Un efecto directo de esta dinámica es la pérdida de soberanía alimentaria. El modelo productivo
@@ -626,7 +626,7 @@ to con la presencia de grandes corporaciones y fondos de inversión que controla
 siones de tierra, incrementa el poder de estos actores económicos sobre las decisiones políticas y
 la agenda de desarrollo nacional (Agencia Tierra Viva, 2025; Melo, 2021).
 
-[[13]]
+[[p=13]]
 Los conflictos por la tierra y los recursos son una manifestación recurrente de esta dinámica.
 Comunidades campesinas e indígenas, como los Mapuche y Mbya Guaraní, enfrentan el despla-
 zamiento y la criminalización en su lucha por la recuperación y defensa de sus territorios ances-
@@ -671,7 +671,7 @@ Caligaris, 2014).
        generada sigue siendo una apropiación de la plusvalía derivada de la productividad supe-
        rior de la tierra, no del capital invertido en sí mismo (Caligaris, 2014).
 
-[[14]]
+[[p=14]]
    Renta Absoluta (Marx): Se refiere a la renta que puede obtenerse incluso en las tierras
        de peor calidad, debido al monopolio de la propiedad privada sobre la tierra (Caligaris,
        2014; Caligaris, 2017; Astarita, 2014). Este monopolio permite al terrateniente exigir un
@@ -716,7 +716,7 @@ Las justificaciones económicas para el LVT incluyen:
        vando la especulación y el mantenimiento de terrenos baldíos o subutilizados (FasterCa-
        pital, n.d.; FasterCapital, n.d.).
 
-[[15]]
+[[p=15]]
    Progresividad: Grava a los propietarios de tierras valiosas, que tienden a ser los más ri-
        cos, y no puede trasladarse a consumidores o trabajadores, contribuyendo a una distribu-
        ción más justa de la carga fiscal (FasterCapital, n.d.; FasterCapital, n.d.; Wikipedia,
@@ -761,7 +761,7 @@ inversiones (Chaco.gob.ar, n.d.). A nivel nacional, el gobierno de Javier Milei 
 ducción de las retenciones a las exportaciones agropecuarias el 26 de julio de 2025, cediendo a
 los reclamos del sector (Lorca, 2025). Estas medidas recientes reflejan la constante tensión entre
 
-[[16]]
+[[p=16]]
 la necesidad de recaudación estatal y la presión del sector agropecuario por una menor carga im-
 positiva.
 
@@ -805,7 +805,7 @@ rivan de la fertilidad natural y la ubicación de la tierra, y no de la inversi�
 del propietario. Además, al gravar la renta del alquiler, se podría desincentivar la especulación
 inmobiliaria y fomentar un uso más productivo de la tierra.
 
-[[17]]
+[[p=17]]
 4.3. Análisis Crítico y Viabilidad
 La propuesta de Moreno, al igual que otras iniciativas de gravamen a la renta de la tierra, presen-
 ta potenciales beneficios y desafíos.
@@ -849,7 +849,7 @@ nismo del bono compensatorio introduce una particularidad que la diferencia de u
 que se enfoca en la eficiencia y la progresividad sin un componente de compensación directa. La
 viabilidad de la propuesta de Moreno dependería en gran medida de su diseño específico, la ca-
 
-[[18]]
+[[p=18]]
 pacidad del Estado para implementarla y la voluntad política para superar la resistencia de los
 sectores afectados.
 
@@ -894,7 +894,7 @@ equitativo, productivo y sostenible:
            o   Implementar un sistema integral de catastro y valoración de la tierra que sea
                transparente, preciso y actualizado. Esto es fundamental para superar las discre-
 
-[[19]]
+[[p=19]]
 pancias en los datos de extranjerización (como los de 2021 y 2022) y para identi-
           ficar las estructuras de propiedad opacas, permitiendo una fiscalización efectiva y
           un conocimiento real de la tenencia de la tierra.
@@ -937,7 +937,7 @@ pancias en los datos de extranjerización (como los de 2021 y 2022) y para ident
           ranía alimentaria.
 5. Fomentar el Diálogo y la Participación:
 
-[[20]]
+[[p=20]]
 o   Establecer espacios de diálogo y consenso entre todos los actores involucrados
                (gobierno, grandes productores, pequeños agricultores, comunidades indígenas,
                organizaciones de la sociedad civil) para construir políticas de tierra que sean so-
@@ -982,7 +982,7 @@ mentales para el bienestar humano o para evitar el sufrimiento. Los deseos, en c
 bienes materiales o experiencias que, si bien pueden mejorar la calidad de vida, no son indispen-
 sables para la supervivencia (Berkeley Wellbeing, n.d.).
 
-[[21]]
+[[p=21]]
 En la práctica, a menudo perseguimos nuestros deseos y descuidamos nuestras necesidades (Mo-
 rris, 2015). Sin embargo, satisfacer las necesidades básicas debe tener prioridad, y una vez cu-
 biertas, podemos enfocarnos en los deseos para maximizar el disfrute y la calidad de vida (Ber-
@@ -1026,7 +1026,7 @@ por los terratenientes sin un esfuerzo productivo directo (StudySmarter, n.d.; Z
 apropiación, impulsada por la búsqueda de ganancias y la expansión de la influencia (manifesta-
 ciones de la voluntad de poder), puede llevar a que la tierra sea vista más como un activo finan-
 
-[[22]]
+[[p=22]]
 ciero o especulativo que como un medio para satisfacer necesidades básicas o para el desarrollo
 productivo y social (StudySmarter, n.d.; Zeolla, n.d.).
 La discusión sobre el gravamen a la renta no ganada de la tierra, y propuestas como la de Gui-
@@ -1068,7 +1068,7 @@ https://www.historiaagraria.com/FILE/articulos/HA11_bandieri.pdf
 Berkeley Wellbeing. (n.d.). Needs and Wants. Recuperado de
 https://www.berkeleywellbeing.com/needs-and-wants.html
 
-[[23]]
+[[p=23]]
 Bodo, V. (n.d.). The Will to Power and How Decadence Erodes It. Medium. Recuperado de
 https://medium.com/@dr.victor.bodo/the-will-to-power-and-how-decadence-erodes-it-
 60958ec1cf69
@@ -1111,7 +1111,7 @@ Diputados. (n.d.). Proyecto de Ley IMPUESTO A LA TIERRA LIBRE DE MEJORAS. Recupe
 do de https://www.diputados.gob.ar/comisiones/permanentes/clgeneral/proyecto.html?exp=4765-
 D-2016
 
-[[24]]
+[[p=24]]
 Docs Google. (n.d.). Guillermo Moreno, les. Recuperado de
 https://docs.google.com/document/d/1q8bvcdslIE-
 vwWBlrljDmAC04nedpOSFji0CUZkJ6Tg/edit
@@ -1151,5 +1151,4 @@ INIBIOMA CONICET. (2020, noviembre 2). La expansión del monocultivo de soja ame
 producción de miel en Argentina. Recuperado de https://inibioma.conicet.gov.ar/la-expansion-
 del-monocultivo-de-soja-amenaza-la-produccion-de-miel-en-argentina/
 
-[[25]]
-
+[[p=25]]

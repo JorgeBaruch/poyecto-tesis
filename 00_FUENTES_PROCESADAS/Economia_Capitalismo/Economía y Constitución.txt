@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 "Soberanía, Economía y Constitución: Argentina entre la Justicia Social y el
 Mercado Total"
 
@@ -43,7 +43,7 @@ Introducción y Contexto Histórico (1800-1853)
 El período comprendido entre 1800 y 1853 fue fundacional para la Argentina, marcado por la
 transición del régimen colonial español hacia la organización de un Estado independiente. En estas
 
-[[2]]
+[[p=2]]
 décadas se debatieron intensamente los fundamentos económicos y constitucionales del modelo
 de desarrollo nacional: ¿Debía primar el libre comercio exterior o alguna forma de
 proteccionismo? ¿Cómo garantizar el derecho de propiedad y a la vez atender la cuestión de la
@@ -88,7 +88,7 @@ más conservadoras de Buenos Aires.
 Intelectualmente, a fines de la colonia emergieron en el Río de la Plata los primeros “economistas”
 criollos. Manuel Belgrano, secretario del Real Consulado de Buenos Aires desde 1794, había
 
-[[3]]
+[[p=3]]
 estudiado las doctrinas de la Ilustración económica –fisiocracia francesa, liberalismo de Adam
 Smith, etc.– y advertía la necesidad de fomentar la agricultura, la industria naciente y el comercio
 interno. Belgrano integró ideas diversas para proponer soluciones a una colonia atrasada: “¿Qué
@@ -133,7 +133,7 @@ consuman los males que se intentaban remediar”centrocultural.coop. Asimismo, a
 prestamistas extranjeros, de salvar al gobierno, exigirían condiciones lesivas a la soberanía:
 “Engreídos prestamistas […] pasarán a exigir nuevas condicionalidades”centrocultural.coop. Estas
 
-[[4]]
+[[p=4]]
 palabras resultaron proféticas a la luz de la historia argentina de la deuda. En síntesis, Moreno
 combinó un discurso liberal circunstancial (para lograr la apertura comercial en 1810) con un
 proyecto nacionalista de intervención estatal para consolidar la revolución y evitar la
@@ -178,7 +178,7 @@ país a la dependencia de precios externos y frenaba la diversificación product
 Tanto Moreno como Belgrano coincidían en un punto fundamental: la economía debía
 organizarse de manera de fortalecer la independencia política alcanzada. No dudaron en
 
-[[5]]
+[[p=5]]
 propugnar un Estado activo. Como señala un análisis histórico, en ambos próceres “encontramos
 elementos que difícilmente puedan circunscribirlos a un liberalismo económico [clásico]. El esfuerzo
 por fortalecer el Estado y hacerlo intervenir en la economía de suerte de poder garantizar la
@@ -222,7 +222,7 @@ adquirían obligaciones: debían ocupar y trabajar efectivamente la tierra, cons
 corrales en cierto plazo, no pudiendo venderla ni dejarla ociosa bajo pena de reversión al
 Estadouruguayeduca.anep.edu.uy. Se buscaba así poblar la campaña con pequeños y medianos
 
-[[6]]
+[[p=6]]
 productores, aumentar la producción ganadera (que había caído por el desorden de la guerra) y
 asentar población en zonas fronterizas estratégicas.
 
@@ -268,7 +268,7 @@ sentencia conforme a ley, previendo incluso la indemnización por requisiciones 
 guerrarevistas.unlp.edu.arrevistas.unlp.edu.ar. En otras palabras, protegía férreamente la
 propiedad individual frente a expropiaciones arbitrarias –una garantía demandada por la clase
 
-[[7]]
+[[p=7]]
 terrateniente y mercantil porteña, recelosa de las proclamas igualitaristas que circulaban (como
 las de Artigas o incluso las más radicales del Plan de Moreno). Asimismo, esta constitución
 promovía las libertades económicas típicas: libertad de industria, de comercio interior, etc.,
@@ -313,7 +313,7 @@ desproporcionadamente a Buenos Aires –cuyo puerto monopolizaba el comercio ext
 perjudicó a las economías del interior, que vieron sus artesanías y modestos talleres arrasados
 por la competencia de los productos industriales importadoses.wikipedia.org. En lugar de
 
-[[8]]
+[[p=8]]
 integrarse con la producción local, el mercado interno quedó inundado de mercancías británicas,
 ahogando los intentos de manufactura criolla fuera de Buenos Aires. Rivadavia confiaba en la
 teoría de que el libre comercio traería prosperidad general, pero en la práctica profundizó el
@@ -358,7 +358,7 @@ Por último, destaca la contratación del empréstito Baring Brothers (1824), pr
 argentina. Rivadavia y su ministro García negociaron con la casa Baring de Londres un préstamo de
 £1.000.000 supuestamente destinado a obras de infraestructura (puerto, caminos,
 
-[[9]]
+[[p=9]]
 pueblos)es.wikipedia.org. Pero los términos fueron desventajosos y plagados de comisiones: solo
 llegaron efectivamente a Buenos Aires cerca de £570.000 (en letras de cambio, no en metálico) de
 las cuales gran parte se diluyó en gastos militares y financieroses.wikipedia.orges.wikipedia.org. El
@@ -403,7 +403,7 @@ haber mantenido la integridad territorial frente a amenazas externas y pacificad
 guerras civiles, su gobierno incidió fuertemente en el modelo económico consolidando el patrón
 agro-exportador bajo hegemonía porteña.
 
-[[10]]
+[[p=10]]
 En 1831, Buenos Aires, Entre Ríos y Santa Fe firmaron el Pacto Federal, al que luego adhirieron las
 demás provincias: este pacto –uno de los “pactos preexistentes” a los que luego aludiría la
 Constitución– estableció una alianza permanente bajo el sistema federal y la promesa de reunir un
@@ -448,7 +448,7 @@ Ríos y Corrientes con Paraguay y Brasil aumentó).
 No obstante, al concluir la era Rosas, la estructura económica básica seguía intacta: una Argentina
 pastoril, proveedora de materias primas al mercado mundial e importadora de bienes
 
-[[11]]
+[[p=11]]
 industriales, con fuerte influencia comercial británica. Rosas había mantenido a raya ciertas
 injerencias extranjeras y postergado la organización constitucional, pero no alteró la inserción
 dependiente del país en la división internacional del trabajo. De hecho, bajo su mandato se
@@ -493,7 +493,7 @@ poner la inmigración libre, la libertad de comercio, los caminos de fierro (fer
 industria sin trabas [...] como medios esenciales de conseguir que [aquellos principios] dejen de ser
 palabras y se vuelvan realidades”ri.conicet.gov.ar. Y enfatizaba: “Hoy debemos constituirnos…
 
-[[12]]
+[[p=12]]
 para tener población… para ser navegados los ríos, para ver opulentos y ricos nuestros
 Estados”ri.conicet.gov.ar. En esta visión alberdiana, la Constitución debía ser en gran medida una
 “Constitución económica” que garantizara las condiciones del progreso: población, capital,
@@ -538,7 +538,7 @@ provincia a otra, y el 11º y 12º garantizaron la libertad de navegación de lo
 todas las banderas y la libre circulación interprovinciales.wikipedia.org. A su vez, el artículo 14º
 consagró las libertades de trabajar, comerciar, navegar, ejercer industria, etc., para todos los
 
-[[13]]
+[[p=13]]
 habitantes, y el 20º extendió los derechos civiles a los extranjeros en el países.wikipedia.org. Los
 derechos de propiedad quedaron resguardados firmemente (art. 17º). En su conjunto, estas
 disposiciones componían una verdadera “constitución económica” liberal: removían trabas al
@@ -584,7 +584,7 @@ etc.).
 
 Conclusiones: Debates Fundacionales y el Rumbo Económico Dependiente
 
-[[14]]
+[[p=14]]
 Entre 1800 y 1853, los territorios del Río de la Plata transitaron de ser una colonia a ser una
 confederación independiente con un proyecto de nación definido. En ese proceso se dieron
 debates fundacionales sobre cómo organizar la economía y la estructura del Estado que tendrían
@@ -627,7 +627,7 @@ consecuencias de larga duración. Podemos concluir:
        la demanda externa. Recién un siglo después la cuestión agraria volvería a plantearse con
        fuerza en Argentina, pero ya bajo otras circunstancias.
 
-[[15]]
+[[p=15]]
    Papel del Estado: Los próceres debatieron entre un Estado conductor del desarrollo vs.
     un Estado mínimo garante del orden liberal. Moreno y Belgrano imaginaron un Estado que
     no dudara en intervenir: sea creando empresas públicas de comercio, dictando políticas
@@ -669,7 +669,7 @@ consecuencias de larga duración. Podemos concluir:
     del siglo XIX quedó encaminada hacia una inserción en la economía global como economía
     primaria dependiente de la industria y las finanzas extranjerasjstor.org.
 
-[[16]]
+[[p=16]]
 En conclusión, los debates fundacionales (1800-1853) muestran una tensión permanente entre la
 búsqueda de prosperidad y modernización con ayuda externa, y el afán por preservar la
 autonomía económica forjando un desarrollo equilibrado. Las figuras estudiadas simbolizan esa
@@ -715,7 +715,7 @@ Constitución liberal que sentó las bases del orden político y
 económicoes.wikipedia.orges.wikipedia.org. Hacia 1880 se consolidó el Estado centralizado y
 comenzó la llamada República Liberal u Oligárquica, caracterizada por la hegemonía de una élite
 
-[[17]]
+[[p=17]]
 terrateniente. En las décadas siguientes, el país experimentó una rápida expansión económica
 apoyada en la agricultura y la ganadería, mientras recibía una masiva inmigración europea que
 duplicó y triplicó la población en pocos decenioses.wikipedia.orges.wikipedia.org. Este modelo
@@ -760,7 +760,7 @@ como Estados Unidos o Alemania que optaron por políticas de desarrollo industri
 autónomoaustral.edu.ar. Esta dependencia significaba que los vaivenes internacionales
 impactaban profundamente al país: crisis financieras externas o el cierre de mercados (como
 
-[[18]]
+[[p=18]]
 ocurrió en la Gran Guerra de 1914-18 y, más dramáticamente, en la Depresión iniciada en 1929)
 provocaban severas recesiones internases.wikipedia.orgvisiondesarrollista.org. En síntesis, el
 modelo agroexportador brindó prosperidad rápida pero dejó a Argentina especializada como
@@ -806,7 +806,7 @@ particular, la Constitución consagró los siguientes principios fundamentales:
         legal argentino, siguiendo las recomendaciones de Alberdi en «Bases…», abrazó el libre
         comercio y la apertura económica. Como señaló Alberdi, toda política contraria al libre
 
-[[19]]
+[[p=19]]
 cambio o a la inversión extranjera se veía como “un cambio reaccionario” frente al espíritu
         de 1853elcato.orgelcato.org.
 
@@ -852,7 +852,7 @@ alimentos baratos. Argentina fue vista como parte integrante del mundo británic
 Commonwealth informal), a tal punto que su moneda estuvo ligada a la libra (Caja de Conversión
 oro) y su elite imitaba costumbres victorianas. Esta estrecha vinculación explica por qué, a
 
-[[20]]
+[[p=20]]
 diferencia de otros países latinoamericanos, Argentina no desarrolló tempranamente políticas
 nacionalistas o proteccionistas fuertes: sus clases dominantes estaban convencidas de que ocupar
 el lugar de “granero del mundo” era ventajoso. Sin embargo, como veremos a continuación,
@@ -898,7 +898,7 @@ presidencia escribía cartas y artículos insistiendo en la necesidad de diversi
 son industrias artificiales y cuáles naturales? ... Algunos entienden por industrias naturales
 aquellas en que el elemento principal es la naturaleza –principalmente la agricultura y la
 
-[[21]]
+[[p=21]]
 ganadería–... Son indudablemente las dos industrias fundamentales, las mamás que dan alimento
 a toda nación joven. Pero el período de lactancia de una nación no puede durar indefinidamente
 y la agricultura y la ganadería no pueden bastar para el desarrollo económico de un pueblo que
@@ -943,7 +943,7 @@ la de Pellegrini: enfatizó los problemas sociales y estructurales (como el lati
 desigualdad) y mantuvo, por convicción ideológica, una postura librecambista e internacionalista
 en materia comercial. Justo –médico, periodista y diputado nacional desde 1912– fue un
 
-[[22]]
+[[p=22]]
 intelectual marxista moderado que analizó a fondo la “cuestión agraria” argentina. En 1901
 publicó la conferencia “El programa socialista en el campo”, donde afirmó que el problema rural
 era más importante que el urbano en Argentina, dada la enorme población campesina y la
@@ -988,7 +988,7 @@ implicaba precios altos y rentas extraordinarias para pocos ingenios.
 Justo creía firmemente en las ventajas del librecambio internacional para el bienestar de todas las
 naciones. En un discurso parlamentario de 1923, durante el debate de una nueva ley de Aduanas,
 
-[[23]]
+[[p=23]]
 proclamó: “El punto de vista socialista en materia aduanera es universal, es internacional, es
 permanente. ... Hemos llevado nuestro aporte a los congresos socialistas internacionales en el
 sentido de que se establezca una sana economía universal facilitando el intercambio de
@@ -1033,7 +1033,7 @@ Debate: Argentina y la División Internacional del Trabajo
 Las posiciones de Pellegrini y Justo, surgidas a fines del siglo XIX y comienzos del XX, anticiparon
 las grandes tensiones sobre el rol económico de Argentina en el mundo, tensiones que estallarían
 
-[[24]]
+[[p=24]]
 con fuerza tras la crisis de 1930. En el fondo, ambos cuestionaban –desde ángulos distintos– la
 inserción pasiva del país como exportador de materias primas y “granero” de las potencias
 industriales.
@@ -1077,7 +1077,7 @@ estatal. En cierto modo, los discursos de fines del siglo XIX anticiparon las do
 Argentina del siglo XX: una orientada a proteger la producción nacional y otra a integrarse
 globalmente defendiendo al consumidor y al trabajador.
 
-[[25]]
+[[p=25]]
 En conclusión, el período del modelo económico agroexportador (1853-1930) fue fundacional
 para Argentina, dándole un lugar prominente como economía primaria próspera e inserta en el
 mercado mundial británico. Sus bases jurídicas –con la Constitución de 1853 garantizando
@@ -1123,7 +1123,7 @@ senadores y diputados, y permitió la reelección presidencial inmediataes.wikip
 esta transformación estuvo la figura del jurista Arturo Enrique Sampay, reconocido como el
 principal ideólogo del texto y “padre del constitucionalismo social” argentinoes.wikipedia.org. En
 
-[[26]]
+[[p=26]]
 este informe analizaremos el contexto histórico, económico y constitucional que dio origen a la
 Constitución de 1949, el pensamiento de Sampay y su influencia (incluyendo fuentes doctrinales
 como el peronismo y la doctrina social cristiana), el debate político-parlamentario de su sanción,
@@ -1168,7 +1168,7 @@ inició una “revolución” que se presentó como rescate de la auténtica sob
 popularhistoriadelperonismo.comhistoriadelperonismo.com. En ese contexto emergió la figura del
 coronel Juan D. Perón, primero al frente de la Secretaría de Trabajo, y pronto convertido en líder
 
-[[27]]
+[[p=27]]
 de un vasto movimiento de trabajadores organizados. La gran movilización obrera del 17 de
 octubre de 1945 marcó la irrupción del pueblo en la vida política, asegurando la liberación de
 Perón y allanando el camino a su triunfo electoral en febrero de 1946. La consigna electoral
@@ -1212,7 +1212,7 @@ integrando la Convención que sesionó entre enero y marzo de 1949. Allí, Sampa
 actuación destacadísima, erigiéndose en “miembro informante” de la mayoría
 peronistanomeolvidesorg.com.ar, es decir, el encargado de presentar y defender el proyecto
 
-[[28]]
+[[p=28]]
 oficial de reformas. Su influencia fue tal que muchos lo consideran el autor intelectual de la
 Constitución de 1949.
 
@@ -1257,7 +1257,7 @@ fundamentales de la economía nacional (fuentes de energía, servicios públicos
 exterior); (3) orientar todos los bienes de producción al bienestar del pueblo; (4) realizar una
 reforma agraria que permitiera a cada campesino ser propietario de la tierra que trabaja; y (5)
 
-[[29]]
+[[p=29]]
 democratizar la enseñanza con gratuidad, becas y contenido
 nacionalccycn.congreso.gob.arccycn.congreso.gob.ar. La impronta de Sampay fue determinante
 para articular los principios del justicialismo en un texto constitucional perdurable.
@@ -1302,7 +1302,7 @@ pos del interés colectivo (por ejemplo, facilitando reformas agrarias o evitand
 improductivos). El Artículo 39 dispuso que “el capital debe estar al servicio del bienestar social”,
 subordinando las ganancias privadas a los objetivos del puebloes.wikipedia.orges.wikipedia.org. Y
 
-[[30]]
+[[p=30]]
 el crucial Artículo 40 trazó los lineamientos de la soberanía económica de la Nación: estableció la
 facultad del Estado de intervenir en la economía y de monopolizar ciertas actividades, declaró
 que el comercio exterior es una función indelegable del Estado (asegurando el control estatal de
@@ -1346,7 +1346,7 @@ de senadores de 9 a 6 años para equipararlo)es.wikipedia.org. Y en el Poder Jud
 instancia de casación federal en la Corte Supremaes.wikipedia.org, entre otros cambios. Un
 aspecto simbólico de la reforma institucional fue la inclusión de preámbulos en cada capítulo
 
-[[31]]
+[[p=31]]
 dogmático, y la exigencia (Disposición Transitoria 3ª) de que todos los funcionarios públicos
 juraran la nueva Constituciónes.wikipedia.orges.wikipedia.org, subrayando su carácter
 fundacional. Asimismo, se autorizó a las provincias a reformar sus constituciones para adaptarlas a
@@ -1391,7 +1391,7 @@ requeridaes.wikipedia.orges.wikipedia.org. Este grupo entendía que, más allá 
 antidemocráticos del peronismo, muchas de las reformas sociales tenían mérito y no convenía
 autoexcluirse completamente del procesoes.wikipedia.org.
 
-[[32]]
+[[p=32]]
 Finalmente prevaleció la línea participacionista: la UCR concurrió a las elecciones de
 convencionales constituyentes, celebradas el 5 de diciembre de 1948es.wikipedia.org. Los
 comicios dieron un triunfo amplio al oficialismo (el Partido Peronista obtuvo alrededor del 64% de
@@ -1435,7 +1435,7 @@ en el Preámbulo, protección de la familia y la moral pública, etc.). El propi
 convicciones católicas, fue un puente con ese pensamiento. De hecho, la Constitución de 1949 ha
 sido calificada como “social, nacional y cristiana” por algunos historiadoresscribd.comscribd.com,
 
-[[33]]
+[[p=33]]
 ya que enalteció la justicia social, la soberanía nacional y también recogió valores cristianos
 (solidaridad, dignidad de la persona, condena de la usura, etc.). Esto se daba en un momento en
 que la relación Iglesia-Estado era aún armoniosa (años más tarde, en 1954-55, se deterioraría,
@@ -1479,7 +1479,7 @@ consagrando en su Constitución que “el trabajo no es una mercancía” y prom
 social internacionales.wikipedia.org. Para 1949 prácticamente todas las constituciones
 democráticas de posguerra estaban reorganizando sus textos para incluir normas económicas,
 
-[[34]]
+[[p=34]]
 sociales y culturales, dando origen al llamado Estado de bienestar en el mundo
 occidentales.wikipedia.orges.wikipedia.org.
 
@@ -1524,7 +1524,7 @@ Constitución del 49 colocó a Argentina en la vanguardia del constitucionalismo
 Algunos la calificaron como demasiado “populista”, por su vínculo con un movimiento de
 masases.wikipedia.org, pero otros la reivindican como una respuesta legítima a la necesidad de
 
-[[35]]
+[[p=35]]
 superar las meras declaraciones formales de derechos y garantizar derechos reales para las
 mayoríases.wikipedia.org. En definitiva, integró la ola de “segundas generaciones” de derechos,
 junto a la Declaración Universal de Derechos Humanos de 1948 (que influenció su redacción en
@@ -1569,7 +1569,7 @@ públicos o renegociar contratos petroleros en beneficio del Estado, sin violar 
 contrario, cumpliéndola). La Constitución también dio base a la regionalización de la economía
 interna (mandando en su artículo sobre educación que las universidades sirvan al desarrollo de las
 
-[[36]]
+[[p=36]]
 regioneses.wikipedia.org), lo que se relaciona con la idea de un desarrollo equilibrado frente al
 orden mundial. En síntesis, la Constitución del 49 fue no solo un documento de política interna
 sino una declaración de principios frente al mundo: Argentina se erigía como nación plenamente
@@ -1615,7 +1615,7 @@ mexicana o la de Weimar, pero con la originalidad propia del caso argentino. Fue
 movimiento popular de masas, por lo que se la ha asociado al fenómeno del populismo
 latinoamericano (término debatido académicamentees.wikipedia.org). Pero más allá de etiquetas,
 
-[[37]]
+[[p=37]]
 su contenido evidencia un compromiso con la democratización real de la sociedad, buscando
 llevar la igualdad del papel a la vida cotidiana. En palabras del convencional Sampay, la
 Constitución del 49 aspiró a “imponer en la República una democracia verdadera y real, negándose
@@ -1661,7 +1661,7 @@ encontrados y creciente conflicto social. Se ensayaron modelos de desarrollo ind
 distinta orientación ideológica –desde el “desarrollismo” de Frondizi hasta el Pacto Social del
 tercer peronismo– junto con políticas de apertura al capital extranjero condicionadas por el FMI y
 
-[[38]]
+[[p=38]]
 otros organismos. Paralelamente, el movimiento obrero organizado emergió como un actor
 central, ora aliado del poder (durante el peronismo) ora en resistencia (bajo dictaduras), frente a
 una represión política creciente (que incluyó la proscripción del peronismo, censura y violencia
@@ -1706,7 +1706,7 @@ obediencia judicial en virtud del “derecho de revolución”endisidencia.com.
 Paradójicamente, la nueva Corte también marcó distancia de ciertos excesos del régimen
 depuesto. En materia de derechos individuales, la jurisprudencia dio un giro liberal garantista: por
 
-[[39]]
+[[p=39]]
 ejemplo, en “Siri” (1957) se reconoció por primera vez la acción de amparo para proteger la
 libertad de imprenta y el derecho al trabajo frente a un acto arbitrario de la autoridad (la clausura
 policial de un diario opositor)endisidencia.comendisidencia.com. Igualmente, en “Mouviel” (1957)
@@ -1750,7 +1750,7 @@ implicó relegar la visión de un Estado social activo en pos del bienestar gene
 esquema donde la iniciativa privada y la propiedad tenían primacía, escenario en el cual se
 desenvolverían las políticas económicas subsiguientes.
 
-[[40]]
+[[p=40]]
 Proyectos económicos de 1958 a 1976: Desarrollismo, planificación nacional y relaciones con el
 capital foráneo
 
@@ -1795,7 +1795,7 @@ industrias básicas y, muy especialmente, petróleovisiondesarrollista.org.
         “hay que pasar el invierno”. Tales políticas contrajeron la demanda interna, pero lograron
         reducir la inflación de más del 100% anual en 1959 a alrededor de 27% en
 
-[[41]]
+[[p=41]]
 1961revistaedm.com. Sin embargo, el costo social fue alto y la “receta” del FMI generó
     resistencias populares.
 
@@ -1839,7 +1839,7 @@ industrias básicas y, muy especialmente, petróleovisiondesarrollista.org.
     proscripción peronista ni aplacar la puja distributiva, el modelo desarrollista tenía
     sustentación política frágil.
 
-[[42]]
+[[p=42]]
 Gobierno de Arturo Illia (1963–1966): Desarrollismo autónomo y medidas reformistas
 
 Tras un breve interregno militar (Presidente José M. Guido, 1962-63) y elecciones condicionadas
@@ -1884,7 +1884,7 @@ facilitó cierta reactivación. Illia adoptó una política económica intervenc
         lugar de endeudarse para invertir más, Illia prefirió “vivir con lo nuestro” y cancelar
         obligaciones pendientes.
 
-[[43]]
+[[p=43]]
    Relación con el capital extranjero: Aunque Illia no hostigó la inversión extranjera
         productiva que ya operaba (p.ej. las automotrices instaladas continuaron su actividad), sí
         dejó claro que las reglas las ponía el Estado argentino. La anulación petrolera y la política
@@ -1929,7 +1929,7 @@ autoritarismo modernizador: disciplina social férrea, represión al disenso, y 
 económico inicialmente liberal y abierto al mundo, aunque con pugnas internas entre facciones
 liberales vs. desarrollistas-nacionalistas dentro del propio régimen.
 
-[[44]]
+[[p=44]]
    Primera fase (1966-67): Estabilización ortodoxa: Onganía comenzó nombrando ministro
     de Economía al demócrata-cristiano Jorge Salimei, quien en 1966 aplicó medidas
     graduales de control inflacionario y cierto intervencionismo (mantuvo control de cambios,
@@ -1971,7 +1971,7 @@ liberales vs. desarrollistas-nacionalistas dentro del propio régimen.
     sacrificó ámbitos tradicionales en pos de una modernización concentrada en polos
     industriales.
 
-[[45]]
+[[p=45]]
    Tensiones y efectos económicos: Hacia 1969 empezaron a notarse desequilibrios. Si bien
     la inflación anual 1968 fue baja (aprox. 7%), repuntó a 20% en 1969 y cifras mayores
     luegotodo-argentina.net. El congelamiento salarial prolongado erosionó el poder
@@ -2015,7 +2015,7 @@ liberales vs. desarrollistas-nacionalistas dentro del propio régimen.
     dictadura respondió con más represión (estado de sitio permanente, presos políticos) pero
     el daño estaba hecho.
 
-[[46]]
+[[p=46]]
    Crisis del Onganiato y transición militar: El prestigio de Onganía se resintió
         profundamente tras 1969. La economía también entró en recesión en 1970 (PBI -2.5%)
         con alta inflación. Viendo peligrar “el orden”, la propia cúpula militar decidió relevarlo. En
@@ -2059,7 +2059,7 @@ justicia social, retomando banderas de los ’40 pero adaptadas al nuevo context
 económico fue el denominado Pacto Social impulsado por Perón y su ministro de Economía, José
 Ber Gelbard.
 
-[[47]]
+[[p=47]]
    El Pacto Social (1973): Formalizado en junio de 1973, apenas asumido el gobierno
     peronista, fue un acuerdo tripartito entre la CGT (Confederación General del Trabajo, en
     representación de los trabajadores) y la CGE (Confederación General Económica, que
@@ -2103,7 +2103,7 @@ Ber Gelbard.
     exportaciones clave (granos, carne), mermando divisas. Internamente, ciertos sectores
     empresarios nunca estuvieron plenamente alineados con Gelbard: los grandes oligopolios
 
-[[48]]
+[[p=48]]
 y filiales extranjeras soportaron a regañadientes el congelamiento y buscaron resquicios
     para aumentar precios. De hecho, hubo violaciones constantes del Pacto Social por parte
     de empresas líderes, remarcando precios o provocando desabastecimiento para forzar
@@ -2147,7 +2147,7 @@ y filiales extranjeras soportaron a regañadientes el congelamiento y buscaron r
     financiera occidental. Empresas transnacionales que operaban en Argentina (en
     siderurgia, automotriz, química) presionaron fuertemente contra el programa de Gelbard;
 
-[[49]]
+[[p=49]]
 algunas redujeron operaciones durante el congelamiento. Tras el Rodrigazo, muchas de
         estas compañías encontraron espacio para recomponer precios y ganancias, pero la
         inestabilidad general también les resultaba riesgosa. En resumen, el capital extranjero
@@ -2191,7 +2191,7 @@ represivas del Estado conforman un eje transversal de esta etapa.
         elecciones en algunos gremios y la CGT se reconstituyó bajo control de dirigentes
         moderados (como Augusto Vandor de la UOM). En 1957-58 se produjeron huelgas
 
-[[50]]
+[[p=50]]
 emblemáticas, como la de Frigoríficos y del transporte, que mostraron que el movimiento
         obrero seguía siendo una fuerza a considerar aun en la clandestinidad.
 
@@ -2236,7 +2236,7 @@ todo espacio de actividad legal para el peronismo y sus sindicatos.
         (metalúrgicos del Astillero Río Santiago en 1968, portuarios en 1967todo-argentina.net,
         etc.), luego paros nacionales (un paro general en mayo 1969 sirvió de antesala al
 
-[[51]]
+[[p=51]]
 Cordobazo). La represión a los obreros fue violenta: miles de detenciones por
     “subversión”, activistas desaparecidos temporalmente, militarización de fábricas. Sin
     embargo, la solidaridad entre trabajadores y la convergencia con estudiantes hizo
@@ -2280,7 +2280,7 @@ Cordobazo). La represión a los obreros fue violenta: miles de detenciones por
     prensaendisidencia.comendisidencia.com). Sin embargo, eso solo generó una democracia
     mutilada en los breves interregnos civiles (1958-62, 1963-66), siempre bajo la sombra de
 
-[[52]]
+[[p=52]]
 que el retorno de Perón implicaría el fin del status quo. Esta proscripción fue un factor de
         desequilibrio permanente: el voto en blanco masivo, la falta de representación de la clase
         trabajadora en el sistema, y la ilegitimidad percibida de las autoridades “provisorias”. Cada
@@ -2325,7 +2325,7 @@ Los acontecimientos de 1955-1976 allanaron el camino en varios sentidos:
         1976 impuso la estrategia neoliberal” llevándola a su máxima expresión en los
         90visiondesarrollista.org. Es decir, la derrota de esos proyectos dejó el campo libre a la
 
-[[53]]
+[[p=53]]
 visión opuesta: que Argentina debía integrarse al mundo abiertamente, depender del
         capital extranjero sin cortapisas y relegar la industrialización dirigida por el Estado.
 
@@ -2370,7 +2370,7 @@ FMI”revistaedm.comrevistaedm.com: efectivamente, luego de 1976 el FMI sería u
 permanente y las ideas liberales ortodoxas regirían la economía argentina. Así, la
 “contrarrevolución” iniciada en 1955 culminó veinte años después en la consolidación neoliberal:
 
-[[54]]
+[[p=54]]
 un modelo opuesto al constitucionalismo social de 1949 y al pacto nacional-popular de 1973, cuyo
 legado –positivo o negativo– perdura hasta nuestros días.
 
@@ -2416,7 +2416,7 @@ argentina. La dictadura militar (1976-1983) implementó un programa abiertamente
 la mano del ministro de Economía José Alfredo Martínez de Hoz. Se desmontaron las políticas
 industriales e intervencionistas previas y se promovió la liberalización financiera y comercial en un
 
-[[55]]
+[[p=55]]
 contexto de represión política. Como resultado, la economía ingresó en un ciclo de
 desindustrialización y especulación financiera: por ejemplo, entre 1974 y 2001 el producto
 industrial acumuló una caída del 5% (33% en términos per cápita)scielo.org.mx, evidenciando el
@@ -2459,7 +2459,7 @@ choques internacionales. Tras la breve gestión de la Alianza (Fernando de la R�
 profundizó la recesión con ajustes fiscales ortodoxos, a fines de 2001 estalló la peor crisis
 económica, social y política de la historia argentina. La cesación de pagos de la deuda pública en
 
-[[56]]
+[[p=56]]
 diciembre de 2001 y el colapso de la convertibilidad marcaron el cierre dramático de ese ciclo
 histórico.
 
@@ -2505,7 +2505,7 @@ algunos casos mejoró la eficiencia de serviciosimf.org. Sin embargo, estudios p
 los costos de largo plazo: por un lado, el país “rifó” una porción enorme de su patrimonio
 nacional, cediendo áreas estratégicas al capital extranjeroeldiplo.org. Por otro, el Estado se
 
-[[57]]
+[[p=57]]
 desprendió de herramientas fundamentales de intervención económica, perdiendo control sobre
 sectores clave y destruyendo cadenas de conocimiento acumulado en décadaseldiplo.org. Las
 privatizaciones se realizaron muchas veces en condiciones desventajosas para la Nación: más de la
@@ -2549,7 +2549,7 @@ de financiamiento externo, primarización y extranjerización de segmentos estra
 desempleo elevado y desprotección social. Estas vulnerabilidades quedarían expuestas cuando los
 vientos internacionales cambiaran, al final del período.
 
-[[58]]
+[[p=58]]
 Endeudamiento externo y relaciones con el FMI y organismos multilaterales
 
 El endeudamiento externo fue un pilar –y a la vez una consecuencia– de la estrategia neoliberal
@@ -2592,7 +2592,7 @@ soberanía”eldiplo.org. La debilidad económica extrema y la amenaza latente d
 militar impidieron al gobierno radical adoptar una postura más firme (como haber declarado el
 default en 1984)eldiplo.orgeldiplo.org.
 
-[[59]]
+[[p=59]]
 La llegada de Menem en 1989 redefinió la relación con los organismos financieros. En lugar de
 confrontar, su gobierno se alió estrechamente con el FMI, el Banco Mundial y el Tesoro de EE.UU.,
 convirtiendo a Argentina en alumno ejemplar de las políticas de ajuste estructural. La
@@ -2636,7 +2636,7 @@ capital privado cesaron a fines de los ’90, la única tabla de salvación fue 
 FMI y el Banco Mundial, profundizando el círculo viciosoeldiplo.org. Las políticas exigidas
 (privatizar, recortar, abrir) eran presentadas como recetas técnicas, pero en la práctica
 
-[[60]]
+[[p=60]]
 beneficiaron a ciertos actores: los principales ganadores de este esquema fueron los bancos
 internacionales (cobrando intereses elevados), los fondos de inversión que lucraron con la deuda,
 y los grupos locales y multinacionales que aprovecharon las privatizaciones y la
@@ -2681,7 +2681,7 @@ pasado había sostenido la Doctrina Calvo (principio por el cual los inversores 
 gozar de privilegios ni protecciones distintas a las de los nacionales, debiendo someterse a la
 jurisdicción local). Al aceptar los arbitrajes internacionales en los TBI, Argentina en los ’90
 
-[[61]]
+[[p=61]]
 abandonó el principio tradicional de jurisdicción exclusiva nacional, cediendo parte de su
 soberanía jurídica en pos de atraer capitalesisds.bilaterals.org. Este “giro copernicano” jurídico se
 dio de la mano de la apertura económica: en 1993 se sancionó, además, una nueva Ley de
@@ -2725,7 +2725,7 @@ ejemplo, el congelamiento tarifario tras la devaluación habría dañado sus exp
 ganancias). Efectivamente, el fin de la paridad 1 a 1 dio lugar a decenas de casos de arbitraje: para
 2004-2005, Argentina se convirtió en el país más demandado del mundo ante el
 
-[[62]]
+[[p=62]]
 CIADIcdi.mecon.gob.ar. En 2005 enfrentaba 35 demandas pendientes (41% del total de casos
 abiertos en el CIADI en ese momento)cdi.mecon.gob.ar, un récord nunca visto desde la creación
 del organismo. Las empresas reclamantes incluían gigantes de la talla de Enron, AES, Vivendi, CMS,
@@ -2770,7 +2770,7 @@ de desoír sentencias.
 En definitiva, la avalancha de TBI y la sumisión al CIADI en los años noventa consolidaron el
 estatus de Argentina como destino seguro para el capital global a expensas de sacrificar
 
-[[63]]
+[[p=63]]
 instrumentos legales de defensa del interés nacional. La Argentina neoliberal se desligó
 conscientemente de la tradición del principio Calvo, consagrando en cambio un marco jurídico de
 protección máxima al inversor extranjero (tratado bilateral + arbitraje internacional). Esta
@@ -2815,7 +2815,7 @@ avala expresamente, siempre que sea mediante tratados de integración y en pie d
 práctica, esta disposición brindó sustento constitucional a la participación argentina en
 mecanismos como el Mercosur (creado en 1991) y podría interpretarse que también legitima
 
-[[64]]
+[[p=64]]
 acuerdos como la adhesión al CIADI, donde se delega jurisdicción a un tribunal internacional
 (aunque el CIADI no es exactamente “integración”, sino un foro arbitral global).
 
@@ -2860,7 +2860,7 @@ normativa la orientación internacionalista del Estado de los ’90. Esta arquit
 coincidente con la firma de los TBI e ingreso al CIADI, afectó la capacidad del Estado para definir
 su estrategia de desarrollo de manera absolutamente independiente. De allí en adelante,
 
-[[65]]
+[[p=65]]
 cualquier estrategia estaría condicionada por los compromisos internacionales previos, a menos
 que el país optara por denunciarlos o renegociarlos (cosa que en general no hizo en este período).
 La soberanía jurídica tradicional –entendida como la potestad exclusiva del Estado de resolver sus
@@ -2904,7 +2904,7 @@ subordinada fueron múltiples:
         porción del patrimonio nacional”eldiplo.org. Ello constituyó “una entrega democrática de
         la soberanía” económica, posibilitada en parte por la destrucción de resistencias
 
-[[66]]
+[[p=66]]
 populares durante la dictadura y la crisis previa que generó consenso en torno a la
         estabilidad a cualquier precioeldiplo.org.
 
@@ -2949,7 +2949,7 @@ concedidos”prmlargentina.org. También se impuso la función social de la prop
 la riqueza privada debía supeditarse al bienestar común, y el Estado se reservaba facultades de
 planificación para orientar la economía al desarrollo y la justicia socialprmlargentina.org. Durante
 
-[[67]]
+[[p=67]]
 ese período se implementó el IAPI (monopolio estatal del comercio exterior) y se nacionalizó el
 Banco Central y los depósitos bancarios, de modo que el crédito se dirigiera a la industrialización y
 no a la especulaciónprmlargentina.orgprmlargentina.org. En síntesis, el programa de 1949 buscó
@@ -2994,7 +2994,7 @@ Conclusiones
 La etapa 1976-2001 en Argentina representó un proceso de transformación neoliberal de gran
 calado, cuyas implicancias abarcaron la economía, la política y el marco jurídico del país. A lo largo
 
-[[68]]
+[[p=68]]
 de ese cuarto de siglo, se impuso un modelo orientado a la liberalización total: mercado interno
 desregulado, fronteras abiertas a bienes y capitales, Estado mínimo (y “amigable” con los
 inversores), y plena inserción en las instituciones de la globalización financiera. Este modelo logró
@@ -3038,7 +3038,7 @@ trabajosamente aspectos de aquella entrega (default y quita de deuda, cancelaci�
 2006 para zafarse de sus condicionalidades, reestatización de algunas empresas y pensiones en
 años posteriores, etc.). Esos esfuerzos buscaron recuperar grados de soberanía económica
 
-[[69]]
+[[p=69]]
 perdidos, conscientes de que la globalización puede abrir oportunidades pero también encadenar
 a los países periféricos a una posición de dependencia crónica.
 
@@ -3085,7 +3085,7 @@ Fuentes:
        Damill, Mario; Frenkel, Roberto; Rapetti, Martín. “Deuda y política económica post-2001”
         (citado en El Dipló, 2015)eldiplo.orgeldiplo.org.
 
-[[70]]
+[[p=70]]
 Argentina (2001–2015): De la crisis neoliberal a la recuperación del Estado
 
 Contexto histórico: Crisis de 2001 y colapso del modelo neoliberal
@@ -3131,7 +3131,7 @@ exitoso: un 76% de los acreedores aceptó la oferta en 2005infobae.cominfobae.co
 Posteriormente, en 2010 durante la presidencia de Cristina Fernández de Kirchner (CFK), se
 reabrió el canje para los holdouts (tenedores que no entraron en 2005), logrando que en total
 
-[[71]]
+[[p=71]]
 cerca del 93% de la deuda defaultada fuese reestructurada en ambas
 operacioneses.wikipedia.org. Esta reestructuración integral removió uno de los mayores
 obstáculos para la recuperación económica argentinainfobae.com. Kirchner lo describió como un
@@ -3176,7 +3176,7 @@ sentando las bases para la recuperación económica.
 
 Recuperación económica e industrial (2003–2011)
 
-[[72]]
+[[p=72]]
 Superada la fase aguda de la crisis, Argentina experimentó un período de rápido crecimiento
 económico. Entre 2003 y 2008 el PIB real creció en torno al 8-9% anual en promedio, uno de los
 mayores repuntes del mundo en ese periodo. Este boom inicial se vio favorecido por múltiples
@@ -3221,7 +3221,7 @@ creciendoredalyc.orgredalyc.org. Sectores industriales comenzaron a sufrir por l
 del peso causada por la inflación acumulada. De hecho, tras años de expansión, la producción
 industrial mostró sus límites: muchas ramas dependían de insumos importados, generando déficit
 
-[[73]]
+[[p=73]]
 comercial industrial, y no se produjo un cambio estructural profundo en la matriz
 productivaredalyc.orgredalyc.org. Analistas señalan que no surgió una nueva burguesía nacional
 innovadora: la industria seguía dominada por conglomerados extranjeros o locales concentrados,
@@ -3266,7 +3266,7 @@ Varios hitos definieron la ampliación de derechos sociales en este período:
         derechos a la educación y saludscielo.sa.crscielo.sa.cr. Fue reconocida internacionalmente
         como una herramienta innovadora de protección social en Argentina.
 
-[[74]]
+[[p=74]]
    Moratoria previsional y estatización de las jubilaciones: En 2005 y 2006, el gobierno
         implementó moratorias que permitieron jubilarse a cientos de miles de adultos mayores
         que no tenían aportes suficientes debido a años de trabajo informal o desempleo (muchos
@@ -3310,7 +3310,7 @@ cuestiones al mercado. En términos de derecho constitucional social, esto supus
 a principios ya consagrados en la Constitución (Art. 14 bis, pactos internacionales de derechos
 sociales) mediante políticas públicas concretas.
 
-[[75]]
+[[p=75]]
 Plano jurídico: Constitución, tratados internacionales y el CIADI
 
 En el terreno jurídico-institucional, la etapa 2001-2015 implicó una revalorización del derecho
@@ -3355,7 +3355,7 @@ LG&E vs. Argentina (resuelto en 2006), reconoció que la gravedad de la crisis 2
 responsabilidad al Estado durante el período de emergencia. En palabras del tribunal, “cuando las
 bases económicas de un Estado se encuentran sitiadas, la severidad del problema puede
 
-[[76]]
+[[p=76]]
 compararse con la de una invasión militar”iprofesional.com. El CIADI admitió que las medidas
 argentinas, aunque afectaron intereses inversores, fueron tomadas para evitar un colapso
 económico total y eran “legítimas y necesarias” dada la situación extraordinariaiprofesional.com.
@@ -3400,7 +3400,7 @@ autodeterminación nacional.
 
 Argentina en el nuevo constitucionalismo latinoamericano: Estado vs. mercado
 
-[[77]]
+[[p=77]]
 Los cambios en Argentina durante 2001-2015 se inscriben en un contexto regional más amplio
 conocido como el “giro a la izquierda” o nuevo constitucionalismo latinoamericano de inicios del
 siglo XXI. En diversos países de América Latina, tras la crisis del modelo neoliberal de los 90,
@@ -3444,7 +3444,7 @@ igualdad mientras la derecha privilegia libertades de mercado aun con desigualda
 kirchnerista claramente se inscribió en la agenda igualitarista: reducción de brechas sociales,
 inclusión de marginados, rol compensador del Estado. Esta orientación ideológica se plasmó en
 
-[[78]]
+[[p=78]]
 debates legislativos y públicos sobre el rol del Estado en la economía. Se discutió, por ejemplo, el
 nivel adecuado de intervención estatal: hasta dónde regular precios o comercio sin afectar la
 inversión privada, o cómo lograr crecimiento sostenible con distribución. También se debatió el
@@ -3489,7 +3489,7 @@ persistían desafíos estructurales: la economía evidenció cuellos de botella 
 sectores poco competitivos), la inflación erosionó parte de los avances sociales, y la
 institucionalidad económica seguía enfrentando tensiones entre seguridad jurídica para inversores
 
-[[79]]
+[[p=79]]
 y margen de acción soberana. El debate sobre el rol del Estado en la economía quedó instalado
 como central en la agenda pública argentina, polarizando visiones entre quienes abogaban por
 profundizar el modelo solidario-estatal y quienes reclamaban un giro pro-mercado.
@@ -3538,7 +3538,7 @@ Fuentes primarias y secundarias consultadas:
 
        Wikipedia en español. “Historia de la deuda externa argentina”es.wikipedia.org.
 
-[[80]]
+[[p=80]]
 Introducción y contexto histórico (2015–2025)
 
 El período 2015–2025 en Argentina estuvo marcado por fuertes vaivenes políticos, económicos y
@@ -3582,7 +3582,7 @@ dólares existenteambito.com, sin lograr estabilizar la economía. La actividad 
 contrajo 3 de los 4 años de Macri, acumulando en 2019 un nivel 3,4% inferior al de
 2015ambito.comambito.com.
 
-[[81]]
+[[p=81]]
 La inflación, lejos de bajar, se aceleró al nivel más alto desde 1991. Macri heredó una inflación
 anual cercana al 30% (tras la corrección estadística del INDEC) y la dejó rondando 55% anual en
 2019ambito.comambito.com. El propio gobierno reconoció que “no se logró el objetivo” de
@@ -3627,7 +3627,7 @@ recortar jubilaciones implicaba desconocer derechos sociales básicos garantizad
 bis de la Constitución (que protege la seguridad social). Este señalamiento aludió a un debate de
 fondo: ¿hasta dónde pueden los ajustes económicos restringir derechos adquiridos de naturaleza
 
-[[82]]
+[[p=82]]
 social? La tensión entre las exigencias del ajuste y la protección constitucional de derechos
 sociales fue una constante del período. De hecho, Camaño recordó en el recinto que “el derecho
 constitucional social fue producto de larguísimas luchas” y está plasmado en las constituciones,
@@ -3672,7 +3672,7 @@ inversiones directas” del exterior, mostrando seguridad jurídicapagina12.com.
 entonces pendientes, el gobierno buscó cerrar la mayoría en pocos mesespagina12.com.ar, a
 diferencia de la administración anterior que había prolongado o desconocido esos pagos. Esto
 
-[[83]]
+[[p=83]]
 implicó aceptar una cesión de soberanía jurídica en pos de recuperar confianza inversora: Macri
 priorizó cumplir con los tribunales internacionales y los tratados de protección de inversiones, aun
 si significaba para algunos críticos resignar autonomía. Del mismo modo, al tomar el préstamo
@@ -3718,7 +3718,7 @@ Macri dejó en default selectivo. En 2020 logró un acuerdo con bonistas interna
 reestructurar ~USD 66 mil millones de deuda bajo legislación extranjera, alargando plazos y
 reduciendo intereses. Este proceso evitó un default desordenado y fue presentado como un alivio
 
-[[84]]
+[[p=84]]
 para la economía. Sin embargo, la deuda con el FMI seguía pendiente: los vencimientos 2022-2023
 del préstamo Stand-By de 2018 eran imposibles de afrontar. Tras idas y vueltas, en marzo de 2022
 el gobierno firmó un nuevo acuerdo con el FMI –esta vez, un Acuerdo de Facilidades Extendidas
@@ -3761,7 +3761,7 @@ milloneschequeado.com, una situación insostenible. La brecha entre el dólar of
 superó el 100%. El gobierno implementó parches como “dólar soja” (tipo de cambio especial
 temporal para agro) para rascar reservas, pero la confianza estaba quebrada. El peso se devaluó
 
-[[85]]
+[[p=85]]
 bruscamente un 20% tras las primarias de agosto 2023, pero luego se volvió a atrasar antes de las
 elecciones, acumulando tensiones cambiarias para el siguiente gobierno.
 
@@ -3806,7 +3806,7 @@ solidario extraordinario) en 2020 para contribuir a gastos pandémicos. Estas me
 una agenda de ampliación de derechos individuales y cierta innovación fiscal transitoria,
 respectivamente.
 
-[[86]]
+[[p=86]]
 Sin embargo, la promesa de “volver a llenar la heladera” (recuperar ingresos populares) quedó
 incumplida. Para 2023, los indicadores sociales se habían deteriorado: ya se señaló pobreza
 >40%chequeado.com, indigencia ~9%, y una desigualdad creciente. La mejora en empleo tuvo
@@ -3851,7 +3851,7 @@ Otro choque ocurrió durante la pandemia: en 2021, el gobierno nacional dispuso 
 suspensión de clases presenciales por la segunda ola de COVID-19, pero la Ciudad de Buenos Aires
 se opuso. La disputa llegó a la Corte, que finalmente falló a favor de la autonomía porteña para
 
-[[87]]
+[[p=87]]
 decidir sobre sus escuelas, invalidando el DNU nacional en CABA. Fue un precedente sobre los
 límites de la emergencia sanitaria frente a las autonomías locales.
 
@@ -3895,7 +3895,7 @@ Gobierno de Javier Milei (desde 2023)
 
 Shock liberal y reestructuración económica radical
 
-[[88]]
+[[p=88]]
 La asunción de Javier Milei el 10 de diciembre de 2023 marcó un punto de inflexión
 extraordinario. Por primera vez en décadas llegó al poder un dirigente abiertamente libertario y
 ajeno a los dos grandes bloques tradicionales (peronismo y radicalismo/macrismo). Milei asumió
@@ -3938,7 +3938,7 @@ paralelo tendió a cerrarse con la unificación cambiaria. La expectativa gubern
 vez estabilizado el frente fiscal y sin emisión, la inflación ceda y eventualmente se concrete la
 dolarización completa a un tipo de cambio de conversión manejable.
 
-[[89]]
+[[p=89]]
 Otro eje fue la apertura comercial y desregulación. Milei abolió virtualmente las retenciones a la
 exportación desde el inicio de su mandato y eliminó numerosas regulaciones cambiarias y
 comerciales. Se planteó revertir políticas industriales proteccionistas: en su visión, cada sector
@@ -3982,7 +3982,7 @@ primera parte de 2024 la inflación mensual superó el 10%, pero hacia fines de 
 comenzó a moderarse (aunque seguía en niveles altos interanuales). El drástico freno de la
 emisión y la recesión inducida enfriaron parcialmente la suba de precios, algo que Milei reivindicó:
 
-[[90]]
+[[p=90]]
 afirmó a mitad de 2024 que “a pesar de la casta política inmunda, estamos venciendo a la
 inflación”argentina.gob.ar. Sin embargo, los críticos señalan que la caída inflacionaria se dio al
 costo de una fuerte caída del consumo y del PBI, profundizando la pobreza en el corto plazo. De
@@ -4028,7 +4028,7 @@ Rápidamente surgieron rumores de que podría intentar nombrar un quinto juez po
 (como Macri había intentado en 2015) o presionar renuncias. De hecho, Alfonsín afirmó que Milei
 “ya intentó colocar jueces de la Corte por decreto”noticiasargentinas.com –lo cual no se concretó,
 
-[[91]]
+[[p=91]]
 pero muestra la desconfianza reinante–. En lugar de confrontar abiertamente aún, Milei optó por
 un cambio indirecto del Poder Judicial: ha propuesto eliminar o recortar severamente el poder del
 Consejo de la Magistratura y revisar el sistema de selección de jueces, a quienes acusa de formar
@@ -4072,7 +4072,7 @@ totalmente vínculos comerciales). Esta política exterior rupturista podría ll
 compromisos previos, pero hasta 2025 Argentina sigue dentro de sus tratados formales. Cabe
 destacar que Milei sí dio un giro geopolítico: estrechó lazos con Estados Unidos e Israel, y congeló
 
-[[92]]
+[[p=92]]
 vínculos con Cuba, Venezuela y otros países antes cercanos, lo que señala una reorientación
 ideológica en la aplicación del derecho internacional.
 
@@ -4118,7 +4118,7 @@ ej., instó a cubrir la vacante del Defensor del Pueblo en el fallo de tarifasle
 llamada de atención institucional). No obstante, la politización de la Justicia fue innegable, con
 enfrentamientos abiertos entre gobierno y Corte durante Fernández, y una posible
 
-[[93]]
+[[p=93]]
 reconfiguración bajo Milei. Los tratados internacionales influyeron fuertemente: el acuerdo FMI
 2018 condicionó la política de Macriimf.orgimf.org; el acuerdo 2022-2025 guio (y a veces limitó)
 las decisiones de Fernándezchequeado.com; con Milei, el alineamiento con las reglas del mercado
@@ -4163,7 +4163,7 @@ oficiales (comunicados del FMI, Argentina.gob.ar), base de datos de Chequeado y 
 jurídicos (fallos de la Corte Suprema, leyes sancionadas). Entre ellas se destacan el comunicado del
 FMI sobre el acuerdo Stand-By 2018imf.org, análisis del balance económico de Macri en Ámbito
 
-[[94]]
+[[p=94]]
 Financieroambito.comambito.com, reportes de Chequeado sobre la situación social al final de
 cada gobiernochequeado.comchequeado.com, la cobertura de la aprobación de la Ley de Bases
 2024diariolibre.comdiariolibre.com, y las declaraciones oficiales de Javier Milei sobre sus
@@ -4208,7 +4208,7 @@ derechos sociales de los sectores vulnerablesrevistas.unc.edu.ar. En palabras de
 la protección de las capas vulnerables es “el objetivo básico del ajuste económico” legítimo, y
 todos los poderes públicos deben hacer prevalecer el espíritu protector que anima al
 
-[[95]]
+[[p=95]]
 artículo 14 bis al evaluar reformas económicasrevistas.unc.edu.arrevistas.unc.edu.ar. Esto refleja
 una defensa jurisprudencial del constitucionalismo social frente a políticas de austeridad.
 
@@ -4253,7 +4253,7 @@ CIADIcdi.mecon.gob.ar. La mayoría de los demandantes fueron empresas de países
 banca que habían sido privatizados en los ’90 y cuyos contratos se vieron alterados por la
 emergencia económicacdi.mecon.gob.ar.
 
-[[96]]
+[[p=96]]
 Tipos de demandas y argumentos jurídicos: Las demandas ante el CIADI contra Argentina
 invocaron típicamente violaciones a cláusulas estándares de los TBI: expropiación indirecta (por la
 pesificación de tarifas), falta de trato justo y equitativo, discriminación y violación de contratos.
@@ -4297,7 +4297,7 @@ constitucionalidad: críticos argumentaron que la delegación de jurisdicción a
 internacionales contradice el principio de jurisdicción propia y puede vulnerar el artículo 116 de la
 Constitución (competencia originaria de jueces argentinos) y el orden público nacional. De hecho,
 
-[[97]]
+[[p=97]]
 a medida que aumentaban las demandas, creció el cuestionamiento político al CIADI en Argentina,
 considerándolo sesgado hacia las empresas multinacionales y atentatorio de la “soberanía
 jurídica” del país. El Gobierno de Néstor Kirchner (2003–2007) llegó a crear una comisión para
@@ -4341,7 +4341,7 @@ de los Estados al desarrollo y a regular en favor de su población.
 
 Eje 3: La Constitución de 1949 – paradigma de constitucionalismo social en Argentina
 
-[[98]]
+[[p=98]]
 Fundamentos ideológicos y contenido social: La Constitución Nacional de 1949, promulgada bajo
 el gobierno de Juan Domingo Perón, es considerada un hito del constitucionalismo social en
 América Latina. Inspirada por las ideas de justicia social de la doctrina peronista (influida a su vez
@@ -4383,7 +4383,7 @@ garante de nuevos derechos sociales para trabajadores, familias y ancianos, camb
 paradigma liberal por uno centrado en la justicia social y la soberanía económica del
 paísccycn.congreso.gob.arccycn.congreso.gob.ar.
 
-[[99]]
+[[p=99]]
 Anulación de facto y debates sobre su validez: La vigencia de la Constitución de 1949 fue
 abruptamente interrumpida. Tras el golpe militar de septiembre de 1955 (Revolución
 “Libertadora”), el gobierno de facto declaró nula la reforma constitucional de 1949 mediante la
@@ -4427,7 +4427,7 @@ latinoamericano (ver Eje 4) que, medio siglo después, retomó postulados simila
 Constitución peronista. De hecho, puede compararse el texto de 1949 con constituciones
 recientes de la región: la Constitución de Bolivia de 2009, por ejemplo, declara la propiedad estatal
 
-[[100]]
+[[p=100]]
 de los recursos naturales y el control de sectores estratégicos por el Estado, muy en línea con el
 antiguo artículo 40ccycn.congreso.gob.ar; la Constitución de Ecuador de 2008 consagra un amplio
 catálogo de derechos sociales (salud, alimentación, trabajo digno, seguridad social universal) y
@@ -4470,7 +4470,7 @@ la nueva Constitución y a la participación ciudadana (por ejemplo, en Bolivia 
 destituir autoridades vía referendos revocatorios, y la constitución misma prevé procesos más
 accesibles de reforma por iniciativa popular), reforzando la idea de que el pueblo es el
 
-[[101]]
+[[p=101]]
 protagonista continuo del orden
 constitucionalarchivos.juridicas.unam.mxarchivos.juridicas.unam.mx.
 
@@ -4513,7 +4513,7 @@ constitucional (art. 75 inc. 22), lo que en la práctica amplía su catálogo de
 económicos, sociales y culturales del Pacto de la ONU). Aun así, las constituciones del nuevo
 constitucionalismo dotan a los derechos sociales de mayor densidad normativa y mecanismos de
 
-[[102]]
+[[p=102]]
 exigibilidad directa, reflejando un compromiso constitucional más explícito con la justicia social
 que el modelo argentino vigente.
 
@@ -4557,7 +4557,7 @@ resolver disputas con el Estado en tribunales bolivianos y rechazando adhesiones
 supranacionales económicas contrarias a la Constitución. Venezuela, aunque su Constitución no lo
 explicitó, en la práctica denunció el CIADI y ha constitucionalizado la independencia económica
 
-[[103]]
+[[p=103]]
 (por ejemplo, declaró inconstitucional la cesión de jurisdicción en contratos petroleros). Argentina,
 por otro lado, en 1994 siguió un camino distinto: elevó a rango constitucional varios tratados de
 derechos humanos, demostrando apertura al derecho internacional en materia de derechos
@@ -4601,7 +4601,7 @@ muchas ideas que en Argentina fueron esbozadas en 1949 o reclamadas por sectores
 la centralidad de los derechos sociales, la economía al servicio de la gente, el pluralismo cultural y
 la primacía de la soberanía popular sobre las reglas de mercado internacionales. Esto plantea la
 
-[[104]]
+[[p=104]]
 pregunta de si Argentina podría en el futuro transitar una reforma profunda en esa dirección. Por
 ahora, Argentina mantiene un constitucionalismo más tradicional, aunque fortalecido con tratados
 de derechos humanos, y recurre a la legislación y la política cotidiana para avanzar en justicia
@@ -4646,7 +4646,7 @@ política. A continuación, se sistematizan los componentes centrales de este ma
        Economía política estructural (cepalina y teoría de la dependencia): En diálogo con la
         teoría jurídica, el marco incorpora la economía política estructural latinoamericana como
 
-[[105]]
+[[p=105]]
 lente para entender la relación entre constitución, Estado y desarrollo económico. Esto
     incluye las contribuciones de la CEPAL (Comisión Económica para América Latina) y la
     teoría de la dependencia. La perspectiva cepalina, originada en los años 1950 con
@@ -4690,7 +4690,7 @@ lente para entender la relación entre constitución, Estado y desarrollo econó
     tratados como los TBI, las normas de la OMC o las condiciones del FMI actúan como una
     “constitución económica global” que limita las políticas domésticas. Esta parte del marco
 
-[[106]]
+[[p=106]]
 teórico investiga cómo las constituciones nacionales pueden reafirmar su jerarquía frente
     a dichos regímenes. Por ejemplo, se analizan doctrinas como la doctrina Calvo histórica
     (defensa de la jurisdicción nacional ante reclamos extranjeros) y su erosión por el régimen
@@ -4734,7 +4734,7 @@ teórico investiga cómo las constituciones nacionales pueden reafirmar su jerar
     argentina e internacional sobre constitucionalismo social, tratados de inversión, etc.) y
     jurisprudencia (estudiando fallos clave de la Corte Suprema argentina, y también
 
-[[107]]
+[[p=107]]
 decisiones internacionales que involucraron al país, como laudos CIADI, opiniones
         consultivas de la Corte Interamericana sobre derechos sociales, etc.). Se hace especial
         hincapié en la interpretación jurisprudencial del artículo 14 bis a lo largo del tiempo, para
@@ -4765,5 +4765,4 @@ tratados) con las interpretaciones doctrinales y el contexto histórico, para as
 análisis profundo del constitucionalismo argentino en su dimensión social, económica y jurídica
 contemporánea.
 
-[[108]]
-
+[[p=108]]

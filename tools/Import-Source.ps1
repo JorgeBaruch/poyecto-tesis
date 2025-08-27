@@ -36,7 +36,7 @@ $OutputEncoding = [Console]::OutputEncoding = [System.Text.UTF8Encoding]::new($f
 $scriptRoot = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
 $configPath = Join-Path -Path $scriptRoot -ChildPath "..\config\analysis.json"
 $config = Get-Content -Path $configPath -Raw | ConvertFrom-Json -ErrorAction SilentlyContinue
-$logBaseDir = Join-Path -Path (Split-Path -Parent -Path $scriptRoot) -ChildPath ($config.logPath -replace "[/\]", [System.IO.Path]::DirectorySeparatorChar)
+$logBaseDir = Join-Path -Path (Split-Path -Parent -Path $scriptRoot) -ChildPath ($config.logPath -replace "[/\\]", [System.IO.Path]::DirectorySeparatorChar)
 if (-not (Test-Path -Path $logBaseDir -PathType Container)) {
     New-Item -Path $logBaseDir -ItemType Directory -Force | Out-Null
 }
@@ -139,15 +139,55 @@ foreach ($sourceFile in $allSourceFiles) {
         switch ($sourceFile.Extension.ToLower()) {
             ".pdf" {
                 if (-not $pdftotextPath) { throw "pdftotext.exe no encontrado. Verifique la configuración." }
-                $arguments = @("-layout", "-enc", "UTF-8", "`"$($sourceFile.FullName)`"", "`"$tempTxtPath`"")
+                $arguments = @("-layout", "-enc", "UTF-8", "`"$($sourceFile.FullName)`"", "`"$tempTxtPath`"" )
                 & $pdftotextPath $arguments
                 if ($LASTEXITCODE -ne 0) { throw "pdftotext falló con código de salida $LASTEXITCODE." }
                 
                 $content = Get-Content -Path $tempTxtPath -Raw -Encoding UTF8
-                $pages = $content -split '\f'
+                $pages = $content -split "`f"
                 $processedContent = New-Object System.Text.StringBuilder
                 for ($i = 0; $i -lt $pages.Length; $i++) {
                     $pageNumber = $i + 1
                     [void]$processedContent.Append("[[p=$pageNumber]]`n")
                     [void]$processedContent.Append($pages[$i].Trim())
-                    if ($i -lt ($pages.Length - 1)) { [void]$processedContent.Append(
+                    if ($i -lt ($pages.Length - 1)) {
+                        [void]$processedContent.Append("`n`n")
+                    }
+                }
+                $processedContent.ToString() | Set-Content -Path $finalTxtPath -Encoding UTF8 -NoNewline
+                $success = $true
+            }
+            ".docx" {
+                if (-not $pandocPath) { throw "pandoc.exe no encontrado. Verifique la configuración." }
+                $arguments = @("-f", "docx", "-t", "plain", "-o", "`"$finalTxtPath`"", "`"$($sourceFile.FullName)`"" )
+                & $pandocPath $arguments
+                if ($LASTEXITCODE -ne 0) { throw "pandoc falló con código de salida $LASTEXITCODE." }
+                $success = $true
+            }
+            ".txt" {
+                Copy-Item -Path $sourceFile.FullName -Destination $finalTxtPath -Force
+                $success = $true
+            }
+        }
+    } catch {
+        Write-Log "Error procesando $($sourceFile.FullName): $($_.Exception.Message)" "ERROR"
+        $failedFiles += $sourceFile.FullName
+    } finally {
+        if (Test-Path -Path $tempTxtPath) {
+            Remove-Item $tempTxtPath -Force
+        }
+    }
+
+    if ($success) {
+        Write-Log "Convertido exitosamente: $($sourceFile.FullName) -> $finalTxtPath" "SUCCESS"
+    }
+}
+
+if ($failedFiles.Count -gt 0) {
+    Write-Warning "Los siguientes archivos no se pudieron procesar:"
+    $failedFiles | ForEach-Object { Write-Warning "  - $_" }
+    # Optionally, exit with an error code if any file fails
+    # exit 1
+}
+
+Write-Host "Importación de fuentes finalizada."

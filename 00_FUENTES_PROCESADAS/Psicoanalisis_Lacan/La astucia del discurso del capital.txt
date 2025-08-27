@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 � TÍTULO PROVISIONAL
 La astucia del discurso del capital: Economía política, plus-de-goce y doctrina peronista ante
 la crisis del orden global
@@ -41,7 +41,7 @@ saber económico, automatismo técnico). Frente a esto, una política económica
 la peronista) puede reintroducir el límite como condición de lo común, si y solo si logra articular
 economía política y goce sin recaer en esencialismos.
 
-[[2]]
+[[p=2]]
 � MARCO TEÓRICO
    • Karl Marx: plusvalía, fetichismo, subsunción real del trabajo, renta diferencial.
    • Jacques Lacan: discurso capitalista, plus-de-goce, objeto a, astucia simbólica.
@@ -84,7 +84,7 @@ economía política y goce sin recaer en esencialismos.
 1. Renta y Goce                                                      Lacan, Marx, Moreno
                       extraordinaria y plus-de-goce
 
-[[3]]
+[[p=3]]
 Eje                          Descripción                           Herramientas
                      ¿Puede el capital ser limitado desde adentro
 2. Capital y Límite                                                 Ontología relacional, Lacan
@@ -115,5 +115,4 @@ Mes                              Actividad
     • Ensayo teórico-doctrinal.
     • Conferencia para economistas peronistas, seminarios Kairos o con enfoque lacaniano.
 
-[[4]]
-
+[[p=4]]

@@ -1,4 +1,4 @@
-﻿[[1]]
+﻿[[p=1]]
 Concepto de vida: enfoques filosóficos, científicos, epistemológicos y culturales
 Concepción clásica griega: psique y entelequia
 La tradición griega vinculó la vida al alma (psykhé) y a un principio de finalidad interior. Platón veía el alma como entidad inmaterial que anima el
@@ -31,7 +31,7 @@ no viva” . Así, se supone una vis essentialis (fuerza vital esencial) o una e
 conocida. Masi señala asimismo que el vitalismo metafísico es “la hipótesis de una teoría del origen y de la vida que depende de una fuerza o
 principio distinto de las fuerzas químicas o físicas” . En suma, los vitalistas vieron la vida como dinamismo interno teleológico: un orden
 
-[[2]]
+[[p=2]]
 emergente o deseo intrínseco que guía la organización biológica y la evolución. Por ejemplo, Driesch definió la entelequia como un “manifoldness
 intensivo” que reintroduce la teleología en la biología.
 “Platón y Aristóteles postularon que existe una fuerza inmanente a los organismos que hace que la vida sea fundamentalmente distinta de la
@@ -65,7 +65,7 @@ Referencia APA: Marx, K. (1847). Trabajo asalariado y capital [“Lohnarbeit und
 disponible).
 Psicoanálisis: la vida como goce, pulsión, deseo
 
-[[3]]
+[[p=3]]
 En psicoanálisis la vida se vincula con la economía pulsional y el goce. Freud introdujo las pulsiones de vida (Eros) frente a las pulsiones de muerte
 (Thanatos), entendiendo la vida psíquica como el flujo de tensiones libidinales. Jacques Lacan reinterpretó esto a través del concepto de
 jouissance (goce) como satisfacción de la pulsión. Según Lacan, “Goce es el nombre lacaniano de la satisfacción pulsional”, con lo cual el goce
@@ -99,7 +99,7 @@ poblacional que disemina prácticas de vigilancia, regulación y potenciación d
 “La biopolítica es, según Foucault, el nuevo poder sobre la vida de la población”, un poder que “hace vivir” en lugar de “hacer morir”,
 introduciendo una intrínseca relación de poder dentro misma de los procesos vitales.
 
-[[4]]
+[[p=4]]
 Referencia APA: Foucault, M. (1976). Historia de la sexualidad, vol. I: La voluntad de saber. Madrid: Siglo XXI.
 Teología y mística: la vida como don, misterio, red
 La tradición teológica considera la vida como don divino y misterio sagrado. El Catecismo de la Iglesia católica enseña: “La vida humana ha de ser
@@ -132,7 +132,7 @@ estas narrativas, la vida aparece fragmentada y al mismo tiempo totalizada en un
 (Macedonio, Celan, Semprún, Monzó, etc.) articularon poéticamente la vida límite como acto de memoria y resistencia. En síntesis, este enfoque
 ve la vida como posibilidad límite e irreductible: un umbral en el que el existir se interroga y se reinventa desde el borde mismo de lo vivible.
 
-[[5]]
+[[p=5]]
 En la crítica cultural se emplea el término vida-límite para referirse al vínculo intenso entre experiencia límite y escritura. Por ejemplo, se habla
 de la reflexión «vida-límite-obra» en la obra de Sánchez Mejías y el grupo Diáspora(s), sugiriendo que su escritura nace de una vida vivida al
 límite.
@@ -165,7 +165,7 @@ enfoques relacionales/críticos que subrayan el carácter emergente, contextual 
 por ejemplo, la fenomenología recuerda que la vida se vive siempre “en carne propia”, mientras que la biopolítica denuncia sus usos políticos, la
 teología ensalza su dignidad originaria, y la cosmología relacional invita a repensar la vida como co-evolución con todo el mundo. Este panorama
 
-[[6]]
+[[p=6]]
 plural muestra que el concepto de vida es multidimensional: implica materia y espíritu, cuerpo y mundo social, naturaleza y cultura. Reconocer
 estas diferencias y puentes entre enfoques enriquece la comprensión interdisciplinaria de lo que significa “estar vivos” hoy.
 Referencias bibliográficas (APA 7.ª edición):
@@ -204,7 +204,7 @@ moderno                                        de l’homme                     
                                                                                                  Alianza.
 Vitalismo           Fuerza interna (élan vital H. Bergson, La        «La vida es empuje creador      Bergson, H. (2007). La   Gallica (ed.
 
-[[7]]
+[[p=7]]
 Enfoque         Conceptualización de la                          Cita o idea representativa
                                             Autor / Obra clave                                   Referencia APA 7.ª ed. ¿Acceso abierto?*
 (corriente)     vida                                             (trad.)
@@ -255,7 +255,7 @@ Fenomenología   abre el mundo a la       Fenomenología de cuerpo que me pone e
 Biopolítica
                 “hace vivir”: gestión de    Historia de la       adentra en la vida para         Historia de la             (pdf) / Sci-Hub.
 
-[[8]]
+[[p=8]]
 Enfoque            Conceptualización de la                        Cita o idea representativa
                                              Autor / Obra clave                                   Referencia APA 7.ª ed. ¿Acceso abierto?*
 (corriente)        vida                                           (trad.)
@@ -304,7 +304,7 @@ frontera / Devenir                                                devenires».  
                    rizomático.              Mesetas                                               Pre-Textos, 2004.
                                              R. Esposito, Terza   «La vida significa sobre todo   Esposito, R. (2007).       Artículo resumen
 
-[[9]]
+[[p=9]]
 Enfoque              Conceptualización de la                         Cita o idea representativa
                                                Autor / Obra clave                                     Referencia APA 7.ª ed. ¿Acceso abierto?*
 (corriente)          vida                                            (trad.)
@@ -338,7 +338,7 @@ Literatura y vida límite    Vida como experiencia liminar    Kafka, Artaud, Cla
     Silvia Federici: el cuerpo de las mujeres como espacio de control de la vida y su reproducción.
  Psicoanálisis (Freud, Lacan, Žižek)
 
-[[10]]
+[[p=10]]
  Vida = no se reduce a biología: hay pulsión, no instinto.
      El sujeto está marcado por una falta estructural: el lenguaje lo “desnaturaliza”.
      Vida y deseo no coinciden: el goce puede ser mortífero (más allá del principio del placer).
@@ -365,7 +365,7 @@ conflicto fundante: cuerpo/alma, máquina/deseo, naturaleza/política, técnica/
 Tu sugerencia de incluir a Marx, el psicoanálisis y la literatura abre caminos para integrar una visión más conflictiva, situada y crítica de lo
 viviente. No como esencia, sino como campo de disputa, experiencia encarnada y relación de poder.
 
-[[11]]
+[[p=11]]
 Profundización de los ejes transversales
 A continuación desarrollo cada uno de los seis ejes, destacando (1) el núcleo conceptual, (2) debates actuales o puntos de fricción entre
 disciplinas y (3) autores / obras clave (con referencia APA 7.ª ed. y nota de accesibilidad). El objetivo es mostrar cómo las preguntas sobre la vida
@@ -404,7 +404,7 @@ Cuerpo vivido
 Narrativa biográfica
                        cómo el lenguaje se tensiona ante experiencias extremas.                                              (1947/2015)
 
-[[12]]
+[[p=12]]
 Tema                  Aportes y cruces                                                                                      Autores / obras clave
 Arte y                Bio-arte (Kac, Oron Catts) usa tejidos y bacterias para “escenificar” lo vivo; performance y video-   Kac (2001); Catts & Zurr
 performatividad       arte exploran el ciclo vital en tiempo real.                                                          (2014)
@@ -438,7 +438,7 @@ Capitaloceno                                                                    
 Línea                Discusión
                                                                                                                                clave
 
-[[13]]
+[[p=13]]
 Autores / obras
 Línea                 Discusión
                                                                                                                                 clave
@@ -473,7 +473,7 @@ Reproducción social           que sostienen la vida cotidiana.
 Deseo × Muerte
                               “experiencias límite” (extreme sports, self-tracking).
 
-[[14]]
+[[p=14]]
 Lecturas recomendadas de partida
      Ontología – Nicholson, D. J., & Dupré, J. (Eds.). Everything Flows. Oxford UP.
      Subjetividad – Ricoeur, P. Temps et récit III. Seuil.
@@ -487,7 +487,7 @@ Lecturas recomendadas de partida
 
  Cartografía expandida de conceptos de vida
 
-[[15]]
+[[p=15]]
 Corriente / Familia Epistémica      Núcleo Conceptual de Vida                                      Autores clave
 Mecanicismo científico              Vida como máquina, función, programación físico-química        Descartes, La Mettrie, Watson, Dawkins
 Autopoiesis y sistemas              Vida como autoorganización, clausura operacional               Maturana, Varela, Luhmann
@@ -522,7 +522,7 @@ Esta tabla permite ver cómo diferentes tradiciones entienden la vida desde:
      y los que hibridan y desbordan categorías clásicas.
   ESQUEMA DE INVESTIGACIÓN: EL CONCEPTO DE VIDA COMO OBJETO FILOSÓFICO, EPISTEMOLÓGICO Y POLÍTICO
 
-[[16]]
+[[p=16]]
 1. Problema de investigación
 Pregunta principal:
 ¿Qué es la vida y cómo ha sido conceptualizada en distintas tradiciones filosóficas, científicas y culturales?
@@ -556,7 +556,7 @@ Objetivos específicos:
     4. Autopoiesis (vida como organización cerrada)
     5. Materialismo social (vida como reproducción de condiciones de existencia)
 
-[[17]]
+[[p=17]]
 6. Psicoanálisis (vida como pulsión deseante)
     7. Fenomenología (vida como cuerpo vivido)
     8. Biopolítica (vida como objeto de gestión y exclusión)
@@ -588,7 +588,7 @@ Fases posibles:
     5. Estudio de casos o aplicación (si corresponde).
     6. Conclusión: síntesis, apertura a otras epistemologías, desafíos futuros.
 
-[[18]]
+[[p=18]]
 7. Bibliografía de base (APA - selección mínima)
      Aristóteles. (2000). De Anima. Madrid: Gredos.
      Bergson, H. (2004). La evolución creadora. Buenos Aires: Losada.
@@ -622,7 +622,7 @@ críticas internas y externas.
       Fenomenología (vida como cuerpo vivido)
       Biopolítica (vida como gestión de cuerpos y poblaciones)
 
-[[19]]
+[[p=19]]
     Teología y mística (vida como don, misterio, red)
         Cosmologías relacionales y simpoéticas (vida como co-producción)
         Literatura de vida límite (vida en lo indecible, lo liminar)
@@ -656,8 +656,7 @@ culturales, incluyendo fuentes históricas y contemporáneas en varios idiomas, 
 Presenta una exposición detallada, con 3 o 4 citas de autores relevantes claves por corriente, referencias en formato APA 7.ª edición, y
 un análisis comparativo entre enfoques. Incluiré solo fuentes académicas confiables y señalaré su accesibilidad.
 
-[[20]]
+[[p=20]]
 
 
-[[21]]
-
+[[p=21]]
