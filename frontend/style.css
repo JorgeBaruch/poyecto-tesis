@@ -132,3 +132,14 @@ section {
         transform: rotate(360deg);
     }
 }
+
+/* --- Responsividad básica --- */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+    #file-navigation, #file-viewer {
+        min-width: auto;
+        width: 100%;
+    }
+}

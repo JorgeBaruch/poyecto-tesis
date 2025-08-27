@@ -8,7 +8,29 @@ document.addEventListener('DOMContentLoaded', () => {
     const statusMessage = document.getElementById('statusMessage'); // NEW
     const loadingSpinner = document.getElementById('loadingSpinner'); // NEW
 
-    const API_BASE_URL = window.API_BASE_URL || 'http://127.0.0.1:8000'; // Use global variable or fallback
+    const API_BASE_URL = document.documentElement.dataset.apiBaseUrl || 'http://127.0.0.1:8000';
+
+    // --- Simple API service layer ---
+    const Api = {
+        listFiles: async (directory) => {
+            const url = `${API_BASE_URL}/files?directory=${encodeURIComponent(directory)}`;
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            return response.json();
+        },
+        readFile: async (filePath) => {
+            const url = `${API_BASE_URL}/file-content?path=${encodeURIComponent(filePath)}`;
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            return response.text();
+        },
+        processAll: async () => {
+            const url = `${API_BASE_URL}/process`;
+            const response = await fetch(url, { method: 'POST' });
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            return response.json();
+        }
+    };
 
     // --- Event Listeners ---
     processAllBtn.addEventListener('click', async () => {
@@ -19,10 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fileContent.textContent = ''; // Clear previous content
 
         try {
-            const response = await fetch(`${API_BASE_URL}/process`, {
-                method: 'POST',
-            });
-            const data = await response.json();
+            const data = await Api.processAll();
             statusMessage.textContent = data.message; // Use statusMessage for feedback
             statusMessage.style.color = '#28a745'; // Green for success
         } catch (error) {
@@ -49,19 +68,24 @@ document.addEventListener('DOMContentLoaded', () => {
     async function loadFiles(directory) {
         fileList.innerHTML = ''; // Clear previous list
         fileContent.textContent = 'Cargando archivos...';
+        fileList.setAttribute('aria-busy', 'true');
         try {
-            const response = await fetch(`${API_BASE_URL}/files?directory=${directory}`);
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const data = await response.json();
+            const data = await Api.listFiles(directory);
             
             if (data.files && data.files.length > 0) {
                 data.files.forEach(file => {
                     const listItem = document.createElement('li');
                     listItem.textContent = file.split('/').pop(); // Display just the file name
                     listItem.dataset.fullPath = file; // Store full path for content loading
+                    listItem.tabIndex = 0;
+                    listItem.setAttribute('role', 'button');
                     listItem.addEventListener('click', () => loadFileContent(file));
+                    listItem.addEventListener('keydown', (e) => {
+                        if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault();
+                            loadFileContent(file);
+                        }
+                    });
                     fileList.appendChild(listItem);
                 });
                 fileContent.textContent = `Archivos en ${directory}:`;
@@ -71,18 +95,19 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             console.error('Error al cargar archivos:', error);
             fileContent.textContent = `Error al cargar archivos de ${directory}.`;
+        } finally {
+            fileList.removeAttribute('aria-busy');
         }
     }
 
     async function loadFileContent(filePath) {
         fileContent.textContent = 'Cargando contenido...';
         try {
-            const response = await fetch(`${API_BASE_URL}/file-content?path=${filePath}`);
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const content = await response.text();
-            fileContent.textContent = content;
+            const content = await Api.readFile(filePath);
+            const MAX_CHARS = 200000;
+            fileContent.textContent = content.length > MAX_CHARS
+                ? content.slice(0, MAX_CHARS) + '\n...[contenido truncado]'
+                : content;
         } catch (error) {
             console.error('Error al cargar contenido del archivo:', error);
             fileContent.textContent = `Error al cargar el contenido de ${filePath}.`;

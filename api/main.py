@@ -7,6 +7,7 @@ import logging  # NEW: Import logging module
 import json  # NEW: Import json for reading config
 
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import PlainTextResponse
 
 # --- Security ---
@@ -42,6 +43,23 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 app = FastAPI()
+
+# CORS: habilitar frontend en 8080 (localhost y 127.0.0.1)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:8080",
+        "http://127.0.0.1:8080",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Healthcheck simple
+@app.get("/health")
+def health():
+    return {"status": "ok"}
 
 # NEW: Dictionary to store the status of background tasks
 # Key: task_id (str), Value: { "status": str, "output": list, "error": list, "return_code": int }
@@ -80,6 +98,7 @@ def run_powershell_script(task_id: str, script_path: str):  # MODIFIED: Added ta
             stderr=subprocess.PIPE,
             text=True,
             encoding="utf-8",
+            errors="replace",
             cwd=PROJECT_ROOT,  # Run the script from the project root
         )
 
@@ -166,9 +185,7 @@ def list_files(
         for file in files:
             full_path = os.path.join(root, file)
             # Return path relative to the project root
-            relative_path = os.path.relpath(full_path, PROJECT_ROOT).replace(
-                "\\\\", "/"
-            )
+            relative_path = os.path.relpath(full_path, PROJECT_ROOT).replace("\\", "/")
             file_list.append(relative_path)
 
     return {"directory": directory, "files": sorted(file_list)}
@@ -187,8 +204,19 @@ def get_file_content(
     if not os.path.isfile(safe_file_path):
         raise HTTPException(status_code=404, detail="El archivo no existe.")
 
+    # Intentar leer con UTF-8; fallback a cp1252/latin-1 para archivos antiguos
+    for enc in ("utf-8", "cp1252", "latin-1"):
+        try:
+            with open(safe_file_path, "r", encoding=enc, errors="strict") as f:
+                return f.read()
+        except UnicodeDecodeError:
+            continue
+        except Exception as e:
+            # Errores distintos a decodificación
+            raise HTTPException(status_code=500, detail=f"No se pudo leer el archivo: {e}")
+    # Si ninguna codificación funcionó, devolver con reemplazos para no romper UX
     try:
-        with open(safe_file_path, "r", encoding="utf-8") as f:
+        with open(safe_file_path, "r", encoding="utf-8", errors="replace") as f:
             return f.read()
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"No se pudo leer el archivo: {e}")
