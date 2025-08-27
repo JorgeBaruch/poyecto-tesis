@@ -22,7 +22,7 @@ starlette==0.47.2
 threadpoolctl==3.6.0
 tqdm==4.67.1
 typing-inspection==0.4.1
-typing_extensions==4.14.1
+typing_extensions==4.15.0
 uvicorn==0.35.0
 watchfiles==1.1.0
 websockets==15.0.1
