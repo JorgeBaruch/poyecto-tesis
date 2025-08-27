@@ -33,6 +33,11 @@ button:hover {
     background-color: #0056b3;
 }
 
+button:focus {
+    outline: 2px solid #007bff; /* Blue outline */
+    outline-offset: 2px; /* Space between outline and element */
+}
+
 main {
     display: flex;
     padding: 1rem;
@@ -91,6 +96,11 @@ section {
     background-color: #e9ecef;
 }
 
+#file-list li:focus {
+    background-color: #d0d7de; /* Slightly darker than hover */
+    outline: 1px solid #007bff;
+}
+
 #file-content {
     background-color: #e9ecef;
     border: 1px solid #ddd;
@@ -100,4 +110,25 @@ section {
     word-wrap: break-word;
     max-height: 700px;
     overflow-y: auto;
+}
+
+.spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border-left-color: #007bff;
+    animation: spin 1s ease infinite;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }

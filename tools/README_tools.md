@@ -20,7 +20,7 @@ tools/
 ├── README_tools.md                  # This file
 │
 └── utils/                           # Auxiliary scripts
-    ├── ocr_pdf.ps1                   # For OCR processing of scanned PDFs
+    ├── Convert-OcrPdf.ps1            # For OCR processing of scanned PDFs
     └── test_pdftotext.ps1            # To test pdftotext installation
 ```
 
@@ -42,6 +42,7 @@ These scripts provide additional functionalities for project management and anal
 *   **`Generate-ConceptIndex.ps1`**: Creates an index of key concepts.
 *   **`Generate-StrategicSynthesis.ps1`**: Generates strategic synthesis documents.
 *   **`Organize-Sources.ps1`**: Helps organize source files.
+*   **`Run-AllTests.ps1`**: Executes all Pester tests in the `tests/` directory, providing a quick way to verify project integrity.
 *   **`Test-PageExtraction.ps1`**: (Previously `test_page_extraction.ps1`) Likely a script to test page extraction logic.
 *   **`Validate-Structure.ps1`**: Validates the project's folder structure.
 *   **`Version-Draft.ps1`**: Manages versions of your thesis drafts.

@@ -5,11 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gestor de Tesis</title>
     <link rel="stylesheet" href="style.css">
+    <script>
+        window.API_BASE_URL = 'http://127.0.0.1:8000'; // Configurable API Base URL
+    </script>
 </head>
 <body>
     <header>
         <h1>Gestor de Tesis</h1>
-        <button id="processAllBtn">Iniciar Proceso Completo</button>
+        <div>
+            <button id="processAllBtn">Iniciar Proceso Completo</button>
+            <div id="statusMessage" style="margin-top: 10px; color: #007bff;"></div>
+            <div id="loadingSpinner" class="spinner" style="display: none;"></div>
+        </div>
     </header>
     <main>
         <section id="file-navigation">

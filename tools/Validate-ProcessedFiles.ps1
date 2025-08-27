@@ -17,16 +17,16 @@ $files = Get-ChildItem -Path $TargetDir -Recurse
 # 1. Check for non-txt files
 $nonTxtFiles = $files | Where-Object { $_.Extension -ne ".txt" }
 if ($nonTxtFiles) {
-    Write-Host "----------------------------------------"
+    Write-Output "----------------------------------------"
     Write-Warning "VALIDATION FAILED: Found non-.txt files in target directory."
     $nonTxtFiles | ForEach-Object { Write-Output " -> $($_.FullName)" }
     $ErrorCount += $nonTxtFiles.Count
-    Write-Host "----------------------------------------"
+    Write-Output "----------------------------------------"
 }
 
 # 2. Check page marker integrity for each .txt file
 $txtFiles = $files | Where-Object { $_.Extension -eq ".txt" }
-Write-Host "Starting page marker validation for $($txtFiles.Count) .txt files..."
+Write-Output "Starting page marker validation for $($txtFiles.Count) .txt files..."
 
 foreach ($file in $txtFiles) {
     $fileContent = Get-Content -Path $file.FullName -Raw
@@ -64,12 +64,12 @@ foreach ($file in $txtFiles) {
         continue
     }
 
-    Write-Host " -> PASSED: $($file.Name)"
+    Write-Output " -> PASSED: $($file.Name)"
 }
 
-Write-Host "----------------------------------------"
+Write-Output "----------------------------------------"
 if ($ErrorCount -eq 0) {
-    Write-Host "Validation Complete: All files passed." -ForegroundColor Green
+    Write-Output "Validation Complete: All files passed."
 } else {
     Write-Warning "Validation Complete: Found $ErrorCount error(s)."
 }

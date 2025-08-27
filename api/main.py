@@ -9,6 +9,11 @@ import json # NEW: Import json for reading config
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query
 from fastapi.responses import PlainTextResponse
 
+# --- Security ---
+# Get the absolute path of the project root directory.
+# The API will not be allowed to access any file or directory outside of this path.
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
 # Configure logging
 log_file_path = os.path.join(PROJECT_ROOT, 'config', 'analysis.json')
 log_config = {}
@@ -41,11 +46,6 @@ app = FastAPI()
 # NEW: Dictionary to store the status of background tasks
 # Key: task_id (str), Value: { "status": str, "output": list, "error": list, "return_code": int }
 task_statuses = {}
-
-# --- Security ---
-# Get the absolute path of the project root directory.
-# The API will not be allowed to access any file or directory outside of this path.
-PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 def secure_path(path: str) -> str:
     """

@@ -5,26 +5,34 @@ document.addEventListener('DOMContentLoaded', () => {
     const folderButtons = document.querySelectorAll('.folder-list button');
     const fileList = document.getElementById('file-list');
     const fileContent = document.getElementById('file-content');
+    const statusMessage = document.getElementById('statusMessage'); // NEW
+    const loadingSpinner = document.getElementById('loadingSpinner'); // NEW
 
-    const API_BASE_URL = 'http://127.0.0.1:8000';
+    const API_BASE_URL = window.API_BASE_URL || 'http://127.0.0.1:8000'; // Use global variable or fallback
 
     // --- Event Listeners ---
     processAllBtn.addEventListener('click', async () => {
         processAllBtn.disabled = true;
         processAllBtn.textContent = 'Procesando...';
-        fileContent.textContent = 'Iniciando proceso completo. Revise la consola del servidor para ver el progreso.';
+        statusMessage.textContent = 'Iniciando proceso completo...'; // NEW
+        loadingSpinner.style.display = 'inline-block'; // NEW
+        fileContent.textContent = ''; // Clear previous content
+
         try {
             const response = await fetch(`${API_BASE_URL}/process`, {
                 method: 'POST',
             });
             const data = await response.json();
-            alert(data.message);
+            statusMessage.textContent = data.message; // Use statusMessage for feedback
+            statusMessage.style.color = '#28a745'; // Green for success
         } catch (error) {
             console.error('Error al iniciar el proceso:', error);
-            alert('Error al iniciar el proceso. Verifique la consola del navegador y del servidor.');
+            statusMessage.textContent = 'Error al iniciar el proceso. Verifique la consola del navegador y del servidor.'; // Use statusMessage for feedback
+            statusMessage.style.color = '#dc3545'; // Red for error
         } finally {
             processAllBtn.disabled = false;
             processAllBtn.textContent = 'Iniciar Proceso Completo';
+            loadingSpinner.style.display = 'none'; // NEW
             // Optionally, refresh file lists after a delay
             setTimeout(() => loadFiles('00_FUENTES_PROCESADAS'), 5000); 
         }

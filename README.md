@@ -68,7 +68,7 @@ Algunos scripts de análisis requieren Python. Se recomienda usar un entorno vir
 
 ## Git Hooks
 
-El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio y funciona sin necesidad de configuración manual.
+El proyecto utiliza un hook `pre-commit` para versionar automáticamente los borradores en la carpeta `03_BORRADORES/`. El hook ya está configurado en el repositorio y funciona sin necesidad de configuración manual. Internamente, este hook utiliza los scripts `tools/Version-Draft.ps1` y `tools/Batch-VersionDrafts.ps1` para gestionar el versionado.
 
 ## Interfaz de Usuario y API
 
