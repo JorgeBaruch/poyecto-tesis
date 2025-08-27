@@ -1,6 +1,8 @@
-poppler-24.08.0/
+__pycache__/
+*.py[cod]
 *.log
-
-# Archivos temporales de entrada y salida
-temp_input/
-temp_output/
+logs/
+temp_*/
+tests/temp_*/
+*.bat
+*.pdf
