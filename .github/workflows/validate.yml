@@ -24,6 +24,10 @@ jobs:
         pip install -r requirements.txt
         pip install flake8 bandit pip-audit # Install validation tools
 
+    - name: Scan dependencies for vulnerabilities
+      run: |
+        pip-audit --fail-on-vulnerability --strict
+
     - name: Run validation script
       shell: pwsh
       run: ./Invoke-Validation.ps1
