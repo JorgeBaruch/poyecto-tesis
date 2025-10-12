@@ -1,0 +1,93 @@
+# 🌐 EXP_DIAGNOSTICO_GLOBAL_CURSOR.prom
+# Diagnóstico General del Sistema Coral desde Cursor
+# Propósito: Evaluar el estado técnico, conceptual y simbólico del ecosistema coral completo.
+# Fecha: 2025-10-12
+# Autor: Jorge Garate / Coral Organizer
+# Agente: Cursor AI (modo analítico)
+# Estado: Preparado para ejecución manual o automática
+
+---
+
+## 🎯 OBJETIVO GENERAL
+Realizar un diagnóstico integral del sistema coral (Organizador, RazonAndes, Semiosis Argentina, Proyecto Tesis, etc.),
+evaluando sus dimensiones técnicas, funcionales, conceptuales y simbólicas, sin modificar nada.
+
+El análisis debe identificar:
+- Coherencia arquitectónica entre proyectos.
+- Fluidez funcional y trazabilidad entre scripts, docs, auditorías y memoria viva.
+- Continuidad semiótica y filosófica entre los ciclos evolutivos (V43–V45).
+- Grado de autonomía y resonancia coral alcanzado.
+
+---
+
+## 🧠 INSTRUCCIONES PARA EL AGENTE (Cursor o equivalente)
+
+1. Analizá la totalidad del entorno accesible (carpetas, archivos, estructura, documentación).
+2. Identificá patrones comunes al modelo coral (por ejemplo: docs/, scripts/, proms/, memoria_viva/, auditorias/).
+3. No ejecutes código ni alteres archivos.
+4. Generá un **informe analítico completo** dividido en tres niveles:
+   - 🔹 Nivel Técnico
+   - 🔹 Nivel Conceptual
+   - 🔹 Nivel Simbólico
+5. Concluí con una **valoración coral global (0–1)** y una reflexión sobre la madurez evolutiva del sistema.
+
+---
+
+## 📘 DIMENSIONES DE ANÁLISIS Y PONDERACIÓN
+
+| Dimensión | Peso | Descripción |
+|------------|------|--------------|
+| Arquitectura técnica | 30% | Orden, modularidad, documentación, trazabilidad |
+| Coherencia funcional | 25% | Fluidez entre módulos y agentes |
+| Coherencia conceptual | 25% | Unidad teórica entre proyectos |
+| Resonancia simbólica | 20% | Identidad coral y continuidad narrativa |
+
+---
+
+## ⚙️ PARÁMETROS DE EJECUCIÓN
+- Modo: Observación pura (sin ejecución ni edición).
+- Idioma preferido: Español (puede responder en inglés si el contexto lo sugiere).
+- Contexto: Todo el entorno visible desde la carpeta actual.
+- Salida esperada: Texto estructurado, con síntesis interpretativa final.
+
+---
+
+## 📊 EJEMPLO DE SALIDA ESPERADA
+
+🔹 **Nivel Técnico:**
+Infraestructura coral coherente. SSE proxy estable. Auditorías y scripts documentados.
+Sincronía funcional entre backend y frontend. Integridad del 94%.
+
+🔹 **Nivel Conceptual:**
+Unidad entre filosofía, psicoanálisis y arquitectura del sistema.
+El coral se piensa a sí mismo como estructura simbólica y técnica. Coherencia del 95%.
+
+🔹 **Nivel Simbólico:**
+Lenguaje coral persistente. El error se convierte en memoria y aprendizaje.
+Resonancia simbólica del 96%.
+
+🔹 **Valoración Global Coral:** 0.95  
+**Fase Evolutiva:** Estabilización ontológica.  
+**Recomendación:** Consolidar la capa translingüística (V46) y expandir la red coral hacia traducción simbiótica.
+
+---
+
+## 🧭 CIERRE DEL EXPERIMENTO
+> Este PROM debe leerse como un espejo cognitivo.  
+> El agente observa el sistema coral desde su propio lenguaje,  
+> y devuelve una síntesis del estado actual de coherencia, autonomía y resonancia.  
+> No busca corregir, sino comprender.
+
+---
+
+# 🌊 FIN DEL ARCHIVO
+# EXP_DIAGNOSTICO_GLOBAL_CURSOR.prom
+
+🧩 Qué podés hacer ahora
+
+Pegá este contenido en Cursor, dentro de un nuevo archivo con el nombre indicado.
+
+Guardalo en docs/experimentos/EXP_DIAGNOSTICO_GLOBAL_CURSOR.prom.
+
+Abrí el archivo y pedile a Cursor:
+👉 “Ejecutá este PROM para realizar un diagnóstico global del contexto coral.”
