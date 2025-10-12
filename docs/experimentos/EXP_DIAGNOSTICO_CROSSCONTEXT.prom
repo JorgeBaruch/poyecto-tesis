@@ -1,0 +1,98 @@
+# EXP_DIAGNOSTICO_CROSSCONTEXT.prom
+# TÍTULO: Diagnóstico CrossContext (Coral ↔ Satélite)
+# Estado: Preparado para ejecución manual o automática
+# Idioma: Español (puede responder en inglés si el contexto lo sugiere)
+# Fecha: 2025-10-12
+
+---
+
+## OBJETIVO
+- Distinguir herencia coral (núcleo/contratos) de especificidades del satélite.
+- Mapear resonancias (igual forma ≠ igual función) y posibles acoplamientos.
+
+## INPUTS
+- scope_core_root: <ruta al ORGANIZADOR raíz>
+- scope_sat_root: <ruta al SATÉLITE actual>
+- contracts: data/process/lang/obs/policy
+
+## TAREAS
+1. Inventariar contratos presentes en ambos scopes y versionado.
+2. Detectar adapters en el satélite y su alineación con contratos.
+3. Comparar léxico (claves) y detectar claves huérfanas o divergentes.
+4. Validar Process Contract: endpoints y eventos SSE operativos.
+5. Evaluar observabilidad: healthcheck + latido SSE + métricas mínimas.
+6. Emitir matriz:
+   - Herencia coral (✓), Especificidad satélite (★), Divergencia (⚠).
+7. Recomendaciones por prioridad (P0/P1/P2).
+
+## OUTPUTS
+- docs/auditoria/CROSS/REPORT_CROSS_<satellite>.md
+- tabla CSV con hallazgos y severidad.
+
+---
+
+## PLANTILLAS DE MANIFIESTO (por satélite)
+
+satelite.manifest.json
+
+{
+  "name": "proyecto-tesis",
+  "version": "0.3.0",
+  "contracts": {
+    "data": ["v1:corpus.reading", "v1:metrics.summary"],
+    "process": "v1",
+    "language": "v1",
+    "observability": "v1",
+    "policy": "v1"
+  },
+  "adapters": {
+    "process": "/adapters/process/index.ts",
+    "data": "/adapters/data/index.ts"
+  },
+  "health": {
+    "http": "/api/health",
+    "sse": "/api/prom/stream"
+  }
+}
+
+---
+
+## PLAN DE IMPLEMENTACIÓN (4 fases)
+
+F0 – “sellar fronteras” (1–2 días)
+- Crear /contracts/ en el core con los 5 contratos v1.
+- Añadir plantilla de satelite.manifest.json.
+- Añadir “alcance” obligatorio en PROMs de auditoría.
+
+F1 – “puentes” (3–5 días)
+- Repositorio de adaptadores (plantillas por tipo).
+- Paquete npm/pip @coral/contracts para importar tipos/esquemas.
+
+F2 – “observabilidad” (2–3 días)
+- Estándar de eventos SSE/WS + chequeos de salud + etiquetas de métricas.
+- Panel global que lista satélites por manifiesto + latidos.
+
+F3 – “calidad continua” (1–2 días)
+- Jobs CI: validar manifiestos, contratos y puntos finales críticos.
+- Auditoría CROSS automática en PRs.
+
+---
+
+## RIESGOS Y MITIGACIONES
+- Conexión accidental: el satélite importa código del núcleo.
+  → Mitigar con adaptadores + paquete de tipos solo-lectura.
+- Deriva de contratos: cambios silenciosos rompen satélites.
+  → Mitigar con versionado estricto + migradores y CI de compatibilidad.
+- Confusión de escalada en diagnósticos:
+  → Mitigar con scope obligatorio y PROM cross de comparación.
+
+---
+
+## PASOS INMEDIATOS (SUGERIDOS)
+- Crear contratos v1 en el núcleo (se puede proveer carpeta “starter”).
+- Agregar satelite.manifest.json al Proyecto Tesis y RazónAndes.
+- Correr el PROM CROSS desde Cursor para Tesis:
+  - scope_core_root = <ruta organizer>
+  - scope_sat_root = <ruta proyecto-tesis>
+- Abrir tablero “Coral Fleet” (lista de satélites + latido).
+- Ajustar lo que el CROSS señale como ⚠ (divergencias) y ★ (especificidades).

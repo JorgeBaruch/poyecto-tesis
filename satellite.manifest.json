@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-tesis",
+  "version": "0.3.0",
+  "contracts": {
+    "data": [
+      "v1:corpus.reading",
+      "v1:quotes.db",
+      "v1:concept.index",
+      "v1:strategic.synthesis"
+    ],
+    "process": "v1",
+    "language": "v1",
+    "observability": "v1",
+    "policy": "v1"
+  },
+  "adapters": {
+    "process": "tools/Start-FullProcess.ps1",
+    "data": "api/main.py"
+  },
+  "health": {
+    "http": "/health",
+    "sse": null
+  }
+}

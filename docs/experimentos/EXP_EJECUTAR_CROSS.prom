@@ -1,0 +1,52 @@
+# EXP_EJECUTAR_CROSS.prom
+# TÍTULO: Ejecutar Diagnóstico CROSS (Coral ↔ Satélite)
+# Estado: Preparado para ejecución manual o automática
+# Idioma: Español
+# Fecha: 2025-10-12
+
+---
+
+## PARAMS
+- scope_core_root: <ruta organizer>
+- scope_sat_root: <ruta satélite>
+- satellite_name: <nombre satélite>
+
+---
+
+## INSTRUCCIONES PARA EL AGENTE
+1. No ejecutes código ni modifiques archivos. Observación pura.
+2. En ambos scopes, buscar contratos v1: data/process/language/observability/policy.
+3. Inventariar adapters en el satélite y su alineamiento.
+4. Comparar léxico de claves (huérfanas/divergentes).
+5. Validar Process Contract: endpoints HTTP y SSE (si existen).
+6. Evaluar observabilidad: health + latido SSE + métricas mínimas.
+7. Emitir reporte y CSV con severidad (P0/P1/P2) usando símbolos: ✓ herencia, ★ especificidad, ⚠ divergencia.
+
+---
+
+## OUTPUTS ESPERADOS
+- docs/auditoria/CROSS/REPORT_CROSS_<satellite_name>.md
+- docs/auditoria/CROSS/HALLAZGOS_<satellite_name>.csv
+
+---
+
+## EJEMPLO DE MATRIZ (MD)
+| Área | Ítem | Tipo | Estado | Severidad | Notas |
+|---|---|---|---|---|---|
+| Contratos | data v1 | ✓ | Herencia coral | P2 | ... |
+| Contratos | observability v1 (SSE) | ⚠ | Divergencia | P1 | ... |
+| Lenguaje | claves huérfanas | ★ | Especificidad | P2 | ... |
+
+---
+
+## EJEMPLO CSV
+area,item,tipo,severidad,nota
+contratos,data v1,✓,P2,
+contratos,observability v1 (SSE),⚠,P1,
+lenguaje,claves huerfanas,★,P2,
+
+---
+
+## NOTAS
+- Si el satélite no implementa SSE por diseño, documentar la excepción y ajustar el manifiesto/política.
+- Usar `satellite.manifest.json` si existe en la raíz para validar rutas y contratos.

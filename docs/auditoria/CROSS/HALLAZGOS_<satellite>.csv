@@ -1,0 +1,6 @@
+area,item,tipo,severidad,nota
+contratos,data v1,,P1,
+proceso,endpoints/SSE,,P0,
+lenguaje,lexico/clave,,P2,
+observabilidad,health/latido/metricas,,P1,
+politica,permisos/politicas,,P2,
