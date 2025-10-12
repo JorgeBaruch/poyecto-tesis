@@ -1,7 +1,7 @@
 area,item,tipo,severidad,nota
 contratos,data:corpus.reading,✓,P2,01_FICHAS_DE_LECTURA
 contratos,data:quotes.db,✓,P2,97_CITAS
-contratos,data:concept.index,✓,P2,02_MAPAS_Y_ESQUEMAS/INDICE_DE_CONCEPTOS.md (generable)
+contratos,data:concept.index,✓,P2,02_MAPAS_Y_ESQUEMAS/INDICE_DE_CONCEPTOS.md
 contratos,data:strategic.synthesis,✓,P2,04_SINTESIS
 contratos,process v1,✓,P2,Start-FullProcess.ps1 y API /process
 contratos,language v1,✓,P2,config/analysis.json
@@ -10,7 +10,7 @@ contratos,policy v1,⚠,P1,Contrato/políticas no explícitas
 proceso,endpoints HTTP,✓,P2,/,/health,/process,/files,/file-content
 proceso,SSE,⚠,P0,SSE ausente
 observabilidad,health,✓,P2,/health OK
-observabilidad,metrics,⚠,P2,SIN métricas
+observabilidad,metrics,⚠,P2,Sin métricas expuestas
 adapters,process,✓,P2,tools/Start-FullProcess.ps1
 adapters,data,✓,P2,api/main.py
 lenguaje,lexico config,✓,P2,config/analysis.json
